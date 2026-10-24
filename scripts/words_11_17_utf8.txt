@@ -1,0 +1,798 @@
+[201] Log (noun)
+    meanEn: An official record of events, a voyage, or daily occurrences; a journal.
+    meanBn: দৈনন্দিন কার্যবিবরণী বা নথি
+    syn[0]: 'record' | all syns: ['record', 'journal', 'ledger', 'register']
+    ant[0]: 'erasure' | all ants: ['erasure', 'omission', 'deletion']
+
+[202] Loquacious (adjective)
+    meanEn: Tending to talk a great deal; talkative and garrulous.
+    meanBn: বাচাল বা অত্যন্ত কথা বলা স্বভাবের
+    syn[0]: 'talkative' | all syns: ['talkative', 'garrulous', 'voluble', 'talky']
+    ant[0]: 'reticent' | all ants: ['reticent', 'taciturn', 'silent']
+
+[203] Lucid (adjective)
+    meanEn: Expressed clearly; easy to understand; clear and comprehensible.
+    meanBn: সুস্পষ্ট বা বোধগম্য
+    syn[0]: 'clear' | all syns: ['clear', 'intelligible', 'transparent', 'coherent']
+    ant[0]: 'obscure' | all ants: ['obscure', 'confusing', 'vague']
+
+[204] Luminous (adjective)
+    meanEn: Emitting or reflecting light; glowing, bright, or radiant.
+    meanBn: উজ্জ্বল বা দীপ্তিমান
+    syn[0]: 'radiant' | all syns: ['radiant', 'glowing', 'shining', 'lambent']
+    ant[0]: 'dark' | all ants: ['dark', 'dim', 'gloomy']
+
+[205] Magnanimity (noun)
+    meanEn: Liberality in bestowing gifts; extremely liberal and generous of spirit.
+    meanBn: মহানুভবতা বা উদারতা
+    syn[0]: 'generosity' | all syns: ['generosity', 'benevolence', 'nobility', 'largess']
+    ant[0]: 'pettiness' | all ants: ['pettiness', 'meanness', 'spitefulness']
+
+[206] Malingerer (noun)
+    meanEn: Someone shirking their duty by feigning illness or incapacity.
+    meanBn: কাজে ফাঁকি দিতে রোগ ভানকারী
+    syn[0]: 'shirker' | all syns: ['shirker', 'slacker', 'dodger', 'skulker']
+    ant[0]: 'toiler' | all ants: ['toiler', 'worker', 'producer']
+
+[207] Malleable (adjective)
+    meanEn: Capable of being shaped or bent; easily influenced, pliable, or adaptable.
+    meanBn: নমনীয় বা সহজে প্রভাবিত করা যায় এমন
+    syn[0]: 'pliable' | all syns: ['pliable', 'ductile', 'adaptable', 'tensile']
+    ant[0]: 'rigid' | all ants: ['rigid', 'stiff', 'inflexible']
+
+[208] Maverick (noun)
+    meanEn: Someone who exhibits great independence in thought and action.
+    meanBn: স্বতন্ত্র চিন্তাশীল বা বিদ্রোহী ব্যক্তি
+    syn[0]: 'nonconformist' | all syns: ['nonconformist', 'rebel', 'individualist']
+    ant[0]: 'conformist' | all ants: ['conformist', 'traditionalist', 'follower']
+
+[209] Mendacious (adjective)
+    meanEn: Characterized by lying or untruthfulness; dishonest or deceitful.
+    meanBn: মিথ্যাবাদী বা অসত্য
+    syn[0]: 'untruthful' | all syns: ['untruthful', 'deceitful', 'dishonest']
+    ant[0]: 'truthful' | all ants: ['truthful', 'veracious', 'honest']
+
+[210] Metamorphosis (noun)
+    meanEn: A complete and dramatic change in form, appearance, character, or condition.
+    meanBn: রূপান্তর বা রূপবদল
+    syn[0]: 'transformation' | all syns: ['transformation', 'mutation', 'evolution', 'transfiguration']
+    ant[0]: 'stasis' | all ants: ['stasis', 'sameness', 'fixity']
+
+[211] Meticulous (adjective)
+    meanEn: Showing great attention to detail; very careful, precise, and scrupulous.
+    meanBn: অতি সতর্ক বা নিখুঁত
+    syn[0]: 'painstaking' | all syns: ['painstaking', 'scrupulous', 'thorough', 'punctilious']
+    ant[0]: 'careless' | all ants: ['careless', 'sloppy', 'negligent']
+
+[212] Misanthrope (noun)
+    meanEn: Someone who dislikes people in general.
+    meanBn: মানববিদ্বেষী ব্যক্তি
+    syn[0]: 'cynic' | all syns: ['cynic', 'recluse', 'hater', 'misanthropist']
+    ant[0]: 'philanthropist' | all ants: ['philanthropist', 'humanitarian', 'altruist']
+
+[213] Mitigate (verb)
+    meanEn: To make something bad or painful less severe, harmful, or painful; alleviate.
+    meanBn: উপশম বা তীব্রতা কমানো
+    syn[0]: 'alleviate' | all syns: ['alleviate', 'lessen', 'moderate', 'palliate']
+    ant[0]: 'exacerbate' | all ants: ['exacerbate', 'aggravate', 'intensify']
+
+[214] Mollify (verb)
+    meanEn: To appease the anger or anxiety of someone; soothe or calm.
+    meanBn: শান্ত বা তুষ্ট করা
+    syn[0]: 'pacify' | all syns: ['pacify', 'soothe', 'appease', 'placate']
+    ant[0]: 'enrage' | all ants: ['enrage', 'infuriate', 'provoke']
+
+[215] Morose (adjective)
+    meanEn: Sullen, gloomy, and ill-tempered; sullenly melancholy.
+    meanBn: বিষণ্ণ বা বিমর্ষ স্বভাবের
+    syn[0]: 'sullen' | all syns: ['sullen', 'gloomy', 'melancholy', 'dour']
+    ant[0]: 'cheerful' | all ants: ['cheerful', 'jovial', 'optimistic']
+
+[216] Mundane (adjective)
+    meanEn: Lacking interest or excitement; dull, ordinary, and commonplace.
+    meanBn: পার্থিব বা জাগতিক ও সাধারণ
+    syn[0]: 'ordinary' | all syns: ['ordinary', 'everyday', 'commonplace', 'quotidian']
+    ant[0]: 'extraordinary' | all ants: ['extraordinary', 'spiritual', 'heavenly']
+
+[217] Negate (verb)
+    meanEn: To deny the existence or truth of; nullify or make ineffective.
+    meanBn: নাকচ বা অকার্যকর করা
+    syn[0]: 'nullify' | all syns: ['nullify', 'invalidate', 'cancel', 'neutralize']
+    ant[0]: 'affirm' | all ants: ['affirm', 'validate', 'confirm']
+
+[218] Neophyte (noun)
+    meanEn: A person who is new to a subject, skill, or belief; a beginner or novice.
+    meanBn: নবাগত বা শিক্ষানবিস
+    syn[0]: 'novice' | all syns: ['novice', 'beginner', 'tyro', 'newcomer']
+    ant[0]: 'expert' | all ants: ['expert', 'veteran', 'master']
+
+[219] Obdurate (adjective)
+    meanEn: Stubbornly refusing to change one's opinion or course of action; unyielding.
+    meanBn: একগুঁয়ে বা অনমনীয়
+    syn[0]: 'stubborn' | all syns: ['stubborn', 'obstinate', 'unyielding', 'stony']
+    ant[0]: 'compliant' | all ants: ['compliant', 'malleable', 'yielding']
+
+[220] Obsequious (adjective)
+    meanEn: Obedient or attentive to an excessive or servile degree; fawning.
+    meanBn: চাটুকার বা অতিশয় তোষামোদকারী
+    syn[0]: 'servile' | all syns: ['servile', 'sycophantic', 'submissive', 'fawning']
+    ant[0]: 'assertive' | all ants: ['assertive', 'domineering', 'independent']
+
+[221] Obviate (verb)
+    meanEn: To remove or eliminate a need, difficulty, or obstacle; prevent.
+    meanBn: দূর করা বা অপ্রয়োজনীয় করে তোলা
+    syn[0]: 'preclude' | all syns: ['preclude', 'prevent', 'eliminate', 'debar']
+    ant[0]: 'require' | all ants: ['require', 'necessitate', 'cause']
+
+[222] Occlude (verb)
+    meanEn: To stop, close up, or obstruct an opening, orifice, or passage.
+    meanBn: বন্ধ বা অবরুদ্ধ করা
+    syn[0]: 'block' | all syns: ['block', 'obstruct', 'clog', 'jam']
+    ant[0]: 'open' | all ants: ['open', 'clear', 'unblock', 'free']
+
+[223] Officious (adjective)
+    meanEn: Assertive of authority in an annoying and domineering way; meddlesome.
+    meanBn: অনধিকারচর্চাকারী বা আগ বাড়িয়ে উপদেশ দেওয়া স্বভাবের
+    syn[0]: 'meddlesome' | all syns: ['meddlesome', 'intrusive', 'overbearing', 'busy']
+    ant[0]: 'modest' | all ants: ['modest', 'unobtrusive', 'reserved']
+
+[224] Onerous (adjective)
+    meanEn: Involving great effort, burden, or difficulty; burdensome and oppressive.
+    meanBn: কষ্টসাধ্য বা গুরুভারপূর্ণ
+    syn[0]: 'burdensome' | all syns: ['burdensome', 'taxing', 'oppressive']
+    ant[0]: 'easy' | all ants: ['easy', 'effortless', 'light']
+
+[225] Opprobrium (noun)
+    meanEn: Harsh criticism or censure; disgrace arising from shameful conduct.
+    meanBn: তীব্র নিন্দা বা লোকলজ্জা
+    syn[0]: 'infamy' | all syns: ['infamy', 'disgrace', 'ignominy', 'obloquy']
+    ant[0]: 'praise' | all ants: ['praise', 'honor', 'acclaim', 'fame']
+
+[226] Oscillate (verb)
+    meanEn: To swing or move back and forth continuously; waver indecisively between options.
+    meanBn: দোদুল্যমান হওয়া বা ওঠা-নামা করা
+    syn[0]: 'vacillate' | all syns: ['vacillate', 'fluctuate', 'swing', 'hover']
+    ant[0]: 'stabilize' | all ants: ['stabilize', 'steady', 'settle']
+
+[227] Ostentatious (adjective)
+    meanEn: Characterized by vulgar or pretentious display; designed to impress.
+    meanBn: লোকদেখানো বা আড়ম্বরপূর্ণ
+    syn[0]: 'showy' | all syns: ['showy', 'pretentious', 'flamboyant']
+    ant[0]: 'modest' | all ants: ['modest', 'understated', 'plain', 'unostentatious']
+
+[228] Paragon (noun)
+    meanEn: An ideal instance; a perfect embodiment of a concept.
+    meanBn: আদর্শ বা নিখুঁত দৃষ্টান্ত
+    syn[0]: 'model' | all syns: ['model', 'epitome', 'exemplar', 'idol']
+    ant[0]: 'flaw' | all ants: ['flaw', 'antithesis', 'imperfection']
+
+[229] Partisan (noun)
+    meanEn: A fervent and even militant proponent of something.
+    meanBn: দলকানা বা অন্ধ পক্ষপাতমূলক
+    syn[0]: 'biased' | all syns: ['biased', 'sectarian', 'one-sided', 'enthusiast']
+    ant[0]: 'impartial' | all ants: ['impartial', 'neutral', 'objective', 'nonpartisan']
+
+[230] Pathological (adjective)
+    meanEn: Involving or caused by a physical or mental disease; compulsive or abnormal.
+    meanBn: রোগাক্রান্ত বা অস্বাভাবিক মানসিক রোগসংক্রান্ত
+    syn[0]: 'morbid' | all syns: ['morbid', 'compulsive', 'diseased', 'pathologic']
+    ant[0]: 'healthy' | all ants: ['healthy', 'normal', 'rational']
+
+[231] Paucity (noun)
+    meanEn: An insufficient quantity or number.
+    meanBn: স্বল্পতা বা অভাব
+    syn[0]: 'scarcity' | all syns: ['scarcity', 'dearth', 'shortage']
+    ant[0]: 'abundance' | all ants: ['abundance', 'plethora', 'surplus']
+
+[232] Pedantic (adjective)
+    meanEn: Marked by a narrow focus on or display of learning especially its trivial aspects.
+    meanBn: পাণ্ডিত্য প্রদর্শনকারী বা অতিরিক্ত খুঁতখুঁতে
+    syn[0]: 'bookish' | all syns: ['bookish', 'punctilious', 'fussy', 'academic']
+    ant[0]: 'practical' | all ants: ['practical', 'broad-minded', 'informal']
+
+[233] Penchant (noun)
+    meanEn: A strong or habitual liking for something; a marked inclination or bias.
+    meanBn: তীব্র ঝোঁক বা বিশেষ অনুরাগ
+    syn[0]: 'inclination' | all syns: ['inclination', 'predilection', 'affinity', 'taste']
+    ant[0]: 'aversion' | all ants: ['aversion', 'dislike', 'antipathy']
+
+[234] Penury (noun)
+    meanEn: A state of extreme poverty or destitution.
+    meanBn: চরম দরিদ্রতা বা নিঃস্ব অবস্থা
+    syn[0]: 'destitution' | all syns: ['destitution', 'indigence', 'poverty', 'pauperism']
+    ant[0]: 'wealth' | all ants: ['wealth', 'prosperity', 'affluence']
+
+[235] Perennial (adjective)
+    meanEn: Lasting or existing for a long or apparently infinite time; continually recurring.
+    meanBn: চিরস্থায়ী বা বহুবর্ষজীবী
+    syn[0]: 'everlasting' | all syns: ['everlasting', 'enduring', 'perpetual', 'repeated']
+    ant[0]: 'fleeting' | all ants: ['fleeting', 'short-lived', 'ephemeral', 'biennial']
+
+[236] Perfidious (adjective)
+    meanEn: Deceitful and untrustworthy; treacherous and disloyal.
+    meanBn: বিশ্বাসঘাতক বা বেইমান
+    syn[0]: 'treacherous' | all syns: ['treacherous', 'disloyal', 'faithless', 'punic']
+    ant[0]: 'loyal' | all ants: ['loyal', 'faithful', 'trustworthy']
+
+[237] Perfunctory (adjective)
+    meanEn: Carried out with minimal effort, care, or interest; hasty and routine.
+    meanBn: দায়সারা বা অগভীর মনোভাবাপন্ন
+    syn[0]: 'superficial' | all syns: ['superficial', 'cursory', 'mechanical', 'casual']
+    ant[0]: 'thorough' | all ants: ['thorough', 'meticulous', 'careful']
+
+[238] Permeable (adjective)
+    meanEn: Allowing fluids or gases to pass or diffuse through.
+    meanBn: ভেদ্য বা তরল চলাচলে সক্ষম
+    syn[0]: 'porous' | all syns: ['porous', 'penetrable', 'absorbent']
+    ant[0]: 'impermeable' | all ants: ['impermeable', 'impenetrable', 'solid']
+
+[239] Pervasive (adjective)
+    meanEn: Spreading widely throughout an area or group of people; all-encompassing.
+    meanBn: সর্বব্যাপী বা সর্বগ্রাসী
+    syn[0]: 'ubiquitous' | all syns: ['ubiquitous', 'widespread', 'pervading', 'permeative']
+    ant[0]: 'isolated' | all ants: ['isolated', 'limited', 'rare']
+
+[240] Phlegmatic (adjective)
+    meanEn: Having an unemotional and stolidly calm disposition; placid and composed.
+    meanBn: শান্ত ও আবেগহীন বা ধীরস্থির
+    syn[0]: 'calm' | all syns: ['calm', 'unemotional', 'stoic', 'phlegmatical']
+    ant[0]: 'excitable' | all ants: ['excitable', 'passionate', 'emotional']
+
+[241] Piety (noun)
+    meanEn: The quality of being religious or reverent; devoutness.
+    meanBn: ধার্মিকতা বা ভক্তিভাব
+    syn[0]: 'devotion' | all syns: ['devotion', 'reverence', 'godliness', 'piousness']
+    ant[0]: 'impiety' | all ants: ['impiety', 'irreverence', 'blasphemy']
+
+[242] Placate (verb)
+    meanEn: To soothe, calm, or appease someone, especially by conceding demands.
+    meanBn: শান্ত করা বা মান ভাঙানো
+    syn[0]: 'appease' | all syns: ['appease', 'pacify', 'mollify', 'gruntle']
+    ant[0]: 'anger' | all ants: ['anger', 'provoke', 'enrage']
+
+[243] Plasticity (noun)
+    meanEn: The quality of being easily shaped, molded, or adapted without breaking.
+    meanBn: নমনীয়তা বা রূপান্তরণযোগ্যতা
+    syn[0]: 'malleability' | all syns: ['malleability', 'flexibility', 'adaptability']
+    ant[0]: 'rigidity' | all ants: ['rigidity', 'brittleness', 'inflexibility', 'unmalleability']
+
+[244] Platitude (noun)
+    meanEn: A remark or statement, especially one with moral content, that is trite or cliché.
+    meanBn: গতানুগতিক বা ক্লিশে উক্তি
+    syn[0]: 'cliché' | all syns: ['cliché', 'truism', 'banality', 'commonplace']
+    ant[0]: 'originality' | all ants: ['originality', 'insight', 'profundity']
+
+[245] Plethora (noun)
+    meanEn: A large or excessive amount of something; an overabundance.
+    meanBn: আধিক্য বা অতিপ্রাচুর্য
+    syn[0]: 'excess' | all syns: ['excess', 'surfeit', 'abundance', 'superfluity']
+    ant[0]: 'scarcity' | all ants: ['scarcity', 'dearth', 'paucity']
+
+[246] Plummet (verb)
+    meanEn: To fall or drop straight down at high speed; plunge steeply.
+    meanBn: খাড়াভাবে নিচে পড়া বা দ্রুত হ্রাস পাওয়া
+    syn[0]: 'plunge' | all syns: ['plunge', 'dive', 'drop', 'plumb']
+    ant[0]: 'soar' | all ants: ['soar', 'rise', 'ascend']
+
+[247] Porous (adjective)
+    meanEn: Having minute spaces or holes through which liquid or air may pass; permeable.
+    meanBn: ছিদ্রযুক্ত বা ঝাঝরা
+    syn[0]: 'permeable' | all syns: ['permeable', 'absorbent', 'spongy', 'holey']
+    ant[0]: 'dense' | all ants: ['dense', 'impermeable', 'solid', 'nonporous']
+
+[248] Pragmatic (adjective)
+    meanEn: Dealing with matters sensibly and realistically based on practical considerations rather than theoretical ones.
+    meanBn: বাস্তবধর্মী বা প্রায়োগিক
+    syn[0]: 'practical' | all syns: ['practical', 'sensible', 'realistic', 'matter-of-fact']
+    ant[0]: 'idealistic' | all ants: ['idealistic', 'impractical', 'quixotic']
+
+[249] Preamble (noun)
+    meanEn: A preliminary introduction to a statute or constitution (usually explaining its purpose).
+    meanBn: প্রস্তাবনা বা ভূমিকা
+    syn[0]: 'introduction' | all syns: ['introduction', 'preface', 'prologue']
+    ant[0]: 'epilogue' | all ants: ['epilogue', 'coda', 'conclusion']
+
+[250] Precarious (adjective)
+    meanEn: Not securely held or in position; dangerously insecure, uncertain, or risky.
+    meanBn: ঝুঁকিপূর্ণ বা অনির্ভরযোগ্য
+    syn[0]: 'perilous' | all syns: ['perilous', 'uncertain', 'insecure', 'shaky']
+    ant[0]: 'safe' | all ants: ['safe', 'secure', 'stable']
+
+[251] Precipitate (verb)
+    meanEn: To cause an event or situation, typically bad or unexpected, to happen suddenly or prematurely.
+    meanBn: তড়িঘড়ি বা হঠকারী
+    syn[0]: 'rash' | all syns: ['rash', 'hasty', 'premature', 'fall']
+    ant[0]: 'deliberate' | all ants: ['deliberate', 'cautious', 'considered']
+
+[252] Precursor (noun)
+    meanEn: A person or thing that comes before another of the same kind; a forerunner.
+    meanBn: অগ্রদূত বা পূর্বসূরি
+    syn[0]: 'forerunner' | all syns: ['forerunner', 'predecessor', 'herald', 'harbinger']
+    ant[0]: 'successor' | all ants: ['successor', 'descendant', 'consequence']
+
+[253] Presumptuous (adjective)
+    meanEn: Failing to observe the limits of what is permitted or appropriate; audaciously bold.
+    meanBn: দাম্ভিক বা অনধিকারচর্চাকারী
+    syn[0]: 'arrogant' | all syns: ['arrogant', 'brazen', 'audacious', 'assumptive']
+    ant[0]: 'modest' | all ants: ['modest', 'humble', 'respectful']
+
+[254] Prevaricate (verb)
+    meanEn: To speak or act evasively in order to deceive or avoid telling the truth.
+    meanBn: সত্য এড়িয়ে চলা বা ছলচাতুরী করা
+    syn[0]: 'equivocate' | all syns: ['equivocate', 'hedge', 'evade', 'tergiversate']
+    ant[0]: 'clarify' | all ants: ['clarify', 'confront', 'authenticate']
+
+[255] Pristine (adjective)
+    meanEn: Completely free from dirt or contamination.
+    meanBn: অক্ষত বা আদিম ও নিখুঁত
+    syn[0]: 'unspoiled' | all syns: ['unspoiled', 'pure', 'immaculate']
+    ant[0]: 'polluted' | all ants: ['polluted', 'corrupted', 'ruined']
+
+[256] Probity (noun)
+    meanEn: Complete and confirmed integrity; having strong moral principles.
+    meanBn: সততা বা চারিত্রিক সাধুতা
+    syn[0]: 'integrity' | all syns: ['integrity', 'honesty', 'uprightness']
+    ant[0]: 'dishonesty' | all ants: ['dishonesty', 'corruption', 'deceit']
+
+[257] Problematic (adjective)
+    meanEn: Constituting or presenting a problem; doubtful, uncertain, or questionable.
+    meanBn: সমস্যাবহুল বা সন্দেহজনক
+    syn[0]: 'doubtful' | all syns: ['doubtful', 'uncertain', 'troublesome', 'debatable']
+    ant[0]: 'unproblematic' | all ants: ['unproblematic', 'certain', 'settled']
+
+[258] Prodigal (adjective)
+    meanEn: Spending money or resources recklessly and wastefully; extravagant.
+    meanBn: অপব্যয়ী বা উড়নচণ্ডী
+    syn[0]: 'wasteful' | all syns: ['wasteful', 'extravagant', 'profligate', 'squanderer']
+    ant[0]: 'thrifty' | all ants: ['thrifty', 'frugal', 'economical']
+
+[259] Profound (adjective)
+    meanEn: Showing intellectual penetration or emotional depth.
+    meanBn: গভীর বা সুদূরপ্রসারী
+    syn[0]: 'deep' | all syns: ['deep', 'insightful', 'intense', 'unplumbed']
+    ant[0]: 'shallow' | all ants: ['shallow', 'superficial', 'trivial']
+
+[260] Prohibitive (adjective)
+    meanEn: Serving to forbid or restrict; excessively high or difficult to afford.
+    meanBn: সাধ্যের অতীত বা বাধানিষেধমূলক
+    syn[0]: 'exorbitant' | all syns: ['exorbitant', 'restrictive', 'excessive', 'prohibitory']
+    ant[0]: 'affordable' | all ants: ['affordable', 'reasonable', 'permissive']
+
+[261] Proliferate (verb)
+    meanEn: To increase rapidly in numbers; multiply or flourish.
+    meanBn: দ্রুত বিস্তার লাভ বা সংখ্যাবৃদ্ধি পাওয়া
+    syn[0]: 'multiply' | all syns: ['multiply', 'spread', 'burgeon']
+    ant[0]: 'decrease' | all ants: ['decrease', 'diminish', 'dwindle']
+
+[262] Propensity (noun)
+    meanEn: An innate inclination or natural tendency to behave in a particular way.
+    meanBn: সহজাত প্রবণতা বা বিশেষ ঝোঁক
+    syn[0]: 'inclination' | all syns: ['inclination', 'tendency', 'predisposition', 'proclivity']
+    ant[0]: 'disinclination' | all ants: ['disinclination', 'aversion', 'reluctance']
+
+[263] Propitiate (verb)
+    meanEn: To win or regain the favor of a god, spirit, or person by doing something that pleases them; appease.
+    meanBn: তুষ্ট বা শান্ত করা
+    syn[0]: 'appease' | all syns: ['appease', 'placate', 'pacify']
+    ant[0]: 'anger' | all ants: ['anger', 'offend', 'alienate']
+
+[264] Propriety (noun)
+    meanEn: The state or quality of conforming to accepted standards of good behavior and decorum.
+    meanBn: ভদ্রতা বা আচরণবিধি
+    syn[0]: 'decorum' | all syns: ['decorum', 'decency', 'correctness', 'correctitude']
+    ant[0]: 'impropriety' | all ants: ['impropriety', 'indecency', 'rudeness', 'improperness']
+
+[265] Proscribe (verb)
+    meanEn: To forbid or prohibit especially by law; denounce or condemn.
+    meanBn: নিষিদ্ধ বা নির্বাসিত করা
+    syn[0]: 'forbid' | all syns: ['forbid', 'ban', 'outlaw', 'interdict']
+    ant[0]: 'permit' | all ants: ['permit', 'allow', 'prescribe']
+
+[266] Pungent (adjective)
+    meanEn: Having a sharp and caustic quality; biting, acrid, or cutting in expression.
+    meanBn: তীব্র বা ঝাঁঝালো
+    syn[0]: 'sharp' | all syns: ['sharp', 'biting', 'caustic', 'mordacious']
+    ant[0]: 'mild' | all ants: ['mild', 'bland', 'soothing']
+
+[267] Qualified (adjective)
+    meanEn: Limited, restricted, or conditional rather than absolute; partial.
+    meanBn: শর্তসাপেক্ষ বা সীমিত
+    syn[0]: 'conditional' | all syns: ['conditional', 'limited', 'restricted', 'guarded']
+    ant[0]: 'unconditional' | all ants: ['unconditional', 'absolute', 'unlimited', 'categorical']
+
+[268] Quibble (verb)
+    meanEn: To argue or raise petty, trivial objections about a minor matter.
+    meanBn: তুচ্ছ বিষয়ে খুঁত ধরা বা আপত্তি তোলা
+    syn[0]: 'cavil' | all syns: ['cavil', 'nitpick', 'complain', 'quiddity']
+    ant[0]: 'concur' | all ants: ['concur', 'accept', 'agree']
+
+[269] Quiescent (adjective)
+    meanEn: In a state or period of dormancy, rest, or temporary inactivity.
+    meanBn: সুপ্ত বা শান্ত অবস্থায় থাকা
+    syn[0]: 'dormant' | all syns: ['dormant', 'inactive', 'idle']
+    ant[0]: 'active' | all ants: ['active', 'dynamic', 'flaring']
+
+[270] Rarefied (adjective)
+    meanEn: Elevated, lofty, or esoteric in character; of thin density (of atmosphere).
+    meanBn: লঘু বা অভিজাত ভাবসম্পন্ন
+    syn[0]: 'tenuous' | all syns: ['tenuous', 'refined', 'esoteric', 'sublimate']
+    ant[0]: 'dense' | all ants: ['dense', 'common', 'vulgar']
+
+[271] Recalcitrant (adjective)
+    meanEn: Stubbornly resistant to authority or control.
+    meanBn: অবাধ্য বা চরম অবাধ্য
+    syn[0]: 'obstinate' | all syns: ['obstinate', 'defiant', 'unruly', 'refractory']
+    ant[0]: 'compliant' | all ants: ['compliant', 'docile', 'obedient']
+
+[272] Recant (verb)
+    meanEn: To formally withdraw, renounce, or disavow a statement or previously held belief.
+    meanBn: পূর্বমত প্রত্যাহার করা বা ফিরিয়ে নেওয়া
+    syn[0]: 'retract' | all syns: ['retract', 'disavow', 'renounce', 'abjure']
+    ant[0]: 'reaffirm' | all ants: ['reaffirm', 'maintain', 'assert']
+
+[273] Recluse (noun)
+    meanEn: A person who lives a solitary life and tends to avoid other people; a hermit.
+    meanBn: নিভৃতচারী বা একাকী বাসকারী ব্যক্তি
+    syn[0]: 'hermit' | all syns: ['hermit', 'solitary', 'anchorite', 'solitudinarian']
+    ant[0]: 'extrovert' | all ants: ['extrovert', 'socialite', 'mixer']
+
+[274] Recondite (adjective)
+    meanEn: Difficult to understand, abstruse, obscure, or little-known.
+    meanBn: দুর্বোধ্য বা গভীর গোপন জ্ঞানসংক্রান্ত
+    syn[0]: 'abstruse' | all syns: ['abstruse', 'obscure', 'arcane', 'deep']
+    ant[0]: 'obvious' | all ants: ['obvious', 'simple', 'accessible']
+
+[275] Refractory (adjective)
+    meanEn: Stubbornly resistant to authority, control, or treatment; unmanageable.
+    meanBn: অবাধ্য বা চিকিৎসায় সাড়া দেয় না এমন
+    syn[0]: 'unmanageable' | all syns: ['unmanageable', 'stubborn', 'resistant', 'recalcitrant']
+    ant[0]: 'manageable' | all ants: ['manageable', 'responsive', 'amenable']
+
+[276] Refute (verb)
+    meanEn: To prove a statement, theory, or argument to be wrong or false; disprove.
+    meanBn: ভুল বা অসত্য প্রমাণ করা
+    syn[0]: 'disprove' | all syns: ['disprove', 'debunk', 'rebut', 'controvert']
+    ant[0]: 'confirm' | all ants: ['confirm', 'validate', 'prove']
+
+[277] Relegate (verb)
+    meanEn: To assign to a lower or less important position, rank, or category; demote.
+    meanBn: অবনমিত করা বা নির্বাসিত করা
+    syn[0]: 'demote' | all syns: ['demote', 'downgrade', 'banish', 'classify']
+    ant[0]: 'promote' | all ants: ['promote', 'elevate', 'upgrade']
+
+[278] Reproach (verb)
+    meanEn: To express disapproval, criticism, or disappointment to someone.
+    meanBn: তিরস্কার বা অনুযোগ করা
+    syn[0]: 'rebuke' | all syns: ['rebuke', 'scold', 'admonish', 'upbraid']
+    ant[0]: 'praise' | all ants: ['praise', 'commend', 'applaud']
+
+[279] Reprobate (noun)
+    meanEn: An unprincipled, wicked, or shameless person; devoid of moral scruples.
+    meanBn: চরিত্রহীন বা নীতিভ্রষ্ট ব্যক্তি
+    syn[0]: 'scoundrel' | all syns: ['scoundrel', 'rogue', 'rascal', 'miscreant']
+    ant[0]: 'saint' | all ants: ['saint', 'innocent', 'moralist']
+
+[280] Repudiate (verb)
+    meanEn: To refuse to accept, recognize, or be associated with; reject or disown.
+    meanBn: প্রত্যাখ্যান করা বা অস্বীকার করা
+    syn[0]: 'disown' | all syns: ['disown', 'reject', 'renounce']
+    ant[0]: 'embrace' | all ants: ['embrace', 'accept', 'endorse']
+
+[281] Rescind (verb)
+    meanEn: To revoke, repeal, or cancel a law, order, or agreement officially.
+    meanBn: বাতিল বা প্রত্যাহার করা
+    syn[0]: 'revoke' | all syns: ['revoke', 'cancel', 'annul', 'overturn']
+    ant[0]: 'enforce' | all ants: ['enforce', 'validate', 'reinstate']
+
+[282] Resolution (noun)
+    meanEn: A formal expression by a meeting; agreed to by a vote.
+    meanBn: দৃঢ় সংকল্প বা সমাধান
+    syn[0]: 'determination' | all syns: ['determination', 'resolve', 'settlement', 'solution']
+    ant[0]: 'indecision' | all ants: ['indecision', 'hesitation', 'wavering', 'preparation']
+
+[283] Resolve (verb)
+    meanEn: To find a solution to a problem; to firmly decide upon a course of action.
+    meanBn: দৃঢ় সংকল্প বা সমস্যা মীমাংসা করা
+    syn[0]: 'determination' | all syns: ['determination', 'settle', 'conclude', 'resoluteness']
+    ant[0]: 'hesitation' | all ants: ['hesitation', 'worsen', 'vacillation', 'irresoluteness']
+
+[284] Reticent (adjective)
+    meanEn: Temperamentally disinclined to talk.
+    meanBn: স্বল্পভাষী বা মনের ভাব প্রকাশে অনিচ্ছুক
+    syn[0]: 'reserved' | all syns: ['reserved', 'uncommunicative', 'taciturn', 'retiring']
+    ant[0]: 'garrulous' | all ants: ['garrulous', 'talkative', 'outspoken']
+
+[285] Reverent (adjective)
+    meanEn: Feeling or showing profound respect or veneration.
+    meanBn: শ্রদ্ধাশীল বা ভক্তিপূর্ণ
+    syn[0]: 'respectful' | all syns: ['respectful', 'devout', 'worshipful', 'godly']
+    ant[0]: 'disrespectful' | all ants: ['disrespectful', 'irreverent', 'insolent']
+
+[286] Sage (adjective)
+    meanEn: Having, showing, or indicating profound wisdom, sound judgment, and prudence.
+    meanBn: বিজ্ঞ বা প্রাজ্ঞ ব্যক্তি
+    syn[0]: 'philosopher' | all syns: ['philosopher', 'mentor', 'scholar']
+    ant[0]: 'fool' | all ants: ['fool', 'simpleton', 'idiot']
+
+[287] Salubrious (adjective)
+    meanEn: Health-giving, wholesome, and beneficial to physical wellbeing.
+    meanBn: স্বাস্থ্যকর বা স্বাস্থ্যপ্রদ
+    syn[0]: 'healthful' | all syns: ['healthful', 'wholesome', 'beneficial', 'healthy']
+    ant[0]: 'unhealthy' | all ants: ['unhealthy', 'harmful', 'noxious']
+
+[288] Sanction (verb)
+    meanEn: To give official permission or approval for; also to impose a penalty on.
+    meanBn: অনুমোদন দেওয়া বা নিষেধাজ্ঞা আরোপ করা
+    syn[0]: 'authorize' | all syns: ['authorize', 'approve', 'penalize', 'imprimatur']
+    ant[0]: 'prohibit' | all ants: ['prohibit', 'forbid', 'disapprove']
+
+[289] Satiate (verb)
+    meanEn: To satisfy a desire or appetite to the full or to excess.
+    meanBn: পরিতৃপ্ত বা পুরোপুরি সন্তুষ্ট করা
+    syn[0]: 'satisfy' | all syns: ['satisfy', 'gorge', 'glut', 'binge']
+    ant[0]: 'starve' | all ants: ['starve', 'deprive', 'dissatisfy']
+
+[290] Saturate (verb)
+    meanEn: To thoroughly soak with liquid; cause to be completely filled or permeated.
+    meanBn: ভিজিয়ে পূর্ণ করা বা সম্পৃক্ত করা
+    syn[0]: 'soak' | all syns: ['soak', 'drench', 'steep', 'impregnate']
+    ant[0]: 'dry' | all ants: ['dry', 'dehydrate', 'drain']
+
+[291] Savor (verb)
+    meanEn: To taste or smell with pleasure; to appreciate or enjoy something fully and thoroughly.
+    meanBn: আস্বাদন করা বা স্বাদ উপভোগ করা
+    syn[0]: 'relish' | all syns: ['relish', 'enjoy', 'taste', 'tang']
+    ant[0]: 'dislike' | all ants: ['dislike', 'rush', 'ignore']
+
+[292] Secrete (verb)
+    meanEn: To produce and discharge a substance, typically from a biological cell or gland; also to conceal.
+    meanBn: নিঃসরণ করা বা লুকিয়ে রাখা
+    syn[0]: 'excrete' | all syns: ['excrete', 'conceal', 'hide', 'release']
+    ant[0]: 'absorb' | all ants: ['absorb', 'reveal', 'expose']
+
+[293] Shard (noun)
+    meanEn: A broken piece of a brittle artifact.
+    meanBn: ভাঙা পাত্রের টুকরো বা ভাঙা কাঁচের কুচি
+    syn[0]: 'fragment' | all syns: ['fragment', 'sliver', 'splinter', 'sherd']
+    ant[0]: 'whole' | all ants: ['whole', 'totality', 'aggregate']
+
+[294] Skeptic (noun)
+    meanEn: A person inclined to question or doubt all accepted opinions or claims.
+    meanBn: সংশয়বাদী বা সন্দেহপ্রবণ ব্যক্তি
+    syn[0]: 'doubter' | all syns: ['doubter', 'cynic', 'questioner', 'sceptic']
+    ant[0]: 'believer' | all ants: ['believer', 'devotee', 'optimist']
+
+[295] Solicitous (adjective)
+    meanEn: Characterized by or showing interest, care, or attentive concern.
+    meanBn: উিগ্ন বা যত্নশীল মনোভাবাপন্ন
+    syn[0]: 'attentive' | all syns: ['attentive', 'concerned', 'caring']
+    ant[0]: 'unconcerned' | all ants: ['unconcerned', 'indifferent', 'careless']
+
+[296] Soporific (adjective)
+    meanEn: Tending to induce drowsiness or sleep; sleep-inducing.
+    meanBn: ঘুমপাড়ানি বা নিদ্রাকষক
+    syn[0]: 'sedative' | all syns: ['sedative', 'sleep-inducing', 'somnolent', 'hypnotic']
+    ant[0]: 'stimulant' | all ants: ['stimulant', 'invigorating', 'energizing']
+
+[297] Specious (adjective)
+    meanEn: Superficially plausible, but actually wrong, deceptive, or misleading.
+    meanBn: আপাতদৃষ্টিতে সত্য কিন্তু ভ্রান্ত
+    syn[0]: 'misleading' | all syns: ['misleading', 'deceptive', 'fallacious', 'gilded']
+    ant[0]: 'genuine' | all ants: ['genuine', 'valid', 'sound']
+
+[298] Spectrum (noun)
+    meanEn: An ordered array of the components of an emission or wave.
+    meanBn: বর্ণালী বা সামগ্রিক পরিসর
+    syn[0]: 'range' | all syns: ['range', 'gamut', 'array']
+    ant[0]: 'singularity' | all ants: ['singularity', 'monochrome', 'limit']
+
+[299] Sporadic (adjective)
+    meanEn: Recurring in scattered and irregular or unpredictable instances.
+    meanBn: বিক্ষিপ্ত বা অনিয়মিত
+    syn[0]: 'intermittent' | all syns: ['intermittent', 'occasional', 'infrequent']
+    ant[0]: 'continuous' | all ants: ['continuous', 'regular', 'constant', 'continual']
+
+[300] Stigma (noun)
+    meanEn: A mark of disgrace or shame associated with a particular circumstance, quality, or person.
+    meanBn: কলঙ্ক বা অপবাদ
+    syn[0]: 'shame' | all syns: ['shame', 'disgrace', 'taint', 'mark']
+    ant[0]: 'honor' | all ants: ['honor', 'pride', 'credit']
+
+[301] Stint (verb)
+    meanEn: To restrict, supply in an ungenerous manner, or be frugal with.
+    meanBn: সংকোচন করা বা নির্দিষ্ট মেয়াদের দায়িত্ব
+    syn[0]: 'skimp' | all syns: ['skimp', 'limit', 'period', 'scrimp']
+    ant[0]: 'squander' | all ants: ['squander', 'splurge', 'lavish']
+
+[302] Stipulate (verb)
+    meanEn: To demand or specify a requirement as part of a formal agreement or contract.
+    meanBn: শর্তারোপ করা বা চুক্তিতে উল্লেখ করা
+    syn[0]: 'specify' | all syns: ['specify', 'condition', 'require', 'qualify']
+    ant[0]: 'waive' | all ants: ['waive', 'ignore', 'relinquish']
+
+[303] Stolid (adjective)
+    meanEn: Calm, dependable, and showing little emotion or animation; phlegmatic.
+    meanBn: আবেগহীন বা নির্বিকার প্রকৃতির
+    syn[0]: 'impassive' | all syns: ['impassive', 'phlegmatic', 'unemotional']
+    ant[0]: 'emotional' | all ants: ['emotional', 'lively', 'sensitive']
+
+[304] Striated (adjective)
+    meanEn: Marked with thin, parallel stripes, grooves, or bands.
+    meanBn: রেখাঙ্কিত বা সমান্তরাল দাগযুক্ত
+    syn[0]: 'striped' | all syns: ['striped', 'grooved', 'banded', 'striate']
+    ant[0]: 'smooth' | all ants: ['smooth', 'unmarked', 'plain']
+
+[305] Strut (verb)
+    meanEn: To walk with a proud, erect, pompous, and confident gait.
+    meanBn: দম্ভভরে বা গর্বিত পদক্ষেপে হাঁটা
+    syn[0]: 'swagger' | all syns: ['swagger', 'parade', 'prance']
+    ant[0]: 'cower' | all ants: ['cower', 'slink', 'creep']
+
+[306] Strut (noun)
+    meanEn: A structural bar, rod, or brace designed to resist pressure in the direction of its length.
+    meanBn: কাঠামোকে ধরে রাখার জন্য খুঁটি বা ঠেকনা
+    syn[0]: 'brace' | all syns: ['brace', 'prop', 'support', 'swagger']
+    ant[0]: 'hindrance' | all ants: ['hindrance', 'burden', 'destabilizer']
+
+[307] Subpoena (noun)
+    meanEn: A formal legal writ compelling a witness to attend and testify in court.
+    meanBn: আদালতে সাক্ষ্য দেওয়ার জন্য সমন জারি করা
+    syn[0]: 'summons' | all syns: ['summons', 'writ', 'citation']
+    ant[0]: 'release' | all ants: ['release', 'pardon', 'dismissal']
+
+[308] Subside (verb)
+    meanEn: To become less intense, severe, or violent; diminish or sink to a lower level.
+    meanBn: হ্রাস পাওয়া বা শান্ত হওয়া
+    syn[0]: 'abate' | all syns: ['abate', 'recede', 'diminish', 'sink']
+    ant[0]: 'intensify' | all ants: ['intensify', 'rise', 'swell']
+
+[309] Substantiate (verb)
+    meanEn: To provide evidence to support or prove the truth of an assertion; corroborate.
+    meanBn: প্রমাণ দ্বারা প্রতিষ্ঠিত বা সত্যতা প্রতিপন্ন করা
+    syn[0]: 'verify' | all syns: ['verify', 'corroborate', 'authenticate', 'realize']
+    ant[0]: 'disprove' | all ants: ['disprove', 'refute', 'undermine', 'negate']
+
+[310] Supersede (verb)
+    meanEn: To take the place of a person or thing previously in authority or use; supplant.
+    meanBn: স্থান দখল করা বা বাতিল করে স্থলাভিষিক্ত হওয়া
+    syn[0]: 'replace' | all syns: ['replace', 'supplant', 'oust', 'supercede']
+    ant[0]: 'retain' | all ants: ['retain', 'keep', 'maintain']
+
+[311] Supposition (noun)
+    meanEn: An uncertain belief, assumption, or hypothesis based on incomplete evidence.
+    meanBn: অনুমান বা কাল্পনিক ধারণা
+    syn[0]: 'assumption' | all syns: ['assumption', 'hypothesis', 'conjecture', 'guess']
+    ant[0]: 'certainty' | all ants: ['certainty', 'fact', 'proof']
+
+[312] Tacit (adjective)
+    meanEn: Understood or implied without being stated directly; unspoken.
+    meanBn: নীরব বা অব্যক্ত বোঝাপড়া
+    syn[0]: 'implicit' | all syns: ['implicit', 'unspoken', 'implied', 'understood']
+    ant[0]: 'explicit' | all ants: ['explicit', 'stated', 'spoken']
+
+[313] Tangential (adjective)
+    meanEn: Diverging from a central topic; merely touching upon something superficially.
+    meanBn: আংশিক বা প্রাসঙ্গিক নয় এমন
+    syn[0]: 'peripheral' | all syns: ['peripheral', 'digressive', 'irrelevant']
+    ant[0]: 'central' | all ants: ['central', 'crucial', 'relevant']
+
+[314] Tenuous (adjective)
+    meanEn: Very weak, slender, slight, or insubstantial; tenuous grasp.
+    meanBn: দুর্বল বা কৃশকায় ও ক্ষীণ
+    syn[0]: 'flimsy' | all syns: ['flimsy', 'fragile', 'slender', 'slight']
+    ant[0]: 'strong' | all ants: ['strong', 'robust', 'substantial']
+
+[315] Tirade (noun)
+    meanEn: A long, angry speech of criticism, accusation, or violent denunciation.
+    meanBn: তীব্র আক্রমণাত্মক বক্তৃতা বা বাক্যবাণ
+    syn[0]: 'diatribe' | all syns: ['diatribe', 'harangue', 'rant', 'broadside']
+    ant[0]: 'praise' | all ants: ['praise', 'compliment', 'eulogy']
+
+[316] Torpor (noun)
+    meanEn: A state of motor and mental inactivity with a partial suspension of sensibility.
+    meanBn: নিষ্ক্রিয়তা বা অবসাদ
+    syn[0]: 'lethargy' | all syns: ['lethargy', 'sluggishness', 'dormancy', 'listlessness']
+    ant[0]: 'vigor' | all ants: ['vigor', 'energy', 'vitality']
+
+[317] Tortuous (adjective)
+    meanEn: Full of twists and turns; excessively lengthy, complex, and convoluted.
+    meanBn: সর্পিল বা অত্যন্ত প্যাঁচালো
+    syn[0]: 'winding' | all syns: ['winding', 'twisting', 'convoluted', 'voluminous']
+    ant[0]: 'straight' | all ants: ['straight', 'direct', 'linear']
+
+[318] Tractable (adjective)
+    meanEn: Easily managed, influenced, controlled, or taught; docile.
+    meanBn: বশংবদ বা সহজে পরিচালনাযোগ্য
+    syn[0]: 'docile' | all syns: ['docile', 'manageable', 'amenable', 'manipulable']
+    ant[0]: 'unruly' | all ants: ['unruly', 'intractable', 'defiant']
+
+[319] Transgression (noun)
+    meanEn: The act of transgressing; the violation of a law or a duty or moral principle.
+    meanBn: আইন লঙ্ঘন বা পাপ
+    syn[0]: 'violation' | all syns: ['violation', 'offense', 'sin', 'evildoing']
+    ant[0]: 'obedience' | all ants: ['obedience', 'compliance', 'virtue']
+
+[320] Truculence (noun)
+    meanEn: Obstreperous and defiant aggressiveness.
+    meanBn: আগ্রাসী মনোভাব বা হিংস্রতা
+    syn[0]: 'ferocity' | all syns: ['ferocity', 'aggressiveness', 'belligerence', 'truculency']
+    ant[0]: 'gentleness' | all ants: ['gentleness', 'mildness', 'amiability']
+
+[321] Vacillate (verb)
+    meanEn: To waver between different opinions or actions; be indecisive.
+    meanBn: দ্বিধাদ্বন্দ্বে দোলা বা অনিশ্চিত থাকা
+    syn[0]: 'waver' | all syns: ['waver', 'hesitate', 'fluctuate', 'hover']
+    ant[0]: 'decide' | all ants: ['decide', 'persevere', 'persist']
+
+[322] Venerate (verb)
+    meanEn: To regard someone or something with deep respect, reverence, or awe.
+    meanBn: শ্রদ্ধা বা পূজা করা
+    syn[0]: 'revere' | all syns: ['revere', 'honor', 'worship', 'fear']
+    ant[0]: 'despise' | all ants: ['despise', 'scorn', 'disdain']
+
+[323] Veracious (adjective)
+    meanEn: Habitually speaking the truth; strictly truthful and honest.
+    meanBn: সত্যনিষ্ঠ বা সত্যবাদী
+    syn[0]: 'truthful' | all syns: ['truthful', 'honest', 'accurate', 'right']
+    ant[0]: 'untruthful' | all ants: ['untruthful', 'mendacious', 'deceitful']
+
+[324] Verbose (adjective)
+    meanEn: Using or expressed in more words than are needed; wordy and verbose.
+    meanBn: শব্দবহুল বা অতিরিক্ত বাচাল
+    syn[0]: 'wordy' | all syns: ['wordy', 'prolix', 'loquacious', 'tedious']
+    ant[0]: 'concise' | all ants: ['concise', 'laconic', 'succinct']
+
+[325] Viable (adjective)
+    meanEn: Capable of being done with means at hand and circumstances as they are.
+    meanBn: কার্যকর বা টিকে থাকার যোগ্য
+    syn[0]: 'workable' | all syns: ['workable', 'feasible', 'practicable', 'executable']
+    ant[0]: 'unworkable' | all ants: ['unworkable', 'impractical', 'futile']
+
+[326] Viscous (adjective)
+    meanEn: Having a thick, sticky consistency between solid and liquid; high viscosity.
+    meanBn: আঠালো বা ঘন আঠার মতো
+    syn[0]: 'sticky' | all syns: ['sticky', 'thick', 'gelatinous', 'gluey']
+    ant[0]: 'watery' | all ants: ['watery', 'fluid', 'thin']
+
+[327] Vituperative (adjective)
+    meanEn: Bitter, abusive, and harshly critical in tone; disparaging.
+    meanBn: তীব্র আক্রমণাত্মক বা কটূক্তিমূলক
+    syn[0]: 'scolding' | all syns: ['scolding', 'abusive', 'insulting', 'scathing']
+    ant[0]: 'complimentary' | all ants: ['complimentary', 'laudatory', 'flattering']
+
+[328] Volatile (adjective)
+    meanEn: Liable to change rapidly and unpredictably, especially for the worse; easily evaporated.
+    meanBn: উদ্বায়ী বা দ্রুত পরিবর্তনশীল ও বিস্ফোরক
+    syn[0]: 'changeable' | all syns: ['changeable', 'explosive', 'unstable']
+    ant[0]: 'stable' | all ants: ['stable', 'constant', 'steady']
+
+[329] Warranted (adjective)
+    meanEn: Justified, reasonable, or necessary under the circumstances.
+    meanBn: ন্যায্য বা যুক্তিযুক্ত
+    syn[0]: 'justified' | all syns: ['justified', 'authorized', 'defensible', 'justify']
+    ant[0]: 'unwarranted' | all ants: ['unwarranted', 'unjustified', 'baseless']
+
+[330] Wary (adjective)
+    meanEn: Marked by keen caution and watchful prudence.
+    meanBn: সতর্ক বা সাবধানী
+    syn[0]: 'cautious' | all syns: ['cautious', 'watchful', 'vigilant', 'untrusting']
+    ant[0]: 'careless' | all ants: ['careless', 'heedless', 'reckless', 'unwary']
+
+[331] Welter (noun)
+    meanEn: A confused, tangled mass or jumble; a state of general turmoil.
+    meanBn: বিশৃঙ্খল স্তূপ বা গোলমাল
+    syn[0]: 'turmoil' | all syns: ['turmoil', 'jumble', 'clutter', 'muddle']
+    ant[0]: 'order' | all ants: ['order', 'neatness', 'system']
+
+[332] Whimsical (adjective)
+    meanEn: Determined by chance or impulse or whim rather than by necessity or reason.
+    meanBn: খামখেয়ালী বা কাল্পনিক ও অদ্ভুত
+    syn[0]: 'fanciful' | all syns: ['fanciful', 'capricious', 'quirky', 'impulsive']
+    ant[0]: 'serious' | all ants: ['serious', 'practical', 'grave']
+
+[333] Zealot (noun)
+    meanEn: A person who is fanatical and uncompromising in pursuit of their religious, political, or other ideals.
+    meanBn: ধর্মান্ধ বা চরম গোঁড়া ব্যক্তি
+    syn[0]: 'fanatic' | all syns: ['fanatic', 'extremist', 'militant', 'drumbeater']
+    ant[0]: 'moderate' | all ants: ['moderate', 'pragmatist', 'skeptic', 'nonpartisan']
+

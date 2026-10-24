@@ -1,0 +1,6666 @@
+[
+  {
+    "index": 1,
+    "word": "Abash",
+    "pronunciation": "uh-BASH",
+    "meaning_en": "to embarrass",
+    "meaning_bn": "",
+    "example": "She was abashed when she forgot her speech on stage."
+  },
+  {
+    "index": 2,
+    "word": "Abate",
+    "pronunciation": "uh-BAYT",
+    "meaning_en": "to reduce",
+    "meaning_bn": "",
+    "example": "The storm finally abated after three days."
+  },
+  {
+    "index": 3,
+    "word": "Abdicate",
+    "pronunciation": "AB-dih-kayt",
+    "meaning_en": "to step down from a position of power",
+    "meaning_bn": "",
+    "example": "The king abdicated his throne to marry a commoner."
+  },
+  {
+    "index": 4,
+    "word": "Aberration",
+    "pronunciation": "ab-uh-RAY-shun",
+    "meaning_en": "something not typical",
+    "meaning_bn": "",
+    "example": "His rude behavior was an aberration from his usual kindness."
+  },
+  {
+    "index": 5,
+    "word": "Abhor",
+    "pronunciation": "ab-HOR",
+    "meaning_en": "to hate",
+    "meaning_bn": "",
+    "example": "She abhors any form of cruelty to animals."
+  },
+  {
+    "index": 6,
+    "word": "Abject",
+    "pronunciation": "AB-jekt",
+    "meaning_en": "hopeless",
+    "meaning_bn": "",
+    "example": "The refugees lived in abject poverty."
+  },
+  {
+    "index": 7,
+    "word": "Abnegate",
+    "pronunciation": "AB-nih-gayt",
+    "meaning_en": "to reject",
+    "meaning_bn": "",
+    "example": "She abnegated her personal desires to serve others."
+  },
+  {
+    "index": 8,
+    "word": "Abortive",
+    "pronunciation": "uh-BOR-tiv",
+    "meaning_en": "unsuccessful",
+    "meaning_bn": "",
+    "example": "Their abortive attempt to escape ended in capture."
+  },
+  {
+    "index": 9,
+    "word": "Abridge",
+    "pronunciation": "uh-BRIJ",
+    "meaning_en": "to shorten",
+    "meaning_bn": "",
+    "example": "The editor abridged the novel to fit the magazine."
+  },
+  {
+    "index": 10,
+    "word": "Absolute",
+    "pronunciation": "AB-suh-loot",
+    "meaning_en": "total",
+    "meaning_bn": "",
+    "example": "The general demanded absolute obedience from his troops."
+  },
+  {
+    "index": 11,
+    "word": "Absolve",
+    "pronunciation": "ab-ZOLV",
+    "meaning_en": "to free from blame",
+    "meaning_bn": "",
+    "example": "The court absolved him of all charges."
+  },
+  {
+    "index": 12,
+    "word": "Abstinent",
+    "pronunciation": "AB-stih-nunt",
+    "meaning_en": "voluntarily not doing something",
+    "meaning_bn": "",
+    "example": "He remained abstinent from alcohol his entire life."
+  },
+  {
+    "index": 13,
+    "word": "Abstract",
+    "pronunciation": "AB-strakt",
+    "meaning_en": "theoretical",
+    "meaning_bn": "",
+    "example": "Mathematics can seem very abstract to young students."
+  },
+  {
+    "index": 14,
+    "word": "Abstruse",
+    "pronunciation": "ab-STROOS",
+    "meaning_en": "difficult to understand",
+    "meaning_bn": "",
+    "example": "The professor's lecture was so abstruse that students fell asleep."
+  },
+  {
+    "index": 15,
+    "word": "Abysmal",
+    "pronunciation": "uh-BIZ-mul",
+    "meaning_en": "extremely hopeless; bottomless",
+    "meaning_bn": "",
+    "example": "The team's performance was abysmal in the final match."
+  },
+  {
+    "index": 16,
+    "word": "Accolade",
+    "pronunciation": "AK-uh-layd",
+    "meaning_en": "an honor",
+    "meaning_bn": "",
+    "example": "Winning the Nobel Prize is the highest accolade a scientist can receive."
+  },
+  {
+    "index": 17,
+    "word": "Accost",
+    "pronunciation": "uh-KOST",
+    "meaning_en": "to approach and speak to someone",
+    "meaning_bn": "",
+    "example": "A stranger accosted him on the street asking for money."
+  },
+  {
+    "index": 18,
+    "word": "Acerbic",
+    "pronunciation": "uh-SER-bik",
+    "meaning_en": "bitter; sour; severe",
+    "meaning_bn": "",
+    "example": "His acerbic remarks left everyone feeling uncomfortable."
+  },
+  {
+    "index": 19,
+    "word": "Acquiesce",
+    "pronunciation": "ak-wee-ES",
+    "meaning_en": "to comply passively",
+    "meaning_bn": "",
+    "example": "She acquiesced to his plan despite her doubts."
+  },
+  {
+    "index": 20,
+    "word": "Acrid",
+    "pronunciation": "AK-rid",
+    "meaning_en": "harsh",
+    "meaning_bn": "",
+    "example": "The acrid smell of smoke filled the building."
+  },
+  {
+    "index": 21,
+    "word": "Acrimonious",
+    "pronunciation": "ak-rih-MOH-nee- us",
+    "meaning_en": "bitter",
+    "meaning_bn": "",
+    "example": "Their divorce was long and acrimonious."
+  },
+  {
+    "index": 22,
+    "word": "Acumen",
+    "pronunciation": "AK-yoo-men",
+    "meaning_en": "mental sharpness",
+    "meaning_bn": "",
+    "example": "Her business acumen helped the company grow rapidly."
+  },
+  {
+    "index": 23,
+    "word": "Acute",
+    "pronunciation": "uh-KYOOT",
+    "meaning_en": "sharp",
+    "meaning_bn": "",
+    "example": "He had an acute sense of hearing."
+  },
+  {
+    "index": 24,
+    "word": "Adamant",
+    "pronunciation": "AD-uh-munt",
+    "meaning_en": "stubborn",
+    "meaning_bn": "",
+    "example": "She was adamant about not changing her decision."
+  },
+  {
+    "index": 25,
+    "word": "Address",
+    "pronunciation": "uh-DRES",
+    "meaning_en": "to direct one's attention to",
+    "meaning_bn": "",
+    "example": "The president addressed the nation on television."
+  },
+  {
+    "index": 26,
+    "word": "Adherent",
+    "pronunciation": "ad-HEER-unt",
+    "meaning_en": "supporter",
+    "meaning_bn": "",
+    "example": "She is a strong adherent of environmental causes."
+  },
+  {
+    "index": 27,
+    "word": "Admonish",
+    "pronunciation": "ad-MON-ish",
+    "meaning_en": "to warn",
+    "meaning_bn": "",
+    "example": "The teacher admonished students to study hard."
+  },
+  {
+    "index": 28,
+    "word": "Adroit",
+    "pronunciation": "uh-DROYT",
+    "meaning_en": "skillful",
+    "meaning_bn": "",
+    "example": "She was adroit at handling difficult customers."
+  },
+  {
+    "index": 29,
+    "word": "Adulation",
+    "pronunciation": "aj-uh-LAY-shun",
+    "meaning_en": "wild or excessive admiration; flattery",
+    "meaning_bn": "অতিরিকত্ প্রশংসা / তো ষামো দ",
+    "example": "The singer basked in the adulation of her fans."
+  },
+  {
+    "index": 30,
+    "word": "Adulterate",
+    "pronunciation": "uh-DUL-tuh-rayt",
+    "meaning_en": "to contaminate; to make impure",
+    "meaning_bn": "ভেজাল মেশানো / অশুদধ্ করা",
+    "example": "Some dishonest sellers adulterate milk with water."
+  },
+  {
+    "index": 31,
+    "word": "Adverse",
+    "pronunciation": "ad-VURS",
+    "meaning_en": "unfavorable; antagonistic",
+    "meaning_bn": "প্রতিকলূ / কত্ষিকর",
+    "example": "Adverse weather forced the match to be postponed."
+  },
+  {
+    "index": 32,
+    "word": "Aesthetic",
+    "pronunciation": "es-THET-ik",
+    "meaning_en": "having to do with artistic beauty; artistic",
+    "meaning_bn": "নানদ্ নিক / সৌ নদ্ র্যবিষযক ়",
+    "example": "The architect had a keen aesthetic sense."
+  },
+  {
+    "index": 33,
+    "word": "Affable",
+    "pronunciation": "AF-uh-bul",
+    "meaning_en": "easy to talk to; friendly",
+    "meaning_bn": "মিশুক / অমায়িক",
+    "example": "Our affable neighbor greets everyone with a smile."
+  },
+  {
+    "index": 34,
+    "word": "Affectation",
+    "pronunciation": "af-ek-TAY-shun",
+    "meaning_en": "unnatural or artificial behavior, usually intended to impress",
+    "meaning_bn": "কতৃ্রি ম আচরণ / লোকদেখানো ভাব",
+    "example": "His foreign accent was an affectation; he had never lived abroad."
+  },
+  {
+    "index": 35,
+    "word": "Affinity",
+    "pronunciation": "uh-FIN-uh-tee",
+    "meaning_en": "sympathy; attraction; kinship; similarity",
+    "meaning_bn": "সবা্াভাবিক আকর্ষণ / আত্মীযতা / সাদৃশ্য ়",
+    "example": "She has a natural affinity for languages."
+  },
+  {
+    "index": 36,
+    "word": "Affluent",
+    "pronunciation": "AF-loo-unt",
+    "meaning_en": "rich; prosperous",
+    "meaning_bn": "ধনী / সমৃদধ্",
+    "example": "They live in an affluent neighborhood."
+  },
+  {
+    "index": 37,
+    "word": "Agenda",
+    "pronunciation": "uh-JEN-duh",
+    "meaning_en": "program; the things to be done",
+    "meaning_bn": "কার্যসূচি / আলোচ্যসূচি",
+    "example": "The first item on the agenda was the annual budget."
+  },
+  {
+    "index": 38,
+    "word": "Aggregate",
+    "pronunciation": "AG-ruh-gut",
+    "meaning_en": "sum total; a collection of separate things mixed together",
+    "meaning_bn": "সমষটি্ / মো ট পরিমাণ",
+    "example": "The aggregate of their scores decided the winner."
+  },
+  {
+    "index": 39,
+    "word": "Agnostic",
+    "pronunciation": "ag-NAHS-tik",
+    "meaning_en": "one who believes that the existence of a god can be neither proven nor disproven",
+    "meaning_bn": "অজ্ঞে যবাদী ়",
+    "example": "As an agnostic, he neither affirmed nor denied the existence of God."
+  },
+  {
+    "index": 40,
+    "word": "Agrarian",
+    "pronunciation": "uh-GRAR-ee-un",
+    "meaning_en": "relating to land or to the farming of land",
+    "meaning_bn": "কষৃি ও ভূমিসংকা্রানত্",
+    "example": "Bangladesh has traditionally had an agrarian economy."
+  },
+  {
+    "index": 41,
+    "word": "Alacrity",
+    "pronunciation": "uh-LAK-rih-tee",
+    "meaning_en": "cheerful promptness",
+    "meaning_bn": "",
+    "example": "He accepted the challenge with alacrity."
+  },
+  {
+    "index": 42,
+    "word": "Allege",
+    "pronunciation": "uh-LEJ",
+    "meaning_en": "to assert without proof",
+    "meaning_bn": "",
+    "example": "The newspaper alleged that the minister had taken bribes."
+  },
+  {
+    "index": 43,
+    "word": "Alleviate",
+    "pronunciation": "uh-LEE-vee-ayt",
+    "meaning_en": "to relieve",
+    "meaning_bn": "",
+    "example": "The medicine helped alleviate his pain."
+  },
+  {
+    "index": 44,
+    "word": "Allocate",
+    "pronunciation": "AL-oh-kayt",
+    "meaning_en": "to distribute",
+    "meaning_bn": "",
+    "example": "The government allocated funds for disaster relief."
+  },
+  {
+    "index": 45,
+    "word": "Alloy",
+    "pronunciation": "AL-oy",
+    "meaning_en": "a combination, usually of metals",
+    "meaning_bn": "",
+    "example": "Bronze is an alloy of copper and tin."
+  },
+  {
+    "index": 46,
+    "word": "Allusion",
+    "pronunciation": "uh-LOO-zhun",
+    "meaning_en": "an indirect reference",
+    "meaning_bn": "",
+    "example": "His speech was full of allusions to Shakespeare."
+  },
+  {
+    "index": 47,
+    "word": "Aloof",
+    "pronunciation": "uh-LOOF",
+    "meaning_en": "uninvolved",
+    "meaning_bn": "",
+    "example": "She remained aloof during the argument."
+  },
+  {
+    "index": 48,
+    "word": "Altruism",
+    "pronunciation": "AL-troo-iz-um",
+    "meaning_en": "devotion to the interest of others",
+    "meaning_bn": "",
+    "example": "His altruism was evident in his years of volunteer work."
+  },
+  {
+    "index": 49,
+    "word": "Ambience",
+    "pronunciation": "AM-bee-unce",
+    "meaning_en": "atmosphere",
+    "meaning_bn": "",
+    "example": "The restaurant had a romantic ambience."
+  },
+  {
+    "index": 50,
+    "word": "Ambiguous",
+    "pronunciation": "am-BIG-yoo-us",
+    "meaning_en": "unclear in meaning",
+    "meaning_bn": "",
+    "example": "His ambiguous answer left everyone confused."
+  },
+  {
+    "index": 51,
+    "word": "Ambivalent",
+    "pronunciation": "am-BIV-uh-lunt",
+    "meaning_en": "undecided",
+    "meaning_bn": "",
+    "example": "She felt ambivalent about accepting the job offer."
+  },
+  {
+    "index": 52,
+    "word": "Ameliorate",
+    "pronunciation": "uh-MEEL-yuh-rayt",
+    "meaning_en": "to make better",
+    "meaning_bn": "",
+    "example": "New policies were introduced to ameliorate living conditions."
+  },
+  {
+    "index": 53,
+    "word": "Amenable",
+    "pronunciation": "uh-MEE-nuh-bul",
+    "meaning_en": "obedient",
+    "meaning_bn": "",
+    "example": "He was amenable to suggestions from his team."
+  },
+  {
+    "index": 54,
+    "word": "Amenity",
+    "pronunciation": "uh-MEN-ih-tee",
+    "meaning_en": "attractive or comfortable feature",
+    "meaning_bn": "",
+    "example": "The hotel offered many amenities including a pool and gym."
+  },
+  {
+    "index": 55,
+    "word": "Amiable",
+    "pronunciation": "AY-mee-uh-bul",
+    "meaning_en": "friendly",
+    "meaning_bn": "",
+    "example": "Her amiable personality made her very popular."
+  },
+  {
+    "index": 56,
+    "word": "Amnesty",
+    "pronunciation": "AM-nes-tee",
+    "meaning_en": "an official pardon for a group of people who have violated a law or policy",
+    "meaning_bn": "",
+    "example": "The government declared amnesty for all political prisoners."
+  },
+  {
+    "index": 57,
+    "word": "Amoral",
+    "pronunciation": "ay-MOR-ul",
+    "meaning_en": "lacking a sense of right and wrong",
+    "meaning_bn": "",
+    "example": "The con artist was completely amoral."
+  },
+  {
+    "index": 58,
+    "word": "Amorous",
+    "pronunciation": "AM-uh-rus",
+    "meaning_en": "in love in a sexual way",
+    "meaning_bn": "",
+    "example": "He cast an amorous glance at her across the room."
+  },
+  {
+    "index": 59,
+    "word": "Amorphous",
+    "pronunciation": "uh-MOR-fus",
+    "meaning_en": "shapeless",
+    "meaning_bn": "",
+    "example": "The amorphous blob of clay slowly took shape."
+  },
+  {
+    "index": 60,
+    "word": "Anachronism",
+    "pronunciation": "uh-NAK-ruh-niz- um",
+    "meaning_en": "something out of place in time or history",
+    "meaning_bn": "",
+    "example": "Using a quill pen in modern times is an anachronism."
+  },
+  {
+    "index": 61,
+    "word": "Analogy",
+    "pronunciation": "uh-NAL-uh-jee",
+    "meaning_en": "a comparison",
+    "meaning_bn": "",
+    "example": "He used an analogy to explain how the heart works like a pump."
+  },
+  {
+    "index": 62,
+    "word": "Anarchy",
+    "pronunciation": "AN-ar-kee",
+    "meaning_en": "disorder",
+    "meaning_bn": "",
+    "example": "After the king fled, the country fell into anarchy."
+  },
+  {
+    "index": 63,
+    "word": "Anecdote",
+    "pronunciation": "AN-ik-doht",
+    "meaning_en": "a short account of a humorous or revealing incident",
+    "meaning_bn": "",
+    "example": "She told a funny anecdote about her first day at work."
+  },
+  {
+    "index": 64,
+    "word": "Anguish",
+    "pronunciation": "ANG-gwish",
+    "meaning_en": "agonizing physical or mental pain",
+    "meaning_bn": "",
+    "example": "The loss of her child caused her immense anguish."
+  },
+  {
+    "index": 65,
+    "word": "Animosity",
+    "pronunciation": "an-ih-MOS-ih-tee",
+    "meaning_en": "ill will",
+    "meaning_bn": "",
+    "example": "There was deep animosity between the two rival groups."
+  },
+  {
+    "index": 66,
+    "word": "Anomaly",
+    "pronunciation": "uh-NOM-uh-lee",
+    "meaning_en": "irregularity",
+    "meaning_bn": "",
+    "example": "The scientist noticed an anomaly in the data."
+  },
+  {
+    "index": 67,
+    "word": "Antecedent",
+    "pronunciation": "an-tih-SEE-dunt",
+    "meaning_en": "something that provides a model for",
+    "meaning_bn": "",
+    "example": "The French Revolution was an antecedent to many modern democracies."
+  },
+  {
+    "index": 68,
+    "word": "Antipathy",
+    "pronunciation": "an-TIP-uh-thee",
+    "meaning_en": "dislike",
+    "meaning_bn": "",
+    "example": "He felt a strong antipathy toward dishonesty."
+  },
+  {
+    "index": 69,
+    "word": "Antithesis",
+    "pronunciation": "an-TITH-ih-sis",
+    "meaning_en": "the direct opposite",
+    "meaning_bn": "",
+    "example": "Kindness is the antithesis of cruelty."
+  },
+  {
+    "index": 70,
+    "word": "Apartheid",
+    "pronunciation": "uh-PAR-tayt",
+    "meaning_en": "the abhorrent policy of racial segregation and oppression in South Africa",
+    "meaning_bn": "",
+    "example": "Nelson Mandela fought against apartheid for decades."
+  },
+  {
+    "index": 71,
+    "word": "Apathy",
+    "pronunciation": "AP-uh-thee",
+    "meaning_en": "lack of interest",
+    "meaning_bn": "",
+    "example": "Voter apathy was a major problem in the election."
+  },
+  {
+    "index": 72,
+    "word": "Aphorism",
+    "pronunciation": "AF-uh-riz-um",
+    "meaning_en": "proverb",
+    "meaning_bn": "",
+    "example": "\"Less is more\" is a well-known aphorism in design."
+  },
+  {
+    "index": 73,
+    "word": "Apocalypse",
+    "pronunciation": "uh-POK-uh-lips",
+    "meaning_en": "revelation",
+    "meaning_bn": "",
+    "example": "The film depicted an apocalypse caused by climate change."
+  },
+  {
+    "index": 74,
+    "word": "Apocryphal",
+    "pronunciation": "uh-POK-rih-ful",
+    "meaning_en": "of dubious authenticity",
+    "meaning_bn": "",
+    "example": "The story of his heroism is probably apocryphal."
+  },
+  {
+    "index": 75,
+    "word": "Apotheosis",
+    "pronunciation": "uh-poth-ee-OH- sis",
+    "meaning_en": "the perfect example of something",
+    "meaning_bn": "",
+    "example": "That painting is the apotheosis of Renaissance art."
+  },
+  {
+    "index": 76,
+    "word": "Appease",
+    "pronunciation": "uh-PEEZ",
+    "meaning_en": "to pacify by giving in to",
+    "meaning_bn": "",
+    "example": "She brought gifts to appease her angry boss."
+  },
+  {
+    "index": 77,
+    "word": "Appreciate",
+    "pronunciation": "uh-PREE-shee- ayt",
+    "meaning_en": "to increase in value",
+    "meaning_bn": "",
+    "example": "Property in this area has appreciated significantly."
+  },
+  {
+    "index": 78,
+    "word": "Apprehensive",
+    "pronunciation": "ap-rih-HEN-siv",
+    "meaning_en": "anxious",
+    "meaning_bn": "",
+    "example": "She was apprehensive about her exam results."
+  },
+  {
+    "index": 79,
+    "word": "Approbation",
+    "pronunciation": "ap-roh-BAY-shun",
+    "meaning_en": "approval; praise",
+    "meaning_bn": "",
+    "example": "He sought his father's approbation before making the decision."
+  },
+  {
+    "index": 80,
+    "word": "Appropriate",
+    "pronunciation": "uh-PROH-pree- ayt",
+    "meaning_en": "to take without permission; to set aside for a particular use",
+    "meaning_bn": "",
+    "example": "The funds were appropriated for road construction."
+  },
+  {
+    "index": 81,
+    "word": "Aptitude",
+    "pronunciation": "AP-tih-tood",
+    "meaning_en": "capacity for learning",
+    "meaning_bn": "",
+    "example": "She showed a natural aptitude for mathematics."
+  },
+  {
+    "index": 82,
+    "word": "Arbiter",
+    "pronunciation": "AR-bih-ter",
+    "meaning_en": "a judge",
+    "meaning_bn": "",
+    "example": "The chairman acted as arbiter in the dispute."
+  },
+  {
+    "index": 83,
+    "word": "Arbitrary",
+    "pronunciation": "AR-bih-trer-ee",
+    "meaning_en": "random",
+    "meaning_bn": "",
+    "example": "His arbitrary decision angered the entire team."
+  },
+  {
+    "index": 84,
+    "word": "Arcane",
+    "pronunciation": "ar-KAYN",
+    "meaning_en": "known only to a select few",
+    "meaning_bn": "",
+    "example": "The professor's lecture on arcane philosophy confused students."
+  },
+  {
+    "index": 85,
+    "word": "Archaic",
+    "pronunciation": "ar-KAY-ik",
+    "meaning_en": "ancient",
+    "meaning_bn": "",
+    "example": "The museum displayed archaic tools from the Stone Age."
+  },
+  {
+    "index": 86,
+    "word": "Archetype",
+    "pronunciation": "AR-kih-typ",
+    "meaning_en": "an original model or pattern",
+    "meaning_bn": "",
+    "example": "The hero is a common archetype in literature."
+  },
+  {
+    "index": 87,
+    "word": "Ardent",
+    "pronunciation": "AR-dunt",
+    "meaning_en": "passionate",
+    "meaning_bn": "",
+    "example": "She was an ardent supporter of human rights."
+  },
+  {
+    "index": 88,
+    "word": "Arduous",
+    "pronunciation": "AR-joo-us",
+    "meaning_en": "difficult",
+    "meaning_bn": "",
+    "example": "The trek up the mountain was arduous but rewarding."
+  },
+  {
+    "index": 89,
+    "word": "Aristocratic",
+    "pronunciation": "uh-ris-tuh-KRAT-ik",
+    "meaning_en": "noble birth; snobbish",
+    "meaning_bn": "",
+    "example": "She carried herself with an aristocratic air."
+  },
+  {
+    "index": 90,
+    "word": "Artful",
+    "pronunciation": "ART-ful",
+    "meaning_en": "dishonest; crafty",
+    "meaning_bn": "",
+    "example": "The artful salesman convinced him to buy things he didn't need."
+  },
+  {
+    "index": 91,
+    "word": "Artifice",
+    "pronunciation": "AR-tih-fis",
+    "meaning_en": "a clever trick",
+    "meaning_bn": "",
+    "example": "Her smile was an artifice to hide her true feelings."
+  },
+  {
+    "index": 92,
+    "word": "Ascendancy",
+    "pronunciation": "uh-SEN-dun-see",
+    "meaning_en": "domination",
+    "meaning_bn": "",
+    "example": "The party gained ascendancy over its rivals."
+  },
+  {
+    "index": 93,
+    "word": "Ascetic",
+    "pronunciation": "uh-S ET-ik",
+    "meaning_en": "practicing self-denial",
+    "meaning_bn": "",
+    "example": "The monk lived an ascetic life without luxury."
+  },
+  {
+    "index": 94,
+    "word": "Assiduous",
+    "pronunciation": "uh-SIJ-oo-us",
+    "meaning_en": "hardworking",
+    "meaning_bn": "",
+    "example": "She was assiduous in her preparation for the exam."
+  },
+  {
+    "index": 95,
+    "word": "Assimilate",
+    "pronunciation": "uh-SIM-ih-layt",
+    "meaning_en": "to absorb",
+    "meaning_bn": "",
+    "example": "It takes time to assimilate into a new culture."
+  },
+  {
+    "index": 96,
+    "word": "Assuage",
+    "pronunciation": "uh-SWAYJ",
+    "meaning_en": "to soothe",
+    "meaning_bn": "",
+    "example": "He tried to assuage her fears with kind words."
+  },
+  {
+    "index": 97,
+    "word": "Astute",
+    "pronunciation": "uh-STOOT",
+    "meaning_en": "keen in judgement",
+    "meaning_bn": "",
+    "example": "The astute investor made a fortune in the market."
+  },
+  {
+    "index": 98,
+    "word": "Atheist",
+    "pronunciation": "AY-thee-ist",
+    "meaning_en": "one who does not believe in the existence of any god",
+    "meaning_bn": "নাস্তি ক",
+    "example": "The atheist said he had seen no evidence for any god."
+  },
+  {
+    "index": 99,
+    "word": "Attrition",
+    "pronunciation": "uh-TRISH-un",
+    "meaning_en": "gradual wearing away, weakening or loss",
+    "meaning_bn": "",
+    "example": "The army defeated the enemy through a war of attrition."
+  },
+  {
+    "index": 100,
+    "word": "Audacity",
+    "pronunciation": "aw-DAS-ih-tee",
+    "meaning_en": "boldness",
+    "meaning_bn": "",
+    "example": "He had the audacity to ask for a raise after being late every day."
+  },
+  {
+    "index": 101,
+    "word": "Augment",
+    "pronunciation": "awg-MENT",
+    "meaning_en": "to increase",
+    "meaning_bn": "",
+    "example": "She took a second job to augment her income."
+  },
+  {
+    "index": 102,
+    "word": "Auspicious",
+    "pronunciation": "aw-SPISH-us",
+    "meaning_en": "favorable",
+    "meaning_bn": "",
+    "example": "It was an auspicious start to the new year."
+  },
+  {
+    "index": 103,
+    "word": "Austere",
+    "pronunciation": "aw-STEER",
+    "meaning_en": "unadorned",
+    "meaning_bn": "",
+    "example": "He lived an austere life without any luxuries."
+  },
+  {
+    "index": 104,
+    "word": "Autocratic",
+    "pronunciation": "aw-toh-KRAT-ik",
+    "meaning_en": "extremely bossy",
+    "meaning_bn": "",
+    "example": "The autocratic manager never accepted any feedback."
+  },
+  {
+    "index": 105,
+    "word": "Autonomous",
+    "pronunciation": "aw-TON-uh-mus",
+    "meaning_en": "acting independently",
+    "meaning_bn": "",
+    "example": "The region became autonomous after the peace agreement."
+  },
+  {
+    "index": 106,
+    "word": "Avarice",
+    "pronunciation": "AV-uh-ris",
+    "meaning_en": "excessive love of riches",
+    "meaning_bn": "",
+    "example": "His avarice led him to betray his own friends."
+  },
+  {
+    "index": 107,
+    "word": "Avow",
+    "pronunciation": "uh-VOW",
+    "meaning_en": "to declare boldly",
+    "meaning_bn": "",
+    "example": "He avowed his love for her in front of everyone."
+  },
+  {
+    "index": 108,
+    "word": "Avuncular",
+    "pronunciation": "uh-VUNK-yuh-ler",
+    "meaning_en": "like a nice uncle",
+    "meaning_bn": "",
+    "example": "He had an avuncular manner that put young people at ease."
+  },
+  {
+    "index": 109,
+    "word": "Awry",
+    "pronunciation": "uh-RY",
+    "meaning_en": "off course; twisted to one side",
+    "meaning_bn": "",
+    "example": "Our plans went awry when the venue cancelled."
+  },
+  {
+    "index": 110,
+    "word": "Axiom",
+    "pronunciation": "AK-see-um",
+    "meaning_en": "a widely accepted saying",
+    "meaning_bn": "",
+    "example": "It is an axiom that the sun rises in the east."
+  },
+  {
+    "index": 111,
+    "word": "Banal",
+    "pronunciation": "buh-NAL",
+    "meaning_en": "unoriginal",
+    "meaning_bn": "",
+    "example": "His speech was full of banal clichés."
+  },
+  {
+    "index": 112,
+    "word": "Bane",
+    "pronunciation": "BAYN",
+    "meaning_en": "cause of harm; poison",
+    "meaning_bn": "",
+    "example": "Jealousy was the bane of their friendship."
+  },
+  {
+    "index": 113,
+    "word": "Bastion",
+    "pronunciation": "BAS-chun",
+    "meaning_en": "fortified place",
+    "meaning_bn": "",
+    "example": "The library is a bastion of knowledge."
+  },
+  {
+    "index": 114,
+    "word": "Beget",
+    "pronunciation": "bih-GET",
+    "meaning_en": "to lead to",
+    "meaning_bn": "",
+    "example": "Violence begets more violence."
+  },
+  {
+    "index": 115,
+    "word": "Belabor",
+    "pronunciation": "bih-LAY-ber",
+    "meaning_en": "to go over repeatedly or to an absurd extent",
+    "meaning_bn": "",
+    "example": "He belabored the same point for an hour without adding anything new."
+  },
+  {
+    "index": 116,
+    "word": "Beleaguer",
+    "pronunciation": "bih-LEE-ger",
+    "meaning_en": "to harass; crowd",
+    "meaning_bn": "",
+    "example": "The beleaguered teacher struggled to manage the noisy class."
+  },
+  {
+    "index": 117,
+    "word": "Belie",
+    "pronunciation": "bih-LY",
+    "meaning_en": "to contradict",
+    "meaning_bn": "",
+    "example": "His calm expression belied his inner anxiety."
+  },
+  {
+    "index": 118,
+    "word": "Belittle",
+    "pronunciation": "bih-LIT-ul",
+    "meaning_en": "to make seem little",
+    "meaning_bn": "",
+    "example": "He always belittled others to feel superior."
+  },
+  {
+    "index": 119,
+    "word": "Belligerent",
+    "pronunciation": "buh-LIJ-er-unt",
+    "meaning_en": "quarrelsome",
+    "meaning_bn": "",
+    "example": "He became belligerent after a few drinks."
+  },
+  {
+    "index": 120,
+    "word": "Bemused",
+    "pronunciation": "bih-MYOOZD",
+    "meaning_en": "confused; bewildered",
+    "meaning_bn": "",
+    "example": "She looked bemused by the strange question."
+  },
+  {
+    "index": 121,
+    "word": "Benefactor",
+    "pronunciation": "BEN-ih-fak-ter",
+    "meaning_en": "one who provides help in the form of a gift or donation",
+    "meaning_bn": "",
+    "example": "An anonymous benefactor donated a new library to the school."
+  },
+  {
+    "index": 122,
+    "word": "Benevolent",
+    "pronunciation": "buh-NEV-uh-lunt",
+    "meaning_en": "generous",
+    "meaning_bn": "",
+    "example": "The benevolent businessman funded scholarships for poor students."
+  },
+  {
+    "index": 123,
+    "word": "Benign",
+    "pronunciation": "bih-NYN",
+    "meaning_en": "not harmful",
+    "meaning_bn": "",
+    "example": "The tumor was benign and required no treatment."
+  },
+  {
+    "index": 124,
+    "word": "Bequest",
+    "pronunciation": "bih-KWEST",
+    "meaning_en": "something left to someone in a will",
+    "meaning_bn": "",
+    "example": "He received a bequest of valuable land from his grandfather."
+  },
+  {
+    "index": 125,
+    "word": "Bereaved",
+    "pronunciation": "bih-REEVD",
+    "meaning_en": "left desolate, through death",
+    "meaning_bn": "",
+    "example": "The bereaved family needed support from friends."
+  },
+  {
+    "index": 126,
+    "word": "Beset",
+    "pronunciation": "bih-SET",
+    "meaning_en": "to harass; to surround",
+    "meaning_bn": "",
+    "example": "The traveler was beset by difficulties throughout the journey."
+  },
+  {
+    "index": 127,
+    "word": "Blasphemy",
+    "pronunciation": "BLAS-fuh-mee",
+    "meaning_en": "an insult to something held sacred",
+    "meaning_bn": "",
+    "example": "He was arrested for blasphemy."
+  },
+  {
+    "index": 128,
+    "word": "Blatant",
+    "pronunciation": "BLAY-tunt",
+    "meaning_en": "offensively noisy; glaring",
+    "meaning_bn": "",
+    "example": "His blatant lie was obvious to everyone."
+  },
+  {
+    "index": 129,
+    "word": "Blight",
+    "pronunciation": "blyte",
+    "meaning_en": "a disease in plants; anything that injures or destroys",
+    "meaning_bn": "উদ্ভি দের রোগ / কত্ষিকর বিষয ়",
+    "example": "A fungal blight destroyed most of the potato crop."
+  },
+  {
+    "index": 130,
+    "word": "Blithe",
+    "pronunciation": "BLYTH",
+    "meaning_en": "carefree; cheerful",
+    "meaning_bn": "",
+    "example": "She walked through the park with a blithe smile."
+  },
+  {
+    "index": 131,
+    "word": "Bourgeois",
+    "pronunciation": "boor-ZHWAH",
+    "meaning_en": "middle class; conventional",
+    "meaning_bn": "",
+    "example": "He rejected bourgeois values and lived as an artist."
+  },
+  {
+    "index": 132,
+    "word": "Bovine",
+    "pronunciation": "BOH-vyn",
+    "meaning_en": "cowlike",
+    "meaning_bn": "",
+    "example": "His bovine stare made her wonder if he had understood anything."
+  },
+  {
+    "index": 133,
+    "word": "Brevity",
+    "pronunciation": "BREV-ih-tee",
+    "meaning_en": "briefness",
+    "meaning_bn": "",
+    "example": "Good writing requires brevity and clarity."
+  },
+  {
+    "index": 134,
+    "word": "Broach",
+    "pronunciation": "BROHCH",
+    "meaning_en": "to open up a delicate subject for discussion",
+    "meaning_bn": "",
+    "example": "It took courage for her to broach the topic of salary."
+  },
+  {
+    "index": 135,
+    "word": "Bucolic",
+    "pronunciation": "byoo-KOL-ik",
+    "meaning_en": "countrylike",
+    "meaning_bn": "",
+    "example": "He dreamed of retiring to a bucolic village."
+  },
+  {
+    "index": 136,
+    "word": "Bureaucracy",
+    "pronunciation": "byoo-ROK-ruh- see",
+    "meaning_en": "a system of government administration consisting many offices, especially one run according to inflexible and inefficient rules",
+    "meaning_bn": "",
+    "example": "The bureaucracy made it difficult to get a simple permit."
+  },
+  {
+    "index": 137,
+    "word": "Burgeon",
+    "pronunciation": "BUR-jun",
+    "meaning_en": "to expand; to flourish",
+    "meaning_bn": "",
+    "example": "The city's population has burgeoned in recent years."
+  },
+  {
+    "index": 138,
+    "word": "Burlesque",
+    "pronunciation": "bur-LESK",
+    "meaning_en": "a ludicrous, mocking or exaggerated imitation",
+    "meaning_bn": "",
+    "example": "The show was a burlesque of political life."
+  },
+  {
+    "index": 139,
+    "word": "Cacophony",
+    "pronunciation": "kuh-KOF-uh-nee",
+    "meaning_en": "harsh-sounding mixture of words, voices or sounds",
+    "meaning_bn": "",
+    "example": "The cacophony of the market made it hard to think."
+  },
+  {
+    "index": 140,
+    "word": "Cadence",
+    "pronunciation": "KAY-dunce",
+    "meaning_en": "the rise and fall of sounds",
+    "meaning_bn": "",
+    "example": "Her voice had a pleasant cadence that kept the audience engaged."
+  },
+  {
+    "index": 141,
+    "word": "Cajole",
+    "pronunciation": "kuh-JOHL",
+    "meaning_en": "to persuade someone to do something he or she doesn't want to do",
+    "meaning_bn": "",
+    "example": "He cajoled his friend into lending him money."
+  },
+  {
+    "index": 142,
+    "word": "Callow",
+    "pronunciation": "KAL-oh",
+    "meaning_en": "immature",
+    "meaning_bn": "",
+    "example": "The callow intern made several avoidable mistakes."
+  },
+  {
+    "index": 143,
+    "word": "Candor",
+    "pronunciation": "KAN-der",
+    "meaning_en": "sincere honesty",
+    "meaning_bn": "",
+    "example": "His candor was refreshing in a world full of pretense."
+  },
+  {
+    "index": 144,
+    "word": "Capitalism",
+    "pronunciation": "KAP-ih-tul-iz-um",
+    "meaning_en": "an economic system in which businesses are owned by private citizens",
+    "meaning_bn": "",
+    "example": "The country shifted from socialism to capitalism after independence."
+  },
+  {
+    "index": 145,
+    "word": "Capitulate",
+    "pronunciation": "kuh-PICH-uh-layt",
+    "meaning_en": "to surrender",
+    "meaning_bn": "",
+    "example": "After weeks of fighting, the army capitulated."
+  },
+  {
+    "index": 146,
+    "word": "Capricious",
+    "pronunciation": "kuh-PRISH-us",
+    "meaning_en": "fickle",
+    "meaning_bn": "",
+    "example": "Her capricious decisions made planning impossible."
+  },
+  {
+    "index": 147,
+    "word": "Caricature",
+    "pronunciation": "KAR-ih-kuh-chur",
+    "meaning_en": "a portrait or description that is purposely distorted or exaggerated to prove some about its subject",
+    "meaning_bn": "",
+    "example": "The political cartoonist drew a caricature of the president."
+  },
+  {
+    "index": 148,
+    "word": "Castigate",
+    "pronunciation": "KAS-tih-gayt",
+    "meaning_en": "to criticize severely",
+    "meaning_bn": "",
+    "example": "The editor castigated the journalist for plagiarism."
+  },
+  {
+    "index": 149,
+    "word": "Catalyst",
+    "pronunciation": "KAT-uh-list",
+    "meaning_en": "anyone or anything that makes something happen without being directly in it",
+    "meaning_bn": "",
+    "example": "His speech was the catalyst for the protest movement."
+  },
+  {
+    "index": 150,
+    "word": "Categorical",
+    "pronunciation": "kat-ih-GOR-ih-kul",
+    "meaning_en": "unconditional",
+    "meaning_bn": "",
+    "example": "She gave a categorical denial of the allegations."
+  },
+  {
+    "index": 151,
+    "word": "Catharsis",
+    "pronunciation": "kuh-THAR-sis",
+    "meaning_en": "purification that brings emotional relief or renewal",
+    "meaning_bn": "",
+    "example": "Crying can be a form of catharsis after grief."
+  },
+  {
+    "index": 152,
+    "word": "Catholic",
+    "pronunciation": "KATH-uh-lik",
+    "meaning_en": "embracing everything",
+    "meaning_bn": "",
+    "example": "Her taste in music was catholic — she liked everything."
+  },
+  {
+    "index": 153,
+    "word": "Caustic",
+    "pronunciation": "KAW-stik",
+    "meaning_en": "corrosive",
+    "meaning_bn": "",
+    "example": "His caustic wit often offended people."
+  },
+  {
+    "index": 154,
+    "word": "Celibacy",
+    "pronunciation": "SEL-ih-buh-see",
+    "meaning_en": "abstinence from sex",
+    "meaning_bn": "",
+    "example": "The monk had taken a vow of celibacy."
+  },
+  {
+    "index": 155,
+    "word": "Censure",
+    "pronunciation": "SEN-sher",
+    "meaning_en": "to condemn severely for doing something bad",
+    "meaning_bn": "",
+    "example": "The council censured the official for his misconduct."
+  },
+  {
+    "index": 156,
+    "word": "Cerebral",
+    "pronunciation": "SER-ih-brul",
+    "meaning_en": "brainy",
+    "meaning_bn": "",
+    "example": "Chess is a very cerebral game."
+  },
+  {
+    "index": 157,
+    "word": "Chagrin",
+    "pronunciation": "shuh-GRIN",
+    "meaning_en": "humiliation",
+    "meaning_bn": "",
+    "example": "To her chagrin, she arrived late to her own party."
+  },
+  {
+    "index": 158,
+    "word": "Charisma",
+    "pronunciation": "kuh-RIZ-muh",
+    "meaning_en": "a magical-seeming ability to attract followers or inspire loyalty",
+    "meaning_bn": "",
+    "example": "The leader's charisma won over millions of followers."
+  },
+  {
+    "index": 159,
+    "word": "Charlatan",
+    "pronunciation": "SHAR-luh-tun",
+    "meaning_en": "fraud",
+    "meaning_bn": "",
+    "example": "He was exposed as a charlatan who sold fake medicine."
+  },
+  {
+    "index": 160,
+    "word": "Chasm",
+    "pronunciation": "KAZ-um",
+    "meaning_en": "a deep, gaping hole",
+    "meaning_bn": "",
+    "example": "There is a chasm between the rich and the poor."
+  },
+  {
+    "index": 161,
+    "word": "Chastise",
+    "pronunciation": "chas-TYZ",
+    "meaning_en": "to discipline",
+    "meaning_bn": "",
+    "example": "The teacher chastised the student for cheating."
+  },
+  {
+    "index": 162,
+    "word": "Chicanery",
+    "pronunciation": "shih-KAY-nuh-ree",
+    "meaning_en": "deceitfulness, especially legal or political",
+    "meaning_bn": "",
+    "example": "The deal was full of legal chicanery."
+  },
+  {
+    "index": 163,
+    "word": "Chimera",
+    "pronunciation": "ky-MEER-uh",
+    "meaning_en": "a foolish fancy",
+    "meaning_bn": "",
+    "example": "His plans for overnight success were mere chimeras."
+  },
+  {
+    "index": 164,
+    "word": "Choleric",
+    "pronunciation": "KOL-er-ik",
+    "meaning_en": "hot-tempered",
+    "meaning_bn": "",
+    "example": "The choleric boss shouted at everyone in the meeting."
+  },
+  {
+    "index": 165,
+    "word": "Chronic",
+    "pronunciation": "KRON-ik",
+    "meaning_en": "lasting a long time",
+    "meaning_bn": "",
+    "example": "He suffered from chronic back pain."
+  },
+  {
+    "index": 166,
+    "word": "Chronicle",
+    "pronunciation": "KRON-ih-kul",
+    "meaning_en": "a record of events in order of time",
+    "meaning_bn": "",
+    "example": "The book chronicles the rise of the empire."
+  },
+  {
+    "index": 167,
+    "word": "Circuitous",
+    "pronunciation": "ser-KYOO-ih-tus",
+    "meaning_en": "roundabout",
+    "meaning_bn": "",
+    "example": "He took a circuitous route to avoid traffic."
+  },
+  {
+    "index": 168,
+    "word": "Circumlocution",
+    "pronunciation": "ser -kum-loh- KYOO-shun",
+    "meaning_en": "an indirect expression",
+    "meaning_bn": "",
+    "example": "He used circumlocution to avoid answering directly."
+  },
+  {
+    "index": 169,
+    "word": "Circumscribe",
+    "pronunciation": "SER-kum-skryb",
+    "meaning_en": "to restrict",
+    "meaning_bn": "",
+    "example": "The new law circumscribes the powers of the president."
+  },
+  {
+    "index": 170,
+    "word": "Circumspect",
+    "pronunciation": "SER-kum-spekt",
+    "meaning_en": "cautious",
+    "meaning_bn": "",
+    "example": "She was circumspect in sharing personal information."
+  },
+  {
+    "index": 171,
+    "word": "Circumvent",
+    "pronunciation": "ser-kum-VENT",
+    "meaning_en": "to frustrate as though by surrounding",
+    "meaning_bn": "",
+    "example": "He found a way to circumvent the security system."
+  },
+  {
+    "index": 172,
+    "word": "Civil",
+    "pronunciation": "SIV-ul",
+    "meaning_en": "polite",
+    "meaning_bn": "",
+    "example": "Please be civil to your colleagues."
+  },
+  {
+    "index": 173,
+    "word": "Clemency",
+    "pronunciation": "KLEM-un-see",
+    "meaning_en": "forgiveness; mildness",
+    "meaning_bn": "",
+    "example": "The judge showed clemency to the first- time offender."
+  },
+  {
+    "index": 174,
+    "word": "Cliché",
+    "pronunciation": "klee-SHAY",
+    "meaning_en": "an overused saying or idea",
+    "meaning_bn": "",
+    "example": "His speech was full of tired clichés."
+  },
+  {
+    "index": 175,
+    "word": "Clique",
+    "pronunciation": "KLEEK",
+    "meaning_en": "an exclusive group bound together by some shared quality or interest",
+    "meaning_bn": "",
+    "example": "The popular kids formed a clique that excluded others."
+  },
+  {
+    "index": 176,
+    "word": "Coalesce",
+    "pronunciation": "koh-uh-LES",
+    "meaning_en": "to unite",
+    "meaning_bn": "",
+    "example": "The two parties coalesced to form a majority."
+  },
+  {
+    "index": 177,
+    "word": "Coerce",
+    "pronunciation": "koh-ERS",
+    "meaning_en": "to force someone to do or not to do something",
+    "meaning_bn": "",
+    "example": "He coerced his employees into working overtime."
+  },
+  {
+    "index": 178,
+    "word": "Cogent",
+    "pronunciation": "KOH-junt",
+    "meaning_en": "powerfully convincing",
+    "meaning_bn": "",
+    "example": "She made a cogent argument for the new policy."
+  },
+  {
+    "index": 179,
+    "word": "Cognitive",
+    "pronunciation": "KOG-nih-tiv",
+    "meaning_en": "dealing with how we know the world around us through our senses",
+    "meaning_bn": "",
+    "example": "Regular exercise improves cognitive function."
+  },
+  {
+    "index": 180,
+    "word": "Cognizant",
+    "pronunciation": "KOG-nih-zunt",
+    "meaning_en": "aware; conscious",
+    "meaning_bn": "",
+    "example": "She was fully cognizant of the risks involved."
+  },
+  {
+    "index": 181,
+    "word": "Coherent",
+    "pronunciation": "koh-HEER-unt",
+    "meaning_en": "holding together; making sense",
+    "meaning_bn": "",
+    "example": "Please give a coherent explanation of what happened."
+  },
+  {
+    "index": 182,
+    "word": "Colloquial",
+    "pronunciation": "kuh-LOH-kwee-ul",
+    "meaning_en": "informal in language",
+    "meaning_bn": "",
+    "example": "The essay was too colloquial for an academic submission."
+  },
+  {
+    "index": 183,
+    "word": "Collusion",
+    "pronunciation": "kuh-LOO-zhun",
+    "meaning_en": "secret cooperation",
+    "meaning_bn": "",
+    "example": "The two companies were found guilty of collusion."
+  },
+  {
+    "index": 184,
+    "word": "Commensurate",
+    "pronunciation": "kuh-MEN-sur-it",
+    "meaning_en": "proportionate; equal",
+    "meaning_bn": "",
+    "example": "His salary should be commensurate with his experience."
+  },
+  {
+    "index": 185,
+    "word": "Compelling",
+    "pronunciation": "kum-PEL-ing",
+    "meaning_en": "forceful",
+    "meaning_bn": "",
+    "example": "She made a compelling case for expanding the project."
+  },
+  {
+    "index": 186,
+    "word": "Compendium",
+    "pronunciation": "kum-PEN-dee-um",
+    "meaning_en": "a summary",
+    "meaning_bn": "",
+    "example": "The book is a compendium of world history."
+  },
+  {
+    "index": 187,
+    "word": "Complacent",
+    "pronunciation": "kum-PLAY-sunt",
+    "meaning_en": "overly pleased with oneself",
+    "meaning_bn": "",
+    "example": "He became complacent after early success and stopped improving."
+  },
+  {
+    "index": 188,
+    "word": "Complement",
+    "pronunciation": "KOM-pluh-ment",
+    "meaning_en": "to be the perfect counterpart",
+    "meaning_bn": "",
+    "example": "Red wine complements red meat perfectly."
+  },
+  {
+    "index": 189,
+    "word": "Complicity",
+    "pronunciation": "kum-PLIS-ih-tee",
+    "meaning_en": "participation in wrongdoing",
+    "meaning_bn": "",
+    "example": "His complicity in the crime was proven in court."
+  },
+  {
+    "index": 190,
+    "word": "Comprehensive",
+    "pronunciation": "kom-prih-HEN-siv",
+    "meaning_en": "including everything",
+    "meaning_bn": "",
+    "example": "The doctor conducted a comprehensive health checkup."
+  },
+  {
+    "index": 191,
+    "word": "Comprise",
+    "pronunciation": "kum-PRY Z",
+    "meaning_en": "to consist of",
+    "meaning_bn": "",
+    "example": "The committee comprises ten members."
+  },
+  {
+    "index": 192,
+    "word": "Conciliatory",
+    "pronunciation": "kun-SIL-ee-uh-tor- ee",
+    "meaning_en": "attempting to resolve a dispute through goodwill",
+    "meaning_bn": "",
+    "example": "He took a conciliatory approach to end the conflict."
+  },
+  {
+    "index": 193,
+    "word": "Concise",
+    "pronunciation": "kun-SYS",
+    "meaning_en": "succinct",
+    "meaning_bn": "",
+    "example": "Please write a concise report of the meeting."
+  },
+  {
+    "index": 194,
+    "word": "Concord",
+    "pronunciation": "KON-kord",
+    "meaning_en": "agreement",
+    "meaning_bn": "",
+    "example": "The two nations lived in concord for decades."
+  },
+  {
+    "index": 195,
+    "word": "Concurrent",
+    "pronunciation": "kun-KUR-unt",
+    "meaning_en": "happening at the same time",
+    "meaning_bn": "",
+    "example": "Two concurrent events were held in the same building."
+  },
+  {
+    "index": 196,
+    "word": "Condescend",
+    "pronunciation": "kon-dih-SEND",
+    "meaning_en": "to stoop down to someone's level",
+    "meaning_bn": "",
+    "example": "He condescended to explain the basics to the new employee."
+  },
+  {
+    "index": 197,
+    "word": "Condone",
+    "pronunciation": "kun-DOHN",
+    "meaning_en": "to permit to happen",
+    "meaning_bn": "",
+    "example": "The school does not condone bullying."
+  },
+  {
+    "index": 198,
+    "word": "Conducive",
+    "pronunciation": "kun-DOO-siv",
+    "meaning_en": "promoting",
+    "meaning_bn": "",
+    "example": "A quiet room is conducive to studying."
+  },
+  {
+    "index": 199,
+    "word": "Confluence",
+    "pronunciation": "KON-floo-unce",
+    "meaning_en": "the place where the river begins to flow together",
+    "meaning_bn": "",
+    "example": "The town is located at the confluence of two rivers."
+  },
+  {
+    "index": 200,
+    "word": "Congenial",
+    "pronunciation": "kun-JEE-nee-ul",
+    "meaning_en": "pleasant",
+    "meaning_bn": "",
+    "example": "He found the new office environment very congenial."
+  },
+  {
+    "index": 201,
+    "word": "Congenital",
+    "pronunciation": "kun-JEN-ih-tul",
+    "meaning_en": "a trait or condition acquired at birth by nature",
+    "meaning_bn": "",
+    "example": "He had a congenital heart defect."
+  },
+  {
+    "index": 202,
+    "word": "Congregate",
+    "pronunciation": "KAHN-grih-gayt",
+    "meaning_en": "to come together",
+    "meaning_bn": "জমায়েত হওয ়া / একত্র হওযা ়",
+    "example": "Crowds congregated in the square to hear the speech."
+  },
+  {
+    "index": 203,
+    "word": "Conjecture",
+    "pronunciation": "kun-JEK-cher",
+    "meaning_en": "to guess",
+    "meaning_bn": "",
+    "example": "Without evidence, we can only conjecture about the cause."
+  },
+  {
+    "index": 204,
+    "word": "Conjure",
+    "pronunciation": "KON-jer",
+    "meaning_en": "to summon or bring into being as if by magic",
+    "meaning_bn": "",
+    "example": "She conjured a brilliant solution seemingly out of thin air."
+  },
+  {
+    "index": 205,
+    "word": "Connoisseur",
+    "pronunciation": "kon-uh-SUR",
+    "meaning_en": "an expert, particularly in matters of art or taste",
+    "meaning_bn": "",
+    "example": "He is a connoisseur of French wine."
+  },
+  {
+    "index": 206,
+    "word": "Consecrate",
+    "pronunciation": "KON-suh-krayt",
+    "meaning_en": "to make or declare sacred",
+    "meaning_bn": "",
+    "example": "The priest consecrated the new church."
+  },
+  {
+    "index": 207,
+    "word": "Consensus",
+    "pronunciation": "kun-SEN-sus",
+    "meaning_en": "general agreement",
+    "meaning_bn": "",
+    "example": "There was a consensus that the plan needed revision."
+  },
+  {
+    "index": 208,
+    "word": "Consonant",
+    "pronunciation": "KON-suh-nunt",
+    "meaning_en": "in agreement",
+    "meaning_bn": "",
+    "example": "His actions were consonant with his stated values."
+  },
+  {
+    "index": 209,
+    "word": "Construe",
+    "pronunciation": "kun-STROO",
+    "meaning_en": "to interpret",
+    "meaning_bn": "",
+    "example": "His silence was construed as agreement."
+  },
+  {
+    "index": 210,
+    "word": "Consummate",
+    "pronunciation": "KON-suh-mayt",
+    "meaning_en": "to complete; supremely skillful",
+    "meaning_bn": "",
+    "example": "She is a consummate professional."
+  },
+  {
+    "index": 211,
+    "word": "Contentious",
+    "pronunciation": "kun-TEN-shus",
+    "meaning_en": "quarrelsome",
+    "meaning_bn": "",
+    "example": "The contentious debate lasted for hours."
+  },
+  {
+    "index": 212,
+    "word": "Contiguous",
+    "pronunciation": "kun-TIG-yoo-us",
+    "meaning_en": "side by side",
+    "meaning_bn": "",
+    "example": "The two countries share a contiguous border."
+  },
+  {
+    "index": 213,
+    "word": "Contingent",
+    "pronunciation": "kun-TIN-junt",
+    "meaning_en": "dependent; possible",
+    "meaning_bn": "",
+    "example": "The plan is contingent on receiving funding."
+  },
+  {
+    "index": 214,
+    "word": "Contrite",
+    "pronunciation": "KON-tryt",
+    "meaning_en": "admitting guilts",
+    "meaning_bn": "",
+    "example": "He was contrite after realizing he had hurt her feelings."
+  },
+  {
+    "index": 215,
+    "word": "Contrived",
+    "pronunciation": "kun-TRYVD",
+    "meaning_en": "artificial",
+    "meaning_bn": "",
+    "example": "The ending of the film felt contrived and unrealistic."
+  },
+  {
+    "index": 216,
+    "word": "Conventional",
+    "pronunciation": "kun-VEN-shun-ul",
+    "meaning_en": "common",
+    "meaning_bn": "",
+    "example": "He chose a conventional career in law."
+  },
+  {
+    "index": 217,
+    "word": "Convivial",
+    "pronunciation": "ku n-VIV-ee-ul",
+    "meaning_en": "festive",
+    "meaning_bn": "",
+    "example": "The party had a convivial atmosphere."
+  },
+  {
+    "index": 218,
+    "word": "Copious",
+    "pronunciation": "KOH-pee-us",
+    "meaning_en": "abundant",
+    "meaning_bn": "",
+    "example": "She took copious notes during the lecture."
+  },
+  {
+    "index": 219,
+    "word": "Corollary",
+    "pronunciation": "KOR-uh-ler-ee",
+    "meaning_en": "a natural consequence",
+    "meaning_bn": "",
+    "example": "Obesity is often a corollary of a sedentary lifestyle."
+  },
+  {
+    "index": 220,
+    "word": "Corroborate",
+    "pronunciation": "kuh-ROB-uh-rayt",
+    "meaning_en": "to back up with evidence",
+    "meaning_bn": "",
+    "example": "His story was corroborated by two witnesses."
+  },
+  {
+    "index": 221,
+    "word": "Cosmopolitan",
+    "pronunciation": "koz-muh-POL-ih- tun",
+    "meaning_en": "at home in many places or situations",
+    "meaning_bn": "",
+    "example": "London is a truly cosmopolitan city."
+  },
+  {
+    "index": 222,
+    "word": "Countenance",
+    "pronunciation": "KOWN-tuh-nunce",
+    "meaning_en": "facial expression",
+    "meaning_bn": "",
+    "example": "Her countenance revealed her deep disappointment."
+  },
+  {
+    "index": 223,
+    "word": "Coup",
+    "pronunciation": "KOO",
+    "meaning_en": "a brilliant victory or accomplishment",
+    "meaning_bn": "",
+    "example": "Winning that contract was a major coup for the company."
+  },
+  {
+    "index": 224,
+    "word": "Covenant",
+    "pronunciation": "KUV-uh-nunt",
+    "meaning_en": "a solemn agreement",
+    "meaning_bn": "",
+    "example": "The two nations signed a covenant of mutual protection."
+  },
+  {
+    "index": 225,
+    "word": "Covert",
+    "pronunciation": "KOH-vert",
+    "meaning_en": "hidden",
+    "meaning_bn": "",
+    "example": "The spy conducted covert operations abroad."
+  },
+  {
+    "index": 226,
+    "word": "Covet",
+    "pronunciation": "KUV-it",
+    "meaning_en": "to wish for enviously",
+    "meaning_bn": "",
+    "example": "He coveted his neighbor's success."
+  },
+  {
+    "index": 227,
+    "word": "Credulous",
+    "pronunciation": "KREJ-uh-lus",
+    "meaning_en": "gullible",
+    "meaning_bn": "",
+    "example": "The credulous man believed everything he read online."
+  },
+  {
+    "index": 228,
+    "word": "Criterion",
+    "pronunciation": "kry-TEER-ee-un",
+    "meaning_en": "basis for judgment",
+    "meaning_bn": "",
+    "example": "What is the main criterion for selecting candidates?"
+  },
+  {
+    "index": 229,
+    "word": "Cryptic",
+    "pronunciation": "KRIP-tik",
+    "meaning_en": "mysterious",
+    "meaning_bn": "",
+    "example": "He left a cryptic message that no one could understand."
+  },
+  {
+    "index": 230,
+    "word": "Culinary",
+    "pronunciation": "KYOO-lih-ner-ee",
+    "meaning_en": "relating to cooking or the kitchen",
+    "meaning_bn": "",
+    "example": "She has excellent culinary skills."
+  },
+  {
+    "index": 231,
+    "word": "Culminate",
+    "pronunciation": "KUL-mih-nayt",
+    "meaning_en": "to reach full effect",
+    "meaning_bn": "",
+    "example": "Years of training culminated in her Olympic gold medal."
+  },
+  {
+    "index": 232,
+    "word": "Culpable",
+    "pronunciation": "KUL-puh-bul",
+    "meaning_en": "guilty",
+    "meaning_bn": "",
+    "example": "He was found culpable for the accident."
+  },
+  {
+    "index": 233,
+    "word": "Cursory",
+    "pronunciation": "KER-suh-ree",
+    "meaning_en": "superficial",
+    "meaning_bn": "",
+    "example": "A cursory glance at the report revealed several errors."
+  },
+  {
+    "index": 234,
+    "word": "Curtail",
+    "pronunciation": "ker-TAYL",
+    "meaning_en": "to shorten",
+    "meaning_bn": "",
+    "example": "The government curtailed spending due to the recession."
+  },
+  {
+    "index": 235,
+    "word": "Cynic",
+    "pronunciation": "SIN-ik",
+    "meaning_en": "one who believes humans are motivated only by selfishness",
+    "meaning_bn": "",
+    "example": "The cynic doubted the politician's true motives."
+  },
+  {
+    "index": 236,
+    "word": "Daunt",
+    "pronunciation": "DAWNT",
+    "meaning_en": "to intimidate",
+    "meaning_bn": "",
+    "example": "Nothing could daunt her spirit."
+  },
+  {
+    "index": 237,
+    "word": "Dearth",
+    "pronunciation": "DURTH",
+    "meaning_en": "scarcity",
+    "meaning_bn": "",
+    "example": "There is a dearth of qualified teachers in rural areas."
+  },
+  {
+    "index": 238,
+    "word": "Debacle",
+    "pronunciation": "dih-BAH-kul",
+    "meaning_en": "overwhelming defeat",
+    "meaning_bn": "",
+    "example": "The election was a debacle for the ruling party."
+  },
+  {
+    "index": 239,
+    "word": "Debauchery",
+    "pronunciation": "dih-BAW-chuh- ree",
+    "meaning_en": "excessive intemperance",
+    "meaning_bn": "",
+    "example": "He wasted his fortune on debauchery."
+  },
+  {
+    "index": 240,
+    "word": "Debilitate",
+    "pronunciation": "dih-BIL-ih-tayt",
+    "meaning_en": "to weaken",
+    "meaning_bn": "",
+    "example": "The long illness debilitated him completely."
+  },
+  {
+    "index": 241,
+    "word": "Decadent",
+    "pronunciation": "DEK-uh-dunt",
+    "meaning_en": "decaying in morals",
+    "meaning_bn": "",
+    "example": "The decadent lifestyle of the nobles angered the poor."
+  },
+  {
+    "index": 242,
+    "word": "Decimate",
+    "pronunciation": "DES-ih-mayt",
+    "meaning_en": "to kill or destroy a large part of",
+    "meaning_bn": "",
+    "example": "The plague decimated the population."
+  },
+  {
+    "index": 243,
+    "word": "Decorous",
+    "pronunciation": "DEK-uh-rus",
+    "meaning_en": "orderly",
+    "meaning_bn": "",
+    "example": "The guests were expected to behave in a decorous manner."
+  },
+  {
+    "index": 244,
+    "word": "Deduce",
+    "pronunciation": "dih-DOOS",
+    "meaning_en": "to conclude from the evidence",
+    "meaning_bn": "",
+    "example": "From the clues, the detective deduced the killer's identity."
+  },
+  {
+    "index": 245,
+    "word": "Defame",
+    "pronunciation": "dih-FAYM",
+    "meaning_en": "to ruin the good name of",
+    "meaning_bn": "",
+    "example": "The false article defamed an innocent man."
+  },
+  {
+    "index": 246,
+    "word": "Deference",
+    "pronunciation": "DEF-er-unce",
+    "meaning_en": "submission to another's will",
+    "meaning_bn": "",
+    "example": "He spoke with deference to the senior professor."
+  },
+  {
+    "index": 247,
+    "word": "Definitive",
+    "pronunciation": "dih-FIN-ih-tiv",
+    "meaning_en": "conclusive",
+    "meaning_bn": "",
+    "example": "This is the definitive guide to Bangla grammar."
+  },
+  {
+    "index": 248,
+    "word": "Degenerate",
+    "pronunciation": "dih-JEN-er-ayt",
+    "meaning_en": "to deteriorate",
+    "meaning_bn": "",
+    "example": "The discussion degenerated into a shouting match."
+  },
+  {
+    "index": 249,
+    "word": "Deleterious",
+    "pronunciation": "del-ih-TEER-ee- us",
+    "meaning_en": "harmful",
+    "meaning_bn": "",
+    "example": "Smoking has deleterious effects on health."
+  },
+  {
+    "index": 250,
+    "word": "Delineate",
+    "pronunciation": "dih -LIN-ee-ayt",
+    "meaning_en": "to describe accurately",
+    "meaning_bn": "",
+    "example": "The contract clearly delineated the responsibilities of each party."
+  },
+  {
+    "index": 251,
+    "word": "Delude",
+    "pronunciation": "dih-LOOD",
+    "meaning_en": "to deceive",
+    "meaning_bn": "",
+    "example": "He deluded himself into thinking he would win."
+  },
+  {
+    "index": 252,
+    "word": "Deluge",
+    "pronunciation": "DEL-yooj",
+    "meaning_en": "a flood",
+    "meaning_bn": "",
+    "example": "The heavy rain caused a deluge in the low-lying areas."
+  },
+  {
+    "index": 253,
+    "word": "Demagogue",
+    "pronunciation": "DEM-uh-gog",
+    "meaning_en": "a leader of the people who manipulates the public",
+    "meaning_bn": "",
+    "example": "The demagogue used fear to win the election."
+  },
+  {
+    "index": 254,
+    "word": "Denizen",
+    "pronunciation": "DEN-ih-zun",
+    "meaning_en": "inhabitant",
+    "meaning_bn": "",
+    "example": "The denizens of the village welcomed the visitors."
+  },
+  {
+    "index": 255,
+    "word": "Depravity",
+    "pronunciation": "dih-PRAV-ih-tee",
+    "meaning_en": "extreme wickedness or corruption",
+    "meaning_bn": "",
+    "example": "The court was shocked by the depravity of the crime."
+  },
+  {
+    "index": 256,
+    "word": "Deprecate",
+    "pronunciation": "DEP-ruh-kayt",
+    "meaning_en": "to express disapproval of",
+    "meaning_bn": "",
+    "example": "He deprecated the use of violence in any form."
+  },
+  {
+    "index": 257,
+    "word": "Deride",
+    "pronunciation": "dih-RYD",
+    "meaning_en": "to make fun of",
+    "meaning_bn": "",
+    "example": "They derided his unusual fashion sense."
+  },
+  {
+    "index": 258,
+    "word": "Derogatory",
+    "pronunciation": "dih-ROG-uh-tor- ee",
+    "meaning_en": "degrading",
+    "meaning_bn": "",
+    "example": "Making derogatory comments about colleagues is unprofessional."
+  },
+  {
+    "index": 259,
+    "word": "Desiccate",
+    "pronunciation": "DES-ih-kayt",
+    "meaning_en": "to dry out",
+    "meaning_bn": "",
+    "example": "The hot sun desiccated the soil."
+  },
+  {
+    "index": 260,
+    "word": "Despondent",
+    "pronunciation": "dih-SPON-dunt",
+    "meaning_en": "extremely depressed",
+    "meaning_bn": "",
+    "example": "He became despondent after failing the exam."
+  },
+  {
+    "index": 261,
+    "word": "Despot",
+    "pronunciation": "DES-pot",
+    "meaning_en": "an absolute ruler",
+    "meaning_bn": "",
+    "example": "The despot ruled through fear and oppression."
+  },
+  {
+    "index": 262,
+    "word": "Destitute",
+    "pronunciation": "DES-tih-toot",
+    "meaning_en": "utterly lacking",
+    "meaning_bn": "",
+    "example": "After the flood, many families were left destitute."
+  },
+  {
+    "index": 263,
+    "word": "Desultory",
+    "pronunciation": "DES-ul-tor-ee",
+    "meaning_en": "without a plan or purpose",
+    "meaning_bn": "",
+    "example": "His desultory approach to work frustrated his manager."
+  },
+  {
+    "index": 264,
+    "word": "Dextrous",
+    "pronunciation": "DEX-trus",
+    "meaning_en": "skillful; adroit",
+    "meaning_bn": "দক ্ষ/ কশু লী",
+    "example": "The dextrous tailor finished the suit in an hour."
+  },
+  {
+    "index": 265,
+    "word": "Dialectical",
+    "pronunciation": "dy-uh-LEK-tih-kul",
+    "meaning_en": "approaching truth through discussions",
+    "meaning_bn": "",
+    "example": "Their dialectical exchange of ideas helped resolve the issue."
+  },
+  {
+    "index": 266,
+    "word": "Dictum",
+    "pronunciation": "DIK-tum",
+    "meaning_en": "a proverb",
+    "meaning_bn": "",
+    "example": "Follow the old dictum: work before play."
+  },
+  {
+    "index": 267,
+    "word": "Didactic",
+    "pronunciation": "dy-DAK-tik",
+    "meaning_en": "morally instructive",
+    "meaning_bn": "",
+    "example": "The film had a didactic message about honesty."
+  },
+  {
+    "index": 268,
+    "word": "Diffident",
+    "pronunciation": "DIF-ih-dunt",
+    "meaning_en": "lacking in self- confidence",
+    "meaning_bn": "",
+    "example": "He was too diffident to speak up at the meeting."
+  },
+  {
+    "index": 269,
+    "word": "Digress",
+    "pronunciation": "dy-GRES",
+    "meaning_en": "to stray from the main subject",
+    "meaning_bn": "",
+    "example": "The professor often digressed into personal anecdotes."
+  },
+  {
+    "index": 270,
+    "word": "Dilettante",
+    "pronunciation": "dil-ih-TANT",
+    "meaning_en": "someone with superficial knowledge of the arts",
+    "meaning_bn": "",
+    "example": "He was a dilettante who painted only for fun."
+  },
+  {
+    "index": 271,
+    "word": "Discern",
+    "pronunciation": "dih-SERN",
+    "meaning_en": "to perceive clearly",
+    "meaning_bn": "",
+    "example": "It is hard to discern his true intentions."
+  },
+  {
+    "index": 272,
+    "word": "Discreet",
+    "pronunciation": "dih-SKREET",
+    "meaning_en": "judiciously reserved",
+    "meaning_bn": "",
+    "example": "She was discreet about her personal life."
+  },
+  {
+    "index": 273,
+    "word": "Discrete",
+    "pronunciation": "dih-SKREET",
+    "meaning_en": "distinct",
+    "meaning_bn": "",
+    "example": "These are two discrete issues and should not be confused."
+  },
+  {
+    "index": 274,
+    "word": "Discriminate",
+    "pronunciation": "dih-SKRIM-ih-nayt",
+    "meaning_en": "to differentiate",
+    "meaning_bn": "",
+    "example": "It is wrong to discriminate based on religion."
+  },
+  {
+    "index": 275,
+    "word": "Disdain",
+    "pronunciation": "dis-DAYN",
+    "meaning_en": "arrogant scorn",
+    "meaning_bn": "",
+    "example": "She looked at the dirty floor with disdain."
+  },
+  {
+    "index": 276,
+    "word": "Disinterested",
+    "pronunciation": "dis-IN-ter-es-tid",
+    "meaning_en": "unbiased",
+    "meaning_bn": "",
+    "example": "We need a disinterested judge to resolve this dispute."
+  },
+  {
+    "index": 277,
+    "word": "Disparage",
+    "pronunciation": "dih-SPAR-ij",
+    "meaning_en": "to belittle",
+    "meaning_bn": "",
+    "example": "He often disparaged his colleagues behind their backs."
+  },
+  {
+    "index": 278,
+    "word": "Disparate",
+    "pronunciation": "DIS-puh-rit",
+    "meaning_en": "different",
+    "meaning_bn": "",
+    "example": "The committee has members with disparate backgrounds."
+  },
+  {
+    "index": 279,
+    "word": "Disseminate",
+    "pronunciation": "dih-SEM-ih-nayt",
+    "meaning_en": "to scatter",
+    "meaning_bn": "",
+    "example": "Social media disseminates news faster than TV."
+  },
+  {
+    "index": 280,
+    "word": "Dissipate",
+    "pronunciation": "DIS-ih-payt",
+    "meaning_en": "to thin out, drift away, or dissolve",
+    "meaning_bn": "",
+    "example": "The fog dissipated by midmorning."
+  },
+  {
+    "index": 281,
+    "word": "Dissolution",
+    "pronunciation": "dis-uh-LOO-shun",
+    "meaning_en": "the breaking up or dissolving of something into parts",
+    "meaning_bn": "",
+    "example": "The dissolution of the partnership shocked the industry."
+  },
+  {
+    "index": 282,
+    "word": "Distend",
+    "pronunciation": "dih-STEND",
+    "meaning_en": "to extend greatly",
+    "meaning_bn": "",
+    "example": "His stomach distended after the large meal."
+  },
+  {
+    "index": 283,
+    "word": "Distinguish",
+    "pronunciation": "dih-STING-gwish",
+    "meaning_en": "to tell apart",
+    "meaning_bn": "",
+    "example": "Can you distinguish between these two colours?"
+  },
+  {
+    "index": 284,
+    "word": "Docile",
+    "pronunciation": "DOH-sul",
+    "meaning_en": "easily taught",
+    "meaning_bn": "",
+    "example": "The docile child never caused any trouble."
+  },
+  {
+    "index": 285,
+    "word": "Doctrinaire",
+    "pronunciation": "dok-truh-NAIR",
+    "meaning_en": "dogmatic",
+    "meaning_bn": "",
+    "example": "His doctrinaire approach made compromise impossible."
+  },
+  {
+    "index": 286,
+    "word": "Dogmatic",
+    "pronunciation": "dog-MAT-ik",
+    "meaning_en": "arrogantly assertive of unproven ideas",
+    "meaning_bn": "",
+    "example": "Her dogmatic beliefs prevented any open discussion."
+  },
+  {
+    "index": 287,
+    "word": "Domestic",
+    "pronunciation": "duh-MES-tik",
+    "meaning_en": "having to do with the household or family",
+    "meaning_bn": "",
+    "example": "He enjoys domestic chores like cooking and cleaning."
+  },
+  {
+    "index": 288,
+    "word": "Dormant",
+    "pronunciation": "DOR-munt",
+    "meaning_en": "inactive",
+    "meaning_bn": "",
+    "example": "The volcano has been dormant for 200 years."
+  },
+  {
+    "index": 289,
+    "word": "Dubious",
+    "pronunciation": "DOO-bee-us",
+    "meaning_en": "uncertain",
+    "meaning_bn": "",
+    "example": "I'm dubious about his claim that he ran a marathon."
+  },
+  {
+    "index": 290,
+    "word": "Duplicity",
+    "pronunciation": "doo-PLIS-ih-tee",
+    "meaning_en": "the act of being two- faced",
+    "meaning_bn": "",
+    "example": "Her duplicity was eventually discovered."
+  },
+  {
+    "index": 291,
+    "word": "Ebullient",
+    "pronunciation": "ih-BUL-yunt",
+    "meaning_en": "bubbling with excitement",
+    "meaning_bn": "",
+    "example": "The ebullient host welcomed every guest with energy."
+  },
+  {
+    "index": 292,
+    "word": "Eccentric",
+    "pronunciation": "ik-SEN-trik",
+    "meaning_en": "not conventional",
+    "meaning_bn": "",
+    "example": "He was an eccentric inventor who kept unusual hours."
+  },
+  {
+    "index": 293,
+    "word": "Eclectic",
+    "pronunciation": "ih-KLEK-tik",
+    "meaning_en": "drawn from many sources",
+    "meaning_bn": "",
+    "example": "Her art style is eclectic, mixing Eastern and Western influences."
+  },
+  {
+    "index": 294,
+    "word": "Edify",
+    "pronunciation": "ED-ih-fy",
+    "meaning_en": "to instruct, especially in moral or religious matters",
+    "meaning_bn": "",
+    "example": "The documentary was designed to edify young viewers."
+  },
+  {
+    "index": 295,
+    "word": "Efface",
+    "pronunciation": "ih-FAYS",
+    "meaning_en": "to rub away the features of",
+    "meaning_bn": "",
+    "example": "Time had effaced the inscription on the gravestone."
+  },
+  {
+    "index": 296,
+    "word": "Effusion",
+    "pronunciation": "ih-FYOO-zhun",
+    "meaning_en": "a pouring of",
+    "meaning_bn": "",
+    "example": "Her effusion of gratitude moved everyone to tears."
+  },
+  {
+    "index": 297,
+    "word": "Egalitarian",
+    "pronunciation": "ih-gal-ih-TAIR-ee- un",
+    "meaning_en": "believing in the social and economic equality of people",
+    "meaning_bn": "",
+    "example": "She championed an egalitarian society."
+  },
+  {
+    "index": 298,
+    "word": "Egocentric",
+    "pronunciation": "ee-goh-SEN-trik",
+    "meaning_en": "selfish",
+    "meaning_bn": "",
+    "example": "His egocentric behavior pushed everyone away."
+  },
+  {
+    "index": 299,
+    "word": "Egregious",
+    "pronunciation": "ih-GREE-jus",
+    "meaning_en": "extremely bad",
+    "meaning_bn": "",
+    "example": "The CEO made an egregious error in his financial report."
+  },
+  {
+    "index": 300,
+    "word": "Elicit",
+    "pronunciation": "ih-LIS-it",
+    "meaning_en": "to call forth",
+    "meaning_bn": "",
+    "example": "The sad music elicited tears from the audience."
+  },
+  {
+    "index": 301,
+    "word": "Elliptical",
+    "pronunciation": "ih-LIP-tih-kul",
+    "meaning_en": "obscure",
+    "meaning_bn": "",
+    "example": "Her elliptical remarks left everyone guessing."
+  },
+  {
+    "index": 302,
+    "word": "Elusive",
+    "pronunciation": "ih-LOO-siv",
+    "meaning_en": "hard to pin down",
+    "meaning_bn": "",
+    "example": "The solution to the problem remained elusive."
+  },
+  {
+    "index": 303,
+    "word": "Emigrate",
+    "pronunciation": "EM-ih-grayt",
+    "meaning_en": "to move to a new country",
+    "meaning_bn": "",
+    "example": "Many people emigrated from Bangladesh to seek better opportunities."
+  },
+  {
+    "index": 304,
+    "word": "Eminent",
+    "pronunciation": "EM-ih-nunt",
+    "meaning_en": "outstanding",
+    "meaning_bn": "",
+    "example": "He is an eminent scientist known worldwide."
+  },
+  {
+    "index": 305,
+    "word": "Empirical",
+    "pronunciation": "em-PIR-ih-kul",
+    "meaning_en": "relying on experience or observation",
+    "meaning_bn": "",
+    "example": "The results are based on empirical evidence."
+  },
+  {
+    "index": 306,
+    "word": "Emulate",
+    "pronunciation": "EM-yoo-layt",
+    "meaning_en": "to strive to equal or excel, usually through imitation",
+    "meaning_bn": "",
+    "example": "Young athletes emulate their sporting heroes."
+  },
+  {
+    "index": 307,
+    "word": "Encroach",
+    "pronunciation": "en-KROHCH",
+    "meaning_en": "to make gradual inroads into",
+    "meaning_bn": "",
+    "example": "The city is encroaching on rural farmland."
+  },
+  {
+    "index": 308,
+    "word": "Endemic",
+    "pronunciation": "en-DEM-ik",
+    "meaning_en": "native",
+    "meaning_bn": "",
+    "example": "Malaria is endemic to many tropical regions."
+  },
+  {
+    "index": 309,
+    "word": "Enervate",
+    "pronunciation": "EN-er-vayt",
+    "meaning_en": "to weaken gradually",
+    "meaning_bn": "",
+    "example": "The long illness enervated him completely."
+  },
+  {
+    "index": 310,
+    "word": "Enfranchise",
+    "pronunciation": "en-FRAN-chyz",
+    "meaning_en": "to grant the privileges of citizenship, especially the right to vote",
+    "meaning_bn": "",
+    "example": "Women were enfranchised in the early 20th century."
+  },
+  {
+    "index": 311,
+    "word": "Engender",
+    "pronunciation": "en-JEN-der",
+    "meaning_en": "to cause",
+    "meaning_bn": "",
+    "example": "Poverty engenders crime in many societies."
+  },
+  {
+    "index": 312,
+    "word": "Enigma",
+    "pronunciation": "ih-NIG-muh",
+    "meaning_en": "a mystery",
+    "meaning_bn": "",
+    "example": "His true motive remains an enigma."
+  },
+  {
+    "index": 313,
+    "word": "Enormity",
+    "pronunciation": "ih-NOR-mih-tee",
+    "meaning_en": "extreme evil",
+    "meaning_bn": "",
+    "example": "The enormity of the tragedy left people speechless."
+  },
+  {
+    "index": 314,
+    "word": "Ephemeral",
+    "pronunciation": "ih-FEM-er-ul",
+    "meaning_en": "lasting a very short time",
+    "meaning_bn": "",
+    "example": "Fame can be ephemeral in the social media age."
+  },
+  {
+    "index": 315,
+    "word": "Epigram",
+    "pronunciation": "EP-ih-gram",
+    "meaning_en": "a brief and usually witty or satirical saying",
+    "meaning_bn": "",
+    "example": "Oscar Wilde was famous for his sharp epigrams."
+  },
+  {
+    "index": 316,
+    "word": "Epitome",
+    "pronunciation": "ih-PIT-uh-mee",
+    "meaning_en": "a brief summary that captures the meaning of the whole",
+    "meaning_bn": "",
+    "example": "She is the epitome of grace and elegance."
+  },
+  {
+    "index": 317,
+    "word": "Equanimity",
+    "pronunciation": "ee-kwuh-NIM-ih- tee",
+    "meaning_en": "calm",
+    "meaning_bn": "",
+    "example": "He accepted the news with remarkable equanimity."
+  },
+  {
+    "index": 318,
+    "word": "Equitable",
+    "pronunciation": "EK-wih-tuh-bul",
+    "meaning_en": "fair",
+    "meaning_bn": "",
+    "example": "We need an equitable distribution of resources."
+  },
+  {
+    "index": 319,
+    "word": "Equivocal",
+    "pronunciation": "ih-KWIV-uh-kul",
+    "meaning_en": "capable of being interpreted in more than one way",
+    "meaning_bn": "",
+    "example": "His equivocal response confused the reporters."
+  },
+  {
+    "index": 320,
+    "word": "Erudite",
+    "pronunciation": "ER-yoo-dyt",
+    "meaning_en": "scholarly",
+    "meaning_bn": "",
+    "example": "She is an erudite professor with decades of experience."
+  },
+  {
+    "index": 321,
+    "word": "Esoteric",
+    "pronunciation": "es-uh-TER-ik",
+    "meaning_en": "hard to understand",
+    "meaning_bn": "",
+    "example": "The book was too esoteric for general readers."
+  },
+  {
+    "index": 322,
+    "word": "Espouse",
+    "pronunciation": "ih-SPOWZ",
+    "meaning_en": "to support",
+    "meaning_bn": "",
+    "example": "She espouses the cause of gender equality."
+  },
+  {
+    "index": 323,
+    "word": "Ethereal",
+    "pronunciation": "ih-THEER-ee-ul",
+    "meaning_en": "heavenly",
+    "meaning_bn": "",
+    "example": "The music had an ethereal quality that moved the audience."
+  },
+  {
+    "index": 324,
+    "word": "Euphemism",
+    "pronunciation": "YOO-fuh-miz-um",
+    "meaning_en": "a pleasant expression used in place of an unpleasant one",
+    "meaning_bn": "",
+    "example": "Saying 'passed away' instead of 'died' is a euphemism."
+  },
+  {
+    "index": 325,
+    "word": "Evanescent",
+    "pronunciation": "ev-uh-NES-unt",
+    "meaning_en": "happening for only a brief period",
+    "meaning_bn": "",
+    "example": "The morning dew is evanescent in summer."
+  },
+  {
+    "index": 326,
+    "word": "Exacerbate",
+    "pronunciation": "ig-ZAS-er-bayt",
+    "meaning_en": "to make worse",
+    "meaning_bn": "",
+    "example": "Taking medicine without food will exacerbate the side effects."
+  },
+  {
+    "index": 327,
+    "word": "Exacting",
+    "pronunciation": "ig-ZAK-ting",
+    "meaning_en": "extremely demanding",
+    "meaning_bn": "",
+    "example": "The professor had exacting standards for written work."
+  },
+  {
+    "index": 328,
+    "word": "Exalt",
+    "pronunciation": "ig-ZAWLT",
+    "meaning_en": "to glorify",
+    "meaning_bn": "",
+    "example": "The crowd exalted their champion."
+  },
+  {
+    "index": 329,
+    "word": "Exasperate",
+    "pronunciation": "ig-ZAS-per-ayt",
+    "meaning_en": "to annoy",
+    "meaning_bn": "",
+    "example": "His constant complaints exasperated the whole team."
+  },
+  {
+    "index": 330,
+    "word": "Exemplify",
+    "pronunciation": "ig-ZEM-plih-fy",
+    "meaning_en": "to serve as an example",
+    "meaning_bn": "",
+    "example": "Her dedication exemplifies what it means to be a good teacher."
+  },
+  {
+    "index": 331,
+    "word": "Exhaustive",
+    "pronunciation": "ig-ZAW-stiv",
+    "meaning_en": "thorough",
+    "meaning_bn": "",
+    "example": "The police conducted an exhaustive investigation."
+  },
+  {
+    "index": 332,
+    "word": "Exhort",
+    "pronunciation": "ig-ZORT",
+    "meaning_en": "to urge strongly",
+    "meaning_bn": "",
+    "example": "The coach exhorted the players to give their best."
+  },
+  {
+    "index": 333,
+    "word": "Exigency",
+    "pronunciation": "EK-sih-jun-see",
+    "meaning_en": "an emergency",
+    "meaning_bn": "",
+    "example": "He acted quickly in the exigency of the moment."
+  },
+  {
+    "index": 334,
+    "word": "Existential",
+    "pronunciation": "eg-zis-TEN-shul",
+    "meaning_en": "the thought that human beings are responsible for their own actions",
+    "meaning_bn": "",
+    "example": "He faced an existential crisis in his thirties."
+  },
+  {
+    "index": 335,
+    "word": "Exonerate",
+    "pronunciation": "ig-ZON-er-ayt",
+    "meaning_en": "to free from blame",
+    "meaning_bn": "",
+    "example": "New evidence exonerated the wrongly convicted man."
+  },
+  {
+    "index": 336,
+    "word": "Expatriate",
+    "pronunciation": "eks-PAY-tree-ayt",
+    "meaning_en": "to move away from one's native land",
+    "meaning_bn": "",
+    "example": "He lived as an expatriate in Dubai for ten years."
+  },
+  {
+    "index": 337,
+    "word": "Expedient",
+    "pronunciation": "ik-SPEE-dee-unt",
+    "meaning_en": "practical",
+    "meaning_bn": "",
+    "example": "It was expedient to take the faster route."
+  },
+  {
+    "index": 338,
+    "word": "Expedite",
+    "pronunciation": "EK-spuh-dyt",
+    "meaning_en": "to speed up or ease the progress of",
+    "meaning_bn": "",
+    "example": "He called the office to expedite his application."
+  },
+  {
+    "index": 339,
+    "word": "Explicit",
+    "pronunciation": "ik-SPLIS-it",
+    "meaning_en": "clearly and directly expressed",
+    "meaning_bn": "",
+    "example": "The instructions were explicit about what to do."
+  },
+  {
+    "index": 340,
+    "word": "Extol",
+    "pronunciation": "ik-STOHL",
+    "meaning_en": "to praise",
+    "meaning_bn": "",
+    "example": "The media extolled her achievements."
+  },
+  {
+    "index": 341,
+    "word": "Extraneous",
+    "pronunciation": "ik-STRAY-nee-us",
+    "meaning_en": "unnecessary",
+    "meaning_bn": "",
+    "example": "Please remove all extraneous information from the report."
+  },
+  {
+    "index": 342,
+    "word": "Extrapolate",
+    "pronunciation": "ik-STRAP-uh-layt",
+    "meaning_en": "to project or deduce from something known",
+    "meaning_bn": "",
+    "example": "From the data, he extrapolated future trends."
+  },
+  {
+    "index": 343,
+    "word": "Extricate",
+    "pronunciation": "EK-strih-kayt",
+    "meaning_en": "to free from difficulty",
+    "meaning_bn": "",
+    "example": "He struggled to extricate himself from the mess."
+  },
+  {
+    "index": 344,
+    "word": "Extrovert",
+    "pronunciation": "EK-stroh-vurt",
+    "meaning_en": "an open, outgoing person",
+    "meaning_bn": "",
+    "example": "As an extrovert, she loved being around people."
+  },
+  {
+    "index": 345,
+    "word": "Exult",
+    "pronunciation": "ig-ZULT",
+    "meaning_en": "to rejoice",
+    "meaning_bn": "",
+    "example": "The crowd exulted as the team scored the winning goal."
+  },
+  {
+    "index": 346,
+    "word": "Fabrication",
+    "pronunciation": "fab-rih-KAY-shun",
+    "meaning_en": "a lie",
+    "meaning_bn": "",
+    "example": "His whole alibi was a fabrication."
+  },
+  {
+    "index": 347,
+    "word": "Facetious",
+    "pronunciation": "fuh-SEE-shus",
+    "meaning_en": "humorous",
+    "meaning_bn": "",
+    "example": "Stop being facetious and give me a serious answer."
+  },
+  {
+    "index": 348,
+    "word": "Facile",
+    "pronunciation": "FAS-ul",
+    "meaning_en": "superficial; fluent",
+    "meaning_bn": "",
+    "example": "His facile explanation ignored the real complexity."
+  },
+  {
+    "index": 349,
+    "word": "Faction",
+    "pronunciation": "FAK-shun",
+    "meaning_en": "a small group within a larger group, united around some cause",
+    "meaning_bn": "",
+    "example": "A powerful faction within the party opposed the reform."
+  },
+  {
+    "index": 350,
+    "word": "Farcical",
+    "pronunciation": "FAR-sih-kul",
+    "meaning_en": "absurd",
+    "meaning_bn": "",
+    "example": "The trial became farcical when witnesses contradicted each other."
+  },
+  {
+    "index": 351,
+    "word": "Fastidious",
+    "pronunciation": "fas-TID-ee-us",
+    "meaning_en": "meticulous",
+    "meaning_bn": "",
+    "example": "She was fastidious about keeping her desk organized."
+  },
+  {
+    "index": 352,
+    "word": "Fatalist",
+    "pronunciation": "FAY-tuh-list",
+    "meaning_en": "someone who believes that future events are already determined and that humans are powerless to change them",
+    "meaning_bn": "",
+    "example": "As a fatalist, he believed nothing could be changed."
+  },
+  {
+    "index": 353,
+    "word": "Fatuous",
+    "pronunciation": "FACH-oo-us",
+    "meaning_en": "foolish",
+    "meaning_bn": "",
+    "example": "His fatuous comment drew laughter from the room."
+  },
+  {
+    "index": 354,
+    "word": "Fauna",
+    "pronunciation": "FAW-nuh",
+    "meaning_en": "animals",
+    "meaning_bn": "",
+    "example": "The national park protects the rich local fauna."
+  },
+  {
+    "index": 355,
+    "word": "Fecund",
+    "pronunciation": "FEK-und",
+    "meaning_en": "productive",
+    "meaning_bn": "",
+    "example": "The fecund soil produced an abundant harvest."
+  },
+  {
+    "index": 356,
+    "word": "Felicity",
+    "pronunciation": "fuh-LIS-ih-tee",
+    "meaning_en": "happiness",
+    "meaning_bn": "",
+    "example": "She found felicity in simple things."
+  },
+  {
+    "index": 357,
+    "word": "Fervor",
+    "pronunciation": "FUR-ver",
+    "meaning_en": "ardor",
+    "meaning_bn": "",
+    "example": "He spoke about independence with great fervor."
+  },
+  {
+    "index": 358,
+    "word": "Fetter",
+    "pronunciation": "FET-er",
+    "meaning_en": "to restrain",
+    "meaning_bn": "",
+    "example": "He was fettered by old-fashioned thinking."
+  },
+  {
+    "index": 359,
+    "word": "Fidelity",
+    "pronunciation": "fih-DEL-ih-tee",
+    "meaning_en": "loyalty",
+    "meaning_bn": "",
+    "example": "Dogs are known for their fidelity to their owners."
+  },
+  {
+    "index": 360,
+    "word": "Figurative",
+    "pronunciation": "FIG-yuh-ruh-tiv",
+    "meaning_en": "metaphorical",
+    "meaning_bn": "",
+    "example": "He spoke in figurative language full of metaphors."
+  },
+  {
+    "index": 361,
+    "word": "Finesse",
+    "pronunciation": "fih-NES",
+    "meaning_en": "subtlety",
+    "meaning_bn": "",
+    "example": "She handled the difficult situation with great finesse."
+  },
+  {
+    "index": 362,
+    "word": "Flagrant",
+    "pronunciation": "FLAY-grunt",
+    "meaning_en": "scandalous, obvious",
+    "meaning_bn": "",
+    "example": "His flagrant disregard for rules got him expelled."
+  },
+  {
+    "index": 363,
+    "word": "Flaunt",
+    "pronunciation": "FLAWNT",
+    "meaning_en": "to brag",
+    "meaning_bn": "",
+    "example": "She flaunted her new car in front of her neighbors."
+  },
+  {
+    "index": 364,
+    "word": "Flout",
+    "pronunciation": "FLOWT",
+    "meaning_en": "to disregard something out of disrespect",
+    "meaning_bn": "",
+    "example": "He flouted the dress code at the formal event."
+  },
+  {
+    "index": 365,
+    "word": "Foible",
+    "pronunciation": "FOY-bul",
+    "meaning_en": "a minor character flaw",
+    "meaning_bn": "",
+    "example": "His only foible is being occasionally late."
+  },
+  {
+    "index": 366,
+    "word": "Foment",
+    "pronunciation": "foh-MENT",
+    "meaning_en": "to stir up",
+    "meaning_bn": "",
+    "example": "The agent tried to foment rebellion among the workers."
+  },
+  {
+    "index": 367,
+    "word": "Forbear",
+    "pronunciation": "for-BAIR",
+    "meaning_en": "to refrain from",
+    "meaning_bn": "",
+    "example": "He forbore from commenting despite his frustration."
+  },
+  {
+    "index": 368,
+    "word": "Forego",
+    "pronunciation": "for-GOH",
+    "meaning_en": "to do without",
+    "meaning_bn": "",
+    "example": "She decided to forego dessert to stay healthy."
+  },
+  {
+    "index": 369,
+    "word": "Forsake",
+    "pronunciation": "for-SAYK",
+    "meaning_en": "to abandon",
+    "meaning_bn": "",
+    "example": "He forsook his hometown to move to the capital."
+  },
+  {
+    "index": 370,
+    "word": "Fortuitous",
+    "pronunciation": "for-TYOO-ih-tus",
+    "meaning_en": "accidental",
+    "meaning_bn": "",
+    "example": "Their meeting was fortuitous — both were stranded at the airport."
+  },
+  {
+    "index": 371,
+    "word": "Founder",
+    "pronunciation": "FOWN-der",
+    "meaning_en": "to collapse",
+    "meaning_bn": "",
+    "example": "The business foundered due to poor management."
+  },
+  {
+    "index": 372,
+    "word": "Fraternal",
+    "pronunciation": "fruh-TER-nul",
+    "meaning_en": "like brothers",
+    "meaning_bn": "",
+    "example": "They shared a fraternal bond despite not being related."
+  },
+  {
+    "index": 373,
+    "word": "Frenetic",
+    "pronunciation": "fruh-NET-ik",
+    "meaning_en": "fast and energetic in a rather wild and uncontrolled way",
+    "meaning_bn": "",
+    "example": "The office was in a frenetic rush before the deadline."
+  },
+  {
+    "index": 374,
+    "word": "Frugal",
+    "pronunciation": "FROO-gul",
+    "meaning_en": "economical",
+    "meaning_bn": "",
+    "example": "His frugal lifestyle allowed him to save money."
+  },
+  {
+    "index": 375,
+    "word": "Furtive",
+    "pronunciation": "FUR-tiv",
+    "meaning_en": "secretive",
+    "meaning_bn": "",
+    "example": "He cast a furtive glance around before entering."
+  },
+  {
+    "index": 376,
+    "word": "Futile",
+    "pronunciation": "FYOO-til",
+    "meaning_en": "useless; hopeless",
+    "meaning_bn": "",
+    "example": "All attempts to save the sinking ship were futile."
+  },
+  {
+    "index": 377,
+    "word": "Garrulous",
+    "pronunciation": "GAR-uh-lus",
+    "meaning_en": "talkative",
+    "meaning_bn": "",
+    "example": "The garrulous neighbor talked for hours without stopping."
+  },
+  {
+    "index": 378,
+    "word": "Gauche",
+    "pronunciation": "gohsh",
+    "meaning_en": "unskillful; awkward; maladroit",
+    "meaning_bn": "আনাড় / অমার্জিত ি",
+    "example": "It was gauche to ask about her salary at the party."
+  },
+  {
+    "index": 379,
+    "word": "Genre",
+    "pronunciation": "ZHON-ruh",
+    "meaning_en": "a type, especially of art or writing",
+    "meaning_bn": "",
+    "example": "Mystery is her favorite literary genre."
+  },
+  {
+    "index": 380,
+    "word": "Genteel",
+    "pronunciation": "jen-TEEL",
+    "meaning_en": "refined",
+    "meaning_bn": "",
+    "example": "The genteel lady never raised her voice."
+  },
+  {
+    "index": 381,
+    "word": "Gesticulate",
+    "pronunciation": "jes-TIK-yuh-layt",
+    "meaning_en": "to make gestures, especially when speaking or in place of speaking",
+    "meaning_bn": "",
+    "example": "He gesticulated wildly as he explained his idea."
+  },
+  {
+    "index": 382,
+    "word": "Glut",
+    "pronunciation": "GLUT",
+    "meaning_en": "surplus",
+    "meaning_bn": "",
+    "example": "There is a glut of unsold houses on the market."
+  },
+  {
+    "index": 383,
+    "word": "Grandiloquent",
+    "pronunciation": "gran-DIL-uh- kwunt",
+    "meaning_en": "using a lot of big, fancy words in an attempt to sound impressive",
+    "meaning_bn": "",
+    "example": "His grandiloquent speech was more style than substance."
+  },
+  {
+    "index": 384,
+    "word": "Grandiose",
+    "pronunciation": "GRAN-dee-ohs",
+    "meaning_en": "absurdly exaggerated",
+    "meaning_bn": "",
+    "example": "His grandiose plans never came to fruition."
+  },
+  {
+    "index": 385,
+    "word": "Gratuitous",
+    "pronunciation": "gruh-TYOO-ih-tus",
+    "meaning_en": "uncalled for",
+    "meaning_bn": "",
+    "example": "The film contained gratuitous violence."
+  },
+  {
+    "index": 386,
+    "word": "Gravity",
+    "pronunciation": "GRAV-ih-tee",
+    "meaning_en": "seriousness",
+    "meaning_bn": "",
+    "example": "He understood the gravity of the situation."
+  },
+  {
+    "index": 387,
+    "word": "Gregarious",
+    "pronunciation": "grih-GAIR-ee-us",
+    "meaning_en": "sociable",
+    "meaning_bn": "",
+    "example": "She is a gregarious person who makes friends easily."
+  },
+  {
+    "index": 388,
+    "word": "Guile",
+    "pronunciation": "GYL",
+    "meaning_en": "duplicity",
+    "meaning_bn": "",
+    "example": "He used guile to get what he wanted."
+  },
+  {
+    "index": 389,
+    "word": "Hackneyed",
+    "pronunciation": "HAK-need",
+    "meaning_en": "overused",
+    "meaning_bn": "",
+    "example": "The speech was full of hackneyed phrases."
+  },
+  {
+    "index": 390,
+    "word": "Hapless",
+    "pronunciation": "HAP-lis",
+    "meaning_en": "unlucky",
+    "meaning_bn": "",
+    "example": "The hapless traveler missed every connection."
+  },
+  {
+    "index": 391,
+    "word": "Harbinger",
+    "pronunciation": "HAR-bin-jer",
+    "meaning_en": "a signal of",
+    "meaning_bn": "",
+    "example": "Dark clouds are a harbinger of rain."
+  },
+  {
+    "index": 392,
+    "word": "Hedonism",
+    "pronunciation": "HEE-duh-niz-um",
+    "meaning_en": "to chase after pleasure as a way of life",
+    "meaning_bn": "",
+    "example": "His philosophy was one of pure hedonism."
+  },
+  {
+    "index": 393,
+    "word": "Hegemony",
+    "pronunciation": "hih-JEM-uh-nee",
+    "meaning_en": "leadership, especially of one nation over another",
+    "meaning_bn": "",
+    "example": "The country sought to maintain hegemony in the region."
+  },
+  {
+    "index": 394,
+    "word": "Heresy",
+    "pronunciation": "HER-ih-see",
+    "meaning_en": "any belief that is strongly opposed to established beliefs",
+    "meaning_bn": "",
+    "example": "In medieval times, science was often called heresy."
+  },
+  {
+    "index": 395,
+    "word": "Hermetic",
+    "pronunciation": "her-MET-ik",
+    "meaning_en": "unable to be affected by external influence",
+    "meaning_bn": "",
+    "example": "The container was hermetically sealed."
+  },
+  {
+    "index": 396,
+    "word": "Heyday",
+    "pronunciation": "HAY-day",
+    "meaning_en": "golden age",
+    "meaning_bn": "",
+    "example": "In its heyday, the studio produced dozens of hits."
+  },
+  {
+    "index": 397,
+    "word": "Hiatus",
+    "pronunciation": "hy-AY-tus",
+    "meaning_en": "a break or interruption, often from work",
+    "meaning_bn": "",
+    "example": "The band returned after a two-year hiatus."
+  },
+  {
+    "index": 398,
+    "word": "Hierarchy",
+    "pronunciation": "HY-er-ar-kee",
+    "meaning_en": "an organization based on rank or degree",
+    "meaning_bn": "",
+    "example": "He climbed the corporate hierarchy quickly."
+  },
+  {
+    "index": 399,
+    "word": "Histrionic",
+    "pronunciation": "his-tree-ON-ik",
+    "meaning_en": "overly dramatic",
+    "meaning_bn": "",
+    "example": "Her histrionic reaction to the news embarrassed her family."
+  },
+  {
+    "index": 400,
+    "word": "Homily",
+    "pronunciation": "HOM-ih-lee",
+    "meaning_en": "a sermon",
+    "meaning_bn": "",
+    "example": "The priest delivered a lengthy homily on forgiveness."
+  },
+  {
+    "index": 401,
+    "word": "Homogeneous",
+    "pronunciation": "hoh-moh-JEE- nee-us",
+    "meaning_en": "made entirely of one thing",
+    "meaning_bn": "",
+    "example": "The community was largely homogeneous in culture."
+  },
+  {
+    "index": 402,
+    "word": "Husbandry",
+    "pronunciation": "HUZ-bun-dree",
+    "meaning_en": "thrifty management of resources",
+    "meaning_bn": "",
+    "example": "Good husbandry is key to a productive farm."
+  },
+  {
+    "index": 403,
+    "word": "Hyperbole",
+    "pronunciation": "hy-PER-buh-lee",
+    "meaning_en": "exaggeration",
+    "meaning_bn": "",
+    "example": "Saying 'I've told you a million times' is a hyperbole."
+  },
+  {
+    "index": 404,
+    "word": "Hypothetical",
+    "pronunciation": "hy-puh-THET-ih- kul",
+    "meaning_en": "uncertain",
+    "meaning_bn": "",
+    "example": "Let's discuss a hypothetical scenario."
+  },
+  {
+    "index": 405,
+    "word": "Iconoclast",
+    "pronunciation": "y-KON-uh-klast",
+    "meaning_en": "one who attacks popular beliefs or institutions",
+    "meaning_bn": "",
+    "example": "He was an iconoclast who challenged every tradition."
+  },
+  {
+    "index": 406,
+    "word": "Ideology",
+    "pronunciation": "y-dee-OL-uh-jee",
+    "meaning_en": "a system of social or political ideas",
+    "meaning_bn": "",
+    "example": "Democracy is the dominant ideology in many countries."
+  },
+  {
+    "index": 407,
+    "word": "Idiosyncrasy",
+    "pronunciation": "id-ee-oh-SING- kruh-see",
+    "meaning_en": "an eccentricity",
+    "meaning_bn": "",
+    "example": "One of his idiosyncrasies is talking to plants."
+  },
+  {
+    "index": 408,
+    "word": "Idyllic",
+    "pronunciation": "y-DIL-ik",
+    "meaning_en": "charming in a rustic way",
+    "meaning_bn": "",
+    "example": "They spent an idyllic summer by the lake."
+  },
+  {
+    "index": 409,
+    "word": "Ignominy",
+    "pronunciation": "IG-nuh-min-ee",
+    "meaning_en": "deep disgrace",
+    "meaning_bn": "",
+    "example": "He left office in ignominy."
+  },
+  {
+    "index": 410,
+    "word": "Illicit",
+    "pronunciation": "ih-LIS-it",
+    "meaning_en": "illegal",
+    "meaning_bn": "",
+    "example": "He was caught trading in illicit goods."
+  },
+  {
+    "index": 411,
+    "word": "Immigrate",
+    "pronunciation": "IM-ih-grayt",
+    "meaning_en": "to move permanently to a new country",
+    "meaning_bn": "অভিবাসী হিসেবে আসা",
+    "example": "Her grandparents immigrated to Canada in 1970."
+  },
+  {
+    "index": 412,
+    "word": "Imminent",
+    "pronunciation": "IM-ih-nunt",
+    "meaning_en": "just about to happen",
+    "meaning_bn": "",
+    "example": "An imminent storm prompted evacuation warnings."
+  },
+  {
+    "index": 413,
+    "word": "Immutable",
+    "pronunciation": "ih-MYOO-tuh-bul",
+    "meaning_en": "unchangeable",
+    "meaning_bn": "",
+    "example": "The laws of physics are essentially immutable."
+  },
+  {
+    "index": 414,
+    "word": "Impartial",
+    "pronunciation": "im-PAR-shul",
+    "meaning_en": "unbiased",
+    "meaning_bn": "",
+    "example": "A judge must be impartial when hearing a case."
+  },
+  {
+    "index": 415,
+    "word": "Impeccable",
+    "pronunciation": "im-PEK-uh-bul",
+    "meaning_en": "flawless",
+    "meaning_bn": "",
+    "example": "Her impeccable taste in fashion was admired."
+  },
+  {
+    "index": 416,
+    "word": "Imperial",
+    "pronunciation": "im-PEER-ee-ul",
+    "meaning_en": "like an emperor or an empire",
+    "meaning_bn": "",
+    "example": "The imperial palace was open to tourists."
+  },
+  {
+    "index": 417,
+    "word": "Impervious",
+    "pronunciation": "im-PUR-vee-us",
+    "meaning_en": "impenetrable",
+    "meaning_bn": "",
+    "example": "He seemed impervious to criticism."
+  },
+  {
+    "index": 418,
+    "word": "Impetuous",
+    "pronunciation": "im-PECH-oo-us",
+    "meaning_en": "extremely impatient",
+    "meaning_bn": "",
+    "example": "His impetuous decision led to serious regrets."
+  },
+  {
+    "index": 419,
+    "word": "Implement",
+    "pronunciation": "IM-pluh-ment",
+    "meaning_en": "to carry out",
+    "meaning_bn": "",
+    "example": "The government will implement the new policy next year."
+  },
+  {
+    "index": 420,
+    "word": "Impotent",
+    "pronunciation": "IM-puh-tunt",
+    "meaning_en": "powerless",
+    "meaning_bn": "",
+    "example": "He felt impotent in the face of injustice."
+  },
+  {
+    "index": 421,
+    "word": "Impugn",
+    "pronunciation": "im-PYOON",
+    "meaning_en": "to attack, especially to attack the truth or integrity of something",
+    "meaning_bn": "",
+    "example": "She impugned his motives in front of the committee."
+  },
+  {
+    "index": 422,
+    "word": "Inane",
+    "pronunciation": "ih-NAYN",
+    "meaning_en": "silly",
+    "meaning_bn": "",
+    "example": "Stop making inane remarks."
+  },
+  {
+    "index": 423,
+    "word": "Inaugurate",
+    "pronunciation": "ih-NAW-gyuh-rayt",
+    "meaning_en": "to induct formally into office",
+    "meaning_bn": "",
+    "example": "The new bridge was inaugurated by the president."
+  },
+  {
+    "index": 424,
+    "word": "Incandescent",
+    "pronunciation": "in-kan-DES-unt",
+    "meaning_en": "brilliant",
+    "meaning_bn": "",
+    "example": "She gave an incandescent performance on stage."
+  },
+  {
+    "index": 425,
+    "word": "Incantation",
+    "pronunciation": "in-kan-TAY-shun",
+    "meaning_en": "a chant",
+    "meaning_bn": "",
+    "example": "The wizard repeated an incantation over the potion."
+  },
+  {
+    "index": 426,
+    "word": "Incense",
+    "pronunciation": "in-SENS",
+    "meaning_en": "to make very angry",
+    "meaning_bn": "",
+    "example": "His rude behavior incensed the entire crowd."
+  },
+  {
+    "index": 427,
+    "word": "Incessant",
+    "pronunciation": "in-SES-unt",
+    "meaning_en": "unceasing",
+    "meaning_bn": "",
+    "example": "The incessant noise from the construction kept her awake."
+  },
+  {
+    "index": 428,
+    "word": "Incipient",
+    "pronunciation": "in-SIP-ee-unt",
+    "meaning_en": "emerging",
+    "meaning_bn": "",
+    "example": "Doctors detected an incipient infection."
+  },
+  {
+    "index": 429,
+    "word": "Incisive",
+    "pronunciation": "in-SY-siv",
+    "meaning_en": "cutting right to the heart of the matter",
+    "meaning_bn": "",
+    "example": "Her incisive analysis identified the core problem."
+  },
+  {
+    "index": 430,
+    "word": "Incongruous",
+    "pronunciation": "in-KONG-groo-us",
+    "meaning_en": "not consistent",
+    "meaning_bn": "",
+    "example": "The modern sculpture looked incongruous in the old building."
+  },
+  {
+    "index": 431,
+    "word": "Incorrigible",
+    "pronunciation": "in-KOR-ih-jih-bul",
+    "meaning_en": "incapable of being reformed",
+    "meaning_bn": "",
+    "example": "He was an incorrigible liar."
+  },
+  {
+    "index": 432,
+    "word": "Increment",
+    "pronunciation": "IN-kruh-munt",
+    "meaning_en": "one in a series of increases",
+    "meaning_bn": "",
+    "example": "Salary increments are awarded annually."
+  },
+  {
+    "index": 433,
+    "word": "Indifferent",
+    "pronunciation": "in-DIF-er-unt",
+    "meaning_en": "not caring one way or the other",
+    "meaning_bn": "",
+    "example": "She seemed indifferent to their disapproval."
+  },
+  {
+    "index": 434,
+    "word": "Indigenous",
+    "pronunciation": "in-DIJ-ih-nus",
+    "meaning_en": "native",
+    "meaning_bn": "",
+    "example": "The indigenous tribes have lived here for centuries."
+  },
+  {
+    "index": 435,
+    "word": "Indigent",
+    "pronunciation": "IN-dih-junt",
+    "meaning_en": "poor",
+    "meaning_bn": "",
+    "example": "The clinic provides free care to indigent patients."
+  },
+  {
+    "index": 436,
+    "word": "Indignant",
+    "pronunciation": "in-DIG-nunt",
+    "meaning_en": "angry, especially as a result of something unjust or unworthy",
+    "meaning_bn": "",
+    "example": "She was indignant at the false accusations."
+  },
+  {
+    "index": 437,
+    "word": "Indolent",
+    "pronunciation": "IN-duh-lunt",
+    "meaning_en": "lazy",
+    "meaning_bn": "",
+    "example": "The indolent student rarely completed assignments."
+  },
+  {
+    "index": 438,
+    "word": "Indulgent",
+    "pronunciation": "in-DUL-junt",
+    "meaning_en": "yielding to desire",
+    "meaning_bn": "",
+    "example": "She was indulgent toward her grandchildren."
+  },
+  {
+    "index": 439,
+    "word": "Ineffable",
+    "pronunciation": "in-EF-uh-bul",
+    "meaning_en": "incapable of being expressed or described",
+    "meaning_bn": "",
+    "example": "The beauty of the sunset was ineffable."
+  },
+  {
+    "index": 440,
+    "word": "Inept",
+    "pronunciation": "in-EPT",
+    "meaning_en": "clumsy",
+    "meaning_bn": "",
+    "example": "He was inept at managing people."
+  },
+  {
+    "index": 441,
+    "word": "Inert",
+    "pronunciation": "ih-NERT",
+    "meaning_en": "inactive",
+    "meaning_bn": "",
+    "example": "The inert gas does not react with other chemicals."
+  },
+  {
+    "index": 442,
+    "word": "Inexorable",
+    "pronunciation": "in-EK-ser-uh-bul",
+    "meaning_en": "inevitable",
+    "meaning_bn": "",
+    "example": "The inexorable march of time stops for no one."
+  },
+  {
+    "index": 443,
+    "word": "Infamous",
+    "pronunciation": "IN-fuh-mus",
+    "meaning_en": "having an extremely bad reputation",
+    "meaning_bn": "",
+    "example": "Al Capone was infamous for his criminal empire."
+  },
+  {
+    "index": 444,
+    "word": "Infatuated",
+    "pronunciation": "in-FACH-oo-ay-tid",
+    "meaning_en": "foolishly passionate or attracted",
+    "meaning_bn": "",
+    "example": "He was infatuated with the actress."
+  },
+  {
+    "index": 445,
+    "word": "Infer",
+    "pronunciation": "in-FER",
+    "meaning_en": "to conclude",
+    "meaning_bn": "",
+    "example": "From the evidence, the detective inferred the motive."
+  },
+  {
+    "index": 446,
+    "word": "Infinitesimal",
+    "pronunciation": "in-fin-ih-TES-ih- mul",
+    "meaning_en": "very very small",
+    "meaning_bn": "",
+    "example": "The chance of error was infinitesimal."
+  },
+  {
+    "index": 447,
+    "word": "Ingenuous",
+    "pronunciation": "in-JEN-yoo-us",
+    "meaning_en": "charmingly naive",
+    "meaning_bn": "",
+    "example": "Her ingenuous smile disarmed everyone."
+  },
+  {
+    "index": 448,
+    "word": "Inherent",
+    "pronunciation": "in-HEER-unt",
+    "meaning_en": "part of the essential nature of something",
+    "meaning_bn": "",
+    "example": "Risk is inherent in any investment."
+  },
+  {
+    "index": 449,
+    "word": "Injunction",
+    "pronunciation": "in-JUNGK-shun",
+    "meaning_en": "a command or order, especially a court order",
+    "meaning_bn": "",
+    "example": "The court issued an injunction to stop the construction."
+  },
+  {
+    "index": 450,
+    "word": "Innate",
+    "pronunciation": "ih-NAYT",
+    "meaning_en": "existing since birth",
+    "meaning_bn": "",
+    "example": "She has an innate talent for music."
+  },
+  {
+    "index": 451,
+    "word": "Innocuous",
+    "pronunciation": "ih-NOK-yoo-us",
+    "meaning_en": "harmless; banal",
+    "meaning_bn": "",
+    "example": "The remark seemed innocuous but caused offense."
+  },
+  {
+    "index": 452,
+    "word": "Inordinate",
+    "pronunciation": "in-OR-dih-nit",
+    "meaning_en": "excessive; unreasonable",
+    "meaning_bn": "",
+    "example": "She spent an inordinate amount of time on the project."
+  },
+  {
+    "index": 453,
+    "word": "Insatiable",
+    "pronunciation": "in-SAY-shuh-bul",
+    "meaning_en": "impossible to satisfy",
+    "meaning_bn": "",
+    "example": "He had an insatiable appetite for knowledge."
+  },
+  {
+    "index": 454,
+    "word": "Insidious",
+    "pronunciation": "in-SID-ee-us",
+    "meaning_en": "sneaky",
+    "meaning_bn": "",
+    "example": "The disease spreads in an insidious way."
+  },
+  {
+    "index": 455,
+    "word": "Insinuate",
+    "pronunciation": "in-SIN-yoo-ayt",
+    "meaning_en": "to hint",
+    "meaning_bn": "",
+    "example": "Are you insinuating that I lied?"
+  },
+  {
+    "index": 456,
+    "word": "Insipid",
+    "pronunciation": "in-SIP-id",
+    "meaning_en": "dull",
+    "meaning_bn": "",
+    "example": "The food was insipid and tasteless."
+  },
+  {
+    "index": 457,
+    "word": "Insolent",
+    "pronunciation": "IN-suh-lunt",
+    "meaning_en": "arrogant",
+    "meaning_bn": "",
+    "example": "The insolent student argued back at the teacher."
+  },
+  {
+    "index": 458,
+    "word": "Instigate",
+    "pronunciation": "IN-stih-gayt",
+    "meaning_en": "to provoke",
+    "meaning_bn": "",
+    "example": "He instigated the fight by making rude comments."
+  },
+  {
+    "index": 459,
+    "word": "Insular",
+    "pronunciation": "IN-syuh-ler",
+    "meaning_en": "isolated",
+    "meaning_bn": "",
+    "example": "Their insular community was resistant to change."
+  },
+  {
+    "index": 460,
+    "word": "Insurgent",
+    "pronunciation": "in-SUR-junt",
+    "meaning_en": "a rebel against a government",
+    "meaning_bn": "",
+    "example": "The insurgents attacked the military convoy."
+  },
+  {
+    "index": 461,
+    "word": "Integral",
+    "pronunciation": "IN-tuh-grul",
+    "meaning_en": "essential",
+    "meaning_bn": "",
+    "example": "Trust is integral to any good relationship."
+  },
+  {
+    "index": 462,
+    "word": "Integrate",
+    "pronunciation": "IN-tuh-grayt",
+    "meaning_en": "to combine two or more things into a whole",
+    "meaning_bn": "একীভূত করা",
+    "example": "The school integrated computers into every subject."
+  },
+  {
+    "index": 463,
+    "word": "Intractable",
+    "pronunciation": "in-TRAK-tuh-bul",
+    "meaning_en": "disobedient",
+    "meaning_bn": "",
+    "example": "The intractable child refused to cooperate."
+  },
+  {
+    "index": 464,
+    "word": "Intransigent",
+    "pronunciation": "in-TRAN-sih-junt",
+    "meaning_en": "stubborn",
+    "meaning_bn": "",
+    "example": "His intransigent stance blocked negotiations."
+  },
+  {
+    "index": 465,
+    "word": "Intrinsic",
+    "pronunciation": "in-TRIN-sik",
+    "meaning_en": "inherent",
+    "meaning_bn": "",
+    "example": "Gold has intrinsic value beyond its market price."
+  },
+  {
+    "index": 466,
+    "word": "Introspective",
+    "pronunciation": "in-troh-SPEK-tiv",
+    "meaning_en": "tending to think about oneself",
+    "meaning_bn": "",
+    "example": "He grew more introspective after his illness."
+  },
+  {
+    "index": 467,
+    "word": "Inundate",
+    "pronunciation": "IN-un-dayt",
+    "meaning_en": "to flood",
+    "meaning_bn": "",
+    "example": "The office was inundated with complaint letters."
+  },
+  {
+    "index": 468,
+    "word": "Invective",
+    "pronunciation": "in-VEK-tiv",
+    "meaning_en": "insulting or abusive speech",
+    "meaning_bn": "",
+    "example": "His speech descended into invective."
+  },
+  {
+    "index": 469,
+    "word": "Inveterate",
+    "pronunciation": "in-VET-er-it",
+    "meaning_en": "habitual",
+    "meaning_bn": "",
+    "example": "He is an inveterate gambler."
+  },
+  {
+    "index": 470,
+    "word": "Irascible",
+    "pronunciation": "ih-RAS-ih-bul",
+    "meaning_en": "easily angered or provoked",
+    "meaning_bn": "",
+    "example": "The irascible professor frightened new students."
+  },
+  {
+    "index": 471,
+    "word": "Ironic",
+    "pronunciation": "y-RON-ik",
+    "meaning_en": "meaning the opposite of what you seem to say",
+    "meaning_bn": "",
+    "example": "It was ironic that the fire station burned down."
+  },
+  {
+    "index": 472,
+    "word": "Irrevocable",
+    "pronunciation": "ih-REV-uh-kuh- bul",
+    "meaning_en": "irreversible",
+    "meaning_bn": "",
+    "example": "His departure was irrevocable."
+  },
+  {
+    "index": 473,
+    "word": "Itinerant",
+    "pronunciation": "y-T IN-er-unt",
+    "meaning_en": "moving from place to place",
+    "meaning_bn": "",
+    "example": "The itinerant vendor sold vegetables door to door."
+  },
+  {
+    "index": 474,
+    "word": "Judicious",
+    "pronunciation": "joo-DISH-us",
+    "meaning_en": "exercising sound judgment",
+    "meaning_bn": "",
+    "example": "She made a judicious choice in selecting her team."
+  },
+  {
+    "index": 475,
+    "word": "Juxtapose",
+    "pronunciation": "JUK-stuh-pohz",
+    "meaning_en": "to place side by side",
+    "meaning_bn": "",
+    "example": "The artist juxtaposed dark and light colors."
+  },
+  {
+    "index": 476,
+    "word": "Kinetic",
+    "pronunciation": "kih-NET-ik",
+    "meaning_en": "having to do with motion",
+    "meaning_bn": "",
+    "example": "Kinetic energy is the energy of a moving object."
+  },
+  {
+    "index": 477,
+    "word": "Labyrinth",
+    "pronunciation": "LAB-uh-rinth",
+    "meaning_en": "a maze",
+    "meaning_bn": "",
+    "example": "The old city was a labyrinth of narrow streets."
+  },
+  {
+    "index": 478,
+    "word": "Laconic",
+    "pronunciation": "luh-KON-ik",
+    "meaning_en": "using few words, especially to the point of seeming rude",
+    "meaning_bn": "",
+    "example": "His laconic reply was just: 'No.'"
+  },
+  {
+    "index": 479,
+    "word": "Lament",
+    "pronunciation": "luh-MENT",
+    "meaning_en": "to mourn",
+    "meaning_bn": "",
+    "example": "She lamented the loss of her dear friend."
+  },
+  {
+    "index": 480,
+    "word": "Lampoon",
+    "pronunciation": "lam-POON",
+    "meaning_en": "to mock",
+    "meaning_bn": "",
+    "example": "The comedian lampooned the politician's speeches."
+  },
+  {
+    "index": 481,
+    "word": "Languish",
+    "pronunciation": "LANG-gwish",
+    "meaning_en": "to become weak or depressed",
+    "meaning_bn": "",
+    "example": "The prisoners languished in terrible conditions."
+  },
+  {
+    "index": 482,
+    "word": "Largess",
+    "pronunciation": "lar-JES",
+    "meaning_en": "generosity",
+    "meaning_bn": "",
+    "example": "The billionaire's largess funded many schools."
+  },
+  {
+    "index": 483,
+    "word": "Latent",
+    "pronunciation": "LAY-tunt",
+    "meaning_en": "present but not visible",
+    "meaning_bn": "",
+    "example": "She had a latent talent for painting."
+  },
+  {
+    "index": 484,
+    "word": "Laud",
+    "pronunciation": "LAWD",
+    "meaning_en": "to praise",
+    "meaning_bn": "",
+    "example": "The critics lauded his debut novel."
+  },
+  {
+    "index": 485,
+    "word": "Legacy",
+    "pronunciation": "LEG-uh-see",
+    "meaning_en": "something handed down from the past",
+    "meaning_bn": "",
+    "example": "His legacy lives on through his students."
+  },
+  {
+    "index": 486,
+    "word": "Lethargy",
+    "pronunciation": "LETH-er-jee",
+    "meaning_en": "sluggishness",
+    "meaning_bn": "",
+    "example": "The hot weather caused general lethargy."
+  },
+  {
+    "index": 487,
+    "word": "Levity",
+    "pronunciation": "LEV-ih-tee",
+    "meaning_en": "lightness",
+    "meaning_bn": "",
+    "example": "A little levity helped ease the tension in the room."
+  },
+  {
+    "index": 488,
+    "word": "Libel",
+    "pronunciation": "LY-bul",
+    "meaning_en": "a written or published falsehood that injures the reputation of someone",
+    "meaning_bn": "",
+    "example": "The newspaper was sued for libel."
+  },
+  {
+    "index": 489,
+    "word": "Litigate",
+    "pronunciation": "LIT-ih-gayt",
+    "meaning_en": "to try in court",
+    "meaning_bn": "",
+    "example": "They decided to litigate rather than settle."
+  },
+  {
+    "index": 490,
+    "word": "Loquacious",
+    "pronunciation": "loh-KWAY-shus",
+    "meaning_en": "talking a lot or too much",
+    "meaning_bn": "",
+    "example": "The loquacious host dominated every conversation."
+  },
+  {
+    "index": 491,
+    "word": "Lucid",
+    "pronunciation": "LOO-sid",
+    "meaning_en": "clear",
+    "meaning_bn": "",
+    "example": "The professor gave a lucid explanation."
+  },
+  {
+    "index": 492,
+    "word": "Lugubrious",
+    "pronunciation": "luh-GOO-bree-us",
+    "meaning_en": "exaggeratedly mournful",
+    "meaning_bn": "",
+    "example": "He spoke in a lugubrious tone that depressed everyone."
+  },
+  {
+    "index": 493,
+    "word": "Luminous",
+    "pronunciation": "LOO-mih-nus",
+    "meaning_en": "glowing",
+    "meaning_bn": "",
+    "example": "The moon was luminous in the clear sky."
+  },
+  {
+    "index": 494,
+    "word": "Machination",
+    "pronunciation": "mak-ih-NAY-shun",
+    "meaning_en": "scheming activity for an evil purpose",
+    "meaning_bn": "",
+    "example": "The villain's machinations finally came to light."
+  },
+  {
+    "index": 495,
+    "word": "Magnanimous",
+    "pronunciation": "mag-NAN-ih-mus",
+    "meaning_en": "forgiving",
+    "meaning_bn": "",
+    "example": "Despite being wronged, he was magnanimous in victory."
+  },
+  {
+    "index": 496,
+    "word": "Magnate",
+    "pronunciation": "MAG-nayt",
+    "meaning_en": "a rich, powerful, or very successful business person",
+    "meaning_bn": "",
+    "example": "He became an oil magnate by age forty."
+  },
+  {
+    "index": 497,
+    "word": "Malaise",
+    "pronunciation": "ma-LAYZ",
+    "meaning_en": "a feeling of depression, uneasiness",
+    "meaning_bn": "",
+    "example": "The country was gripped by a general malaise."
+  },
+  {
+    "index": 498,
+    "word": "Malfeasance",
+    "pronunciation": "mal-FEE-zunce",
+    "meaning_en": "an illegal act, especially by a public official",
+    "meaning_bn": "",
+    "example": "The minister was charged with malfeasance."
+  },
+  {
+    "index": 499,
+    "word": "Malignant",
+    "pronunciation": "muh-LIG-nunt",
+    "meaning_en": "causing harm",
+    "meaning_bn": "কত্ষিকর / মারাত্মক",
+    "example": "The doctor said the tumor was malignant."
+  },
+  {
+    "index": 500,
+    "word": "Malinger",
+    "pronunciation": "muh-LING-ger",
+    "meaning_en": "to pretend to be sick to avoid doing work",
+    "meaning_bn": "",
+    "example": "He malingered for weeks to avoid the project."
+  },
+  {
+    "index": 501,
+    "word": "Malleable",
+    "pronunciation": "MAL-ee-uh-bul",
+    "meaning_en": "easy to shape or bend",
+    "meaning_bn": "",
+    "example": "Gold is a malleable metal."
+  },
+  {
+    "index": 502,
+    "word": "Mandate",
+    "pronunciation": "MAN-dayt",
+    "meaning_en": "a command or authorization to do something",
+    "meaning_bn": "",
+    "example": "The new law gave authorities the mandate to act."
+  },
+  {
+    "index": 503,
+    "word": "Manifest",
+    "pronunciation": "MAN-ih-fest",
+    "meaning_en": "evident",
+    "meaning_bn": "",
+    "example": "His talent was manifest from an early age."
+  },
+  {
+    "index": 504,
+    "word": "Manifesto",
+    "pronunciation": "man-ih-FES-toh",
+    "meaning_en": "a public declaration of beliefs or principles, usually political ones",
+    "meaning_bn": "",
+    "example": "The party released its election manifesto."
+  },
+  {
+    "index": 505,
+    "word": "Marshal",
+    "pronunciation": "MAR-shul",
+    "meaning_en": "to arrange in order for the purpose of doing something",
+    "meaning_bn": "",
+    "example": "She marshalled her arguments carefully before speaking."
+  },
+  {
+    "index": 506,
+    "word": "Martial",
+    "pronunciation": "MAR-shul",
+    "meaning_en": "warlike",
+    "meaning_bn": "",
+    "example": "Martial law was declared after the coup."
+  },
+  {
+    "index": 507,
+    "word": "Martyr",
+    "pronunciation": "MAR-ter",
+    "meaning_en": "one who makes a show of suffering in order to arouse sympathy",
+    "meaning_bn": "",
+    "example": "She played the martyr whenever things didn't go her way."
+  },
+  {
+    "index": 508,
+    "word": "Matriculate",
+    "pronunciation": "muh-TRIK-yuh- layt",
+    "meaning_en": "to enroll, especially at a college",
+    "meaning_bn": "",
+    "example": "He matriculated at Dhaka University in 2018."
+  },
+  {
+    "index": 509,
+    "word": "Maudlin",
+    "pronunciation": "MAWD-lin",
+    "meaning_en": "silly and overly sentimental",
+    "meaning_bn": "",
+    "example": "She became maudlin after a few drinks."
+  },
+  {
+    "index": 510,
+    "word": "Maverick",
+    "pronunciation": "MAV-er-ik",
+    "meaning_en": "a rebel",
+    "meaning_bn": "",
+    "example": "He was a maverick who refused to follow the party line."
+  },
+  {
+    "index": 511,
+    "word": "Maxim",
+    "pronunciation": "MAK-sim",
+    "meaning_en": "an old saying",
+    "meaning_bn": "",
+    "example": "Follow the maxim: 'Honesty is the best policy.'"
+  },
+  {
+    "index": 512,
+    "word": "Mediate",
+    "pronunciation": "MEE-dee-ayt",
+    "meaning_en": "to help settle differences",
+    "meaning_bn": "",
+    "example": "The UN tried to mediate between the two nations."
+  },
+  {
+    "index": 513,
+    "word": "Mellifluous",
+    "pronunciation": "muh-LIF-loo-us",
+    "meaning_en": "sweetly flowing",
+    "meaning_bn": "",
+    "example": "Her mellifluous voice captivated the audience."
+  },
+  {
+    "index": 514,
+    "word": "Mendacious",
+    "pronunciation": "men-DAY-shus",
+    "meaning_en": "dishonest",
+    "meaning_bn": "",
+    "example": "The mendacious politician misled the public."
+  },
+  {
+    "index": 515,
+    "word": "Mendicant",
+    "pronunciation": "MEN-dih-kunt",
+    "meaning_en": "a beggar",
+    "meaning_bn": "",
+    "example": "The mendicant sat quietly at the temple gate."
+  },
+  {
+    "index": 516,
+    "word": "Mentor",
+    "pronunciation": "MEN-tor",
+    "meaning_en": "a teacher, tutor, counselor or coach",
+    "meaning_bn": "",
+    "example": "He credits his mentor with shaping his career."
+  },
+  {
+    "index": 517,
+    "word": "Mercenary",
+    "pronunciation": "MUR-suh-ner-ee",
+    "meaning_en": "someone who will do anything for money",
+    "meaning_bn": "",
+    "example": "He hired mercenaries to guard the shipment."
+  },
+  {
+    "index": 518,
+    "word": "Mercurial",
+    "pronunciation": "mer-KYOOR-ee- ul",
+    "meaning_en": "rapidly changing in mood",
+    "meaning_bn": "",
+    "example": "His mercurial temperament made him hard to work with."
+  },
+  {
+    "index": 519,
+    "word": "Metamorphosis",
+    "pronunciation": "met-uh-MOR-fuh- sis",
+    "meaning_en": "a magical change in form",
+    "meaning_bn": "",
+    "example": "The caterpillar's metamorphosis into a butterfly is remarkable."
+  },
+  {
+    "index": 520,
+    "word": "Microcosm",
+    "pronunciation": "MY-kroh-koz-um",
+    "meaning_en": "the world in miniature",
+    "meaning_bn": "",
+    "example": "The school is a microcosm of society."
+  },
+  {
+    "index": 521,
+    "word": "Milieu",
+    "pronunciation": "meel-YOO",
+    "meaning_en": "environment",
+    "meaning_bn": "",
+    "example": "He thrived in the creative milieu of the arts school."
+  },
+  {
+    "index": 522,
+    "word": "Minuscule",
+    "pronunciation": "MIN-uh-skyool",
+    "meaning_en": "tiny",
+    "meaning_bn": "",
+    "example": "The difference in price was minuscule."
+  },
+  {
+    "index": 523,
+    "word": "Misanthropic",
+    "pronunciation": "mis-un-THROP-ik",
+    "meaning_en": "hating mankind",
+    "meaning_bn": "",
+    "example": "He became increasingly misanthropic after his ordeal."
+  },
+  {
+    "index": 524,
+    "word": "Mitigate",
+    "pronunciation": "MIT-ih-gayt",
+    "meaning_en": "to moderate the effect of something",
+    "meaning_bn": "",
+    "example": "Trees help mitigate the effects of urban heat."
+  },
+  {
+    "index": 525,
+    "word": "Mollify",
+    "pronunciation": "MOL-ih-fy",
+    "meaning_en": "to soothe",
+    "meaning_bn": "",
+    "example": "He brought flowers to mollify his angry wife."
+  },
+  {
+    "index": 526,
+    "word": "Monolithic",
+    "pronunciation": "mon-uh-LITH-ik",
+    "meaning_en": "massive, solid, uniform and unyielding",
+    "meaning_bn": "",
+    "example": "The monolithic corporation resisted all regulation."
+  },
+  {
+    "index": 527,
+    "word": "Moribund",
+    "pronunciation": "MOR-ih-bund",
+    "meaning_en": "dying",
+    "meaning_bn": "",
+    "example": "The moribund industry needed urgent reform."
+  },
+  {
+    "index": 528,
+    "word": "Morose",
+    "pronunciation": "muh-ROHS",
+    "meaning_en": "gloomy",
+    "meaning_bn": "",
+    "example": "He became morose after the rejection."
+  },
+  {
+    "index": 529,
+    "word": "Mortify",
+    "pronunciation": "MOR-tih-fy",
+    "meaning_en": "to humiliate",
+    "meaning_bn": "",
+    "example": "She was mortified when she tripped on stage."
+  },
+  {
+    "index": 530,
+    "word": "Mundane",
+    "pronunciation": "mun-DAYN",
+    "meaning_en": "ordinary",
+    "meaning_bn": "",
+    "example": "He found mundane office tasks tedious."
+  },
+  {
+    "index": 531,
+    "word": "Munificent",
+    "pronunciation": "myoo-NIF-ih-sunt",
+    "meaning_en": "lavish",
+    "meaning_bn": "",
+    "example": "The munificent donor gave ten million taka."
+  },
+  {
+    "index": 532,
+    "word": "Myopia",
+    "pronunciation": "my-OH-pee-uh",
+    "meaning_en": "nearsightedness",
+    "meaning_bn": "",
+    "example": "His political myopia cost him the election."
+  },
+  {
+    "index": 533,
+    "word": "Myriad",
+    "pronunciation": "MIR-ee-ud",
+    "meaning_en": "a huge number",
+    "meaning_bn": "",
+    "example": "The internet offers a myriad of resources."
+  },
+  {
+    "index": 534,
+    "word": "Narcissism",
+    "pronunciation": "NAR-sih-siz-um",
+    "meaning_en": "excessive love of one's body or oneself",
+    "meaning_bn": "",
+    "example": "His narcissism made it impossible for him to admit fault."
+  },
+  {
+    "index": 535,
+    "word": "Nebulous",
+    "pronunciation": "NEB-yuh-lus",
+    "meaning_en": "vague",
+    "meaning_bn": "",
+    "example": "His plans for the future were nebulous."
+  },
+  {
+    "index": 536,
+    "word": "Nefarious",
+    "pronunciation": "nih-FAIR-ee-us",
+    "meaning_en": "evil",
+    "meaning_bn": "",
+    "example": "The nefarious scheme was uncovered by police."
+  },
+  {
+    "index": 537,
+    "word": "Neologism",
+    "pronunciation": "nee-OL-uh-jiz-um",
+    "meaning_en": "a new usage of a word",
+    "meaning_bn": "",
+    "example": "'Selfie' is a relatively recent neologism."
+  },
+  {
+    "index": 538,
+    "word": "Nepotism",
+    "pronunciation": "NEP-uh-tiz-um",
+    "meaning_en": "showing favoritism to friends or family in business or politics",
+    "meaning_bn": "",
+    "example": "He was accused of nepotism for hiring his cousin."
+  },
+  {
+    "index": 539,
+    "word": "Nihilism",
+    "pronunciation": "NY-ih-liz-um",
+    "meaning_en": "the belief that there are no values or morals in the universe",
+    "meaning_bn": "",
+    "example": "His nihilism made him indifferent to everything."
+  },
+  {
+    "index": 540,
+    "word": "Nominal",
+    "pronunciation": "NOM-ih-nul",
+    "meaning_en": "insignificant",
+    "meaning_bn": "",
+    "example": "He charged only a nominal fee."
+  },
+  {
+    "index": 541,
+    "word": "Nostalgia",
+    "pronunciation": "nos-TAL-juh",
+    "meaning_en": "sentimental longing for the past",
+    "meaning_bn": "",
+    "example": "Listening to old songs fills me with nostalgia."
+  },
+  {
+    "index": 542,
+    "word": "Notorious",
+    "pronunciation": "noh-TOR-ee-us",
+    "meaning_en": "famous for something bad",
+    "meaning_bn": "",
+    "example": "He was notorious for his violent temper."
+  },
+  {
+    "index": 543,
+    "word": "Novel",
+    "pronunciation": "NOV-ul",
+    "meaning_en": "new",
+    "meaning_bn": "",
+    "example": "She presented a novel approach to the old problem."
+  },
+  {
+    "index": 544,
+    "word": "Noxious",
+    "pronunciation": "NOK-shus",
+    "meaning_en": "harmful",
+    "meaning_bn": "",
+    "example": "The factory released noxious gases."
+  },
+  {
+    "index": 545,
+    "word": "Nuance",
+    "pronunciation": "NOO-ahns",
+    "meaning_en": "a subtle difference or distinction",
+    "meaning_bn": "",
+    "example": "He appreciated the nuance of her argument."
+  },
+  {
+    "index": 546,
+    "word": "Obdurate",
+    "pronunciation": "OB-dyoo-rit",
+    "meaning_en": "stubborn and insensitive",
+    "meaning_bn": "",
+    "example": "The obdurate official refused to listen."
+  },
+  {
+    "index": 547,
+    "word": "Obfuscate",
+    "pronunciation": "OB-fuh-skayt",
+    "meaning_en": "to confuse",
+    "meaning_bn": "",
+    "example": "His lengthy explanation only obfuscated the issue."
+  },
+  {
+    "index": 548,
+    "word": "Oblique",
+    "pronunciation": "uh-BLEEK",
+    "meaning_en": "indirect",
+    "meaning_bn": "",
+    "example": "He made an oblique reference to the incident."
+  },
+  {
+    "index": 549,
+    "word": "Oblivion",
+    "pronunciation": "uh-BLIV-ee-un",
+    "meaning_en": "total forgetfulness",
+    "meaning_bn": "",
+    "example": "The once-famous actor faded into oblivion."
+  },
+  {
+    "index": 550,
+    "word": "Obscure",
+    "pronunciation": "ub-SKYOOR",
+    "meaning_en": "hard to understand",
+    "meaning_bn": "",
+    "example": "The poem's meaning was obscure even to experts."
+  },
+  {
+    "index": 551,
+    "word": "Obsequious",
+    "pronunciation": "ub-SEE-kwee-us",
+    "meaning_en": "sucking up to",
+    "meaning_bn": "",
+    "example": "His obsequious behavior disgusted his colleagues."
+  },
+  {
+    "index": 552,
+    "word": "Obtuse",
+    "pronunciation": "ub-TYOOS",
+    "meaning_en": "insensitive",
+    "meaning_bn": "",
+    "example": "He was too obtuse to sense the awkward atmosphere."
+  },
+  {
+    "index": 553,
+    "word": "Officious",
+    "pronunciation": "uh-FISH-us",
+    "meaning_en": "annoyingly eager to help or advise",
+    "meaning_bn": "",
+    "example": "The officious clerk interrupted our conversation constantly."
+  },
+  {
+    "index": 554,
+    "word": "Onerous",
+    "pronunciation": "OH-ner-us",
+    "meaning_en": "burdensome",
+    "meaning_bn": "",
+    "example": "The onerous workload left him exhausted."
+  },
+  {
+    "index": 555,
+    "word": "Opaque",
+    "pronunciation": "oh-PAYK",
+    "meaning_en": "impossible to see through or to understand",
+    "meaning_bn": "",
+    "example": "The manager's opaque instructions confused everyone."
+  },
+  {
+    "index": 556,
+    "word": "Opulent",
+    "pronunciation": "OP-yuh-lunt",
+    "meaning_en": "luxurious",
+    "meaning_bn": "",
+    "example": "The opulent mansion had golden furniture."
+  },
+  {
+    "index": 557,
+    "word": "Orthodox",
+    "pronunciation": "OR-thuh-doks",
+    "meaning_en": "conventional, adhering to established principles, especially in religion",
+    "meaning_bn": "",
+    "example": "He had an orthodox view of religious practice."
+  },
+  {
+    "index": 558,
+    "word": "Ostensible",
+    "pronunciation": "os-TEN-sih-bul",
+    "meaning_en": "apparent but misleading",
+    "meaning_bn": "",
+    "example": "His ostensible reason was work, but he wanted a vacation."
+  },
+  {
+    "index": 559,
+    "word": "Ostentatious",
+    "pronunciation": "os-ten-TAY-shus",
+    "meaning_en": "showing off",
+    "meaning_bn": "",
+    "example": "He wore an ostentatious gold watch to impress guests."
+  },
+  {
+    "index": 560,
+    "word": "Pacify",
+    "pronunciation": "PAS-ih-fy",
+    "meaning_en": "to calm someone down",
+    "meaning_bn": "",
+    "example": "She struggled to pacify the crying baby."
+  },
+  {
+    "index": 561,
+    "word": "Painstaking",
+    "pronunciation": "PAYNZ-tay-king",
+    "meaning_en": "extremely careful",
+    "meaning_bn": "",
+    "example": "He did painstaking research for his dissertation."
+  },
+  {
+    "index": 562,
+    "word": "Palliate",
+    "pronunciation": "PAL-ee-ayt",
+    "meaning_en": "to relieve or alleviate something without getting rid of the problem",
+    "meaning_bn": "",
+    "example": "The medication only palliates the symptoms."
+  },
+  {
+    "index": 563,
+    "word": "Palpable",
+    "pronunciation": "PAL-puh-bul",
+    "meaning_en": "obvious; tangible",
+    "meaning_bn": "",
+    "example": "The tension in the room was palpable."
+  },
+  {
+    "index": 564,
+    "word": "Paltry",
+    "pronunciation": "PAWL-tree",
+    "meaning_en": "insignificant",
+    "meaning_bn": "",
+    "example": "He received a paltry salary for his hard work."
+  },
+  {
+    "index": 565,
+    "word": "Panacea",
+    "pronunciation": "pan-uh-SEE-uh",
+    "meaning_en": "something that cures everything",
+    "meaning_bn": "",
+    "example": "There is no panacea for poverty."
+  },
+  {
+    "index": 566,
+    "word": "Paradigm",
+    "pronunciation": "PAIR-uh-dym",
+    "meaning_en": "a model or example",
+    "meaning_bn": "",
+    "example": "The internet created a new paradigm for communication."
+  },
+  {
+    "index": 567,
+    "word": "Paradox",
+    "pronunciation": "PAIR-uh-doks",
+    "meaning_en": "a true statement or phenomenon that nonetheless seems to contradict itself",
+    "meaning_bn": "",
+    "example": "It's a paradox that the more you learn, the more you realize you don't know."
+  },
+  {
+    "index": 568,
+    "word": "Parochial",
+    "pronunciation": "puh-ROH-kee-ul",
+    "meaning_en": "narrow or confined in point of view",
+    "meaning_bn": "",
+    "example": "His parochial mindset limited his career prospects."
+  },
+  {
+    "index": 569,
+    "word": "Parody",
+    "pronunciation": "PAIR-uh-dee",
+    "meaning_en": "a satirical imitation",
+    "meaning_bn": "",
+    "example": "The comedian's parody of the president was hilarious."
+  },
+  {
+    "index": 570,
+    "word": "Parsimonious",
+    "pronunciation": "par-sih-MOH-nee- us",
+    "meaning_en": "stingy",
+    "meaning_bn": "",
+    "example": "The parsimonious landlord refused to fix the heating."
+  },
+  {
+    "index": 571,
+    "word": "Partisan",
+    "pronunciation": "PAR-tih-zun",
+    "meaning_en": "one who supports a particular person, cause, or idea",
+    "meaning_bn": "",
+    "example": "The partisan coverage biased viewers."
+  },
+  {
+    "index": 572,
+    "word": "Patent",
+    "pronunciation": "PAY-tunt",
+    "meaning_en": "obvious",
+    "meaning_bn": "",
+    "example": "His patent lack of experience showed during the interview."
+  },
+  {
+    "index": 573,
+    "word": "Paternal",
+    "pronunciation": "puh-TUR-nul",
+    "meaning_en": "fatherly",
+    "meaning_bn": "",
+    "example": "He offered paternal advice to the young employee."
+  },
+  {
+    "index": 574,
+    "word": "Pathology",
+    "pronunciation": "puh-THOL-uh-jee",
+    "meaning_en": "the science of diseases",
+    "meaning_bn": "",
+    "example": "She studied pathology at medical school."
+  },
+  {
+    "index": 575,
+    "word": "Patriarch",
+    "pronunciation": "PAY-tree-ark",
+    "meaning_en": "the male head of a family or tribe",
+    "meaning_bn": "",
+    "example": "The old patriarch was respected by all."
+  },
+  {
+    "index": 576,
+    "word": "Patrician",
+    "pronunciation": "puh-TRISH-un",
+    "meaning_en": "an aristocrat",
+    "meaning_bn": "",
+    "example": "He was born into a patrician family."
+  },
+  {
+    "index": 577,
+    "word": "Patronize",
+    "pronunciation": "PAY-truh-nyz",
+    "meaning_en": "to treat as an inferior",
+    "meaning_bn": "",
+    "example": "Please don't patronize me — I know what I'm doing."
+  },
+  {
+    "index": 578,
+    "word": "Paucity",
+    "pronunciation": "PAW-sih-tee",
+    "meaning_en": "scarcity",
+    "meaning_bn": "",
+    "example": "There is a paucity of clean drinking water."
+  },
+  {
+    "index": 579,
+    "word": "Peccadillo",
+    "pronunciation": "pek-uh-DIL-oh",
+    "meaning_en": "a minor offense",
+    "meaning_bn": "",
+    "example": "Being late once is a peccadillo, not a crime."
+  },
+  {
+    "index": 580,
+    "word": "Pedantic",
+    "pronunciation": "pih-DAN-tik",
+    "meaning_en": "boringly scholarly or academic",
+    "meaning_bn": "",
+    "example": "He was so pedantic that even simple topics became dull."
+  },
+  {
+    "index": 581,
+    "word": "Pedestrian",
+    "pronunciation": "puh-DES-tree-un",
+    "meaning_en": "banal",
+    "meaning_bn": "",
+    "example": "His speech was pedestrian and uninspiring."
+  },
+  {
+    "index": 582,
+    "word": "Pejorative",
+    "pronunciation": "pih-JOR-uh-tiv",
+    "meaning_en": "negative",
+    "meaning_bn": "",
+    "example": "His pejorative remarks angered the crowd."
+  },
+  {
+    "index": 583,
+    "word": "Penchant",
+    "pronunciation": "PEN-chunt",
+    "meaning_en": "a strong taste or liking for something",
+    "meaning_bn": "",
+    "example": "She has a penchant for collecting old books."
+  },
+  {
+    "index": 584,
+    "word": "Penitent",
+    "pronunciation": "PEN-ih-tunt",
+    "meaning_en": "repentant",
+    "meaning_bn": "",
+    "example": "The penitent man confessed his sins."
+  },
+  {
+    "index": 585,
+    "word": "Pensive",
+    "pronunciation": "PEN-siv",
+    "meaning_en": "thoughtful and sad",
+    "meaning_bn": "",
+    "example": "She sat by the window, looking pensive."
+  },
+  {
+    "index": 586,
+    "word": "Peremptory",
+    "pronunciation": "puh-REMP-tuh- ree",
+    "meaning_en": "dictatorial",
+    "meaning_bn": "",
+    "example": "His peremptory tone offended everyone."
+  },
+  {
+    "index": 587,
+    "word": "Perennial",
+    "pronunciation": "puh-REN-ee-ul",
+    "meaning_en": "happening again and again",
+    "meaning_bn": "",
+    "example": "Flooding is a perennial problem in Bangladesh."
+  },
+  {
+    "index": 588,
+    "word": "Perfidy",
+    "pronunciation": "PUR-fih-dee",
+    "meaning_en": "treachery",
+    "meaning_bn": "",
+    "example": "His perfidy was revealed when the letters were published."
+  },
+  {
+    "index": 589,
+    "word": "Perfunctory",
+    "pronunciation": "per-FUNK-tuh-ree",
+    "meaning_en": "unenthusiastic; careless",
+    "meaning_bn": "",
+    "example": "He gave a perfunctory nod and moved on."
+  },
+  {
+    "index": 590,
+    "word": "Peripatetic",
+    "pronunciation": "per -ih-puh-TET-ik",
+    "meaning_en": "traveling continually",
+    "meaning_bn": "",
+    "example": "His peripatetic lifestyle meant he never settled."
+  },
+  {
+    "index": 591,
+    "word": "Periphery",
+    "pronunciation": "puh-RIF-er-ee",
+    "meaning_en": "the outside edge of something",
+    "meaning_bn": "",
+    "example": "He worked on the periphery of the organization."
+  },
+  {
+    "index": 592,
+    "word": "Perjury",
+    "pronunciation": "PUR-juh-ree",
+    "meaning_en": "lying under oath",
+    "meaning_bn": "",
+    "example": "He was charged with perjury after lying in court."
+  },
+  {
+    "index": 593,
+    "word": "Permeate",
+    "pronunciation": "PUR-mee-ayt",
+    "meaning_en": "to penetrate",
+    "meaning_bn": "",
+    "example": "The smell of food permeated the entire house."
+  },
+  {
+    "index": 594,
+    "word": "Pernicious",
+    "pronunciation": "per-NISH-us",
+    "meaning_en": "deadly",
+    "meaning_bn": "",
+    "example": "Fake news has a pernicious effect on society."
+  },
+  {
+    "index": 595,
+    "word": "Perquisite",
+    "pronunciation": "PUR-kwih-zit",
+    "meaning_en": "a privilege that goes along with a job",
+    "meaning_bn": "",
+    "example": "A company car is a perquisite of the senior position."
+  },
+  {
+    "index": 596,
+    "word": "Pertinent",
+    "pronunciation": "PUR-tih-nunt",
+    "meaning_en": "relevant",
+    "meaning_bn": "",
+    "example": "Please keep your comments pertinent to the topic."
+  },
+  {
+    "index": 597,
+    "word": "Perturb",
+    "pronunciation": "per-TURB",
+    "meaning_en": "to disturb greatly",
+    "meaning_bn": "",
+    "example": "The unexpected news perturbed her greatly."
+  },
+  {
+    "index": 598,
+    "word": "Peruse",
+    "pronunciation": "puh-ROOZ",
+    "meaning_en": "to read carefully",
+    "meaning_bn": "",
+    "example": "She perused the contract before signing."
+  },
+  {
+    "index": 599,
+    "word": "Pervade",
+    "pronunciation": "per-VAYD",
+    "meaning_en": "to spread throughout",
+    "meaning_bn": "",
+    "example": "A sense of optimism pervaded the conference."
+  },
+  {
+    "index": 600,
+    "word": "Petulant",
+    "pronunciation": "PECH-uh-lunt",
+    "meaning_en": "cranky",
+    "meaning_bn": "",
+    "example": "The petulant child threw a tantrum in the store."
+  },
+  {
+    "index": 601,
+    "word": "Philanthropy",
+    "pronunciation": "fih-LAN-thruh-pee",
+    "meaning_en": "love of mankind, expressed by doing good deeds",
+    "meaning_bn": "",
+    "example": "Bill Gates is known for his philanthropy."
+  },
+  {
+    "index": 602,
+    "word": "Philistine",
+    "pronunciation": "FIL-ih-steen",
+    "meaning_en": "a smugly ignorant person with no appreciation of intellectual or artistic matters",
+    "meaning_bn": "",
+    "example": "Only a philistine would dismiss classical music as boring."
+  },
+  {
+    "index": 603,
+    "word": "Pious",
+    "pronunciation": "PY-us",
+    "meaning_en": "hypocritical",
+    "meaning_bn": "",
+    "example": "He was pious in public but dishonest in business."
+  },
+  {
+    "index": 604,
+    "word": "Pivotal",
+    "pronunciation": "PIV-uh-tul",
+    "meaning_en": "crucial",
+    "meaning_bn": "",
+    "example": "That meeting was pivotal in her career."
+  },
+  {
+    "index": 605,
+    "word": "Placate",
+    "pronunciation": "PLAY-kayt",
+    "meaning_en": "to pacify",
+    "meaning_bn": "",
+    "example": "He tried to placate the angry mob."
+  },
+  {
+    "index": 606,
+    "word": "Plaintive",
+    "pronunciation": "PLAYN-tiv",
+    "meaning_en": "expressing sadness or sorrow",
+    "meaning_bn": "",
+    "example": "The dog let out a plaintive howl."
+  },
+  {
+    "index": 607,
+    "word": "Platitude",
+    "pronunciation": "PLAT-ih-tood",
+    "meaning_en": "a dull or trite remark",
+    "meaning_bn": "",
+    "example": "His speech was full of empty platitudes."
+  },
+  {
+    "index": 608,
+    "word": "Plebeian",
+    "pronunciation": "plih-BEE-un",
+    "meaning_en": "low class",
+    "meaning_bn": "",
+    "example": "He rejected her for her plebeian background."
+  },
+  {
+    "index": 609,
+    "word": "Plethora",
+    "pronunciation": "PLETH-uh-ruh",
+    "meaning_en": "an excess",
+    "meaning_bn": "",
+    "example": "There is a plethora of advice on the internet."
+  },
+  {
+    "index": 610,
+    "word": "Poignant",
+    "pronunciation": "POYN-yunt",
+    "meaning_en": "painfully emotional",
+    "meaning_bn": "",
+    "example": "The film ended with a poignant farewell scene."
+  },
+  {
+    "index": 611,
+    "word": "Polarize",
+    "pronunciation": "POH-luh-ryz",
+    "meaning_en": "to break up into opposing factions or groupings",
+    "meaning_bn": "",
+    "example": "The debate polarized public opinion."
+  },
+  {
+    "index": 612,
+    "word": "Polemic",
+    "pronunciation": "puh-LEM-ik",
+    "meaning_en": "a powerful argument often made to attack or refute",
+    "meaning_bn": "",
+    "example": "Her polemic against corruption was widely shared."
+  },
+  {
+    "index": 613,
+    "word": "Ponderous",
+    "pronunciation": "PON-der-us",
+    "meaning_en": "so large as to be clumsy",
+    "meaning_bn": "",
+    "example": "The ponderous speech bored the audience."
+  },
+  {
+    "index": 614,
+    "word": "Portent",
+    "pronunciation": "POR-tent",
+    "meaning_en": "an omen",
+    "meaning_bn": "",
+    "example": "Dark clouds were a portent of the coming storm."
+  },
+  {
+    "index": 615,
+    "word": "Postulate",
+    "pronunciation": "POS-chuh-layt",
+    "meaning_en": "something accepted as true without proof",
+    "meaning_bn": "",
+    "example": "He postulated that light travels at a constant speed."
+  },
+  {
+    "index": 616,
+    "word": "Pragmatic",
+    "pronunciation": "prag-MAT-ik",
+    "meaning_en": "practical",
+    "meaning_bn": "",
+    "example": "Her pragmatic approach solved the problem quickly."
+  },
+  {
+    "index": 617,
+    "word": "Precedent",
+    "pronunciation": "PRES-ih-dunt",
+    "meaning_en": "an earlier example or model of something",
+    "meaning_bn": "",
+    "example": "The court's decision set a legal precedent."
+  },
+  {
+    "index": 618,
+    "word": "Precept",
+    "pronunciation": "PREE-sept",
+    "meaning_en": "a rule to live by",
+    "meaning_bn": "",
+    "example": "He lived by the precept of 'do no harm.'"
+  },
+  {
+    "index": 619,
+    "word": "Precipitate",
+    "pronunciation": "prih-SIP-ih-tayt",
+    "meaning_en": "to cause to happen abruptly",
+    "meaning_bn": "",
+    "example": "The scandal precipitated his resignation."
+  },
+  {
+    "index": 620,
+    "word": "Precipitous",
+    "pronunciation": "prih-SIP-ih-tus",
+    "meaning_en": "steep",
+    "meaning_bn": "",
+    "example": "The precipitous drop in stock prices shocked investors."
+  },
+  {
+    "index": 621,
+    "word": "Preclude",
+    "pronunciation": "prih-KLOOD",
+    "meaning_en": "to prevent something from ever happening",
+    "meaning_bn": "",
+    "example": "A back injury precluded him from playing."
+  },
+  {
+    "index": 622,
+    "word": "Precursor",
+    "pronunciation": "prih-KUR-ser",
+    "meaning_en": "something that goes before and anticipates or paves the way for whatever follows",
+    "meaning_bn": "",
+    "example": "A cold is often a precursor to the flu."
+  },
+  {
+    "index": 623,
+    "word": "Predilection",
+    "pronunciation": "pred-ih-LEK-shun",
+    "meaning_en": "a natural preference for something",
+    "meaning_bn": "",
+    "example": "She had a predilection for spicy food."
+  },
+  {
+    "index": 624,
+    "word": "Preeminent",
+    "pronunciation": "pree-EM-ih-nunt",
+    "meaning_en": "better than everyone; outstanding",
+    "meaning_bn": "",
+    "example": "She is the preeminent authority on the subject."
+  },
+  {
+    "index": 625,
+    "word": "Preempt",
+    "pronunciation": "pree-EMPT",
+    "meaning_en": "to seize something by prior right",
+    "meaning_bn": "",
+    "example": "He preempted the criticism with an apology."
+  },
+  {
+    "index": 626,
+    "word": "Premise",
+    "pronunciation": "PREM-is",
+    "meaning_en": "an assumption",
+    "meaning_bn": "",
+    "example": "The argument rests on a faulty premise."
+  },
+  {
+    "index": 627,
+    "word": "Prepossess",
+    "pronunciation": "pree-puh-ZES",
+    "meaning_en": "to make a good impression on beforehand",
+    "meaning_bn": "",
+    "example": "Her cheerful personality prepossessed everyone."
+  },
+  {
+    "index": 628,
+    "word": "Prerogative",
+    "pronunciation": "prih-ROG-uh-tiv",
+    "meaning_en": "a right or privilege connected exclusively with a position",
+    "meaning_bn": "",
+    "example": "It is the president's prerogative to grant pardons."
+  },
+  {
+    "index": 629,
+    "word": "Prevail",
+    "pronunciation": "prih-VAYL",
+    "meaning_en": "to triumph",
+    "meaning_bn": "",
+    "example": "Justice will eventually prevail."
+  },
+  {
+    "index": 630,
+    "word": "Pristine",
+    "pronunciation": "PRIS-teen",
+    "meaning_en": "unspoiled",
+    "meaning_bn": "",
+    "example": "The pristine forest had never been logged."
+  },
+  {
+    "index": 631,
+    "word": "Prodigal",
+    "pronunciation": "PROD-ih-gul",
+    "meaning_en": "wastefully extravagant",
+    "meaning_bn": "",
+    "example": "The prodigal son spent all his inheritance."
+  },
+  {
+    "index": 632,
+    "word": "Prodigious",
+    "pronunciation": "pruh-DIJ-us",
+    "meaning_en": "extraordinary; enormous",
+    "meaning_bn": "",
+    "example": "He showed prodigious talent from childhood."
+  },
+  {
+    "index": 633,
+    "word": "Prodigy",
+    "pronunciation": "PROD-ih-jee",
+    "meaning_en": "an extraordinary accomplishment or occurrence",
+    "meaning_bn": "",
+    "example": "Mozart was a musical prodigy."
+  },
+  {
+    "index": 634,
+    "word": "Profane",
+    "pronunciation": "proh-FAYN",
+    "meaning_en": "not having to do with religion",
+    "meaning_bn": "",
+    "example": "His profane language offended many in the church."
+  },
+  {
+    "index": 635,
+    "word": "Profess",
+    "pronunciation": "pruh-FES",
+    "meaning_en": "to declare falsely or pretend",
+    "meaning_bn": "",
+    "example": "He professed to know nothing about the theft."
+  },
+  {
+    "index": 636,
+    "word": "Proficient",
+    "pronunciation": "pruh-FISH-unt",
+    "meaning_en": "skillful",
+    "meaning_bn": "",
+    "example": "She is proficient in three languages."
+  },
+  {
+    "index": 637,
+    "word": "Profligate",
+    "pronunciation": "PROF-lih-git",
+    "meaning_en": "extravagantly wasteful and usually wildly immoral",
+    "meaning_bn": "",
+    "example": "His profligate lifestyle led to bankruptcy."
+  },
+  {
+    "index": 638,
+    "word": "Profound",
+    "pronunciation": "pruh-FOWND",
+    "meaning_en": "deep",
+    "meaning_bn": "",
+    "example": "The book had a profound impact on her life."
+  },
+  {
+    "index": 639,
+    "word": "Profuse",
+    "pronunciation": "pruh-FYOOS",
+    "meaning_en": "flowing; extravagant",
+    "meaning_bn": "",
+    "example": "She offered profuse apologies for the mistake."
+  },
+  {
+    "index": 640,
+    "word": "Proletariat",
+    "pronunciation": "proh-luh-TAIR-ee- ut",
+    "meaning_en": "the industrial working class",
+    "meaning_bn": "",
+    "example": "Marx wrote about the struggle of the proletariat."
+  },
+  {
+    "index": 641,
+    "word": "Proliferate",
+    "pronunciation": "pruh-LIF-er-ayt",
+    "meaning_en": "to spread or grow rapidly",
+    "meaning_bn": "",
+    "example": "Social media platforms have proliferated in recent years."
+  },
+  {
+    "index": 642,
+    "word": "Prolific",
+    "pronunciation": "pruh-LIF-ik",
+    "meaning_en": "abundantly productive",
+    "meaning_bn": "",
+    "example": "Tagore was a prolific writer."
+  },
+  {
+    "index": 643,
+    "word": "Promulgate",
+    "pronunciation": "PROM-ul-gayt",
+    "meaning_en": "to publicly or formally declare something",
+    "meaning_bn": "",
+    "example": "The king promulgated a new law."
+  },
+  {
+    "index": 644,
+    "word": "Propensity",
+    "pronunciation": "pruh-PEN-sih-tee",
+    "meaning_en": "a natural inclination or tendency",
+    "meaning_bn": "",
+    "example": "She has a propensity for exaggeration."
+  },
+  {
+    "index": 645,
+    "word": "Propitious",
+    "pronunciation": "pruh-PISH-us",
+    "meaning_en": "marked by favorable signs or conditions",
+    "meaning_bn": "",
+    "example": "It was a propitious time to launch the business."
+  },
+  {
+    "index": 646,
+    "word": "Proponent",
+    "pronunciation": "pruh-POH-nunt",
+    "meaning_en": "an advocate",
+    "meaning_bn": "",
+    "example": "She is a proponent of renewable energy."
+  },
+  {
+    "index": 647,
+    "word": "Proprietary",
+    "pronunciation": "pruh-PRY-uh-ter- ee",
+    "meaning_en": "characteristic of an owner of property",
+    "meaning_bn": "",
+    "example": "This is proprietary software — it cannot be copied."
+  },
+  {
+    "index": 648,
+    "word": "Propriety",
+    "pronunciation": "pruh-PRY-uh-tee",
+    "meaning_en": "good manners",
+    "meaning_bn": "",
+    "example": "He always behaved with propriety."
+  },
+  {
+    "index": 649,
+    "word": "Prosaic",
+    "pronunciation": "proh-ZAY-ik",
+    "meaning_en": "unimaginative",
+    "meaning_bn": "",
+    "example": "His prosaic writing style lacked flair."
+  },
+  {
+    "index": 650,
+    "word": "Proscribe",
+    "pronunciation": "proh-SKRYB",
+    "meaning_en": "to prohibit",
+    "meaning_bn": "",
+    "example": "The government proscribed the extremist group."
+  },
+  {
+    "index": 651,
+    "word": "Proselytize",
+    "pronunciation": "PROS-uh-lih-tyz",
+    "meaning_en": "to convert from one religion or doctrine to another",
+    "meaning_bn": "",
+    "example": "He traveled the world to proselytize."
+  },
+  {
+    "index": 652,
+    "word": "Protagonist",
+    "pronunciation": "proh-TAG-uh-nist",
+    "meaning_en": "the leading character in a novel, play or other work",
+    "meaning_bn": "",
+    "example": "The protagonist of the novel faces many trials."
+  },
+  {
+    "index": 653,
+    "word": "Protract",
+    "pronunciation": "proh-TRAKT",
+    "meaning_en": "to prolong",
+    "meaning_bn": "",
+    "example": "The meeting was protracted by endless debate."
+  },
+  {
+    "index": 654,
+    "word": "Provident",
+    "pronunciation": "PROV-ih-dunt",
+    "meaning_en": "preparing for the future",
+    "meaning_bn": "",
+    "example": "The provident family saved money every month."
+  },
+  {
+    "index": 655,
+    "word": "Provincial",
+    "pronunciation": "pruh-VIN-shul",
+    "meaning_en": "narrow",
+    "meaning_bn": "",
+    "example": "His provincial outlook limited his understanding."
+  },
+  {
+    "index": 656,
+    "word": "Provisional",
+    "pronunciation": "pruh-VI ZH-un-ul",
+    "meaning_en": "conditional",
+    "meaning_bn": "",
+    "example": "A provisional agreement was signed pending review."
+  },
+  {
+    "index": 657,
+    "word": "Proximity",
+    "pronunciation": "prok-SIM-ih-tee",
+    "meaning_en": "nearness",
+    "meaning_bn": "",
+    "example": "The hotel's proximity to the airport was convenient."
+  },
+  {
+    "index": 658,
+    "word": "Prudent",
+    "pronunciation": "PROO-dunt",
+    "meaning_en": "careful; having foresight",
+    "meaning_bn": "",
+    "example": "It is prudent to save money for emergencies."
+  },
+  {
+    "index": 659,
+    "word": "Purported",
+    "pronunciation": "per-PORT-id",
+    "meaning_en": "rumored; claimed",
+    "meaning_bn": "",
+    "example": "The purported benefits of the drug were exaggerated."
+  },
+  {
+    "index": 660,
+    "word": "Putative",
+    "pronunciation": "PYOO-tuh-tiv",
+    "meaning_en": "commonly accepted",
+    "meaning_bn": "",
+    "example": "The putative father was identified through DNA."
+  },
+  {
+    "index": 661,
+    "word": "Qualify",
+    "pronunciation": "KWOL-ih-fy",
+    "meaning_en": "to modify or restrict",
+    "meaning_bn": "",
+    "example": "He qualified his statement to avoid misunderstanding."
+  },
+  {
+    "index": 662,
+    "word": "Qualitative",
+    "pronunciation": "KWOL-ih-tay-tiv",
+    "meaning_en": "having to do with the quality or something",
+    "meaning_bn": "",
+    "example": "This is a qualitative study of student satisfaction."
+  },
+  {
+    "index": 663,
+    "word": "Querulous",
+    "pronunciation": "KWER-yuh-lus",
+    "meaning_en": "complaining",
+    "meaning_bn": "",
+    "example": "The querulous patient complained about everything."
+  },
+  {
+    "index": 664,
+    "word": "Quixotic",
+    "pronunciation": "kwik-SOT-ik",
+    "meaning_en": "romantic or idealistic to a foolish degree",
+    "meaning_bn": "",
+    "example": "His quixotic plan to eliminate world hunger impressed no one."
+  },
+  {
+    "index": 665,
+    "word": "Ramification",
+    "pronunciation": "ram-ih-fih-KAY- shun",
+    "meaning_en": "a consequence",
+    "meaning_bn": "",
+    "example": "The ramifications of the decision were far-reaching."
+  },
+  {
+    "index": 666,
+    "word": "Rancor",
+    "pronunciation": "RANG-ker",
+    "meaning_en": "bitter, long-lasting resentment",
+    "meaning_bn": "",
+    "example": "He spoke without rancor despite being wronged."
+  },
+  {
+    "index": 667,
+    "word": "Rapacious",
+    "pronunciation": "ruh-PAY-shus",
+    "meaning_en": "greedy",
+    "meaning_bn": "",
+    "example": "The rapacious developers destroyed the forest."
+  },
+  {
+    "index": 668,
+    "word": "Rebuke",
+    "pronunciation": "rih-BYOOK",
+    "meaning_en": "to criticize sharply",
+    "meaning_bn": "",
+    "example": "The coach rebuked the player for missing practice."
+  },
+  {
+    "index": 669,
+    "word": "Rebut",
+    "pronunciation": "rih-BUT",
+    "meaning_en": "to argue in opposition to",
+    "meaning_bn": "",
+    "example": "She rebutted every claim in his argument."
+  },
+  {
+    "index": 670,
+    "word": "Recalcitrant",
+    "pronunciation": "rih-KAL-sih-trunt",
+    "meaning_en": "disobedient",
+    "meaning_bn": "",
+    "example": "The recalcitrant employee refused every instruction."
+  },
+  {
+    "index": 671,
+    "word": "Recant",
+    "pronunciation": "rih-KANT",
+    "meaning_en": "to openly confess error",
+    "meaning_bn": "",
+    "example": "Under pressure, he recanted his earlier statement."
+  },
+  {
+    "index": 672,
+    "word": "Reciprocal",
+    "pronunciation": "rih-SIP-ruh-kul",
+    "meaning_en": "interchangeable",
+    "meaning_bn": "",
+    "example": "Their affection was reciprocal."
+  },
+  {
+    "index": 673,
+    "word": "Reclusive",
+    "pronunciation": "rih-KLOO-siv",
+    "meaning_en": "withdrawn from society",
+    "meaning_bn": "",
+    "example": "The reclusive author rarely gave interviews."
+  },
+  {
+    "index": 674,
+    "word": "Recondite",
+    "pronunciation": "REK-un-dyt",
+    "meaning_en": "hard to understand",
+    "meaning_bn": "",
+    "example": "His recondite knowledge impressed scholars."
+  },
+  {
+    "index": 675,
+    "word": "Recrimination",
+    "pronunciation": "rih-krim-ih-NAY- shun",
+    "meaning_en": "a bitter counter- accusation",
+    "meaning_bn": "",
+    "example": "Their argument turned into mutual recrimination."
+  },
+  {
+    "index": 676,
+    "word": "Redolent",
+    "pronunciation": "RED-uh-lunt",
+    "meaning_en": "fragrant",
+    "meaning_bn": "",
+    "example": "The garden was redolent with the scent of roses."
+  },
+  {
+    "index": 677,
+    "word": "Redundant",
+    "pronunciation": "rih-DUN-dunt",
+    "meaning_en": "unnecessarily repetitive",
+    "meaning_bn": "",
+    "example": "His report was redundant — it repeated what we already knew."
+  },
+  {
+    "index": 678,
+    "word": "Refute",
+    "pronunciation": "rih-FYOOT",
+    "meaning_en": "to disprove",
+    "meaning_bn": "",
+    "example": "She refuted his theory with solid evidence."
+  },
+  {
+    "index": 679,
+    "word": "Reiterate",
+    "pronunciation": "ree-IT-er-ayt",
+    "meaning_en": "to repeat",
+    "meaning_bn": "",
+    "example": "He reiterated his point to ensure everyone understood."
+  },
+  {
+    "index": 680,
+    "word": "Relegate",
+    "pronunciation": "REL-ih-gayt",
+    "meaning_en": "to banish",
+    "meaning_bn": "",
+    "example": "The team was relegated to the second division."
+  },
+  {
+    "index": 681,
+    "word": "Relentless",
+    "pronunciation": "rih-LENT-lis",
+    "meaning_en": "unstoppable",
+    "meaning_bn": "",
+    "example": "Her relentless effort paid off in the end."
+  },
+  {
+    "index": 682,
+    "word": "Relinquish",
+    "pronunciation": "rih-LING-kwish",
+    "meaning_en": "to surrender",
+    "meaning_bn": "",
+    "example": "He relinquished control of the company."
+  },
+  {
+    "index": 683,
+    "word": "Remonstrate",
+    "pronunciation": "rih-MON-strayt",
+    "meaning_en": "to argue against",
+    "meaning_bn": "",
+    "example": "She remonstrated with the officials over the delay."
+  },
+  {
+    "index": 684,
+    "word": "Renaissance",
+    "pronunciation": "REN-uh-sahns",
+    "meaning_en": "a rebirth or revival",
+    "meaning_bn": "",
+    "example": "The Renaissance transformed art and science in Europe."
+  },
+  {
+    "index": 685,
+    "word": "Renounce",
+    "pronunciation": "rih-NOWNS",
+    "meaning_en": "to give up formally or resign",
+    "meaning_bn": "",
+    "example": "He renounced his citizenship."
+  },
+  {
+    "index": 686,
+    "word": "Reparation",
+    "pronunciation": "rep-uh-RAY-shun",
+    "meaning_en": "compensation",
+    "meaning_bn": "",
+    "example": "Germany paid reparations after World War I."
+  },
+  {
+    "index": 687,
+    "word": "Repercussion",
+    "pronunciation": "ree-p er-KUSH-un",
+    "meaning_en": "an indirect effect",
+    "meaning_bn": "",
+    "example": "The scandal had repercussions across the industry."
+  },
+  {
+    "index": 688,
+    "word": "Replenish",
+    "pronunciation": "rih-PLEN-ish",
+    "meaning_en": "to fill again",
+    "meaning_bn": "",
+    "example": "She replenished her stock of supplies."
+  },
+  {
+    "index": 689,
+    "word": "Replete",
+    "pronunciation": "rih-PLEET",
+    "meaning_en": "completely filled",
+    "meaning_bn": "",
+    "example": "The feast left the guests replete and satisfied."
+  },
+  {
+    "index": 690,
+    "word": "Reprehensible",
+    "pronunciation": "rep-rih-HEN-sih- bul",
+    "meaning_en": "worthy of blame or censure",
+    "meaning_bn": "",
+    "example": "His behavior was reprehensible."
+  },
+  {
+    "index": 691,
+    "word": "Reprisal",
+    "pronunciation": "rih-PRY-zul",
+    "meaning_en": "a military action undertaken in revenge for another",
+    "meaning_bn": "",
+    "example": "The attack was a reprisal for the previous bombing."
+  },
+  {
+    "index": 692,
+    "word": "Reproach",
+    "pronunciation": "rih-PROHCH",
+    "meaning_en": "to scold, usually in disappointment",
+    "meaning_bn": "",
+    "example": "She reproached him for forgetting their anniversary."
+  },
+  {
+    "index": 693,
+    "word": "Reprove",
+    "pronunciation": "rih-PROOV",
+    "meaning_en": "to criticize mildly",
+    "meaning_bn": "",
+    "example": "The teacher reproved him gently for daydreaming."
+  },
+  {
+    "index": 694,
+    "word": "Repudiate",
+    "pronunciation": "rih-PYOO-dee-ayt",
+    "meaning_en": "to reject",
+    "meaning_bn": "",
+    "example": "She repudiated the accusation entirely."
+  },
+  {
+    "index": 695,
+    "word": "Requisite",
+    "pronunciation": "REK-wih-zit",
+    "meaning_en": "required",
+    "meaning_bn": "",
+    "example": "A degree is not always a requisite for success."
+  },
+  {
+    "index": 696,
+    "word": "Resolute",
+    "pronunciation": "REZ-uh-loot",
+    "meaning_en": "determined",
+    "meaning_bn": "",
+    "example": "She was resolute in her decision."
+  },
+  {
+    "index": 697,
+    "word": "Respite",
+    "pronunciation": "RES-pit",
+    "meaning_en": "a period of rest or relief",
+    "meaning_bn": "",
+    "example": "The rain gave the workers a brief respite."
+  },
+  {
+    "index": 698,
+    "word": "Reticent",
+    "pronunciation": "RET-ih-sunt",
+    "meaning_en": "reluctant to speak, especially about oneself",
+    "meaning_bn": "",
+    "example": "He was reticent about his personal life."
+  },
+  {
+    "index": 699,
+    "word": "Revere",
+    "pronunciation": "rih-VEER",
+    "meaning_en": "to respect highly",
+    "meaning_bn": "",
+    "example": "She is revered as a pioneer in medicine."
+  },
+  {
+    "index": 700,
+    "word": "Rhetoric",
+    "pronunciation": "RET-uh-rik",
+    "meaning_en": "the art of formal speaking or writing",
+    "meaning_bn": "",
+    "example": "His speech was full of powerful rhetoric."
+  },
+  {
+    "index": 701,
+    "word": "Rigorous",
+    "pronunciation": "RIG-er-us",
+    "meaning_en": "severe",
+    "meaning_bn": "",
+    "example": "The training program was rigorous but effective."
+  },
+  {
+    "index": 702,
+    "word": "Robust",
+    "pronunciation": "roh-BUST",
+    "meaning_en": "strong and healthy",
+    "meaning_bn": "",
+    "example": "He had a robust constitution."
+  },
+  {
+    "index": 703,
+    "word": "Rogue",
+    "pronunciation": "ROHG",
+    "meaning_en": "someone who can't be trusted",
+    "meaning_bn": "",
+    "example": "He turned out to be a rogue who cheated everyone."
+  },
+  {
+    "index": 704,
+    "word": "Rudimentary",
+    "pronunciation": "roo-dih-MEN-tuh- ree",
+    "meaning_en": "basic; undeveloped",
+    "meaning_bn": "",
+    "example": "She had a rudimentary knowledge of French."
+  },
+  {
+    "index": 705,
+    "word": "Ruminate",
+    "pronunciation": "ROO-m ih-nayt",
+    "meaning_en": "to ponder",
+    "meaning_bn": "",
+    "example": "He ruminated over the decision for days."
+  },
+  {
+    "index": 706,
+    "word": "Rustic",
+    "pronunciation": "RUS-tik",
+    "meaning_en": "primitive",
+    "meaning_bn": "",
+    "example": "The rustic cottage had no electricity."
+  },
+  {
+    "index": 707,
+    "word": "Saccharine",
+    "pronunciation": "SAK-uh-reen",
+    "meaning_en": "excessively or disgustingly sweet",
+    "meaning_bn": "",
+    "example": "The film's saccharine ending felt forced."
+  },
+  {
+    "index": 708,
+    "word": "Sacrilege",
+    "pronunciation": "SAK-rih-lij",
+    "meaning_en": "blasphemy",
+    "meaning_bn": "",
+    "example": "Desecrating a temple is an act of sacrilege."
+  },
+  {
+    "index": 709,
+    "word": "Sacrosanct",
+    "pronunciation": "SAK-roh-sangkt",
+    "meaning_en": "sacred",
+    "meaning_bn": "",
+    "example": "The privacy of the vote is sacrosanct."
+  },
+  {
+    "index": 710,
+    "word": "Sagacious",
+    "pronunciation": "suh-GAY-shus",
+    "meaning_en": "wise",
+    "meaning_bn": "",
+    "example": "Her sagacious advice helped me navigate the crisis."
+  },
+  {
+    "index": 711,
+    "word": "Salient",
+    "pronunciation": "SAY-lee-unt",
+    "meaning_en": "standing out",
+    "meaning_bn": "",
+    "example": "The salient feature of the plan is its simplicity."
+  },
+  {
+    "index": 712,
+    "word": "Salutary",
+    "pronunciation": "SAL-yuh-ter-ee",
+    "meaning_en": "curative; healthful",
+    "meaning_bn": "",
+    "example": "The experience had a salutary effect on his behavior."
+  },
+  {
+    "index": 713,
+    "word": "Sanctimonious",
+    "pronunciation": "sangk-tih-MOH- nee-us",
+    "meaning_en": "affecting religious feeling",
+    "meaning_bn": "",
+    "example": "His sanctimonious speeches annoyed his coworkers."
+  },
+  {
+    "index": 714,
+    "word": "Sanguine",
+    "pronunciation": "SANG-gwin",
+    "meaning_en": "optimistic",
+    "meaning_bn": "",
+    "example": "She remained sanguine about their chances."
+  },
+  {
+    "index": 715,
+    "word": "Sardonic",
+    "pronunciation": "sar-DON-ik",
+    "meaning_en": "mocking",
+    "meaning_bn": "",
+    "example": "He gave a sardonic smile when she mentioned success."
+  },
+  {
+    "index": 716,
+    "word": "Scintillate",
+    "pronunciation": "SIN-tih-layt",
+    "meaning_en": "to sparkle, either literally or figuratively",
+    "meaning_bn": "",
+    "example": "Her performance scintillated the audience."
+  },
+  {
+    "index": 717,
+    "word": "Scrupulous",
+    "pronunciation": "SKROO-pyuh-lus",
+    "meaning_en": "hesitant for ethical reasons",
+    "meaning_bn": "",
+    "example": "He was scrupulous in following the rules."
+  },
+  {
+    "index": 718,
+    "word": "Scrutinize",
+    "pronunciation": "SKROO-tih-nyz",
+    "meaning_en": "to examine very carefully",
+    "meaning_bn": "",
+    "example": "The auditor scrutinized every financial record."
+  },
+  {
+    "index": 719,
+    "word": "Secular",
+    "pronunciation": "SEK-yuh-ler",
+    "meaning_en": "having nothing to do with religion or spiritual concerns",
+    "meaning_bn": "",
+    "example": "Bangladesh has a secular constitution."
+  },
+  {
+    "index": 720,
+    "word": "Sedition",
+    "pronunciation": "sih-DISH-un",
+    "meaning_en": "promoting public disorder or rebellion",
+    "meaning_bn": "",
+    "example": "He was arrested for sedition."
+  },
+  {
+    "index": 721,
+    "word": "Segregate",
+    "pronunciation": "SEG-ruh-gayt",
+    "meaning_en": "to separate",
+    "meaning_bn": "আলাদা করা / পথৃ ক রাখা",
+    "example": "The sick animals were segregated from the herd."
+  },
+  {
+    "index": 722,
+    "word": "Sensory",
+    "pronunciation": "SEN-suh-ree",
+    "meaning_en": "having to do with the senses or sensation",
+    "meaning_bn": "",
+    "example": "The film offered a rich sensory experience."
+  },
+  {
+    "index": 723,
+    "word": "Sentient",
+    "pronunciation": "SEN-shunt",
+    "meaning_en": "conscious",
+    "meaning_bn": "",
+    "example": "Humans are sentient beings capable of emotion."
+  },
+  {
+    "index": 724,
+    "word": "Sequester",
+    "pronunciation": "sih-KWES-ter",
+    "meaning_en": "to set or keep apart",
+    "meaning_bn": "",
+    "example": "The jury was sequestered during the trial."
+  },
+  {
+    "index": 725,
+    "word": "Serendipity",
+    "pronunciation": "ser-un-DIP-ih-tee",
+    "meaning_en": "accidental good fortune",
+    "meaning_bn": "",
+    "example": "Finding that rare book was pure serendipity."
+  },
+  {
+    "index": 726,
+    "word": "Servile",
+    "pronunciation": "SUR-vyl",
+    "meaning_en": "like a servant",
+    "meaning_bn": "",
+    "example": "His servile behavior disgusted his friends."
+  },
+  {
+    "index": 727,
+    "word": "Singular",
+    "pronunciation": "SING-gyuh-ler",
+    "meaning_en": "unique",
+    "meaning_bn": "",
+    "example": "She has a singular talent for languages."
+  },
+  {
+    "index": 728,
+    "word": "Sinister",
+    "pronunciation": "SIN-ih-stur",
+    "meaning_en": "evil, wicked; foreshadowing evil, trouble or wickedness",
+    "meaning_bn": "অশুভ / কটুিল",
+    "example": "A sinister shadow followed him down the alley."
+  },
+  {
+    "index": 729,
+    "word": "Slander",
+    "pronunciation": "SLAN-der",
+    "meaning_en": "to speak badly about someone publicly",
+    "meaning_bn": "",
+    "example": "He sued her for slander."
+  },
+  {
+    "index": 730,
+    "word": "Sloth",
+    "pronunciation": "SLAWTH",
+    "meaning_en": "laziness",
+    "meaning_bn": "",
+    "example": "His sloth prevented him from achieving his goals."
+  },
+  {
+    "index": 731,
+    "word": "Sobriety",
+    "pronunciation": "suh-BRY-ih-tee",
+    "meaning_en": "the state of being sober; seriousness",
+    "meaning_bn": "",
+    "example": "He admired her sobriety and calm manner."
+  },
+  {
+    "index": 732,
+    "word": "Solicitous",
+    "pronunciation": "suh-LIS-ih-tus",
+    "meaning_en": "anxiously caring or attentive",
+    "meaning_bn": "",
+    "example": "She was solicitous about her elderly parents."
+  },
+  {
+    "index": 733,
+    "word": "Solvent",
+    "pronunciation": "SOL-vunt",
+    "meaning_en": "not broke or bankrupt",
+    "meaning_bn": "",
+    "example": "The company managed to remain solvent during the recession."
+  },
+  {
+    "index": 734,
+    "word": "Soporific",
+    "pronunciation": "sop-uh-RIF-ik",
+    "meaning_en": "extremely boring",
+    "meaning_bn": "",
+    "example": "The soporific lecture put half the class to sleep."
+  },
+  {
+    "index": 735,
+    "word": "Sordid",
+    "pronunciation": "SOR-did",
+    "meaning_en": "filthy",
+    "meaning_bn": "",
+    "example": "The sordid details of the case shocked the public."
+  },
+  {
+    "index": 736,
+    "word": "Spawn",
+    "pronunciation": "SPAWN",
+    "meaning_en": "to bring forth; to produce a big number",
+    "meaning_bn": "",
+    "example": "The internet spawned thousands of new businesses."
+  },
+  {
+    "index": 737,
+    "word": "Specious",
+    "pronunciation": "SPEE-shus",
+    "meaning_en": "deceptively plausible or attractive",
+    "meaning_bn": "",
+    "example": "His specious argument fooled many listeners."
+  },
+  {
+    "index": 738,
+    "word": "Sporadic",
+    "pronunciation": "spuh-RAD-ik",
+    "meaning_en": "occurring in bursts every once in a while",
+    "meaning_bn": "",
+    "example": "There were sporadic clashes throughout the night."
+  },
+  {
+    "index": 739,
+    "word": "Spurious",
+    "pronunciation": "SPYOOR-ee-us",
+    "meaning_en": "fake",
+    "meaning_bn": "",
+    "example": "He was exposed for spreading spurious claims."
+  },
+  {
+    "index": 740,
+    "word": "Squalor",
+    "pronunciation": "SKWOL-er",
+    "meaning_en": "filth",
+    "meaning_bn": "",
+    "example": "They lived in squalor after losing their home."
+  },
+  {
+    "index": 741,
+    "word": "Squander",
+    "pronunciation": "SKWON-der",
+    "meaning_en": "to waste",
+    "meaning_bn": "",
+    "example": "He squandered his inheritance on gambling."
+  },
+  {
+    "index": 742,
+    "word": "Stagnation",
+    "pronunciation": "stag-NAY-shun",
+    "meaning_en": "motionlessness",
+    "meaning_bn": "",
+    "example": "Economic stagnation affected millions."
+  },
+  {
+    "index": 743,
+    "word": "Static",
+    "pronunciation": "STAT-ik",
+    "meaning_en": "not changing or moving",
+    "meaning_bn": "",
+    "example": "The situation remained static for months."
+  },
+  {
+    "index": 744,
+    "word": "Staunch",
+    "pronunciation": "STAWNCH",
+    "meaning_en": "firmly committed",
+    "meaning_bn": "",
+    "example": "She is a staunch defender of human rights."
+  },
+  {
+    "index": 745,
+    "word": "Steadfast",
+    "pronunciation": "STED-fast",
+    "meaning_en": "loyal",
+    "meaning_bn": "",
+    "example": "He remained steadfast in his beliefs."
+  },
+  {
+    "index": 746,
+    "word": "Stigmatize",
+    "pronunciation": "STIG-muh-tyz",
+    "meaning_en": "to set a mark of disgrace upon",
+    "meaning_bn": "",
+    "example": "Mental illness is often unfairly stigmatized."
+  },
+  {
+    "index": 747,
+    "word": "Stipulate",
+    "pronunciation": "STIP-yuh-layt",
+    "meaning_en": "to require something as part of an agreement",
+    "meaning_bn": "",
+    "example": "The contract stipulates a three-month notice period."
+  },
+  {
+    "index": 748,
+    "word": "Stoic",
+    "pronunciation": "STOH-ik",
+    "meaning_en": "emotionless",
+    "meaning_bn": "",
+    "example": "She bore the pain with stoic composure."
+  },
+  {
+    "index": 749,
+    "word": "Stratum",
+    "pronunciation": "STRAY-tum",
+    "meaning_en": "a level",
+    "meaning_bn": "",
+    "example": "People from every stratum of society attended."
+  },
+  {
+    "index": 750,
+    "word": "Stricture",
+    "pronunciation": "STRIK-cher",
+    "meaning_en": "a limitation",
+    "meaning_bn": "",
+    "example": "The judge placed strictures on media coverage."
+  },
+  {
+    "index": 751,
+    "word": "Strife",
+    "pronunciation": "STRYF",
+    "meaning_en": "a struggle or clash",
+    "meaning_bn": "",
+    "example": "Civil strife tore the country apart."
+  },
+  {
+    "index": 752,
+    "word": "Stringent",
+    "pronunciation": "STRIN-junt",
+    "meaning_en": "restrictive",
+    "meaning_bn": "",
+    "example": "The company enforced stringent safety rules."
+  },
+  {
+    "index": 753,
+    "word": "Stymie",
+    "pronunciation": "STY-mee",
+    "meaning_en": "to get in the way of",
+    "meaning_bn": "",
+    "example": "The lack of funding stymied the research project."
+  },
+  {
+    "index": 754,
+    "word": "Subjugate",
+    "pronunciation": "SUB-jih-gayt",
+    "meaning_en": "to enslave",
+    "meaning_bn": "",
+    "example": "The empire subjugated neighboring peoples."
+  },
+  {
+    "index": 755,
+    "word": "Sublime",
+    "pronunciation": "suh-BLYM",
+    "meaning_en": "awesome",
+    "meaning_bn": "",
+    "example": "The mountain scenery was simply sublime."
+  },
+  {
+    "index": 756,
+    "word": "Subordinate",
+    "pronunciation": "suh-BOR-dih-nit",
+    "meaning_en": "inferior",
+    "meaning_bn": "",
+    "example": "He was subordinate to the regional manager."
+  },
+  {
+    "index": 757,
+    "word": "Substantive",
+    "pronunciation": "SUB-stun-tiv",
+    "meaning_en": "essential; solid",
+    "meaning_bn": "",
+    "example": "We need substantive progress in negotiations."
+  },
+  {
+    "index": 758,
+    "word": "Subtle",
+    "pronunciation": "SUT-ul",
+    "meaning_en": "not obvious",
+    "meaning_bn": "",
+    "example": "She made a subtle change to her hairstyle."
+  },
+  {
+    "index": 759,
+    "word": "Subversive",
+    "pronunciation": "sub-VUR-siv",
+    "meaning_en": "insurgent",
+    "meaning_bn": "",
+    "example": "The government banned the subversive pamphlets."
+  },
+  {
+    "index": 760,
+    "word": "Succinct",
+    "pronunciation": "suk-SINGKT",
+    "meaning_en": "brief and to the point",
+    "meaning_bn": "",
+    "example": "His succinct reply answered all the questions."
+  },
+  {
+    "index": 761,
+    "word": "Succumb",
+    "pronunciation": "suh-KUM",
+    "meaning_en": "to yield or submit",
+    "meaning_bn": "",
+    "example": "He succumbed to the illness after a long fight."
+  },
+  {
+    "index": 762,
+    "word": "Supercilious",
+    "pronunciation": "soo-per-SIL-ee-us",
+    "meaning_en": "haughty",
+    "meaning_bn": "",
+    "example": "Her supercilious attitude made everyone uncomfortable."
+  },
+  {
+    "index": 763,
+    "word": "Superficial",
+    "pronunciation": "soo-per-FISH-ul",
+    "meaning_en": "not thorough",
+    "meaning_bn": "",
+    "example": "His knowledge of history was superficial."
+  },
+  {
+    "index": 764,
+    "word": "Superfluous",
+    "pronunciation": "soo-PUR-floo-us",
+    "meaning_en": "unnecessary",
+    "meaning_bn": "",
+    "example": "Please remove any superfluous details."
+  },
+  {
+    "index": 765,
+    "word": "Surfeit",
+    "pronunciation": "SUR-fit",
+    "meaning_en": "excess or overindulgence in eating or drinking",
+    "meaning_bn": "",
+    "example": "A surfeit of food left him feeling ill."
+  },
+  {
+    "index": 766,
+    "word": "Surreptitious",
+    "pronunciation": "sur-up-TISH-us",
+    "meaning_en": "sneaky",
+    "meaning_bn": "",
+    "example": "He made a surreptitious recording."
+  },
+  {
+    "index": 767,
+    "word": "Surrogate",
+    "pronunciation": "SUR-uh-git",
+    "meaning_en": "substitute",
+    "meaning_bn": "",
+    "example": "She acted as a surrogate mother."
+  },
+  {
+    "index": 768,
+    "word": "Sycophant",
+    "pronunciation": "SIK-uh-funt",
+    "meaning_en": "one who sucks up to others",
+    "meaning_bn": "",
+    "example": "The boss was surrounded by sycophants."
+  },
+  {
+    "index": 769,
+    "word": "Synthesis",
+    "pronunciation": "SIN-thuh-sis",
+    "meaning_en": "the combining of parts to form a whole",
+    "meaning_bn": "",
+    "example": "His essay was a synthesis of several theories."
+  },
+  {
+    "index": 770,
+    "word": "Tacit",
+    "pronunciation": "TAS-it",
+    "meaning_en": "implied",
+    "meaning_bn": "",
+    "example": "There was a tacit agreement to avoid the topic."
+  },
+  {
+    "index": 771,
+    "word": "Taciturn",
+    "pronunciation": "TAS-ih-turn",
+    "meaning_en": "untalkative by nature",
+    "meaning_bn": "",
+    "example": "The taciturn soldier answered only in monosyllables."
+  },
+  {
+    "index": 772,
+    "word": "Tangential",
+    "pronunciation": "tan-JEN-shul",
+    "meaning_en": "only superficially related to the matter at hand",
+    "meaning_bn": "",
+    "example": "His comment was tangential to the main argument."
+  },
+  {
+    "index": 773,
+    "word": "Tangible",
+    "pronunciation": "TAN-jih-bul",
+    "meaning_en": "touchable",
+    "meaning_bn": "",
+    "example": "We need tangible evidence, not just theories."
+  },
+  {
+    "index": 774,
+    "word": "Tantamount",
+    "pronunciation": "TAN-tuh-mownt",
+    "meaning_en": "equivalent to",
+    "meaning_bn": "",
+    "example": "His absence was tantamount to a refusal."
+  },
+  {
+    "index": 775,
+    "word": "Tautological",
+    "pronunciation": "taw-tuh-LOJ-ih-kul",
+    "meaning_en": "redundant",
+    "meaning_bn": "",
+    "example": "His sentence was tautological: 'a free gift.'"
+  },
+  {
+    "index": 776,
+    "word": "Temerity",
+    "pronunciation": "tuh-MER-ih-tee",
+    "meaning_en": "boldness",
+    "meaning_bn": "",
+    "example": "He had the temerity to challenge the professor."
+  },
+  {
+    "index": 777,
+    "word": "Temperate",
+    "pronunciation": "TEM-per-it",
+    "meaning_en": "mild",
+    "meaning_bn": "",
+    "example": "He had a temperate and balanced personality."
+  },
+  {
+    "index": 778,
+    "word": "Tenable",
+    "pronunciation": "TEN-uh-bul",
+    "meaning_en": "valid",
+    "meaning_bn": "",
+    "example": "His position is no longer tenable given the evidence."
+  },
+  {
+    "index": 779,
+    "word": "Tenacious",
+    "pronunciation": "tuh-NAY-shus",
+    "meaning_en": "not letting go",
+    "meaning_bn": "",
+    "example": "She was tenacious in her pursuit of justice."
+  },
+  {
+    "index": 780,
+    "word": "Tenet",
+    "pronunciation": "TEN-it",
+    "meaning_en": "a shared principle or belief",
+    "meaning_bn": "",
+    "example": "Compassion is a core tenet of Buddhism."
+  },
+  {
+    "index": 781,
+    "word": "Tentative",
+    "pronunciation": "TEN-tuh-tiv",
+    "meaning_en": "temporary; uncertain",
+    "meaning_bn": "",
+    "example": "We made a tentative plan to meet on Friday."
+  },
+  {
+    "index": 782,
+    "word": "Tenuous",
+    "pronunciation": "TEN-yoo-us",
+    "meaning_en": "flimsy",
+    "meaning_bn": "",
+    "example": "His argument rested on a tenuous assumption."
+  },
+  {
+    "index": 783,
+    "word": "Terse",
+    "pronunciation": "TURS",
+    "meaning_en": "succinct",
+    "meaning_bn": "",
+    "example": "His terse reply showed he was not in the mood for discussion."
+  },
+  {
+    "index": 784,
+    "word": "Theology",
+    "pronunciation": "thee-OL-uh-jee",
+    "meaning_en": "the study of God or religion",
+    "meaning_bn": "",
+    "example": "He studied theology at university."
+  },
+  {
+    "index": 785,
+    "word": "Tirade",
+    "pronunciation": "TY-rayd",
+    "meaning_en": "a prolonged bitter speech",
+    "meaning_bn": "",
+    "example": "He launched into a tirade against the government."
+  },
+  {
+    "index": 786,
+    "word": "Torpor",
+    "pronunciation": "TOR-per",
+    "meaning_en": "inactivity; sluggishness",
+    "meaning_bn": "",
+    "example": "He fell into a torpor after the loss."
+  },
+  {
+    "index": 787,
+    "word": "Touchstone",
+    "pronunciation": "TUCH-stohn",
+    "meaning_en": "a test of authenticity or quality",
+    "meaning_bn": "",
+    "example": "Honesty is the touchstone of good character."
+  },
+  {
+    "index": 788,
+    "word": "Tout",
+    "pronunciation": "TOWT",
+    "meaning_en": "to brag publicly about",
+    "meaning_bn": "",
+    "example": "He touted his achievements at every meeting."
+  },
+  {
+    "index": 789,
+    "word": "Transcend",
+    "pronunciation": "tran-SEND",
+    "meaning_en": "to surpass",
+    "meaning_bn": "",
+    "example": "Her talent transcended all expectations."
+  },
+  {
+    "index": 790,
+    "word": "Transgress",
+    "pronunciation": "tran-GRES",
+    "meaning_en": "to sin",
+    "meaning_bn": "",
+    "example": "He transgressed every social norm."
+  },
+  {
+    "index": 791,
+    "word": "Transient",
+    "pronunciation": "TRAN-shunt",
+    "meaning_en": "temporary",
+    "meaning_bn": "",
+    "example": "His happiness was transient."
+  },
+  {
+    "index": 792,
+    "word": "Trepidation",
+    "pronunciation": "trep-ih-DAY-shun",
+    "meaning_en": "apprehension",
+    "meaning_bn": "",
+    "example": "She entered the room with trepidation."
+  },
+  {
+    "index": 793,
+    "word": "Turpitude",
+    "pronunciation": "TUR-pih-tood",
+    "meaning_en": "shameful wickedness",
+    "meaning_bn": "",
+    "example": "He was convicted of moral turpitude."
+  },
+  {
+    "index": 794,
+    "word": "Ubiquitous",
+    "pronunciation": "yoo-BIK-wih-tus",
+    "meaning_en": "being everywhere at the same time",
+    "meaning_bn": "",
+    "example": "Smartphones are ubiquitous in modern life."
+  },
+  {
+    "index": 795,
+    "word": "Unconscionabl",
+    "pronunciation": "e un-KON-shuh- nuh-bul",
+    "meaning_en": "not controlled by conscience",
+    "meaning_bn": "",
+    "example": "The price hike was unconscionable."
+  },
+  {
+    "index": 796,
+    "word": "Unctuous",
+    "pronunciation": "UNK-choo-us",
+    "meaning_en": "oily; insincere",
+    "meaning_bn": "",
+    "example": "His unctuous manner fooled no one."
+  },
+  {
+    "index": 797,
+    "word": "Uniform",
+    "pronunciation": "YOO-nih-form",
+    "meaning_en": "the same for everyone",
+    "meaning_bn": "",
+    "example": "Treatment should be uniform regardless of status."
+  },
+  {
+    "index": 798,
+    "word": "Unremitting",
+    "pronunciation": "un-rih-MIT-ing",
+    "meaning_en": "unceasing",
+    "meaning_bn": "",
+    "example": "His unremitting effort finally brought success."
+  },
+  {
+    "index": 799,
+    "word": "Unwitting",
+    "pronunciation": "un-WIT-ing",
+    "meaning_en": "ignorant; not aware",
+    "meaning_bn": "",
+    "example": "He was an unwitting accomplice in the crime."
+  },
+  {
+    "index": 800,
+    "word": "Urbane",
+    "pronunciation": "ur-BAYN",
+    "meaning_en": "sophisticated",
+    "meaning_bn": "",
+    "example": "His urbane charm won over everyone at the gala."
+  },
+  {
+    "index": 801,
+    "word": "Usurp",
+    "pronunciation": "yoo-SURP",
+    "meaning_en": "to seize wrongfully",
+    "meaning_bn": "",
+    "example": "He usurped the throne by force."
+  },
+  {
+    "index": 802,
+    "word": "Utilitarian",
+    "pronunciation": "yoo-til-ih-TAIR-ee- un",
+    "meaning_en": "pragmatic",
+    "meaning_bn": "",
+    "example": "The furniture was utilitarian rather than decorative."
+  },
+  {
+    "index": 803,
+    "word": "Utopia",
+    "pronunciation": "yoo-TOH-pee-uh",
+    "meaning_en": "an ideal society",
+    "meaning_bn": "",
+    "example": "He dreamed of building a utopia without conflict."
+  },
+  {
+    "index": 804,
+    "word": "Vacillate",
+    "pronunciation": "VAS-ih-layt",
+    "meaning_en": "to be indecisive",
+    "meaning_bn": "",
+    "example": "She vacillated for weeks before deciding."
+  },
+  {
+    "index": 805,
+    "word": "Vapid",
+    "pronunciation": "VAP-id",
+    "meaning_en": "spiritless",
+    "meaning_bn": "",
+    "example": "His vapid comments added nothing to the discussion."
+  },
+  {
+    "index": 806,
+    "word": "Vehement",
+    "pronunciation": "VEE-uh-munt",
+    "meaning_en": "violent; forceful; intense",
+    "meaning_bn": "",
+    "example": "She was vehement in her opposition."
+  },
+  {
+    "index": 807,
+    "word": "Venal",
+    "pronunciation": "VEE-nul",
+    "meaning_en": "capable of being bribed",
+    "meaning_bn": "",
+    "example": "The venal official accepted cash in exchange for permits."
+  },
+  {
+    "index": 808,
+    "word": "Venerate",
+    "pronunciation": "VEN-er-ayt",
+    "meaning_en": "to treat as something holy, especially because of great age",
+    "meaning_bn": "",
+    "example": "The ancient temple was venerated by thousands."
+  },
+  {
+    "index": 809,
+    "word": "Veracity",
+    "pronunciation": "vuh-RAS-ih-tee",
+    "meaning_en": "truthfulness",
+    "meaning_bn": "",
+    "example": "The journalist questioned the veracity of the report."
+  },
+  {
+    "index": 810,
+    "word": "Verbose",
+    "pronunciation": "ver-BOHS",
+    "meaning_en": "using too many words",
+    "meaning_bn": "",
+    "example": "His verbose essay lost its impact."
+  },
+  {
+    "index": 811,
+    "word": "Verisimilitude",
+    "pronunciation": "ver-ih-sih-MIL-ih- tood",
+    "meaning_en": "the appearance of truth",
+    "meaning_bn": "",
+    "example": "The novel's verisimilitude made readers feel they were there."
+  },
+  {
+    "index": 812,
+    "word": "Vernacular",
+    "pronunciation": "ver-NAK-yuh-ler",
+    "meaning_en": "slang; idiom",
+    "meaning_bn": "",
+    "example": "He wrote in the vernacular so everyone could understand."
+  },
+  {
+    "index": 813,
+    "word": "Vestige",
+    "pronunciation": "VES-tij",
+    "meaning_en": "remainder; a last trace",
+    "meaning_bn": "",
+    "example": "There was no vestige of the old building left."
+  },
+  {
+    "index": 814,
+    "word": "Vex",
+    "pronunciation": "VEKS",
+    "meaning_en": "to annoy",
+    "meaning_bn": "",
+    "example": "His constant interruptions vexed her."
+  },
+  {
+    "index": 815,
+    "word": "Viable",
+    "pronunciation": "VY-uh-bul",
+    "meaning_en": "capable of living",
+    "meaning_bn": "",
+    "example": "Is this business plan viable?"
+  },
+  {
+    "index": 816,
+    "word": "Vicarious",
+    "pronunciation": "vy-KAIR-ee-us",
+    "meaning_en": "living through the experiences of another as though they were one's own",
+    "meaning_bn": "",
+    "example": "She enjoyed vicarious thrills watching adventure films."
+  },
+  {
+    "index": 817,
+    "word": "Vicissitude",
+    "pronunciation": "vih-SIS-ih-tood",
+    "meaning_en": "natural change; change in fortune",
+    "meaning_bn": "",
+    "example": "He endured the vicissitudes of life with courage."
+  },
+  {
+    "index": 818,
+    "word": "Vilify",
+    "pronunciation": "VIL-ih-fy",
+    "meaning_en": "to defame",
+    "meaning_bn": "",
+    "example": "The press vilified him before the trial."
+  },
+  {
+    "index": 819,
+    "word": "Vindicate",
+    "pronunciation": "VIN-dih-kayt",
+    "meaning_en": "to clear from all blame or suspicion",
+    "meaning_bn": "",
+    "example": "Her performance vindicated the coach's decision."
+  },
+  {
+    "index": 820,
+    "word": "Vindictive",
+    "pronunciation": "vin-DIK-tiv",
+    "meaning_en": "seeking revenge",
+    "meaning_bn": "",
+    "example": "He sent vindictive messages to his ex- boss."
+  },
+  {
+    "index": 821,
+    "word": "Virtuoso",
+    "pronunciation": "vur-choo-OH-soh",
+    "meaning_en": "a masterful musician",
+    "meaning_bn": "",
+    "example": "He performed as a piano virtuoso at just sixteen."
+  },
+  {
+    "index": 822,
+    "word": "Virulent",
+    "pronunciation": "VIR-yuh-lunt",
+    "meaning_en": "full of hate; extremely poisonous",
+    "meaning_bn": "",
+    "example": "The virulent disease spread rapidly."
+  },
+  {
+    "index": 823,
+    "word": "Visionary",
+    "pronunciation": "VIZH-uh-ner-ee",
+    "meaning_en": "someone with impractical goals or ideals about the future",
+    "meaning_bn": "",
+    "example": "Steve Jobs was a true visionary."
+  },
+  {
+    "index": 824,
+    "word": "Vitiate",
+    "pronunciation": "VISH-ee-ayt",
+    "meaning_en": "to pollute",
+    "meaning_bn": "",
+    "example": "Corruption vitiates the entire system."
+  },
+  {
+    "index": 825,
+    "word": "Vitriolic",
+    "pronunciation": "vit-ree-OL-ik",
+    "meaning_en": "caustic",
+    "meaning_bn": "",
+    "example": "His vitriolic review destroyed the author's reputation."
+  },
+  {
+    "index": 826,
+    "word": "Vocation",
+    "pronunciation": "voh-KAY-shun",
+    "meaning_en": "a job",
+    "meaning_bn": "",
+    "example": "Teaching is not just a job — it's a vocation."
+  },
+  {
+    "index": 827,
+    "word": "Vociferous",
+    "pronunciation": "voh-SIF-er-us",
+    "meaning_en": "noisy",
+    "meaning_bn": "",
+    "example": "He was vociferous in his demands for justice."
+  },
+  {
+    "index": 828,
+    "word": "Volatile",
+    "pronunciation": "VOL-uh-tul",
+    "meaning_en": "explosive; highly unstable",
+    "meaning_bn": "",
+    "example": "The volatile market lost ten percent in one day."
+  },
+  {
+    "index": 829,
+    "word": "Volition",
+    "pronunciation": "voh-LISH-un",
+    "meaning_en": "conscious choice",
+    "meaning_bn": "",
+    "example": "He left of his own volition."
+  },
+  {
+    "index": 830,
+    "word": "Wanton",
+    "pronunciation": "WON-tun",
+    "meaning_en": "malicious",
+    "meaning_bn": "",
+    "example": "The attack was an act of wanton cruelty."
+  },
+  {
+    "index": 831,
+    "word": "Willful",
+    "pronunciation": "WIL-ful",
+    "meaning_en": "deliberate",
+    "meaning_bn": "",
+    "example": "His willful ignorance of the facts was frustrating."
+  },
+  {
+    "index": 832,
+    "word": "Wistful",
+    "pronunciation": "WIST-ful",
+    "meaning_en": "sadly longing",
+    "meaning_bn": "",
+    "example": "She gave a wistful smile when she saw the old photo."
+  },
+  {
+    "index": 833,
+    "word": "Zealous",
+    "pronunciation": "ZEL-us",
+    "meaning_en": "enthusiastically devoted to something",
+    "meaning_bn": "",
+    "example": "He was a zealous advocate for education reform."
+  }
+]

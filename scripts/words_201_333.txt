@@ -1,0 +1,798 @@
+[201] Set 11 | Log (noun)
+   EN: An official record of events, a voyage, or daily occurrences; a journal.
+   BN: দৈনন্দিন কার্যবিবরণী বা নথি
+   Syns: record, journal, ledger, register
+   Ants: erasure, omission, deletion
+
+[202] Set 11 | Loquacious (adjective)
+   EN: Tending to talk a great deal; talkative and garrulous.
+   BN: বাচাল বা অত্যন্ত কথা বলা স্বভাবের
+   Syns: talkative, garrulous, voluble, talky
+   Ants: reticent, taciturn, silent
+
+[203] Set 11 | Lucid (adjective)
+   EN: Expressed clearly; easy to understand; clear and comprehensible.
+   BN: সুস্পষ্ট বা বোধগম্য
+   Syns: clear, intelligible, transparent, coherent
+   Ants: obscure, confusing, vague
+
+[204] Set 11 | Luminous (adjective)
+   EN: Emitting or reflecting light; glowing, bright, or radiant.
+   BN: উজ্জ্বল বা দীপ্তিমান
+   Syns: radiant, glowing, shining, lambent
+   Ants: dark, dim, gloomy
+
+[205] Set 11 | Magnanimity (noun)
+   EN: Liberality in bestowing gifts; extremely liberal and generous of spirit.
+   BN: মহানুভবতা বা উদারতা
+   Syns: generosity, benevolence, nobility, largess
+   Ants: pettiness, meanness, spitefulness
+
+[206] Set 11 | Malingerer (noun)
+   EN: Someone shirking their duty by feigning illness or incapacity.
+   BN: কাজে ফাঁকি দিতে রোগ ভানকারী
+   Syns: shirker, slacker, dodger, skulker
+   Ants: toiler, worker, producer
+
+[207] Set 11 | Malleable (adjective)
+   EN: Capable of being shaped or bent; easily influenced, pliable, or adaptable.
+   BN: নমনীয় বা সহজে প্রভাবিত করা যায় এমন
+   Syns: pliable, ductile, adaptable, tensile
+   Ants: rigid, stiff, inflexible
+
+[208] Set 11 | Maverick (noun)
+   EN: Someone who exhibits great independence in thought and action.
+   BN: স্বতন্ত্র চিন্তাশীল বা বিদ্রোহী ব্যক্তি
+   Syns: nonconformist, rebel, individualist
+   Ants: conformist, traditionalist, follower
+
+[209] Set 11 | Mendacious (adjective)
+   EN: Characterized by lying or untruthfulness; dishonest or deceitful.
+   BN: মিথ্যাবাদী বা অসত্য
+   Syns: untruthful, deceitful, dishonest
+   Ants: truthful, veracious, honest
+
+[210] Set 11 | Metamorphosis (noun)
+   EN: A complete and dramatic change in form, appearance, character, or condition.
+   BN: রূপান্তর বা রূপবদল
+   Syns: transformation, mutation, evolution, transfiguration
+   Ants: stasis, sameness, fixity
+
+[211] Set 11 | Meticulous (adjective)
+   EN: Showing great attention to detail; very careful, precise, and scrupulous.
+   BN: অতি সতর্ক বা নিখুঁত
+   Syns: painstaking, scrupulous, thorough, punctilious
+   Ants: careless, sloppy, negligent
+
+[212] Set 11 | Misanthrope (noun)
+   EN: Someone who dislikes people in general.
+   BN: মানববিদ্বেষী ব্যক্তি
+   Syns: cynic, recluse, hater, misanthropist
+   Ants: philanthropist, humanitarian, altruist
+
+[213] Set 11 | Mitigate (verb)
+   EN: To make something bad or painful less severe, harmful, or painful; alleviate.
+   BN: উপশম বা তীব্রতা কমানো
+   Syns: alleviate, lessen, moderate, palliate
+   Ants: exacerbate, aggravate, intensify
+
+[214] Set 11 | Mollify (verb)
+   EN: To appease the anger or anxiety of someone; soothe or calm.
+   BN: শান্ত বা তুষ্ট করা
+   Syns: pacify, soothe, appease, placate
+   Ants: enrage, infuriate, provoke
+
+[215] Set 11 | Morose (adjective)
+   EN: Sullen, gloomy, and ill-tempered; sullenly melancholy.
+   BN: বিষণ্ণ বা বিমর্ষ স্বভাবের
+   Syns: sullen, gloomy, melancholy, dour
+   Ants: cheerful, jovial, optimistic
+
+[216] Set 11 | Mundane (adjective)
+   EN: Lacking interest or excitement; dull, ordinary, and commonplace.
+   BN: পার্থিব বা জাগতিক ও সাধারণ
+   Syns: ordinary, everyday, commonplace, quotidian
+   Ants: extraordinary, spiritual, heavenly
+
+[217] Set 11 | Negate (verb)
+   EN: To deny the existence or truth of; nullify or make ineffective.
+   BN: নাকচ বা অকার্যকর করা
+   Syns: nullify, invalidate, cancel, neutralize
+   Ants: affirm, validate, confirm
+
+[218] Set 11 | Neophyte (noun)
+   EN: A person who is new to a subject, skill, or belief; a beginner or novice.
+   BN: নবাগত বা শিক্ষানবিস
+   Syns: novice, beginner, tyro, newcomer
+   Ants: expert, veteran, master
+
+[219] Set 11 | Obdurate (adjective)
+   EN: Stubbornly refusing to change one's opinion or course of action; unyielding.
+   BN: একগুঁয়ে বা অনমনীয়
+   Syns: stubborn, obstinate, unyielding, stony
+   Ants: compliant, malleable, yielding
+
+[220] Set 11 | Obsequious (adjective)
+   EN: Obedient or attentive to an excessive or servile degree; fawning.
+   BN: চাটুকার বা অতিশয় তোষামোদকারী
+   Syns: servile, sycophantic, submissive, fawning
+   Ants: assertive, domineering, independent
+
+[221] Set 12 | Obviate (verb)
+   EN: To remove or eliminate a need, difficulty, or obstacle; prevent.
+   BN: দূর করা বা অপ্রয়োজনীয় করে তোলা
+   Syns: preclude, prevent, eliminate, debar
+   Ants: require, necessitate, cause
+
+[222] Set 12 | Occlude (verb)
+   EN: To stop, close up, or obstruct an opening, orifice, or passage.
+   BN: বন্ধ বা অবরুদ্ধ করা
+   Syns: block, obstruct, clog, jam
+   Ants: open, clear, unblock, free
+
+[223] Set 12 | Officious (adjective)
+   EN: Assertive of authority in an annoying and domineering way; meddlesome.
+   BN: অনধিকারচর্চাকারী বা আগ বাড়িয়ে উপদেশ দেওয়া স্বভাবের
+   Syns: meddlesome, intrusive, overbearing, busy
+   Ants: modest, unobtrusive, reserved
+
+[224] Set 12 | Onerous (adjective)
+   EN: Involving great effort, burden, or difficulty; burdensome and oppressive.
+   BN: কষ্টসাধ্য বা গুরুভারপূর্ণ
+   Syns: burdensome, taxing, oppressive
+   Ants: easy, effortless, light
+
+[225] Set 12 | Opprobrium (noun)
+   EN: Harsh criticism or censure; disgrace arising from shameful conduct.
+   BN: তীব্র নিন্দা বা লোকলজ্জা
+   Syns: infamy, disgrace, ignominy, obloquy
+   Ants: praise, honor, acclaim, fame
+
+[226] Set 12 | Oscillate (verb)
+   EN: To swing or move back and forth continuously; waver indecisively between options.
+   BN: দোদুল্যমান হওয়া বা ওঠা-নামা করা
+   Syns: vacillate, fluctuate, swing, hover
+   Ants: stabilize, steady, settle
+
+[227] Set 12 | Ostentatious (adjective)
+   EN: Characterized by vulgar or pretentious display; designed to impress.
+   BN: লোকদেখানো বা আড়ম্বরপূর্ণ
+   Syns: showy, pretentious, flamboyant
+   Ants: modest, understated, plain, unostentatious
+
+[228] Set 12 | Paragon (noun)
+   EN: An ideal instance; a perfect embodiment of a concept.
+   BN: আদর্শ বা নিখুঁত দৃষ্টান্ত
+   Syns: model, epitome, exemplar, idol
+   Ants: flaw, antithesis, imperfection
+
+[229] Set 12 | Partisan (noun)
+   EN: A fervent and even militant proponent of something.
+   BN: দলকানা বা অন্ধ পক্ষপাতমূলক
+   Syns: biased, sectarian, one-sided, enthusiast
+   Ants: impartial, neutral, objective, nonpartisan
+
+[230] Set 12 | Pathological (adjective)
+   EN: Involving or caused by a physical or mental disease; compulsive or abnormal.
+   BN: রোগাক্রান্ত বা অস্বাভাবিক মানসিক রোগসংক্রান্ত
+   Syns: morbid, compulsive, diseased, pathologic
+   Ants: healthy, normal, rational
+
+[231] Set 12 | Paucity (noun)
+   EN: An insufficient quantity or number.
+   BN: স্বল্পতা বা অভাব
+   Syns: scarcity, dearth, shortage
+   Ants: abundance, plethora, surplus
+
+[232] Set 12 | Pedantic (adjective)
+   EN: Marked by a narrow focus on or display of learning especially its trivial aspects.
+   BN: পাণ্ডিত্য প্রদর্শনকারী বা অতিরিক্ত খুঁতখুঁতে
+   Syns: bookish, punctilious, fussy, academic
+   Ants: practical, broad-minded, informal
+
+[233] Set 12 | Penchant (noun)
+   EN: A strong or habitual liking for something; a marked inclination or bias.
+   BN: তীব্র ঝোঁক বা বিশেষ অনুরাগ
+   Syns: inclination, predilection, affinity, taste
+   Ants: aversion, dislike, antipathy
+
+[234] Set 12 | Penury (noun)
+   EN: A state of extreme poverty or destitution.
+   BN: চরম দরিদ্রতা বা নিঃস্ব অবস্থা
+   Syns: destitution, indigence, poverty, pauperism
+   Ants: wealth, prosperity, affluence
+
+[235] Set 12 | Perennial (adjective)
+   EN: Lasting or existing for a long or apparently infinite time; continually recurring.
+   BN: চিরস্থায়ী বা বহুবর্ষজীবী
+   Syns: everlasting, enduring, perpetual, repeated
+   Ants: fleeting, short-lived, ephemeral, biennial
+
+[236] Set 12 | Perfidious (adjective)
+   EN: Deceitful and untrustworthy; treacherous and disloyal.
+   BN: বিশ্বাসঘাতক বা বেইমান
+   Syns: treacherous, disloyal, faithless, punic
+   Ants: loyal, faithful, trustworthy
+
+[237] Set 12 | Perfunctory (adjective)
+   EN: Carried out with minimal effort, care, or interest; hasty and routine.
+   BN: দায়সারা বা অগভীর মনোভাবাপন্ন
+   Syns: superficial, cursory, mechanical, casual
+   Ants: thorough, meticulous, careful
+
+[238] Set 12 | Permeable (adjective)
+   EN: Allowing fluids or gases to pass or diffuse through.
+   BN: ভেদ্য বা তরল চলাচলে সক্ষম
+   Syns: porous, penetrable, absorbent
+   Ants: impermeable, impenetrable, solid
+
+[239] Set 12 | Pervasive (adjective)
+   EN: Spreading widely throughout an area or group of people; all-encompassing.
+   BN: সর্বব্যাপী বা সর্বগ্রাসী
+   Syns: ubiquitous, widespread, pervading, permeative
+   Ants: isolated, limited, rare
+
+[240] Set 12 | Phlegmatic (adjective)
+   EN: Having an unemotional and stolidly calm disposition; placid and composed.
+   BN: শান্ত ও আবেগহীন বা ধীরস্থির
+   Syns: calm, unemotional, stoic, phlegmatical
+   Ants: excitable, passionate, emotional
+
+[241] Set 13 | Piety (noun)
+   EN: The quality of being religious or reverent; devoutness.
+   BN: ধার্মিকতা বা ভক্তিভাব
+   Syns: devotion, reverence, godliness, piousness
+   Ants: impiety, irreverence, blasphemy
+
+[242] Set 13 | Placate (verb)
+   EN: To soothe, calm, or appease someone, especially by conceding demands.
+   BN: শান্ত করা বা মান ভাঙানো
+   Syns: appease, pacify, mollify, gruntle
+   Ants: anger, provoke, enrage
+
+[243] Set 13 | Plasticity (noun)
+   EN: The quality of being easily shaped, molded, or adapted without breaking.
+   BN: নমনীয়তা বা রূপান্তরণযোগ্যতা
+   Syns: malleability, flexibility, adaptability
+   Ants: rigidity, brittleness, inflexibility, unmalleability
+
+[244] Set 13 | Platitude (noun)
+   EN: A remark or statement, especially one with moral content, that is trite or cliché.
+   BN: গতানুগতিক বা ক্লিশে উক্তি
+   Syns: cliché, truism, banality, commonplace
+   Ants: originality, insight, profundity
+
+[245] Set 13 | Plethora (noun)
+   EN: A large or excessive amount of something; an overabundance.
+   BN: আধিক্য বা অতিপ্রাচুয
+   Syns: excess, surfeit, abundance, superfluity
+   Ants: scarcity, dearth, paucity
+
+[246] Set 13 | Plummet (verb)
+   EN: To fall or drop straight down at high speed; plunge steeply.
+   BN: খাড়াভাবে নিচে পড়া বা দ্রুত হ্রাস পাওয়া
+   Syns: plunge, dive, drop, plumb
+   Ants: soar, rise, ascend
+
+[247] Set 13 | Porous (adjective)
+   EN: Having minute spaces or holes through which liquid or air may pass; permeable.
+   BN: ছিদ্রযুক্ত বা ঝাঝরা
+   Syns: permeable, absorbent, spongy, holey
+   Ants: dense, impermeable, solid, nonporous
+
+[248] Set 13 | Pragmatic (adjective)
+   EN: Dealing with matters sensibly and realistically based on practical considerations rather than theoretical ones.
+   BN: বাস্তবধর্মী বা প্রায়োগিক
+   Syns: practical, sensible, realistic, matter-of-fact
+   Ants: idealistic, impractical, quixotic
+
+[249] Set 13 | Preamble (noun)
+   EN: A preliminary introduction to a statute or constitution (usually explaining its purpose).
+   BN: প্রস্তাবনা বা ভূমিকা
+   Syns: introduction, preface, prologue
+   Ants: epilogue, coda, conclusion
+
+[250] Set 13 | Precarious (adjective)
+   EN: Not securely held or in position; dangerously insecure, uncertain, or risky.
+   BN: ঝুঁকিপূর্ণ বা অনিভরযোগ্য
+   Syns: perilous, uncertain, insecure, shaky
+   Ants: safe, secure, stable
+
+[251] Set 13 | Precipitate (verb)
+   EN: To cause an event or situation, typically bad or unexpected, to happen suddenly or prematurely.
+   BN: তড়িঘড়ি বা হঠকারী
+   Syns: rash, hasty, premature, fall
+   Ants: deliberate, cautious, considered
+
+[252] Set 13 | Precursor (noun)
+   EN: A person or thing that comes before another of the same kind; a forerunner.
+   BN: অগ্রদূত বা পূর্বসূরি
+   Syns: forerunner, predecessor, herald, harbinger
+   Ants: successor, descendant, consequence
+
+[253] Set 13 | Presumptuous (adjective)
+   EN: Failing to observe the limits of what is permitted or appropriate; audaciously bold.
+   BN: দাম্ভিক বা অনধিকারচর্চাকারী
+   Syns: arrogant, brazen, audacious, assumptive
+   Ants: modest, humble, respectful
+
+[254] Set 13 | Prevaricate (verb)
+   EN: To speak or act evasively in order to deceive or avoid telling the truth.
+   BN: সত্য এড়িয়ে চলা বা ছলচাতুরী করা
+   Syns: equivocate, hedge, evade, tergiversate
+   Ants: clarify, confront, authenticate
+
+[255] Set 13 | Pristine (adjective)
+   EN: Completely free from dirt or contamination.
+   BN: অক্ষত বা আদিম ও নিখুঁত
+   Syns: unspoiled, pure, immaculate
+   Ants: polluted, corrupted, ruined
+
+[256] Set 13 | Probity (noun)
+   EN: Complete and confirmed integrity; having strong moral principles.
+   BN: সততা বা চারিত্রিক সাধুতা
+   Syns: integrity, honesty, uprightness
+   Ants: dishonesty, corruption, deceit
+
+[257] Set 13 | Problematic (adjective)
+   EN: Constituting or presenting a problem; doubtful, uncertain, or questionable.
+   BN: সমস্যাবহুল বা সন্দেহজনক
+   Syns: doubtful, uncertain, troublesome, debatable
+   Ants: unproblematic, certain, settled
+
+[258] Set 13 | Prodigal (adjective)
+   EN: Spending money or resources recklessly and wastefully; extravagant.
+   BN: অপব্যয়ী বা উড়নচণ্ডী
+   Syns: wasteful, extravagant, profligate, squanderer
+   Ants: thrifty, frugal, economical
+
+[259] Set 13 | Profound (adjective)
+   EN: Showing intellectual penetration or emotional depth.
+   BN: গভীর বা সুদূরপ্রসারী
+   Syns: deep, insightful, intense, unplumbed
+   Ants: shallow, superficial, trivial
+
+[260] Set 13 | Prohibitive (adjective)
+   EN: Serving to forbid or restrict; excessively high or difficult to afford.
+   BN: সাধ্যের অতীত বা বাধানিষেধমূলক
+   Syns: exorbitant, restrictive, excessive, prohibitory
+   Ants: affordable, reasonable, permissive
+
+[261] Set 14 | Proliferate (verb)
+   EN: To increase rapidly in numbers; multiply or flourish.
+   BN: দ্রুত বিস্তার লাভ বা সংখ্যাবৃদ্ধি পাওয়া
+   Syns: multiply, spread, burgeon
+   Ants: decrease, diminish, dwindle
+
+[262] Set 14 | Propensity (noun)
+   EN: An innate inclination or natural tendency to behave in a particular way.
+   BN: সহজাত প্রবণতা বা বিশেষ ঝোঁক
+   Syns: inclination, tendency, predisposition, proclivity
+   Ants: disinclination, aversion, reluctance
+
+[263] Set 14 | Propitiate (verb)
+   EN: To win or regain the favor of a god, spirit, or person by doing something that pleases them; appease.
+   BN: তুষ্ট বা শান্ত করা
+   Syns: appease, placate, pacify
+   Ants: anger, offend, alienate
+
+[264] Set 14 | Propriety (noun)
+   EN: The state or quality of conforming to accepted standards of good behavior and decorum.
+   BN: ভদ্রতা বা আচরণবিধি
+   Syns: decorum, decency, correctness, correctitude
+   Ants: impropriety, indecency, rudeness, improperness
+
+[265] Set 14 | Proscribe (verb)
+   EN: To forbid or prohibit especially by law; denounce or condemn.
+   BN: নিষিদ্ধ বা নির্বাসিত করা
+   Syns: forbid, ban, outlaw, interdict
+   Ants: permit, allow, prescribe
+
+[266] Set 14 | Pungent (adjective)
+   EN: Having a sharp and caustic quality; biting, acrid, or cutting in expression.
+   BN: তীব্র বা ঝাঁঝালো
+   Syns: sharp, biting, caustic, mordacious
+   Ants: mild, bland, soothing
+
+[267] Set 14 | Qualified (adjective)
+   EN: Limited, restricted, or conditional rather than absolute; partial.
+   BN: শর্তসাপেক্ষ বা সীমিত
+   Syns: conditional, limited, restricted, guarded
+   Ants: unconditional, absolute, unlimited, categorical
+
+[268] Set 14 | Quibble (verb)
+   EN: To argue or raise petty, trivial objections about a minor matter.
+   BN: তুচ্ছ বিষয়ে খুঁত ধরা বা আপত্তি তোলা
+   Syns: cavil, nitpick, complain, quiddity
+   Ants: concur, accept, agree
+
+[269] Set 14 | Quiescent (adjective)
+   EN: In a state or period of dormancy, rest, or temporary inactivity.
+   BN: সুপ্ত বা শান্ত অবস্থায় থাকা
+   Syns: dormant, inactive, idle
+   Ants: active, dynamic, flaring
+
+[270] Set 14 | Rarefied (adjective)
+   EN: Elevated, lofty, or esoteric in character; of thin density (of atmosphere).
+   BN: লঘু বা অভিজাত ভাবসম্পন্ন
+   Syns: tenuous, refined, esoteric, sublimate
+   Ants: dense, common, vulgar
+
+[271] Set 14 | Recalcitrant (adjective)
+   EN: Stubbornly resistant to authority or control.
+   BN: অবাধ্য বা চরম অবাধ্য
+   Syns: obstinate, defiant, unruly, refractory
+   Ants: compliant, docile, obedient
+
+[272] Set 14 | Recant (verb)
+   EN: To formally withdraw, renounce, or disavow a statement or previously held belief.
+   BN: পূর্বমত প্রত্যাহার করা বা ফিরিয়ে নেওয়া
+   Syns: retract, disavow, renounce, abjure
+   Ants: reaffirm, maintain, assert
+
+[273] Set 14 | Recluse (noun)
+   EN: A person who lives a solitary life and tends to avoid other people; a hermit.
+   BN: নিভৃতচারী বা একাকী বাসকারী ব্যক্তি
+   Syns: hermit, solitary, anchorite, solitudinarian
+   Ants: extrovert, socialite, mixer
+
+[274] Set 14 | Recondite (adjective)
+   EN: Difficult to understand, abstruse, obscure, or little-known.
+   BN: দুর্বোধ্য বা গভীর গোপন জ্ঞানসংক্রান্ত
+   Syns: abstruse, obscure, arcane, deep
+   Ants: obvious, simple, accessible
+
+[275] Set 14 | Refractory (adjective)
+   EN: Stubbornly resistant to authority, control, or treatment; unmanageable.
+   BN: অবাধ্য বা চিকিৎসায় সাড়া দেয় না এমন
+   Syns: unmanageable, stubborn, resistant, recalcitrant
+   Ants: manageable, responsive, amenable
+
+[276] Set 14 | Refute (verb)
+   EN: To prove a statement, theory, or argument to be wrong or false; disprove.
+   BN: ভুল বা অসত্য প্রমাণ করা
+   Syns: disprove, debunk, rebut, controvert
+   Ants: confirm, validate, prove
+
+[277] Set 14 | Relegate (verb)
+   EN: To assign to a lower or less important position, rank, or category; demote.
+   BN: অবনমিত করা বা নির্বাসিত করা
+   Syns: demote, downgrade, banish, classify
+   Ants: promote, elevate, upgrade
+
+[278] Set 14 | Reproach (verb)
+   EN: To express disapproval, criticism, or disappointment to someone.
+   BN: তিরস্কার বা অনুযোগ করা
+   Syns: rebuke, scold, admonish, upbraid
+   Ants: praise, commend, applaud
+
+[279] Set 14 | Reprobate (noun)
+   EN: An unprincipled, wicked, or shameless person; devoid of moral scruples.
+   BN: চরিত্রহীন বা নীতিভ্রষ্ট ব্যক্তি
+   Syns: scoundrel, rogue, rascal, miscreant
+   Ants: saint, innocent, moralist
+
+[280] Set 14 | Repudiate (verb)
+   EN: To refuse to accept, recognize, or be associated with; reject or disown.
+   BN: প্রত্যাখ্যান করা বা অস্বীকার করা
+   Syns: disown, reject, renounce
+   Ants: embrace, accept, endorse
+
+[281] Set 15 | Rescind (verb)
+   EN: To revoke, repeal, or cancel a law, order, or agreement officially.
+   BN: বাতিল বা প্রত্যাহার করা
+   Syns: revoke, cancel, annul, overturn
+   Ants: enforce, validate, reinstate
+
+[282] Set 15 | Resolution (noun)
+   EN: A formal expression by a meeting; agreed to by a vote.
+   BN: দৃঢ় সংকল্প বা সমাধান
+   Syns: determination, resolve, settlement, solution
+   Ants: indecision, hesitation, wavering, preparation
+
+[283] Set 15 | Resolve (verb)
+   EN: To find a solution to a problem; to firmly decide upon a course of action.
+   BN: দৃঢ় সংকল্প বা সমস্যা মীমাংসা করা
+   Syns: determination, settle, conclude, resoluteness
+   Ants: hesitation, worsen, vacillation, irresoluteness
+
+[284] Set 15 | Reticent (adjective)
+   EN: Temperamentally disinclined to talk.
+   BN: স্বল্পভাষী বা মনের ভাব প্রকাশে অনিচ্ছুক
+   Syns: reserved, uncommunicative, taciturn, retiring
+   Ants: garrulous, talkative, outspoken
+
+[285] Set 15 | Reverent (adjective)
+   EN: Feeling or showing profound respect or veneration.
+   BN: শ্রদ্ধাশীল বা ভক্তিপূর্ণ
+   Syns: respectful, devout, worshipful, godly
+   Ants: disrespectful, irreverent, insolent
+
+[286] Set 15 | Sage (adjective)
+   EN: Having, showing, or indicating profound wisdom, sound judgment, and prudence.
+   BN: মহাজ্ঞানী ব্যক্তি
+   Syns: philosopher, mentor, scholar
+   Ants: fool, simpleton, idiot
+
+[287] Set 15 | Salubrious (adjective)
+   EN: Health-giving, wholesome, and beneficial to physical wellbeing.
+   BN: স্বাস্থ্যকর বা স্বাস্থ্যপ্রদ
+   Syns: healthful, wholesome, beneficial, healthy
+   Ants: unhealthy, harmful, noxious
+
+[288] Set 15 | Sanction (noun)
+   EN: To give official permission or approval for; also to impose a penalty on.
+   BN: অনুমোদন দেওয়া বা নিষেধাজ্ঞা আরোপ করা
+   Syns: authorize, approve, penalize, imprimatur
+   Ants: prohibit, forbid, disapprove
+
+[289] Set 15 | Satiate (verb)
+   EN: To satisfy a desire or appetite to the full or to excess.
+   BN: পরিতৃপ্ত বা পুরোপুরি সন্তুষ্ট করা
+   Syns: satisfy, gorge, glut, binge
+   Ants: starve, deprive, dissatisfy
+
+[290] Set 15 | Saturate (verb)
+   EN: To thoroughly soak with liquid; cause to be completely filled or permeated.
+   BN: ভিজিয়ে পূর্ণ করা বা সম্পৃক্ত করা
+   Syns: soak, drench, steep, impregnate
+   Ants: dry, dehydrate, drain
+
+[291] Set 15 | Savor (verb)
+   EN: To taste or smell with pleasure; to appreciate or enjoy something fully and thoroughly.
+   BN: আস্বাদন করা বা স্বাদ উপভোগ করা
+   Syns: relish, enjoy, taste, tang
+   Ants: dislike, rush, ignore
+
+[292] Set 15 | Secrete (verb)
+   EN: To produce and discharge a substance, typically from a biological cell or gland; also to conceal.
+   BN: নিঃঃসরণ করা বা লুকিয়ে রাখা
+   Syns: excrete, conceal, hide, release
+   Ants: absorb, reveal, expose
+
+[293] Set 15 | Shard (noun)
+   EN: A broken piece of a brittle artifact.
+   BN: ভাঙা পাত্রের টুকরো বা ভাঙা কাঁচের কুচি
+   Syns: fragment, sliver, splinter, sherd
+   Ants: whole, totality, aggregate
+
+[294] Set 15 | Skeptic (noun)
+   EN: A person inclined to question or doubt all accepted opinions or claims.
+   BN: সংশয়বাদী বা সন্দেহপ্রবণ ব্যক্তি
+   Syns: doubter, cynic, questioner, sceptic
+   Ants: believer, devotee, optimist
+
+[295] Set 15 | Solicitous (adjective)
+   EN: Characterized by or showing interest, care, or attentive concern.
+   BN: উিগ্ন বা যত্নশীল মনোভাবাপন্ন
+   Syns: attentive, concerned, caring
+   Ants: unconcerned, indifferent, careless
+
+[296] Set 15 | Soporific (adjective)
+   EN: Tending to induce drowsiness or sleep; sleep-inducing.
+   BN: ঘুমপাড়ানি বা নিদ্রাকষক
+   Syns: sedative, sleep-inducing, somnolent, hypnotic
+   Ants: stimulant, invigorating, energizing
+
+[297] Set 15 | Specious (adjective)
+   EN: Superficially plausible, but actually wrong, deceptive, or misleading.
+   BN: আপাতদৃষ্টিতে সত্য কিন্তু ভ্রান্ত
+   Syns: misleading, deceptive, fallacious, gilded
+   Ants: genuine, valid, sound
+
+[298] Set 15 | Spectrum (noun)
+   EN: An ordered array of the components of an emission or wave.
+   BN: বর্ণালী বা সামগ্রিক পরিসর
+   Syns: range, gamut, array
+   Ants: singularity, monochrome, limit
+
+[299] Set 15 | Sporadic (adjective)
+   EN: Recurring in scattered and irregular or unpredictable instances.
+   BN: বিক্ষিপ্ত বা অনিয়মিত
+   Syns: intermittent, occasional, infrequent
+   Ants: continuous, regular, constant, continual
+
+[300] Set 15 | Stigma (noun)
+   EN: A mark of disgrace or shame associated with a particular circumstance, quality, or person.
+   BN: কলঙ্ক বা অপবাদ
+   Syns: shame, disgrace, taint, mark
+   Ants: honor, pride, credit
+
+[301] Set 16 | Stint (verb)
+   EN: To restrict, supply in an ungenerous manner, or be frugal with.
+   BN: সংকোচন করা বা নির্দিষ্ট মেয়াদের দায়িত্ব
+   Syns: skimp, limit, period, scrimp
+   Ants: squander, splurge, lavish
+
+[302] Set 16 | Stipulate (verb)
+   EN: To demand or specify a requirement as part of a formal agreement or contract.
+   BN: শর্তারোপ করা বা চুক্তিতে উল্লেখ করা
+   Syns: specify, condition, require, qualify
+   Ants: waive, ignore, relinquish
+
+[303] Set 16 | Stolid (adjective)
+   EN: Calm, dependable, and showing little emotion or animation; phlegmatic.
+   BN: আবেগহীন বা নির্বিকার প্রকৃতির
+   Syns: impassive, phlegmatic, unemotional
+   Ants: emotional, lively, sensitive
+
+[304] Set 16 | Striated (adjective)
+   EN: Marked with thin, parallel stripes, grooves, or bands.
+   BN: রেখাঙ্কিত বা সমান্তরাল দাগযুক্ত
+   Syns: striped, grooved, banded, striate
+   Ants: smooth, unmarked, plain
+
+[305] Set 16 | Strut (verb)
+   EN: To walk with a proud, erect, pompous, and confident gait.
+   BN: দম্ভভরে বা গর্বিত পদক্ষেপে হাঁটা
+   Syns: swagger, parade, prance
+   Ants: cower, slink, creep
+
+[306] Set 16 | Strut (noun)
+   EN: A structural bar, rod, or brace designed to resist pressure in the direction of its length.
+   BN: কাঠামোকে ধরে রাখার জন্য খুঁটি বা ঠেকনা
+   Syns: brace, prop, support, swagger
+   Ants: hindrance, burden, destabilizer
+
+[307] Set 16 | Subpoena (noun)
+   EN: A formal legal writ compelling a witness to attend and testify in court.
+   BN: আদালতে সাক্ষ্য দেওয়ার জন্য সমন জারি করা
+   Syns: summons, writ, citation
+   Ants: release, pardon, dismissal
+
+[308] Set 16 | Subside (verb)
+   EN: To become less intense, severe, or violent; diminish or sink to a lower level.
+   BN: হ্রাস পাওয়া বা শান্ত হওয়া
+   Syns: abate, recede, diminish, sink
+   Ants: intensify, rise, swell
+
+[309] Set 16 | Substantiate (verb)
+   EN: To provide evidence to support or prove the truth of an assertion; corroborate.
+   BN: প্রমাণ দ্বারা প্রতিষ্ঠিত বা সত্যতা প্রতিপন্ন করা
+   Syns: verify, corroborate, authenticate, realize
+   Ants: disprove, refute, undermine, negate
+
+[310] Set 16 | Supersede (verb)
+   EN: To take the place of a person or thing previously in authority or use; supplant.
+   BN: স্থান দখল করা বা বাতিল করে স্থলাভিষিক্ত হওয়া
+   Syns: replace, supplant, oust, supercede
+   Ants: retain, keep, maintain
+
+[311] Set 16 | Supposition (noun)
+   EN: An uncertain belief, assumption, or hypothesis based on incomplete evidence.
+   BN: অনুমান বা কাল্পনিক ধারণা
+   Syns: assumption, hypothesis, conjecture, guess
+   Ants: certainty, fact, proof
+
+[312] Set 16 | Tacit (adjective)
+   EN: Understood or implied without being stated directly; unspoken.
+   BN: নীরব বা অব্যক্ত বোঝাপড়া
+   Syns: implicit, unspoken, implied, understood
+   Ants: explicit, stated, spoken
+
+[313] Set 16 | Tangential (adjective)
+   EN: Diverging from a central topic; merely touching upon something superficially.
+   BN: আংশিক বা প্রাসঙ্গিক নয় এমন
+   Syns: peripheral, digressive, irrelevant
+   Ants: central, crucial, relevant
+
+[314] Set 16 | Tenuous (adjective)
+   EN: Very weak, slender, slight, or insubstantial; tenuous grasp.
+   BN: দুর্বল বা কৃশকায় ও ক্ষীণ
+   Syns: flimsy, fragile, slender, slight
+   Ants: strong, robust, substantial
+
+[315] Set 16 | Tirade (noun)
+   EN: A long, angry speech of criticism, accusation, or violent denunciation.
+   BN: তীব্র আক্রমণাত্মক বক্তৃতা বা বাক্যবাণ
+   Syns: diatribe, harangue, rant, broadside
+   Ants: praise, compliment, eulogy
+
+[316] Set 16 | Torpor (noun)
+   EN: A state of motor and mental inactivity with a partial suspension of sensibility.
+   BN: নিষ্ক্রিয়তা বা অবসাদ
+   Syns: lethargy, sluggishness, dormancy, listlessness
+   Ants: vigor, energy, vitality
+
+[317] Set 16 | Tortuous (adjective)
+   EN: Full of twists and turns; excessively lengthy, complex, and convoluted.
+   BN: সর্পিল বা অত্যন্ত প্যাঁচালো
+   Syns: winding, twisting, convoluted, voluminous
+   Ants: straight, direct, linear
+
+[318] Set 16 | Tractable (adjective)
+   EN: Easily managed, influenced, controlled, or taught; docile.
+   BN: বশংবদ বা সহজে পরিচালনাযোগ্য
+   Syns: docile, manageable, amenable, manipulable
+   Ants: unruly, intractable, defiant
+
+[319] Set 16 | Transgression (noun)
+   EN: The act of transgressing; the violation of a law or a duty or moral principle.
+   BN: আইন লঙ্ঘন বা পাপ
+   Syns: violation, offense, sin, evildoing
+   Ants: obedience, compliance, virtue
+
+[320] Set 16 | Truculence (noun)
+   EN: Obstreperous and defiant aggressiveness.
+   BN: আগ্রাসী মনোভাব বা হিংস্রতা
+   Syns: ferocity, aggressiveness, belligerence, truculency
+   Ants: gentleness, mildness, amiability
+
+[321] Set 17 | Vacillate (verb)
+   EN: To waver between different opinions or actions; be indecisive.
+   BN: দ্বিধাদ্বন্দ্বে দোলা বা অনিশ্চিত থাকা
+   Syns: waver, hesitate, fluctuate, hover
+   Ants: decide, persevere, persist
+
+[322] Set 17 | Venerate (verb)
+   EN: To regard someone or something with deep respect, reverence, or awe.
+   BN: শ্রদ্ধা বা পূজা করা
+   Syns: revere, honor, worship, fear
+   Ants: despise, scorn, disdain
+
+[323] Set 17 | Veracious (adjective)
+   EN: Habitually speaking the truth; strictly truthful and honest.
+   BN: সত্যনিষ্ঠ বা সত্যবাদী
+   Syns: truthful, honest, accurate, right
+   Ants: untruthful, mendacious, deceitful
+
+[324] Set 17 | Verbose (adjective)
+   EN: Using or expressed in more words than are needed; wordy and verbose.
+   BN: শব্দবহুল বা অতিরিক্ত বাচাল
+   Syns: wordy, prolix, loquacious, tedious
+   Ants: concise, laconic, succinct
+
+[325] Set 17 | Viable (adjective)
+   EN: Capable of being done with means at hand and circumstances as they are.
+   BN: কার্যকর বা টিকে থাকার যোগ্য
+   Syns: workable, feasible, practicable, executable
+   Ants: unworkable, impractical, futile
+
+[326] Set 17 | Viscous (adjective)
+   EN: Having a thick, sticky consistency between solid and liquid; high viscosity.
+   BN: আঠালো বা ঘন আঠার মতো
+   Syns: sticky, thick, gelatinous, gluey
+   Ants: watery, fluid, thin
+
+[327] Set 17 | Vituperative (adjective)
+   EN: Bitter, abusive, and harshly critical in tone; disparaging.
+   BN: তীব্র আক্রমণাত্মক বা কটূক্তিমূলক
+   Syns: scolding, abusive, insulting, scathing
+   Ants: complimentary, laudatory, flattering
+
+[328] Set 17 | Volatile (adjective)
+   EN: Liable to change rapidly and unpredictably, especially for the worse; easily evaporated.
+   BN: উদ্বায়ী বা দ্রুত পরিবর্তনশীল ও বিস্ফোরক
+   Syns: changeable, explosive, unstable
+   Ants: stable, constant, steady
+
+[329] Set 17 | Warranted (adjective)
+   EN: Justified, reasonable, or necessary under the circumstances.
+   BN: ন্যায্য বা যুক্তিযুক্ত
+   Syns: justified, authorized, defensible, justify
+   Ants: unwarranted, unjustified, baseless
+
+[330] Set 17 | Wary (adjective)
+   EN: Marked by keen caution and watchful prudence.
+   BN: সতর্ক বা সাবধানী
+   Syns: cautious, watchful, vigilant, untrusting
+   Ants: careless, heedless, reckless, unwary
+
+[331] Set 17 | Welter (noun)
+   EN: A confused, tangled mass or jumble; a state of general turmoil.
+   BN: বিশৃঙ্খল স্তূপ বা গোলমাল
+   Syns: turmoil, jumble, clutter, muddle
+   Ants: order, neatness, system
+
+[332] Set 17 | Whimsical (adjective)
+   EN: Determined by chance or impulse or whim rather than by necessity or reason.
+   BN: খামখেয়ালী বা কাল্পনিক ও অদ্ভুত
+   Syns: fanciful, capricious, quirky, impulsive
+   Ants: serious, practical, grave
+
+[333] Set 17 | Zealot (noun)
+   EN: A person who is fanatical and uncompromising in pursuit of their religious, political, or other ideals.
+   BN: ধর্মান্ধ বা চরম গোঁড়া ব্যক্তি
+   Syns: fanatic, extremist, militant, drumbeater
+   Ants: moderate, pragmatist, skeptic, nonpartisan
+
