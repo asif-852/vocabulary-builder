@@ -495,7 +495,7 @@
         {
           "word": "Chide",
           "isSynonym": true,
-          "meaningBn": "অনুযোগ বা অনুযোগসূচক তিরস্কার করা"
+          "meaningBn": "অনুযোগ বা মৃদু তিরস্কার করা"
         },
         {
           "word": "Saturate",
@@ -503,14 +503,14 @@
           "meaningBn": "ভিজিয়ে পূর্ণ করা বা সম্পৃক্ত করা"
         },
         {
-          "word": "Secrete",
+          "word": "Distill",
           "isSynonym": false,
-          "meaningBn": "নিঃঃসরণ করা বা লুকিয়ে রাখা"
+          "meaningBn": "পরিশোধন করা বা সারমর্ম বের করা"
         },
         {
-          "word": "Supersede",
+          "word": "Obviate",
           "isSynonym": false,
-          "meaningBn": "স্থান দখল করা বা বাতিল করে স্থলাভিষিক্ত হওয়া"
+          "meaningBn": "দূর করা বা অপ্রয়োজনীয় করে তোলা"
         }
       ]
     }
@@ -560,7 +560,7 @@
         "ভেজাল মিশিয়ে অপবিত্র করা",
         "বিশুদ্ধ বা পরিশোধন করা",
         "তথ্যপ্রমাণ দিয়ে জোরালো করা",
-        "অংশবিশেষ ব্যবহার করা",
+        "অন্য খাতে সরিয়ে ফেলা বা গ্রাস করা",
         "পবিত্র করা"
       ],
       "explanationEn": "Adulterate (verb) means to corrupt or debase by adding foreign, inferior, or spurious ingredients.",
@@ -636,7 +636,7 @@
       "sentenceWithBlank": "Modernist urban architects frequently argue that civil infrastructure must not merely satisfy utilitarian structural requirements, but must also manifest sublime _____ elegance to enrich public wellbeing.",
       "options": [
         "Aesthetic",
-        "Utilitarian",
+        "Pedestrian",
         "Philistine",
         "Obsequious",
         "Anomalous"
@@ -644,8 +644,8 @@
       "correctIndex": 0,
       "optionMeaningsBn": [
         "নান্দনিক বা সৌন্দর্যবোধসম্পন্ন",
-        "ব্যবহারিক বা প্রায়োগিক",
-        "শিল্পরস বর্জিত",
+        "সাদামাটা বা গতানুগতিক",
+        "শিল্পবোধহীন বা স্থূলরুচির",
         "চাটুকার বা তোষামোদকারী",
         "ব্যতিক্রমী বা অস্বাভাবিক"
       ],
@@ -741,19 +741,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Total",
+          "word": "Combine",
           "isSynonym": true,
-          "meaningBn": "মোট পরিমাণ বা সর্বসাকুল্য"
+          "meaningBn": "একত্রিত বা সংযুক্ত করা"
         },
         {
-          "word": "Sum",
+          "word": "Accumulate",
           "isSynonym": true,
-          "meaningBn": "সমষ্টিগত ফল"
+          "meaningBn": "পুঞ্জীভূত বা জড়ো করা"
         },
         {
-          "word": "Conglomeration",
+          "word": "Amass",
           "isSynonym": true,
-          "meaningBn": "বিভিন্ন উপাদানের জটিল সমন্বয়"
+          "meaningBn": "বিপুল পরিমাণে সংগ্রহ বা একত্র করা"
         },
         {
           "word": "Document",
@@ -1006,12 +1006,12 @@
         {
           "word": "Merge",
           "isSynonym": true,
-          "meaningBn": "একীভূত হওয়া"
+          "meaningBn": "একীভূত হওয়া বা করা"
         },
         {
           "word": "Coalesce",
           "isSynonym": true,
-          "meaningBn": "বিভিন্ন উপাদান মিলে এক অখণ্ড হওয়া"
+          "meaningBn": "বিভিন্ন উপাদান মিলে একীভূত হওয়া"
         },
         {
           "word": "Assuage",
@@ -1019,14 +1019,14 @@
           "meaningBn": "উপশম করা বা প্রশমিত করা"
         },
         {
-          "word": "Admonish",
+          "word": "Foment",
           "isSynonym": false,
-          "meaningBn": "সতর্ক করা বা মৃদু তিরস্কার করা"
+          "meaningBn": "উস্কানি দেওয়া বা প্ররোচিত করা"
         },
         {
-          "word": "Aver",
+          "word": "Prevaricate",
           "isSynonym": false,
-          "meaningBn": "দৃঢ়তার সাথে বলা বা ঘোষণা করা"
+          "meaningBn": "সত্য এড়িয়ে চলা বা ছলচাতুরী করা"
         }
       ]
     }
@@ -1112,7 +1112,7 @@
         {
           "word": "Soporific",
           "isSynonym": false,
-          "meaningBn": "ঘুমপাড়ানি বা নিদ্রাকষক"
+          "meaningBn": "ঘুমপাড়ানি বা নিদ্রাকর্ষক"
         }
       ]
     }
@@ -1141,7 +1141,7 @@
     "examples": [
       {
         "en": "She felt deep ambivalence about leaving her hometown.",
-        "bn": "নিজের শহর ছেড়ে যাওয়ার ব্যাপারে তিনি গভীর দ্বদ্বদ্বদ্বিধাদ্বন্দ্ব অনুভব করেছিলেন।"
+        "bn": "নিজের শহর ছেড়ে যাওয়ার ব্যাপারে তিনি গভীর দ্বিধাদ্বন্দ্ব অনুভব করেছিলেন।"
       },
       {
         "en": "Public ambivalence delayed the implementation of the reform.",
@@ -1237,7 +1237,7 @@
     "sentenceCompletion": {
       "sentenceWithBlank": "Economists argued that implementing targeted micro-credit programs in destitute agrarian regions would substantially _____ living standards without inducing destructive inflationary spirals.",
       "options": [
-        "Deteriorate",
+        "Exacerbate",
         "Vitiate",
         "Ameliorate",
         "Undermine",
@@ -1245,7 +1245,7 @@
       ],
       "correctIndex": 2,
       "optionMeaningsBn": [
-        "অবনতি ঘটা",
+        "আরও খারাপ বা তীব্র করা",
         "ত্রুটিযুক্ত বা নষ্ট করা",
         "উন্নতি সাধন বা ভালো করা",
         "ক্ষতিগ্রস্ত বা খর্ব করা",
@@ -1345,17 +1345,17 @@
         {
           "word": "Misplacement",
           "isSynonym": true,
-          "meaningBn": "ভুল স্থানে বা কালে স্থাপন"
+          "meaningBn": "ভুল কালে বা স্থানে স্থাপন"
         },
         {
-          "word": "Chronological Error",
+          "word": "Archaism",
           "isSynonym": true,
-          "meaningBn": "কালানুক্রমিক ভুল"
+          "meaningBn": "সেকেলে বা যুগ-অনুপযোগী বিষয়"
         },
         {
           "word": "Prolepsis",
           "isSynonym": true,
-          "meaningBn": "কালবৈষম্যমূলক ধারণা"
+          "meaningBn": "কালবৈষম্যমূলক অগ্রিম উল্লেখ"
         },
         {
           "word": "Skeptic",
@@ -1628,7 +1628,7 @@
         {
           "word": "Phlegmatic",
           "isSynonym": false,
-          "meaningBn": "শান্ত ও আবেগহীন বা ধীরির"
+          "meaningBn": "শান্ত ও আবেগহীন বা ধীরস্থির"
         }
       ]
     }
@@ -1798,9 +1798,9 @@
           "meaningBn": "কঠোর তিরস্কার বা ভর্ৎসনা"
         },
         {
-          "word": "Paucity",
+          "word": "Levee",
           "isSynonym": false,
-          "meaningBn": "স্বল্পতা বা অভাব"
+          "meaningBn": "নদীর বাঁধ বা বন্যা প্রতিরোধক প্রাচীর"
         }
       ]
     }
@@ -2014,7 +2014,7 @@
         "Censure",
         "Derision",
         "Approbation",
-        "Disapprobation",
+        "Opprobrium",
         "Execration"
       ],
       "correctIndex": 2,
@@ -2022,7 +2022,7 @@
         "তীব্র নিন্দা বা তিরস্কার",
         "উপহাস বা বিদ্রূপ",
         "অনুমোদন বা উচ্চ প্রশংসা",
-        "অননুমোদন বা অস্বীকৃতি",
+        "তীব্র নিন্দা বা লোকলজ্জা",
         "অভিশাপ বা ঘৃণা"
       ],
       "explanationEn": "Approbation (noun) means official approval, commendation, or high praise.",
@@ -2122,14 +2122,14 @@
           "meaningBn": "বলপূর্বক দখল করা"
         },
         {
-          "word": "Take",
+          "word": "Usurp",
           "isSynonym": true,
-          "meaningBn": "অন্যায়ভাবে করায়ত্ত করা"
+          "meaningBn": "অন্যায়ভাবে করায়ত্ত বা জবরদখল করা"
         },
         {
           "word": "Expropriate",
           "isSynonym": true,
-          "meaningBn": "সরকারি বা বিধিবদ্ধ ক্ষমতাবলে বাজেয়াপ্ত করা"
+          "meaningBn": "বিধিবদ্ধ ক্ষমতাবলে বাজেয়াপ্ত করা"
         },
         {
           "word": "Mitigate",
@@ -2142,9 +2142,9 @@
           "meaningBn": "সত্য এড়িয়ে চলা বা ছলচাতুরী করা"
         },
         {
-          "word": "Placate",
+          "word": "Saturate",
           "isSynonym": false,
-          "meaningBn": "শান্ত করা বা মান ভাঙানো"
+          "meaningBn": "ভিজিয়ে পূর্ণ করা বা সম্পৃক্ত করা"
         }
       ]
     }
@@ -2486,9 +2486,9 @@
           "meaningBn": "শব্দবহুল বা অতিরিক্ত বাচাল"
         },
         {
-          "word": "Viable",
+          "word": "Pristine",
           "isSynonym": false,
-          "meaningBn": "কার্যকর বা টিকে থাকার যোগ্য"
+          "meaningBn": "অক্ষত বা আদিম ও নিখুঁত"
         }
       ]
     }
@@ -2739,9 +2739,9 @@
           "meaningBn": "কঠোর তপস্বী বা আত্মসংযমী"
         },
         {
-          "word": "Artless",
+          "word": "Tangential",
           "isSynonym": false,
-          "meaningBn": "কপটতাহীন বা সরল"
+          "meaningBn": "আংশিক বা প্রাসঙ্গিক নয় এমন"
         },
         {
           "word": "Compliant",
@@ -2827,12 +2827,12 @@
         {
           "word": "Solicitous",
           "isSynonym": false,
-          "meaningBn": "উিগ্ন বা যত্নশীল মনোভাবাপন্ন"
+          "meaningBn": "উদ্বিগ্ন বা যত্নশীল মনোভাবাপন্ন"
         },
         {
-          "word": "Specious",
+          "word": "Mutable",
           "isSynonym": false,
-          "meaningBn": "আপাতদৃষ্টিতে সত্য কিন্তু ভ্রান্ত"
+          "meaningBn": "পরিবর্তনশীল বা অস্থির"
         }
       ]
     }
@@ -2951,7 +2951,7 @@
       },
       {
         "en": "Scientists aver that human activities drive climate change.",
-        "bn": "বিজ্ঞানীরা দৃঢ়ভাবে ঘোষণা করেন যে মানুষের কর্মকাণ্ডই জলবায়ু পরিবর্তন ঘটাচ্ছে ।"
+        "bn": "বিজ্ঞানীরা দৃঢ়ভাবে ঘোষণা করেন যে মানুষের কর্মকাণ্ডই জলবায়ু পরিবর্তন ঘটাচ্ছে।"
       }
     ],
     "sentenceCompletion": {
@@ -3022,7 +3022,7 @@
     "meaningEn": "So lacking in originality as to be obvious and boring; trite.",
     "synonyms": [
       "trite",
-      "clichéd",
+      "cliched",
       "hackneyed"
     ],
     "antonyms": [
@@ -3333,7 +3333,7 @@
         {
           "word": "Buttress",
           "isSynonym": true,
-          "meaningBn": "সুদৃঢ় ভিত দিয়ে মজবুত করা"
+          "meaningBn": "সুদৃঢ় ভিত্তি দিয়ে মজবুত করা"
         },
         {
           "word": "Abscond",
@@ -3346,9 +3346,9 @@
           "meaningBn": "ভীত বা নিরুৎসাহিত করা"
         },
         {
-          "word": "Appropriate",
+          "word": "Secrete",
           "isSynonym": false,
-          "meaningBn": "অন্যায়ভাবে দখল করা বা আত্মসাৎ করা"
+          "meaningBn": "নিঃসরণ করা বা লুকিয়ে রাখা"
         }
       ]
     }
@@ -3381,7 +3381,7 @@
       },
       {
         "en": "Listeners grew tired of his bombastic rhetoric.",
-        "bn": "শ্রো তারা তার জাঁকজমকপূর্ণ বচনে বিরক্ত হয়ে উঠেছিল।"
+        "bn": "শ্রোতারা তার জাঁকজমকপূর্ণ বচনে বিরক্ত হয়ে উঠেছিল।"
       }
     ],
     "sentenceCompletion": {
@@ -3837,19 +3837,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Noisy",
+          "word": "Fickle",
           "isSynonym": true,
-          "meaningBn": "কোলাহলপূর্ণ"
+          "meaningBn": "অস্থিরমতি বা চঞ্চল"
         },
         {
-          "word": "Harsh-sounding",
+          "word": "Whimsical",
           "isSynonym": true,
-          "meaningBn": "কর্কশকণ্ঠী বা শ্রুতিকটু"
+          "meaningBn": "খামখেয়ালী বা খেয়ালী"
         },
         {
-          "word": "Dissonant",
+          "word": "Mercurial",
           "isSynonym": true,
-          "meaningBn": "সুরহীন ও তীব্র বেসুরো"
+          "meaningBn": "পারদতুল্য দ্রুত পরিবর্তনশীল"
         },
         {
           "word": "Guileless",
@@ -3862,9 +3862,9 @@
           "meaningBn": "দুর্বোধ্য বা গভীর গোপন জ্ঞানসংক্রান্ত"
         },
         {
-          "word": "Gullible",
+          "word": "Striated",
           "isSynonym": false,
-          "meaningBn": "অতিবিশ্বাসপ্রবণ বা সহজেই ধোঁকা খায় এমন"
+          "meaningBn": "রেখাঙ্কিত বা সমান্তরাল দাগযুক্ত"
         }
       ]
     }
@@ -3923,19 +3923,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Fickle",
+          "word": "Scolding",
           "isSynonym": true,
-          "meaningBn": "অস্থিরমতি বা চঞ্চল"
+          "meaningBn": "বকাঝকা বা তিরস্কার"
         },
         {
-          "word": "Impulsive",
+          "word": "Reprimand",
           "isSynonym": true,
-          "meaningBn": "ঝোঁকের বশে চালিত"
+          "meaningBn": "কঠোর ভর্ৎসনা বা তিরস্কার"
         },
         {
-          "word": "Mercurial",
+          "word": "Chastisement",
           "isSynonym": true,
-          "meaningBn": "পারদতুল্য দ্রুত পরিবর্তনশীল"
+          "meaningBn": "শাসনমূলক কঠোর প্রহার বা ভর্ৎসনা"
         },
         {
           "word": "Probity",
@@ -3943,9 +3943,9 @@
           "meaningBn": "সততা বা চারিত্রিক সাধুতা"
         },
         {
-          "word": "Transgression",
+          "word": "Levee",
           "isSynonym": false,
-          "meaningBn": "আইন লঙ্ঘন বা পাপ"
+          "meaningBn": "নদীর বাঁধ বা বন্যা প্রতিরোধক প্রাচীর"
         },
         {
           "word": "Welter",
@@ -4009,19 +4009,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Punishment",
+          "word": "Spark",
           "isSynonym": true,
-          "meaningBn": "শাস্তি বা দণ্ড"
+          "meaningBn": "সূত্রপাতকারী স্ফুলিঙ্গ বা উদ্দীপক"
         },
         {
-          "word": "Scolding",
+          "word": "Stimulant",
           "isSynonym": true,
-          "meaningBn": "বকাঝকা বা তিরস্কার"
+          "meaningBn": "উদ্দীপনা বা প্রেরণা প্রদানকারী উপাদান"
         },
         {
-          "word": "Chastisement",
+          "word": "Impetus",
           "isSynonym": true,
-          "meaningBn": "শাসনমূলক কঠোর প্রহার বা ভর্ৎসনা"
+          "meaningBn": "গতি সঞ্চারকারী চালিকাশক্তি"
         },
         {
           "word": "Efficacy",
@@ -4034,9 +4034,9 @@
           "meaningBn": "প্রতারণা বা চাতুর্য"
         },
         {
-          "word": "Levee",
+          "word": "Dirge",
           "isSynonym": false,
-          "meaningBn": "নদীর বাঁধ বা বন্যা প্রতিরোধক প্রাচীর"
+          "meaningBn": "শোকগীতি বা অন্ত্যেষ্টিক্রিয়ার সুর"
         }
       ]
     }
@@ -4095,19 +4095,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Trigger",
+          "word": "Biting",
           "isSynonym": true,
-          "meaningBn": "সূত্রপাতকারী বা উদ্দীপক"
+          "meaningBn": "তীব্র বা হুল ফোটানো"
         },
         {
-          "word": "Stimulant",
+          "word": "Sarcastic",
           "isSynonym": true,
-          "meaningBn": "উদ্দীপনা বা প্রেরণা প্রদানকারী"
+          "meaningBn": "ব্যঙ্গাত্মক বা কটূক্তিময়"
         },
         {
-          "word": "Inciter",
+          "word": "Mordant",
           "isSynonym": true,
-          "meaningBn": "প্ররোচক বা পরিবর্তন সাধনকারী"
+          "meaningBn": "দাহক বা তীব্র তীক্ষ্ণ কটাক্ষপূর্ণ"
         },
         {
           "word": "Officious",
@@ -4181,19 +4181,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Biting",
+          "word": "Trickery",
           "isSynonym": true,
-          "meaningBn": "তীব্র হুল ফোটানো"
+          "meaningBn": "ধোঁকাবাজি বা চালবাজি"
         },
         {
-          "word": "Sarcastic",
+          "word": "Deceit",
           "isSynonym": true,
-          "meaningBn": "ব্যঙ্গাত্মক বা কটূক্তিময়"
+          "meaningBn": "প্রতারণা বা শঠতা"
         },
         {
-          "word": "Mordant",
+          "word": "Subterfuge",
           "isSynonym": true,
-          "meaningBn": "দাহক বা তীব্র তীক্ষ্ণ কটাক্ষপূর্ণ"
+          "meaningBn": "ফাঁকি দেওয়ার কূটকৌশল বা ছলচাতুরী"
         },
         {
           "word": "Fervor",
@@ -4206,9 +4206,9 @@
           "meaningBn": "অন্ধ ভক্তি বা অন্ধপূজা"
         },
         {
-          "word": "Insularity",
+          "word": "Spectrum",
           "isSynonym": false,
-          "meaningBn": "সংকীর্ণমনা দৃষ্টিভঙ্গি বা বিচ্ছিন্ন মনোভাব"
+          "meaningBn": "বর্ণালী বা সামগ্রিক পরিসর"
         }
       ]
     }
@@ -4267,19 +4267,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Trickery",
+          "word": "Clot",
           "isSynonym": true,
-          "meaningBn": "ধোঁকাবাজি বা চালবাজি"
+          "meaningBn": "রক্ত বা তরল জমাট বাঁধা"
         },
         {
-          "word": "Deception",
+          "word": "Solidify",
           "isSynonym": true,
-          "meaningBn": "প্রতারণা বা শঠতা"
+          "meaningBn": "ঘন বা শক্ত হওয়া"
         },
         {
-          "word": "Subterfuge",
+          "word": "Congeal",
           "isSynonym": true,
-          "meaningBn": "আত্মগোপন বা ফাঁকি দেওয়ার কূটকৌশল"
+          "meaningBn": "জমে শক্ত পিণ্ডে পরিণত হওয়া"
         },
         {
           "word": "Appease",
@@ -4287,14 +4287,14 @@
           "meaningBn": "শান্ত বা তুষ্ট করা"
         },
         {
-          "word": "Dupe",
-          "isSynonym": false,
-          "meaningBn": "প্রতারিত করা বা বোকা বানানো"
-        },
-        {
           "word": "Disparage",
           "isSynonym": false,
           "meaningBn": "অবমূল্যায়ন করা বা তাচ্ছিল্য করা"
+        },
+        {
+          "word": "Foment",
+          "isSynonym": false,
+          "meaningBn": "উস্কানি দেওয়া বা প্ররোচিত করা"
         }
       ]
     }
@@ -4353,19 +4353,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Clot",
+          "word": "Finale",
           "isSynonym": true,
-          "meaningBn": "রক্ত বা তরল জমাট বাঁধা"
+          "meaningBn": "সমাপ্তি বা শেষ ভাগ"
         },
         {
-          "word": "Thicken",
+          "word": "Conclusion",
           "isSynonym": true,
-          "meaningBn": "ঘন হওয়া"
+          "meaningBn": "উপসংহার"
         },
         {
-          "word": "Congeal",
+          "word": "Epilogue",
           "isSynonym": true,
-          "meaningBn": "জমে শক্ত পিণ্ডে পরিণত হওয়া"
+          "meaningBn": "সাহিত্য বা সংগীতের সমাপ্তিসূচক পরিশিষ্ট"
         },
         {
           "word": "Stigma",
@@ -4378,9 +4378,9 @@
           "meaningBn": "শ্রদ্ধাপূর্ণ সম্মতি বা সম্মান প্রদর্শন"
         },
         {
-          "word": "Diatribe",
+          "word": "Maverick",
           "isSynonym": false,
-          "meaningBn": "তীব্র আক্রমণাত্মক বক্তৃতা বা ভর্ৎসনা"
+          "meaningBn": "স্বতন্ত্র চিন্তাশীল বা বিদ্রোহী ব্যক্তি"
         }
       ]
     }
@@ -4439,19 +4439,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Ending",
+          "word": "Equal",
           "isSynonym": true,
-          "meaningBn": "সমাপ্তি বা শেষ ভাগ"
+          "meaningBn": "সমান বা তুল্য"
         },
         {
-          "word": "Conclusion",
+          "word": "Proportionate",
           "isSynonym": true,
-          "meaningBn": "উপসংহার"
+          "meaningBn": "সমানুপাতিক বা সামঞ্জস্যপূর্ণ"
         },
         {
-          "word": "Epilogue",
+          "word": "Equivalent",
           "isSynonym": true,
-          "meaningBn": "নাটকের অন্তিম পরিশিষ্ট বা সমাপ্তিসূচক অংশ"
+          "meaningBn": "সমমূল্য বা সমগুরুত্বসম্পন্ন"
         },
         {
           "word": "Stolid",
@@ -4525,19 +4525,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Convincing",
+          "word": "Summary",
           "isSynonym": true,
-          "meaningBn": "বিশ্বাসযোগ্য বা প্ররোচক"
+          "meaningBn": "সংক্ষিপ্তসার"
         },
         {
-          "word": "Persuasive",
+          "word": "Digest",
           "isSynonym": true,
-          "meaningBn": "মন গলানো বা যুক্তিপূর্ণ"
+          "meaningBn": "সংকলন বা সারসংগ্রহ"
         },
         {
-          "word": "Compelling",
+          "word": "Abridgment",
           "isSynonym": true,
-          "meaningBn": "অকাট্য ও বাধ্যতামূলক"
+          "meaningBn": "বৃহৎ গ্রন্থের সংক্ষিপ্ত রূপ"
         },
         {
           "word": "Contention",
@@ -4550,9 +4550,9 @@
           "meaningBn": "শোকগাথা বা বিলাপকাব্য"
         },
         {
-          "word": "Exigency",
+          "word": "Shard",
           "isSynonym": false,
-          "meaningBn": "জরুরি অবস্থা বা আশু প্রয়োজন"
+          "meaningBn": "ভাঙা পাত্রের টুকরো বা কাঁচের কুচি"
         }
       ]
     }
@@ -4611,19 +4611,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Equal",
+          "word": "Agreeable",
           "isSynonym": true,
-          "meaningBn": "সমান বা তুল্য"
+          "meaningBn": "অমায়িক ও সহমতপোষণকারী"
         },
         {
-          "word": "Proportionate",
+          "word": "Obliging",
           "isSynonym": true,
-          "meaningBn": "সমানুপাতিক"
+          "meaningBn": "পরোপকারী ও অন্যকে খুশি করতে আগ্রহী"
         },
         {
-          "word": "Equivalent",
+          "word": "Accommodating",
           "isSynonym": true,
-          "meaningBn": "সমমূল্য বা সমগুরুত্বসম্পন্ন"
+          "meaningBn": "সহজে মানিয়ে নেওয়া ও সদাশয়"
         },
         {
           "word": "Salubrious",
@@ -4697,19 +4697,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Summary",
+          "word": "Obedient",
           "isSynonym": true,
-          "meaningBn": "সংক্ষিপ্তসার"
+          "meaningBn": "আজ্ঞাবহ বা বাধ্য"
         },
         {
-          "word": "Digest",
+          "word": "Docile",
           "isSynonym": true,
-          "meaningBn": "সংকলন বা সারসংক্ষেপ"
+          "meaningBn": "বিনীত ও সহজে বশ মানা"
         },
         {
-          "word": "Epitome",
+          "word": "Tractable",
           "isSynonym": true,
-          "meaningBn": "সংক্ষিপ্ত রূপ বা নিখুঁত প্রতিমূর্তি"
+          "meaningBn": "সহজে বশে আনা বা নিয়ন্ত্রণ করা যায় এমন"
         },
         {
           "word": "Impermeable",
@@ -4783,19 +4783,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Obliging",
+          "word": "Pacifying",
           "isSynonym": true,
-          "meaningBn": "পরোপকারী ও সেবাপরায়ণ"
+          "meaningBn": "শান্তিস্থাপনকারী বা প্রশমনকারী"
         },
         {
-          "word": "Agreeable",
+          "word": "Appeasing",
           "isSynonym": true,
-          "meaningBn": "অমায়িক ও সহমতপোষণকারী"
+          "meaningBn": "ক্ষোভ নিরসনকারী বা আপসমূলক"
         },
         {
-          "word": "Deferential",
+          "word": "Propitiatory",
           "isSynonym": true,
-          "meaningBn": "সশ্রদ্ধভাবে অন্যকে মান্যকারী"
+          "meaningBn": "বিরোধ মিটিয়ে সন্তুষ্টকারী"
         },
         {
           "word": "Bombastic",
@@ -4810,7 +4810,7 @@
         {
           "word": "Qualified",
           "isSynonym": false,
-          "meaningBn": "শতসাপেক্ষ বা সীমিত"
+          "meaningBn": "শর্তসাপেক্ষ বা সীমিত"
         }
       ]
     }
@@ -4869,19 +4869,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Obedient",
+          "word": "Forgive",
           "isSynonym": true,
-          "meaningBn": "আজ্ঞাবহ বা বাধ্য"
+          "meaningBn": "ক্ষমা করা"
         },
         {
-          "word": "Submissive",
+          "word": "Overlook",
           "isSynonym": true,
-          "meaningBn": "বিনীত ও সমর্পিত"
+          "meaningBn": "উপেক্ষা করা বা না দেখার ভান করা"
         },
         {
-          "word": "Tractable",
+          "word": "Pardon",
           "isSynonym": true,
-          "meaningBn": "সহজে বশে আনা বা নিয়ন্ত্রণ করা যায় এমন"
+          "meaningBn": "অপরাধ মার্জনা করা"
         },
         {
           "word": "Equivocate",
@@ -4955,24 +4955,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Peacemaking",
+          "word": "Confuse",
           "isSynonym": true,
-          "meaningBn": "শান্তিস্থাপনকারী"
+          "meaningBn": "বিভ্রান্ত করা"
         },
         {
-          "word": "Appeasing",
+          "word": "Baffle",
           "isSynonym": true,
-          "meaningBn": "ক্ষোভ নিরসনকারী"
+          "meaningBn": "ধাঁধায় ফেলা বা হতবুদ্ধি করা"
         },
         {
-          "word": "Propitiatory",
+          "word": "Nonplus",
           "isSynonym": true,
-          "meaningBn": "অপরাধ মোচনে সন্তুষ্টকারী"
-        },
-        {
-          "word": "Condone",
-          "isSynonym": false,
-          "meaningBn": "উপেক্ষা করা বা ক্ষমা চোখে দেখা"
+          "meaningBn": "হতভম্ব ও কিংকর্তব্যবিমূঢ় করা"
         },
         {
           "word": "Disseminate",
@@ -4983,6 +4978,11 @@
           "word": "Implode",
           "isSynonym": false,
           "meaningBn": "ভেতরের দিকে ভেঙে পড়া বা চূর্ণ হওয়া"
+        },
+        {
+          "word": "Savor",
+          "isSynonym": false,
+          "meaningBn": "আস্বাদন করা বা স্বাদ উপভোগ করা"
         }
       ]
     }
@@ -5041,34 +5041,34 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Forgive",
+          "word": "Expert",
           "isSynonym": true,
-          "meaningBn": "ক্ষমা করা"
+          "meaningBn": "বিশেষজ্ঞ বা অভিজ্ঞ সমঝদার"
         },
         {
-          "word": "Overlook",
+          "word": "Aficionado",
           "isSynonym": true,
-          "meaningBn": "দেখেও না দেখার ভান করা"
+          "meaningBn": "শিল্প বা রুচির একনিষ্ঠ সমঝদার"
         },
         {
-          "word": "Exculpate",
+          "word": "Cognoscente",
           "isSynonym": true,
-          "meaningBn": "দোষ থেকে অব্যাহতি দেওয়া"
+          "meaningBn": "শিল্পকলা বা রুচির গভীর পণ্ডিত"
         },
         {
-          "word": "Intransigence",
+          "word": "Lassitude",
           "isSynonym": false,
-          "meaningBn": "অনমনীয়তা বা চরম আপসহীনতা"
+          "meaningBn": "ক্লান্তি বা অবসন্নতা"
         },
         {
-          "word": "Default",
+          "word": "Penchant",
           "isSynonym": false,
-          "meaningBn": "দায় শোধে ব্যর্থতা বা অনুপস্থিতি"
+          "meaningBn": "তীব্র ঝোঁক বা বিশেষ অনুরাগ"
         },
         {
-          "word": "Zealot",
+          "word": "Euphemism",
           "isSynonym": false,
-          "meaningBn": "ধর্মান্ধ বা চরম গোঁঁড়া ব্যক্তি"
+          "meaningBn": "শ্রুতিকটু শব্দের পরিবর্তে মধুর শব্দের প্রয়োগ"
         }
       ]
     }
@@ -5127,24 +5127,24 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Confuse",
+          "word": "Convincing",
           "isSynonym": true,
-          "meaningBn": "বিভ্রান্ত করা"
+          "meaningBn": "বিশ্বাসযোগ্য বা প্ররোচক"
         },
         {
-          "word": "Puzzle",
+          "word": "Persuasive",
           "isSynonym": true,
-          "meaningBn": "ধাঁধায় ফেলা"
+          "meaningBn": "মন গলানো বা যুক্তিপূর্ণ"
         },
         {
-          "word": "Nonplus",
+          "word": "Compelling",
           "isSynonym": true,
-          "meaningBn": "হতবুদ্ধি ও বাক্যহীন করা"
+          "meaningBn": "অকাট্য ও অপ্রতিরোধ্য"
         },
         {
           "word": "Pedantic",
           "isSynonym": false,
-          "meaningBn": "পাণ্ডিত্য প্রদশনকারী বা অতিরিক্ত খুঁতখুঁতে"
+          "meaningBn": "পাণ্ডিত্য প্রদর্শনকারী বা অতিরিক্ত খুঁতখুঁতে"
         },
         {
           "word": "Inherent",
@@ -5154,7 +5154,7 @@
         {
           "word": "Morose",
           "isSynonym": false,
-          "meaningBn": "বিষণ্ণ বা বিমষ স্বভাবের"
+          "meaningBn": "বিষণ্ণ বা বিমর্ষ স্বভাবের"
         }
       ]
     }
@@ -5213,19 +5213,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Expert",
+          "word": "Dispute",
           "isSynonym": true,
-          "meaningBn": "বিশেষজ্ঞ বা অভিজ্ঞ পণ্ডিত"
+          "meaningBn": "বিরোধ বা বিতর্ক"
         },
         {
-          "word": "Critic",
+          "word": "Conflict",
           "isSynonym": true,
-          "meaningBn": "সূক্ষ্ম সমঝদার বিচারক"
+          "meaningBn": "মতপার্থক্যমূলক সংঘাত"
         },
         {
-          "word": "Cognoscente",
+          "word": "Strife",
           "isSynonym": true,
-          "meaningBn": "শিল্পকলা বা রুচির গভীর পণ্ডিত"
+          "meaningBn": "তিক্ত দ্বন্দ্ব ও বিসংবাদ"
         },
         {
           "word": "Lassitude",
@@ -5235,7 +5235,7 @@
         {
           "word": "Penchant",
           "isSynonym": false,
-          "meaningBn": "তীব্র ঝোঁঁক বা বিশেষ অনুরাগ"
+          "meaningBn": "তীব্র ঝোঁক বা বিশেষ অনুরাগ"
         },
         {
           "word": "Euphemism",
@@ -5299,19 +5299,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Dispute",
+          "word": "Quarrelsome",
           "isSynonym": true,
-          "meaningBn": "বিরোধ বা বিতর্ক"
+          "meaningBn": "ঝগড়াটে বা কলহপরায়ণ"
         },
         {
-          "word": "Debate",
+          "word": "Argumentative",
           "isSynonym": true,
-          "meaningBn": "মতপার্থক্যমূলক তর্কবিতর্ক"
+          "meaningBn": "তর্কপ্রিয় বা বিতর্কিত"
         },
         {
-          "word": "Strife",
+          "word": "Bellicose",
           "isSynonym": true,
-          "meaningBn": "তিক্ত দ্বন্দ্ব ও বিসংবাদ"
+          "meaningBn": "যুদ্ধংদেহী ও কলহপ্রবণ"
         },
         {
           "word": "Commensurate",
@@ -5324,9 +5324,9 @@
           "meaningBn": "সদৃশ বা তুলনীয়"
         },
         {
-          "word": "Autonomous",
+          "word": "Pristine",
           "isSynonym": false,
-          "meaningBn": "স্বায়ত্তশাসিত বা স্বাধীন"
+          "meaningBn": "অক্ষত বা আদিম ও নিখুঁত"
         }
       ]
     }
@@ -5385,34 +5385,34 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Quarrelsome",
+          "word": "Sorry",
           "isSynonym": true,
-          "meaningBn": "ঝগড়াটে বা কলহপরায়ণ"
+          "meaningBn": "অনুতপ্ত বা দুঃখিত"
         },
         {
-          "word": "Disputable",
+          "word": "Remorseful",
           "isSynonym": true,
-          "meaningBn": "বিতর্কিত ও তর্কযোগ্য"
+          "meaningBn": "তীব্র অনুশোচনায় দগ্ধ"
         },
         {
-          "word": "Bellicose",
+          "word": "Penitent",
           "isSynonym": true,
-          "meaningBn": "যুদ্ধংদেহী ও আক্রমণাত্মক"
+          "meaningBn": "পাপবোধে ব্যথিত ও প্রায়শ্চিত্তকামী"
         },
         {
           "word": "Tenuous",
           "isSynonym": false,
-          "meaningBn": "দুবল বা কৃশকায় ও ক্ষীণ"
+          "meaningBn": "দুর্বল বা কৃশকায় ও ক্ষীণ"
         },
         {
-          "word": "Tortuous",
+          "word": "Convoluted",
           "isSynonym": false,
-          "meaningBn": "সর্পিল বা অত্যন্ত প্যাঁাঁচালো"
+          "meaningBn": "জটিল বা পেঁচানো"
         },
         {
-          "word": "Pristine",
+          "word": "Autonomous",
           "isSynonym": false,
-          "meaningBn": "অক্ষত বা আদিম ও নিখুঁত"
+          "meaningBn": "স্বায়ত্তশাসিত বা স্বাধীন"
         }
       ]
     }
@@ -5471,19 +5471,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Sorry",
+          "word": "Riddle",
           "isSynonym": true,
-          "meaningBn": "দুঃখিত বা মর্মাহত"
+          "meaningBn": "ধাঁধা"
         },
         {
-          "word": "Remorseful",
+          "word": "Puzzle",
           "isSynonym": true,
-          "meaningBn": "তীব্র অনুশোচনায় দগ্ধ"
+          "meaningBn": "জটিল সমস্যা বা ধাঁধা"
         },
         {
-          "word": "Penitent",
+          "word": "Enigma",
           "isSynonym": true,
-          "meaningBn": "পাপবোধে ব্যথিত ও প্রায়শ্চিত্তকামী"
+          "meaningBn": "রহস্যময় ও দুর্বোধ্য হেঁয়ালি"
         },
         {
           "word": "Dirge",
@@ -5557,19 +5557,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Riddle",
+          "word": "Meet",
           "isSynonym": true,
-          "meaningBn": "ধাঁধা"
+          "meaningBn": "একত্রিত বা মিলিত হওয়া"
         },
         {
-          "word": "Problem",
+          "word": "Intersect",
           "isSynonym": true,
-          "meaningBn": "জটিল সমস্যা"
+          "meaningBn": "পরস্পর ছেদ করা বা এক বিন্দুতে মেশা"
         },
         {
-          "word": "Enigma",
+          "word": "Coalesce",
           "isSynonym": true,
-          "meaningBn": "রহস্যময় ও দুর্বোধ্য হেঁয়ালি"
+          "meaningBn": "একীভূত হয়ে এক বিন্দুতে আসা"
         },
         {
           "word": "Denigrate",
@@ -5582,9 +5582,9 @@
           "meaningBn": "অবহিত করা বা জানানো"
         },
         {
-          "word": "Delineate",
+          "word": "Saturate",
           "isSynonym": false,
-          "meaningBn": "সুস্পষ্টভাবে বর্ণনা বা রূপরেখা দেওয়া"
+          "meaningBn": "ভিজিয়ে পূর্ণ করা বা সম্পৃক্ত করা"
         }
       ]
     }
@@ -5613,7 +5613,7 @@
     "examples": [
       {
         "en": "The tax code is so convoluted that accountants find it puzzling.",
-        "bn": "কর আইন এতই প্যাঁাঁচালো যে হিসাবরক্ষকরাও এতে বিভ্রান্ত হন।"
+        "bn": "কর আইন এতই প্যাঁচালো যে হিসাবরক্ষকরাও এতে বিভ্রান্ত হন।"
       },
       {
         "en": "He offered a convoluted explanation for his unexcused absence.",
@@ -5643,19 +5643,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Meet",
+          "word": "Complicated",
           "isSynonym": true,
-          "meaningBn": "একত্রিত বা মিলিত হওয়া"
+          "meaningBn": "জটিল ও দুর্বোধ্য"
         },
         {
-          "word": "Join",
+          "word": "Tangled",
           "isSynonym": true,
-          "meaningBn": "যুক্ত হওয়া"
+          "meaningBn": "জটপাকানো বা পেঁচানো"
         },
         {
-          "word": "Concur",
+          "word": "Labyrinthine",
           "isSynonym": true,
-          "meaningBn": "একই অভিমুখী হয়ে এক বিন্দুতে আসা"
+          "meaningBn": "গোলকধাঁধাতুল্য ঘোরপ্যাঁচপূর্ণ"
         },
         {
           "word": "Volatile",
@@ -5729,19 +5729,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Complicated",
+          "word": "Cowardly",
           "isSynonym": true,
-          "meaningBn": "জটিল ও দুর্বোধ্য"
+          "meaningBn": "কাপুরুষসুলভ"
         },
         {
-          "word": "Tangled",
+          "word": "Timorous",
           "isSynonym": true,
-          "meaningBn": "জটপাকানো"
+          "meaningBn": "ভীরু বা শঙ্কিত"
         },
         {
-          "word": "Labyrinthine",
+          "word": "Pusillanimous",
           "isSynonym": true,
-          "meaningBn": "গোলকধাঁধাতুল্য ঘোরপ্যাঁচপূর্ণ"
+          "meaningBn": "হীনচেতা ও অত্যন্ত ভীরু"
         },
         {
           "word": "Derivative",
@@ -5749,14 +5749,14 @@
           "meaningBn": "মৌলিকতাহীন বা অনুকরণমূলক"
         },
         {
-          "word": "Disparate",
-          "isSynonym": false,
-          "meaningBn": "একেবারে ভিন্ন বা বৈসাদৃশ্যপূর্ণ"
-        },
-        {
           "word": "Laconic",
           "isSynonym": false,
           "meaningBn": "স্বল্পভাষী বা সংক্ষিপ্ত"
+        },
+        {
+          "word": "Salubrious",
+          "isSynonym": false,
+          "meaningBn": "স্বাস্থ্যকর বা স্বাস্থ্যপ্রদ"
         }
       ]
     }
@@ -5815,24 +5815,24 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Cowardly",
+          "word": "Scare",
           "isSynonym": true,
-          "meaningBn": "কাপুরুষসুলভ"
+          "meaningBn": "ভয় দেখানো"
         },
         {
-          "word": "Fearful",
+          "word": "Discourage",
           "isSynonym": true,
-          "meaningBn": "অতি ভীতু"
+          "meaningBn": "নিরুৎসাহিত করা"
         },
         {
-          "word": "Pusillanimous",
+          "word": "Intimidate",
           "isSynonym": true,
-          "meaningBn": "হীনচেতা ও অত্যন্ত ভীরু"
+          "meaningBn": "ভীতি প্রদর্শন করে দমিত রাখা"
         },
         {
           "word": "Resolve",
           "isSynonym": false,
-          "meaningBn": "দৃঢ় সংকল্প বা সমস্যা মীমাংসা করা"
+          "meaningBn": "মীমাংসা করা বা দৃঢ় সংকল্প গ্রহণ করা"
         },
         {
           "word": "Belie",
@@ -5901,19 +5901,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Scare",
+          "word": "Politeness",
           "isSynonym": true,
-          "meaningBn": "ভয় দেখানো"
+          "meaningBn": "ভদ্রতা ও শিষ্টাচার"
         },
         {
-          "word": "Discourage",
+          "word": "Propriety",
           "isSynonym": true,
-          "meaningBn": "নিরুৎসাহিত করা"
+          "meaningBn": "সামাজিক শোভনতা ও উপযুক্ততা"
         },
         {
-          "word": "Intimidate",
+          "word": "Etiquette",
           "isSynonym": true,
-          "meaningBn": "ভীতি প্রদর্শন করে দমিত রাখা"
+          "meaningBn": "আনুষ্ঠানিক আচার-ব্যবহাররীতি"
         },
         {
           "word": "Hyperbole",
@@ -5987,19 +5987,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Politeness",
+          "word": "Failure",
           "isSynonym": true,
-          "meaningBn": "ভদ্রতা ও শিষ্টাচার"
+          "meaningBn": "দায় পালনে ব্যর্থতা"
         },
         {
-          "word": "Propriety",
+          "word": "Nonpayment",
           "isSynonym": true,
-          "meaningBn": "সামাজিক সঙ্গতি ও উপযুক্ততা"
+          "meaningBn": "অর্থ প্রদানে অপারগতা বা খেলাপি"
         },
         {
-          "word": "Etiquette",
+          "word": "Delinquency",
           "isSynonym": true,
-          "meaningBn": "আনুষ্ঠানিক আচার-ব্যবহাররীতি"
+          "meaningBn": "চুক্তিসম্মত বাধ্যবাধকতা পালনে চ্যুতি"
         },
         {
           "word": "Penury",
@@ -6007,14 +6007,14 @@
           "meaningBn": "চরম দরিদ্রতা বা নিঃস্ব অবস্থা"
         },
         {
-          "word": "Platitude",
-          "isSynonym": false,
-          "meaningBn": "গতানুগতিক বা ক্লিশে উক্তি"
-        },
-        {
           "word": "Digression",
           "isSynonym": false,
           "meaningBn": "মূল বিষয় থেকে বিচ্যুতি বা অপ্রাসঙ্গিক কথা"
+        },
+        {
+          "word": "Alacrity",
+          "isSynonym": false,
+          "meaningBn": "তৎপরতা বা সানন্দ আগ্রহ"
         }
       ]
     }
@@ -6073,19 +6073,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Failure",
+          "word": "Respect",
           "isSynonym": true,
-          "meaningBn": "ব্যর্থতা বা ত্রুটি"
+          "meaningBn": "সম্মান বা শ্রদ্ধা"
         },
         {
-          "word": "Nonpayment",
+          "word": "Reverence",
           "isSynonym": true,
-          "meaningBn": "অর্থ প্রদানে অপারগতা বা খেলাপি"
+          "meaningBn": "গভীর ভক্তি ও সমীহ"
         },
         {
-          "word": "Delinquency",
+          "word": "Obeisance",
           "isSynonym": true,
-          "meaningBn": "চুক্তিসম্মত বাধ্যবাধকতা লঙ্ঘনের অপরাধ"
+          "meaningBn": "শ্রদ্ধাপূর্ণ প্রণতি বা বশ্যতা প্রদর্শন"
         },
         {
           "word": "Discrepancy",
@@ -6095,12 +6095,12 @@
         {
           "word": "Precursor",
           "isSynonym": false,
-          "meaningBn": "অগ্রদূত বা পূবসূরী"
+          "meaningBn": "অগ্রদূত বা পূর্বসূরি"
         },
         {
           "word": "Truculence",
           "isSynonym": false,
-          "meaningBn": "আগ্রাসী মনোভাব বা হিংংস্রতা"
+          "meaningBn": "আগ্রাসী মনোভাব বা হিংস্রতা"
         }
       ]
     }
@@ -6159,19 +6159,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Respect",
+          "word": "Describe",
           "isSynonym": true,
-          "meaningBn": "সম্মান বা শ্রদ্ধা"
+          "meaningBn": "বর্ণনা করা"
         },
         {
-          "word": "Reverence",
+          "word": "Outline",
           "isSynonym": true,
-          "meaningBn": "গভীর ভক্তি"
+          "meaningBn": "রূপরেখা আঁকা"
         },
         {
-          "word": "Obeisance",
+          "word": "Depict",
           "isSynonym": true,
-          "meaningBn": "শ্রদ্ধাপূর্ণ প্রণতি বা বশ্যতা প্রদর্শন"
+          "meaningBn": "চিত্র বা ভাষার মাধ্যমে সুনির্দিষ্ট রূপ দেওয়া"
         },
         {
           "word": "Satiate",
@@ -6199,7 +6199,7 @@
     "word": "Denigrate",
     "partOfSpeech": "verb",
     "pronunciationEn": "DEN-ih-grayt",
-    "pronunciationBn": "ডেন্স-ই-গ্রেইট",
+    "pronunciationBn": "ডেন-ই-গ্রেইট",
     "meaningBn": "মর্যাদাহানি করা বা ছোট করা",
     "meaningEn": "To criticize unfairly; disparage the character or reputation of.",
     "synonyms": [
@@ -6245,19 +6245,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Describe",
+          "word": "Belittle",
           "isSynonym": true,
-          "meaningBn": "বর্ণনা করা"
+          "meaningBn": "তুচ্ছতাচ্ছিল্য বা ছোট করা"
         },
         {
-          "word": "Outline",
+          "word": "Disparage",
           "isSynonym": true,
-          "meaningBn": "রূপরেখা আঁকা"
+          "meaningBn": "অবমূল্যায়ন বা খাটো করা"
         },
         {
-          "word": "Depict",
+          "word": "Vilify",
           "isSynonym": true,
-          "meaningBn": "চিত্র বা ভাষার মাধ্যমে সুনির্দিষ্ট রূপ দেওয়া"
+          "meaningBn": "জঘন্য অপবাদ দিয়ে কলঙ্কিত করা"
         },
         {
           "word": "Disabuse",
@@ -6267,12 +6267,12 @@
         {
           "word": "Precipitate",
           "isSynonym": false,
-          "meaningBn": "তড়িঘড়ি বা হঠকারী"
+          "meaningBn": "হঠাৎ ঘটানো বা ত্বরান্বিত করা"
         },
         {
-          "word": "Distend",
+          "word": "Emulate",
           "isSynonym": false,
-          "meaningBn": "স্ফীত বা প্রসারিত হওয়া"
+          "meaningBn": "অনুকরণ করা বা সমকক্ষ হতে চেষ্টা করা"
         }
       ]
     }
@@ -6331,19 +6331,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Belittle",
+          "word": "Mock",
           "isSynonym": true,
-          "meaningBn": "তুচ্ছতাচ্ছিল্য করা"
+          "meaningBn": "উপহাস বা ঠাট্টা করা"
         },
         {
-          "word": "Defame",
+          "word": "Ridicule",
           "isSynonym": true,
-          "meaningBn": "মানহানি করা"
+          "meaningBn": "ব্যঙ্গ বা বিদ্রূপাত্মক হাসির পাত্র করা"
         },
         {
-          "word": "Vilify",
+          "word": "Scoff",
           "isSynonym": true,
-          "meaningBn": "জঘন্য অপবাদ দিয়ে কলঙ্কিত করা"
+          "meaningBn": "অবজ্ঞাভরে বিদ্রূপ বা কটাক্ষ করা"
         },
         {
           "word": "Exculpate",
@@ -6356,9 +6356,9 @@
           "meaningBn": "আগাম ব্যবস্থা নিয়ে প্রতিহত করা"
         },
         {
-          "word": "Flag",
+          "word": "Distend",
           "isSynonym": false,
-          "meaningBn": "ক্লান্ত হওয়া বা তেজ হ্রাস পাওয়া"
+          "meaningBn": "স্ফীত বা প্রসারিত হওয়া"
         }
       ]
     }
@@ -6417,19 +6417,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Mockery",
+          "word": "Unoriginal",
           "isSynonym": true,
-          "meaningBn": "উপহাস বা ঠাট্টাবিদ্রূপ"
+          "meaningBn": "অমৌলিক বা নকল"
         },
         {
-          "word": "Ridicule",
+          "word": "Imitative",
           "isSynonym": true,
-          "meaningBn": "ব্যঙ্গ বা বিদ্রূপাত্মক হাসির পাত্র করা"
+          "meaningBn": "অনুকরণমূলক"
         },
         {
-          "word": "Scorn",
+          "word": "Plagiarized",
           "isSynonym": true,
-          "meaningBn": "চরম তাচ্ছিল্য ও অবহেলা"
+          "meaningBn": "অন্যের সৃষ্টি অনুকরণ করে প্রস্তুত"
         },
         {
           "word": "Permeable",
@@ -6503,19 +6503,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Unoriginal",
+          "word": "Dry",
           "isSynonym": true,
-          "meaningBn": "অমৌলিক বা নকল"
+          "meaningBn": "শুকানো"
         },
         {
-          "word": "Imitative",
+          "word": "Dehydrate",
           "isSynonym": true,
-          "meaningBn": "অন্ধ অনুকরণকারী"
+          "meaningBn": "পানি বা আর্দ্রতা অপসারণ করা"
         },
         {
-          "word": "Plagiarized",
+          "word": "Parch",
           "isSynonym": true,
-          "meaningBn": "অন্যের শিল্প চুরি করে প্রস্তুত"
+          "meaningBn": "প্রচণ্ড তাপে খটখটে শুকনো করা"
         },
         {
           "word": "Flout",
@@ -6589,19 +6589,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Dry",
+          "word": "Aimless",
           "isSynonym": true,
-          "meaningBn": "শুকানো"
+          "meaningBn": "উদ্দেশ্যহীন বা লক্ষ্যহীন"
         },
         {
-          "word": "Dehydrate",
+          "word": "Erratic",
           "isSynonym": true,
-          "meaningBn": "পানি বা আর্দ্রতা অপসারণ করা"
+          "meaningBn": "এলোমেলো বা ধারাবাহিকতাহীন"
         },
         {
-          "word": "Parch",
+          "word": "Haphazard",
           "isSynonym": true,
-          "meaningBn": "প্রচণ্ড তাপে খটখটে শুকনো করা"
+          "meaningBn": "পরিকল্পনাহীন ও বিশৃঙ্খল"
         },
         {
           "word": "Refractory",
@@ -6614,9 +6614,9 @@
           "meaningBn": "ভাবলেশহীন বা আবেগহীন"
         },
         {
-          "word": "Insensible",
+          "word": "Luminous",
           "isSynonym": false,
-          "meaningBn": "অজ্ঞান বা অনুভূতিহীন"
+          "meaningBn": "উজ্জ্বল বা দীপ্তিমান"
         }
       ]
     }
@@ -6675,19 +6675,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Random",
+          "word": "Obstacle",
           "isSynonym": true,
-          "meaningBn": "এলোমেলো বা লক্ষ্যহীন"
+          "meaningBn": "বাধা বা প্রতিবন্ধক"
         },
         {
-          "word": "Aimless",
+          "word": "Restraint",
           "isSynonym": true,
-          "meaningBn": "উদ্দেশ্যহীন"
+          "meaningBn": "নিবারক বা সংযতকারী বাধা"
         },
         {
-          "word": "Discursive",
+          "word": "Disincentive",
           "isSynonym": true,
-          "meaningBn": "বিষয়ান্তরে বিচরণকারী ও অসংলগ্ন"
+          "meaningBn": "নিরুৎসাহিতকারী প্রতিবন্ধক"
         },
         {
           "word": "Indigence",
@@ -6697,7 +6697,7 @@
         {
           "word": "Paragon",
           "isSynonym": false,
-          "meaningBn": "আদশ বা নিখুঁত দৃষ্টান্ত"
+          "meaningBn": "আদর্শ বা নিখুঁত দৃষ্টান্ত"
         },
         {
           "word": "Eulogy",
@@ -6761,24 +6761,24 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Obstacle",
+          "word": "Tirade",
           "isSynonym": true,
-          "meaningBn": "বাধা বা বিঘ্ন"
+          "meaningBn": "দীর্ঘ ক্ষুব্ধ তিরস্কারমূলক বক্তৃতা"
         },
         {
-          "word": "Prevention",
+          "word": "Harangue",
           "isSynonym": true,
-          "meaningBn": "প্রতিরোধ ব্যবস্থা"
+          "meaningBn": "তীব্র আক্রমণাত্মক ভাষণ"
         },
         {
-          "word": "Disincentive",
+          "word": "Philippic",
           "isSynonym": true,
-          "meaningBn": "নিরুৎসাহিতকারী বাধা"
+          "meaningBn": "তিক্ত আক্রমণাত্মক নিন্দাভাষণ"
         },
         {
           "word": "Subpoena",
           "isSynonym": false,
-          "meaningBn": "আদালতে সাক্ষ্য দেওয়ার জন্য সমন জারি করা"
+          "meaningBn": "আদালতি সমন বা সাক্ষ্য দেওয়ার তলবপত্র"
         },
         {
           "word": "Recluse",
@@ -6786,9 +6786,9 @@
           "meaningBn": "নিভৃতচারী বা একাকী বাসকারী ব্যক্তি"
         },
         {
-          "word": "Resolution",
+          "word": "Piety",
           "isSynonym": false,
-          "meaningBn": "দৃঢ় সংকল্প বা সমাধান"
+          "meaningBn": "ধার্মিকতা বা ভক্তিভাব"
         }
       ]
     }
@@ -6847,19 +6847,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Attack",
+          "word": "Division",
           "isSynonym": true,
-          "meaningBn": "ভাষার তীব্র আক্রমণ"
+          "meaningBn": "দ্বিধাবিভক্তি বা বিভাজন"
         },
         {
-          "word": "Tirade",
+          "word": "Split",
           "isSynonym": true,
-          "meaningBn": "দীর্ঘ ক্ষুব্ধ তিরস্কারমূলক বক্তৃতা"
+          "meaningBn": "পৃথকীকরণ বা দ্বিখণ্ডন"
         },
         {
-          "word": "Philippic",
+          "word": "Polarity",
           "isSynonym": true,
-          "meaningBn": "তিক্ত আক্রমণাত্মক রাজনৈতিক ভাষণ"
+          "meaningBn": "পরস্পরবিরোধী দুই মেরুতে বিভাজন"
         },
         {
           "word": "Effrontery",
@@ -6907,7 +6907,7 @@
       },
       {
         "en": "He spoke with touching diffidence when accepting the medal.",
-        "bn": "পদক গ্রহণ করার সময় তিনি অত্যন্ত বিনীত দ্বদ্বদ্বদ্বিধাগ্রস্ততার সাথে কথা বলেছিলেন।"
+        "bn": "পদক গ্রহণ করার সময় তিনি অত্যন্ত বিনীত দ্বিধাগ্রস্ততার সাথে কথা বলেছিলেন।"
       }
     ],
     "sentenceCompletion": {
@@ -6950,7 +6950,7 @@
         {
           "word": "Propensity",
           "isSynonym": false,
-          "meaningBn": "সহজাত প্রবণতা বা বিশেষ ঝোঁঁক"
+          "meaningBn": "সহজাত প্রবণতা বা বিশেষ ঝোঁক"
         },
         {
           "word": "Equanimity",
@@ -7044,9 +7044,9 @@
           "meaningBn": "সত্যনিষ্ঠ বা সত্যবাদী"
         },
         {
-          "word": "Viscous",
+          "word": "Tangential",
           "isSynonym": false,
-          "meaningBn": "আঠালো বা ঘন আঠার মতো"
+          "meaningBn": "আংশিক বা প্রাসঙ্গিক নয় এমন"
         }
       ]
     }
@@ -7191,9 +7191,9 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Mournful Song",
+          "word": "Elegy",
           "isSynonym": true,
-          "meaningBn": "শোকের করুণ গান"
+          "meaningBn": "শোককাব্য বা শোকের গান"
         },
         {
           "word": "Lament",
@@ -7201,14 +7201,14 @@
           "meaningBn": "অন্তরের বিলাপসংগীত"
         },
         {
-          "word": "Threnody",
+          "word": "Requiem",
           "isSynonym": true,
-          "meaningBn": "অন্ত্যেষ্টিক্রিয়ার আনুষ্ঠানিক বিষাদগাথা"
+          "meaningBn": "অন্ত্যেষ্টিক্রিয়ার আনুষ্ঠানিক শোকসঙ্গীত"
         },
         {
           "word": "Log",
           "isSynonym": false,
-          "meaningBn": "দৈনিন কাযবিবরণী বা নথি"
+          "meaningBn": "দৈনন্দিন কার্যবিবরণী বা নথি"
         },
         {
           "word": "Catalyst",
@@ -7337,7 +7337,7 @@
       },
       {
         "en": "The restaurant caters to customers with discerning culinary taste.",
-        "bn": "রেস্তো রাঁটি রসনাবিলাসী ও সূক্ষ্ম স্বাদবোধসম্পন্ন গ্রাহকদের সেবা দিয়ে থাকে।"
+        "bn": "রেস্তোরাঁটি রসনাবিলাসী ও সূক্ষ্ম স্বাদবোধসম্পন্ন গ্রাহকদের সেবা দিয়ে থাকে।"
       }
     ],
     "sentenceCompletion": {
@@ -7454,7 +7454,7 @@
           "meaningBn": "কর্কশ বা কটু"
         },
         {
-          "word": "Inharmonious",
+          "word": "Dissonant",
           "isSynonym": true,
           "meaningBn": "সুরহীন ও মেলবন্ধনহীন"
         },
@@ -7464,14 +7464,14 @@
           "meaningBn": "তীব্র ধাতব বা অপ্রীতিকর শব্দযুক্ত"
         },
         {
-          "word": "Sage",
+          "word": "Salubrious",
           "isSynonym": false,
-          "meaningBn": "মহাজ্ঞানী ব্যক্তি"
+          "meaningBn": "স্বাস্থ্যকর বা স্বাস্থ্যপ্রদ"
         },
         {
-          "word": "Vituperative",
+          "word": "Viscous",
           "isSynonym": false,
-          "meaningBn": "তীব্র আক্রমণাত্মক বা কটূক্তিমূলক"
+          "meaningBn": "আঠালো বা ঘন আঠার মতো"
         },
         {
           "word": "Tangential",
@@ -7540,9 +7540,9 @@
           "meaningBn": "অপমানিত বা কলঙ্কিত করা"
         },
         {
-          "word": "Disbelieve",
+          "word": "Undervalue",
           "isSynonym": true,
-          "meaningBn": "অবিশ্বাস বা অস্বীকার করা"
+          "meaningBn": "মর্যাদা বা বিশ্বাসযোগ্যতা হ্রাস করা"
         },
         {
           "word": "Debunk",
@@ -7555,14 +7555,14 @@
           "meaningBn": "প্লাবিত করা বা বিপুল পরিমাণে চাপিয়ে দেওয়া"
         },
         {
-          "word": "Recant",
-          "isSynonym": false,
-          "meaningBn": "পূর্বমত প্রত্যাহার করা বা ফিরিয়ে নেওয়া"
-        },
-        {
           "word": "Relegate",
           "isSynonym": false,
           "meaningBn": "অবনমিত করা বা নির্বাসিত করা"
+        },
+        {
+          "word": "Saturate",
+          "isSynonym": false,
+          "meaningBn": "ভিজিয়ে পূর্ণ করা বা সম্পৃক্ত করা"
         }
       ]
     }
@@ -7577,7 +7577,7 @@
     "pronunciationEn": "dis-KREP-un-see",
     "pronunciationBn": "ডিস-ক্রেপ-আন-সি",
     "meaningBn": "অমিল বা গরমিল",
-    "meaningEn": "A lack of compatibility or similarity between two or more facts; discrepancy.",
+    "meaningEn": "A lack of compatibility or similarity between two or more facts; an inconsistency.",
     "synonyms": [
       "inconsistency",
       "divergence",
@@ -7631,7 +7631,7 @@
           "meaningBn": "অসঙ্গতি বা অসাদৃশ্য"
         },
         {
-          "word": "Divergence",
+          "word": "Disparity",
           "isSynonym": true,
           "meaningBn": "হিসাব বা তথ্যের পারস্পরিক ফারাক"
         },
@@ -7641,9 +7641,9 @@
           "meaningBn": "আত্মবিশ্বাসের অভাব বা দ্বিধাগ্রস্ততা"
         },
         {
-          "word": "Decorum",
+          "word": "Levee",
           "isSynonym": false,
-          "meaningBn": "শোভনতা বা ভদ্রোচিত আচরণ"
+          "meaningBn": "নদীর বাঁধ বা বন্যা প্রতিরোধক প্রাচীর"
         },
         {
           "word": "Shard",
@@ -7717,9 +7717,9 @@
           "meaningBn": "সুস্পষ্টভাবে পৃথক"
         },
         {
-          "word": "Disconnected",
+          "word": "Detached",
           "isSynonym": true,
-          "meaningBn": "পরস্পর সংযোগহীন ও স্বাধীন"
+          "meaningBn": "পরস্পর সংযোগহীন ও স্বতন্ত্র"
         },
         {
           "word": "Tractable",
@@ -7732,9 +7732,9 @@
           "meaningBn": "প্রাথমিক বা অপরিণত পর্যায়ের"
         },
         {
-          "word": "Irresolute",
+          "word": "Morose",
           "isSynonym": false,
-          "meaningBn": "দ্বিধাগ্রস্ত বা অনিশ্চিত"
+          "meaningBn": "বিষণ্ণ বা বিমর্ষ স্বভাবের"
         }
       ]
     }
@@ -8051,24 +8051,24 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Fire",
+          "word": "Discard",
           "isSynonym": true,
-          "meaningBn": "চাকরি থেকে বরখাস্ত করা"
+          "meaningBn": "বাতিল বা বর্জন করা"
         },
         {
           "word": "Reject",
           "isSynonym": true,
-          "meaningBn": "প্রত্যাখ্যান বা বাতিল করা"
+          "meaningBn": "প্রত্যাখ্যান বা খারিজ করা"
         },
         {
-          "word": "Repudiate",
+          "word": "Spurn",
           "isSynonym": true,
-          "meaningBn": "সম্পূর্ণ নাকচ বা প্রত্যাহার করা"
+          "meaningBn": "অবজ্ঞাভরে প্রত্যাখ্যান বা নাকচ করা"
         },
         {
-          "word": "Gainsay",
+          "word": "Saturate",
           "isSynonym": false,
-          "meaningBn": "অস্বীকার করা বা প্রতিবাদ করা"
+          "meaningBn": "ভিজিয়ে পূর্ণ করা বা সম্পৃক্ত করা"
         },
         {
           "word": "Confound",
@@ -8076,9 +8076,9 @@
           "meaningBn": "হতভম্ব বা বিভ্রান্ত করা"
         },
         {
-          "word": "Reproach",
+          "word": "Emulate",
           "isSynonym": false,
-          "meaningBn": "তিরস্কার বা অনুযোগ করা"
+          "meaningBn": "অনুকরণ করা বা সমকক্ষ হতে চেষ্টা করা"
         }
       ]
     }
@@ -8137,14 +8137,14 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Mock",
-          "isSynonym": true,
-          "meaningBn": "খাটো করা বা উপহাস করা"
-        },
-        {
           "word": "Belittle",
           "isSynonym": true,
-          "meaningBn": "তাচ্ছিল্যসূচক মন্তব্য করা"
+          "meaningBn": "তাচ্ছিল্যসূচক মন্তব্য করা বা ছোট করা"
+        },
+        {
+          "word": "Depreciate",
+          "isSynonym": true,
+          "meaningBn": "গুরুত্ব বা মূল্য কমিয়ে দেখানো"
         },
         {
           "word": "Denigrate",
@@ -8162,9 +8162,9 @@
           "meaningBn": "বন্ধ বা অবরুদ্ধ করা"
         },
         {
-          "word": "Oscillate",
+          "word": "Distend",
           "isSynonym": false,
-          "meaningBn": "দোদুল্যমান হওয়া বা ওঠা-নামা করা"
+          "meaningBn": "স্ফীত বা প্রসারিত হওয়া"
         }
       ]
     }
@@ -8481,7 +8481,7 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "End",
+          "word": "Termination",
           "isSynonym": true,
           "meaningBn": "সমাপ্তি বা অবসান"
         },
@@ -8506,9 +8506,9 @@
           "meaningBn": "সারসংক্ষেপ বা সংক্ষিপ্ত সংকলন"
         },
         {
-          "word": "Conundrum",
+          "word": "Penchant",
           "isSynonym": false,
-          "meaningBn": "জটিল ধাঁধা বা বিষম সমস্যা"
+          "meaningBn": "তীব্র ঝোঁক বা বিশেষ অনুরাগ"
         }
       ]
     }
@@ -8567,14 +8567,14 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Clashing",
+          "word": "Discord",
           "isSynonym": true,
-          "meaningBn": "পারস্পরিক দ্বন্দ্ব বা সংঘর্ষ"
+          "meaningBn": "পারস্পরিক অমিল বা সুরবিরোধ"
         },
         {
-          "word": "Conflict",
+          "word": "Disharmony",
           "isSynonym": true,
-          "meaningBn": "মতের অমিল বা বিরোধ"
+          "meaningBn": "সুরের বা মতের অমিল"
         },
         {
           "word": "Cacophony",
@@ -8587,9 +8587,9 @@
           "meaningBn": "সাময়িক স্থগিতাবস্থা"
         },
         {
-          "word": "Ambivalence",
+          "word": "Levee",
           "isSynonym": false,
-          "meaningBn": "দ্বিমুখী অনুভূতি বা দ্বিধাদ্বন্দ্ব"
+          "meaningBn": "নদীর বাঁধ বা বন্যা প্রতিরোধক প্রাচীর"
         },
         {
           "word": "Plethora",
@@ -8668,9 +8668,9 @@
           "meaningBn": "প্রসারিত বা ব্যাস বৃদ্ধি পাওয়া"
         },
         {
-          "word": "Precipitate",
+          "word": "Prevaricate",
           "isSynonym": false,
-          "meaningBn": "তড়িঘড়ি বা হঠকারী"
+          "meaningBn": "সত্য এড়িয়ে চলা বা ছলচাতুরী করা"
         },
         {
           "word": "Goad",
@@ -8936,9 +8936,9 @@
           "meaningBn": "সম্পূর্ণরূপে শুকানো বা আর্দ্রতাহীন করা"
         },
         {
-          "word": "Repudiate",
+          "word": "Corroborate",
           "isSynonym": false,
-          "meaningBn": "প্রত্যাখ্যান করা বা অস্বীকার করা"
+          "meaningBn": "সাক্ষ্যপ্রমাণ দিয়ে সমর্থন বা নিশ্চিত করা"
         }
       ]
     }
@@ -9048,7 +9048,7 @@
     "antonyms": [
       "flexible",
       "tolerant",
-      "open-minded"
+      "receptive"
     ],
     "examples": [
       {
@@ -9083,17 +9083,17 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Rigid",
-          "isSynonym": true,
-          "meaningBn": "অনমনীয় বা শক্ত"
-        },
-        {
           "word": "Opinionated",
           "isSynonym": true,
           "meaningBn": "অন্ধ মতামতে অনড়"
         },
         {
-          "word": "Doctrinal",
+          "word": "Authoritarian",
+          "isSynonym": true,
+          "meaningBn": "কর্তৃত্বপরায়ণ ও একগুঁয়ে"
+        },
+        {
+          "word": "Doctrinaire",
           "isSynonym": true,
           "meaningBn": "শাস্ত্রীয় বা অন্ধ মতবাদভিত্তিক"
         },
@@ -9108,9 +9108,9 @@
           "meaningBn": "রোগাক্রান্ত বা অস্বাভাবিক মানসিক রোগসংক্রান্ত"
         },
         {
-          "word": "Perfunctory",
+          "word": "Salubrious",
           "isSynonym": false,
-          "meaningBn": "দায়সারা বা অগভীর মনোভাবাপন্ন"
+          "meaningBn": "স্বাস্থ্যকর বা স্বাস্থ্যপ্রদ"
         }
       ]
     }
@@ -9174,9 +9174,9 @@
           "meaningBn": "নিষ্ক্রিয় বা নিশ্চল"
         },
         {
-          "word": "Sleeping",
+          "word": "Latent",
           "isSynonym": true,
-          "meaningBn": "ঘুমন্ত বা বিশ্রামরত"
+          "meaningBn": "সুপ্ত বা অপ্রকাশিত"
         },
         {
           "word": "Quiescent",
@@ -9194,9 +9194,9 @@
           "meaningBn": "চাটুকার বা অতিশয় তোষামোদকারী"
         },
         {
-          "word": "Cogent",
+          "word": "Pungent",
           "isSynonym": false,
-          "meaningBn": "অকাট্য বা যুক্তিযুক্ত"
+          "meaningBn": "তীব্র বা ঝাঁঝালো"
         }
       ]
     }
@@ -9346,9 +9346,9 @@
           "meaningBn": "প্রফুল্ল বা আনন্দিত"
         },
         {
-          "word": "Enthusiastic",
+          "word": "Vivacious",
           "isSynonym": true,
-          "meaningBn": "প্রবল উদ্দীপনাপূর্ণ"
+          "meaningBn": "প্রাণবন্ত ও প্রবল উদ্দীপনাপূর্ণ"
         },
         {
           "word": "Exuberant",
@@ -9361,9 +9361,9 @@
           "meaningBn": "বিভিন্ন উৎস থেকে সংগৃহীত বা বহুমাত্রিক"
         },
         {
-          "word": "Indolent",
+          "word": "Tangential",
           "isSynonym": false,
-          "meaningBn": "অলস বা কর্মবিমুখ"
+          "meaningBn": "আংশিক বা প্রাসঙ্গিক নয় এমন"
         },
         {
           "word": "Indeterminate",
@@ -9401,7 +9401,7 @@
       },
       {
         "en": "The restaurant menu offers an eclectic mix of international dishes.",
-        "bn": "রেস্তো রাঁর খাবারের তালিকায় আন্তর্জাতিক পদের এক বৈচিত্র্যময় সমাবেশ রয়েছে।"
+        "bn": "রেস্তোরাঁর খাবারের তালিকায় আন্তর্জাতিক পদের এক বৈচিত্র্যময় সমাবেশ রয়েছে।"
       }
     ],
     "sentenceCompletion": {
@@ -9432,9 +9432,9 @@
           "meaningBn": "বৈচিত্র্যময়"
         },
         {
-          "word": "Broad",
+          "word": "Multifaceted",
           "isSynonym": true,
-          "meaningBn": "ব্যাপক ও বিস্তৃত"
+          "meaningBn": "বহুমুখী বা নানা উৎসজাত"
         },
         {
           "word": "Heterogeneous",
@@ -9452,9 +9452,9 @@
           "meaningBn": "কঠোর বা ক্ষমাহীন ও অনমনীয়"
         },
         {
-          "word": "Intractable",
+          "word": "Soporific",
           "isSynonym": false,
-          "meaningBn": "অবাধ্য বা নিয়ন্ত্রণ করা কঠিন এমন"
+          "meaningBn": "ঘুমপাড়ানি বা নিদ্রাকর্ষক"
         }
       ]
     }
@@ -9599,9 +9599,9 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Boldness",
+          "word": "Audacity",
           "isSynonym": true,
-          "meaningBn": "স্পর্ধা বা সাহস"
+          "meaningBn": "স্পর্ধা বা দুঃসাহস"
         },
         {
           "word": "Impudence",
@@ -9609,24 +9609,24 @@
           "meaningBn": "বেহায়াপনা বা ধৃষ্টতা"
         },
         {
-          "word": "Temerity",
+          "word": "Insolence",
           "isSynonym": true,
-          "meaningBn": "হঠকারী চরম ঔদ্ধত্য"
+          "meaningBn": "অহংকারী চরম ঔদ্ধত্য"
         },
         {
-          "word": "Partisan",
+          "word": "Penury",
           "isSynonym": false,
-          "meaningBn": "দলকানা বা অন্ধ পক্ষপাতমূলক"
+          "meaningBn": "চরম দরিদ্রতা বা নিঃস্ব অবস্থা"
         },
         {
-          "word": "Sanction",
+          "word": "Shard",
           "isSynonym": false,
-          "meaningBn": "অনুমোদন দেওয়া বা নিষেধাজ্ঞা আরোপ করা"
+          "meaningBn": "ভাঙা পাত্রের টুকরো বা ভাঙা কাঁচের কুচি"
         },
         {
-          "word": "Invective",
+          "word": "Levee",
           "isSynonym": false,
-          "meaningBn": "তীব্র গালিগালাজ বা অপবাদমূলক বক্তব্য"
+          "meaningBn": "নদীর বাঁধ বা বন্যা প্রতিরোধক প্রাচীর"
         }
       ]
     }
@@ -9685,9 +9685,9 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Mournful Poem",
+          "word": "Dirge",
           "isSynonym": true,
-          "meaningBn": "শোককবিতা"
+          "meaningBn": "শোকগীতি বা শোককবিতা"
         },
         {
           "word": "Lament",
@@ -9697,7 +9697,7 @@
         {
           "word": "Requiem",
           "isSynonym": true,
-          "meaningBn": "মৃতদের আত্মার শান্তির জন্য শোকসংগীত"
+          "meaningBn": "মৃতদের আত্মার শান্তির জন্য শোকগাথা"
         },
         {
           "word": "Fervor",
@@ -9710,9 +9710,9 @@
           "meaningBn": "অন্ধ ভক্তি বা অন্ধপূজা"
         },
         {
-          "word": "Insularity",
+          "word": "Compendium",
           "isSynonym": false,
-          "meaningBn": "সংকীর্ণমনা দৃষ্টিভঙ্গি বা বিচ্ছিন্ন মনোভাব"
+          "meaningBn": "সারসংক্ষেপ বা সংক্ষিপ্ত সংকলন"
         }
       ]
     }
@@ -9771,9 +9771,9 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Draw Out",
+          "word": "Obtain",
           "isSynonym": true,
-          "meaningBn": "টেনে বের করা"
+          "meaningBn": "প্রচেষ্টার মাধ্যমে আদায় বা অর্জন করা"
         },
         {
           "word": "Evoke",
@@ -9783,7 +9783,7 @@
         {
           "word": "Extract",
           "isSynonym": true,
-          "meaningBn": "নিষ্কাশন করা বা টেনে আনা"
+          "meaningBn": "নিষ্কাশন করা বা টেনে বের করা"
         },
         {
           "word": "Belie",
@@ -9869,7 +9869,7 @@
         {
           "word": "Garnish",
           "isSynonym": true,
-          "meaningBn": "উপকরণ যোগ করে সুন্দর করা"
+          "meaningBn": "উপকরণ যোগ করে সুন্দর বা মুখরোচক করা"
         },
         {
           "word": "Saturate",
@@ -9877,14 +9877,14 @@
           "meaningBn": "ভিজিয়ে পূর্ণ করা বা সম্পৃক্ত করা"
         },
         {
-          "word": "Secrete",
+          "word": "Occlude",
           "isSynonym": false,
-          "meaningBn": "নিঃঃসরণ করা বা লুকিয়ে রাখা"
+          "meaningBn": "বন্ধ বা অবরুদ্ধ করা"
         },
         {
-          "word": "Supersede",
+          "word": "Rescind",
           "isSynonym": false,
-          "meaningBn": "স্থান দখল করা বা বাতিল করে স্থলাভিষিক্ত হওয়া"
+          "meaningBn": "বাতিল বা প্রত্যাহার করা"
         }
       ]
     }
@@ -10226,9 +10226,9 @@
           "meaningBn": "ভেজাল মেশানো বা অপবিত্র করা"
         },
         {
-          "word": "Aggregate",
+          "word": "Stipulate",
           "isSynonym": false,
-          "meaningBn": "একত্রিত করা বা সমষ্টিগত করা"
+          "meaningBn": "শর্তারোপ করা বা চুক্তিতে উল্লেখ করা"
         }
       ]
     }
@@ -10289,12 +10289,12 @@
         {
           "word": "Cause",
           "isSynonym": true,
-          "meaningBn": "ঘটাতে বাধ্য করা"
+          "meaningBn": "ঘটানো বা সৃষ্টি করা"
         },
         {
-          "word": "Produce",
+          "word": "Generate",
           "isSynonym": true,
-          "meaningBn": "উৎপাদন বা সৃষ্টি করা"
+          "meaningBn": "উৎপাদন বা জন্ম দেওয়া"
         },
         {
           "word": "Beget",
@@ -10312,9 +10312,9 @@
           "meaningBn": "ভীত বা নিরুৎসাহিত করা"
         },
         {
-          "word": "Appropriate",
+          "word": "Prevaricate",
           "isSynonym": false,
-          "meaningBn": "অন্যায়ভাবে দখল করা বা আত্মসাৎ করা"
+          "meaningBn": "সত্য এড়িয়ে চলা বা ছলচাতুরী করা"
         }
       ]
     }
@@ -10459,9 +10459,9 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Short-lived",
+          "word": "Momentary",
           "isSynonym": true,
-          "meaningBn": "স্বল্পায়ু বা স্বল্পজীবী"
+          "meaningBn": "ক্ষণিকের বা স্বল্পস্থায়ী"
         },
         {
           "word": "Fleeting",
@@ -10481,12 +10481,12 @@
         {
           "word": "Meticulous",
           "isSynonym": false,
-          "meaningBn": "অতি সতক বা নিখুঁত"
+          "meaningBn": "অতি সতর্ক বা নিখুঁত"
         },
         {
           "word": "Wary",
           "isSynonym": false,
-          "meaningBn": "সতক বা সাবধানী"
+          "meaningBn": "সতর্ক বা সাবধানী"
         }
       ]
     }
@@ -10773,7 +10773,7 @@
     "examples": [
       {
         "en": "Quantum computing involves highly esoteric theoretical physics.",
-        "bn": "কোয়ান্টাম কম্পি উটিংয়ে অত্যন্ত গুহ্য ও দুর্বোধ্য তাত্ত্বিক পদার্থবিজ্ঞান জড়িত।"
+        "bn": "কোয়ান্টাম কম্পিউটিংয়ে অত্যন্ত গুহ্য ও দুর্বোধ্য তাত্ত্বিক পদার্থবিজ্ঞান জড়িত।"
       },
       {
         "en": "The secret society guarded their esoteric rituals closely.",
@@ -10894,9 +10894,9 @@
           "meaningBn": "শ্রদ্ধার্ঘ্য বা সম্মাননা"
         },
         {
-          "word": "Praise",
+          "word": "Encomium",
           "isSynonym": true,
-          "meaningBn": "গুণগান বা সাধুবাদ"
+          "meaningBn": "উচ্চ প্রশংসা বা গুণকীর্তন"
         },
         {
           "word": "Panegyric",
@@ -10906,12 +10906,12 @@
         {
           "word": "Log",
           "isSynonym": false,
-          "meaningBn": "দৈনিন কাযবিবরণী বা নথি"
+          "meaningBn": "দৈনন্দিন কার্যবিবরণী বা নথি"
         },
         {
           "word": "Subpoena",
           "isSynonym": false,
-          "meaningBn": "আদালতে সাক্ষ্য দেওয়ার জন্য সমন জারি করা"
+          "meaningBn": "আদালতি সমন বা সাক্ষ্য দেওয়ার তলবপত্র"
         },
         {
           "word": "Recluse",
@@ -10975,14 +10975,14 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Polite Term",
+          "word": "Understatement",
           "isSynonym": true,
-          "meaningBn": "শিষ্ট বা ভদ্র অভিব্যক্তি"
+          "meaningBn": "তীব্রতা কমিয়ে নম্রভাবে প্রকাশ"
         },
         {
-          "word": "Softening",
+          "word": "Softener",
           "isSynonym": true,
-          "meaningBn": "অপ্রীতিকর বিষয় হালকা করে প্রকাশ"
+          "meaningBn": "অপ্রীতিকর বিষয় হালকা করে প্রকাশক শব্দ"
         },
         {
           "word": "Circumlocution",
@@ -11147,19 +11147,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Clear",
+          "word": "Acquit",
           "isSynonym": true,
-          "meaningBn": "মুক্ত বা নির্দোষ ঘোষণা করা"
+          "meaningBn": "অপরাধ থেকে খালাস বা অব্যাহতি দেওয়া"
         },
         {
           "word": "Absolve",
           "isSynonym": true,
-          "meaningBn": "পাপ বা অপরাধ থেকে মুক্তি দেওয়া"
+          "meaningBn": "পাপ বা দায় থেকে মুক্তি দেওয়া"
         },
         {
           "word": "Exonerate",
           "isSynonym": true,
-          "meaningBn": "অভিযোগ থেকে সম্পূর্ণ রেহাই দেওয়া"
+          "meaningBn": "অভিযোগ থেকে সম্পূর্ণ নির্দোষ প্রমাণ করা"
         },
         {
           "word": "Assuage",
@@ -11167,14 +11167,14 @@
           "meaningBn": "উপশম করা বা প্রশমিত করা"
         },
         {
-          "word": "Admonish",
+          "word": "Foment",
           "isSynonym": false,
-          "meaningBn": "সতর্ক করা বা মৃদু তিরস্কার করা"
+          "meaningBn": "উস্কানি দেওয়া বা প্ররোচিত করা"
         },
         {
-          "word": "Aver",
+          "word": "Diverge",
           "isSynonym": false,
-          "meaningBn": "দৃঢ়তার সাথে বলা বা ঘোষণা করা"
+          "meaningBn": "ভিন্নমুখী হওয়া বা অপসারিত হওয়া"
         }
       ]
     }
@@ -11235,7 +11235,7 @@
         {
           "word": "Urgency",
           "isSynonym": true,
-          "meaningBn": "অতীব জরুরি অবস্থা"
+          "meaningBn": "অতীব জরুরি অবস্থা বা তাগিদ"
         },
         {
           "word": "Crisis",
@@ -11253,14 +11253,14 @@
           "meaningBn": "শ্রদ্ধাপূর্ণ সম্মতি বা সম্মান প্রদর্শন"
         },
         {
-          "word": "Diatribe",
+          "word": "Levee",
           "isSynonym": false,
-          "meaningBn": "তীব্র আক্রমণাত্মক বক্তৃতা বা ভর্ৎসনা"
+          "meaningBn": "নদীর বাঁধ বা বন্যা প্রতিরোধক প্রাচীর"
         },
         {
-          "word": "Dirge",
+          "word": "Shard",
           "isSynonym": false,
-          "meaningBn": "শোকগীতি বা অন্ত্যেষ্টিক্রিয়ার সুর"
+          "meaningBn": "ভাঙা পাত্রের টুকরো বা ভাঙা কাঁচের কুচি"
         }
       ]
     }
@@ -11405,24 +11405,24 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Joking",
+          "word": "Playful",
           "isSynonym": true,
-          "meaningBn": "রসিকতাপূর্ণ"
+          "meaningBn": "রসিকতাপূর্ণ বা কৌতুকপ্রবণ"
         },
         {
           "word": "Flippant",
           "isSynonym": true,
-          "meaningBn": "অসংগত হালকা চটুল"
+          "meaningBn": "গুরুতর বিষয়ে হালকা চটুল"
         },
         {
-          "word": "Tongue-in-cheek",
+          "word": "Jocular",
           "isSynonym": true,
-          "meaningBn": "গম্ভীর মুখে করা ব্যঙ্গ"
+          "meaningBn": "ঠাট্টাপূর্ণ বা পরিহাসমুখর"
         },
         {
-          "word": "Reverent",
+          "word": "Permeable",
           "isSynonym": false,
-          "meaningBn": "শ্রদ্ধাশীল বা ভক্তিপূর্ণ"
+          "meaningBn": "ভেদ্য বা তরল চলাচলে সক্ষম"
         },
         {
           "word": "Insipid",
@@ -11577,9 +11577,9 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "False",
+          "word": "Erroneous",
           "isSynonym": true,
-          "meaningBn": "মিথ্যা বা ভুল"
+          "meaningBn": "ভ্রান্ত বা ভুল"
         },
         {
           "word": "Misleading",
@@ -11589,17 +11589,17 @@
         {
           "word": "Specious",
           "isSynonym": true,
-          "meaningBn": "আপাতদৃষ্টিতে যুক্তিসঙ্গত মনে হলেও ভুল"
+          "meaningBn": "আপাতদৃষ্টিতে যুক্তিসঙ্গত মনে হলেও ভ্রান্ত"
         },
         {
           "word": "Phlegmatic",
           "isSynonym": false,
-          "meaningBn": "শান্ত ও আবেগহীন বা ধীরির"
+          "meaningBn": "শান্ত ও আবেগহীন বা ধীরস্থির"
         },
         {
-          "word": "Pragmatic",
+          "word": "Salubrious",
           "isSynonym": false,
-          "meaningBn": "বাস্তবধর্মী বা প্রায়োগিক"
+          "meaningBn": "স্বাস্থ্যকর বা স্বাস্থ্যপ্রদ"
         },
         {
           "word": "Felicitous",
@@ -11668,9 +11668,9 @@
           "meaningBn": "নির্বোধ বা অর্বাচীন"
         },
         {
-          "word": "Foolish",
+          "word": "Inane",
           "isSynonym": true,
-          "meaningBn": "বোকা ও চিন্তাহীন"
+          "meaningBn": "বোকা ও অর্থহীন"
         },
         {
           "word": "Vacuous",
@@ -11683,14 +11683,14 @@
           "meaningBn": "স্বাদহীন বা নীরস"
         },
         {
-          "word": "Disingenuous",
-          "isSynonym": false,
-          "meaningBn": "কপট বা অসৎ উদ্দেশ্যপ্রণোদিত"
-        },
-        {
           "word": "Discordant",
           "isSynonym": false,
           "meaningBn": "বেসুরো বা অমিলযুক্ত"
+        },
+        {
+          "word": "Striated",
+          "isSynonym": false,
+          "meaningBn": "রেখাঙ্কিত বা সমান্তরাল দাগযুক্ত"
         }
       ]
     }
@@ -11776,7 +11776,7 @@
         {
           "word": "Pedantic",
           "isSynonym": false,
-          "meaningBn": "পাণ্ডিত্য প্রদশনকারী বা অতিরিক্ত খুঁতখুঁতে"
+          "meaningBn": "পাণ্ডিত্য প্রদর্শনকারী বা অতিরিক্ত খুঁতখুঁতে"
         }
       ]
     }
@@ -12032,9 +12032,9 @@
           "meaningBn": "অনুকরণ করা বা সমকক্ষ হতে চেষ্টা করা"
         },
         {
-          "word": "Exculpate",
+          "word": "Prevaricate",
           "isSynonym": false,
-          "meaningBn": "দোষমুক্ত বা নির্দোষ প্রমাণিত করা"
+          "meaningBn": "সত্য এড়িয়ে চলা বা ছলচাতুরী করা"
         }
       ]
     }
@@ -12062,8 +12062,8 @@
     ],
     "examples": [
       {
-        "en": "Investors poured capital into the fledgling biotech company.",
-        "bn": "বিনিয়োগকারীরা নতুন ও সদ্য গঠিত বায়োটেক কোম্পানিতে পুঁজি ঢেলেছিলেন।"
+        "en": "The experienced director patiently guided every fledgling in the theatrical troupe.",
+        "bn": "অভিজ্ঞ পরিচালক নাট্যদলের প্রতিটি নবীন শিক্ষানবিসকে ধৈর্যের সাথে পথ দেখিয়েছিলেন।"
       },
       {
         "en": "As a fledgling in the investment industry, she relied heavily on her senior mentor.",
@@ -12071,7 +12071,7 @@
       }
     ],
     "sentenceCompletion": {
-      "sentenceWithBlank": "Without generous venture capital subsidies and strategic mentorship, the _____ software startup would have succumbed to fierce competition from established tech conglomerates within its first year.",
+      "sentenceWithBlank": "Without generous venture capital subsidies and strategic mentorship, the industry _____ would have succumbed to fierce competition from established tech conglomerates within its first year.",
       "options": [
         "Veteran",
         "Fledgling",
@@ -12153,7 +12153,7 @@
       },
       {
         "en": "No student should flout the established rules of the campus.",
-        "bn": "ক্যাম্পাসের প্রতিষ্ঠিত নিয়মাবলি কোনো শিক্ষার্থীরই তুচ্ছতাচ্ছি ল্য করে ভাঙা উচিত নয়।"
+        "bn": "ক্যাম্পাসের প্রতিষ্ঠিত নিয়মাবলি কোনো শিক্ষার্থীরই তুচ্ছতাচ্ছিল্য করে ভাঙা উচিত নয়।"
       }
     ],
     "sentenceCompletion": {
@@ -12179,19 +12179,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Disobey",
+          "word": "Disregard",
           "isSynonym": true,
-          "meaningBn": "অমান্য করা"
+          "meaningBn": "উপেক্ষা বা অমান্য করা"
         },
         {
           "word": "Defy",
           "isSynonym": true,
-          "meaningBn": "স্পর্ধা সহকারে প্রতিরোধ করা"
+          "meaningBn": "স্পর্ধা সহকারে অগ্রাহ্য করা"
         },
         {
-          "word": "Scorn",
+          "word": "Contemn",
           "isSynonym": true,
-          "meaningBn": "অবজ্ঞাপূর্ণ তাচ্ছিল্যের সাথে লঙ্ঘন করা"
+          "meaningBn": "অবজ্ঞাভরে তুচ্ছজ্ঞান বা লঙ্ঘন করা"
         },
         {
           "word": "Appease",
@@ -12199,14 +12199,14 @@
           "meaningBn": "শান্ত বা তুষ্ট করা"
         },
         {
-          "word": "Dupe",
+          "word": "Coagulate",
           "isSynonym": false,
-          "meaningBn": "প্রতারিত করা বা বোকা বানানো"
+          "meaningBn": "জমাট বাঁধা বা ঘন হওয়া"
         },
         {
-          "word": "Disparage",
+          "word": "Saturate",
           "isSynonym": false,
-          "meaningBn": "অবমূল্যায়ন করা বা তাচ্ছিল্য করা"
+          "meaningBn": "ভিজিয়ে পূর্ণ করা বা সম্পৃক্ত করা"
         }
       ]
     }
@@ -12235,7 +12235,7 @@
     "examples": [
       {
         "en": "Foreign agitators attempted to foment unrest in the border city.",
-        "bn": "বিদেশি আন্দো লনকারীরা সীমান্তবর্তী শহরে অশান্তি উসকে দেওয়ার চেষ্টা করেছিল।"
+        "bn": "বিদেশি আন্দোলনকারীরা সীমান্তবর্তী শহরে অশান্তি উসকে দেওয়ার চেষ্টা করেছিল।"
       },
       {
         "en": "Sensational headlines serve to foment hatred among different communities.",
@@ -12270,14 +12270,14 @@
           "meaningBn": "উত্তেজিত বা প্ররোচিত করা"
         },
         {
-          "word": "Provoke",
+          "word": "Instigate",
           "isSynonym": true,
-          "meaningBn": "ক্ষোভের উদ্রেক করা"
+          "meaningBn": "ক্ষোভ বা বিদ্রোহের উস্কানি দেওয়া"
         },
         {
-          "word": "Agitate",
+          "word": "Abet",
           "isSynonym": true,
-          "meaningBn": "তীব্র অসন্তোষ বা বিক্ষোভ উসকে দেওয়া"
+          "meaningBn": "অপকর্ম বা অশান্তিতে ইন্ধন জোগানো"
         },
         {
           "word": "Disabuse",
@@ -12285,9 +12285,9 @@
           "meaningBn": "ভুল ধারণা বা মোহ ভেঙে দেওয়া"
         },
         {
-          "word": "Forestall",
+          "word": "Saturate",
           "isSynonym": false,
-          "meaningBn": "আগাম ব্যবস্থা নিয়ে প্রতিহত করা"
+          "meaningBn": "ভিজিয়ে পূর্ণ করা বা সম্পৃক্ত করা"
         },
         {
           "word": "Flag",
@@ -12325,7 +12325,7 @@
       },
       {
         "en": "The central bank intervened to forestall a financial panic.",
-        "bn": "আর্থিক আতঙ্ক ঠেকানোর জন্য কেন্দ্রীয় ব্যাংাংক পূর্বাহ্ণেই হস্তক্ষেপ করেছিল।"
+        "bn": "আর্থিক আতঙ্ক ঠেকানোর জন্য কেন্দ্রীয় ব্যাংক পূর্বাহ্ণেই হস্তক্ষেপ করেছিল।"
       }
     ],
     "sentenceCompletion": {
@@ -12356,9 +12356,9 @@
           "meaningBn": "নিবারণ বা প্রতিরোধ করা"
         },
         {
-          "word": "Block",
+          "word": "Avert",
           "isSynonym": true,
-          "meaningBn": "পথ আটকে ঠেকানো"
+          "meaningBn": "আগেভাগে ঠেকানো বা এড়ানো"
         },
         {
           "word": "Preempt",
@@ -12376,9 +12376,9 @@
           "meaningBn": "আইন বা নিয়ম অগ্রাহ্য করা"
         },
         {
-          "word": "Document",
+          "word": "Savor",
           "isSynonym": false,
-          "meaningBn": "দলিলবদ্ধ করা বা প্রমাণসহ নথিবদ্ধ করা"
+          "meaningBn": "আস্বাদন করা বা স্বাদ উপভোগ করা"
         }
       ]
     }
@@ -12454,7 +12454,7 @@
         {
           "word": "Penchant",
           "isSynonym": false,
-          "meaningBn": "তীব্র ঝোঁঁক বা বিশেষ অনুরাগ"
+          "meaningBn": "তীব্র ঝোঁক বা বিশেষ অনুরাগ"
         },
         {
           "word": "Euphemism",
@@ -12700,14 +12700,14 @@
           "meaningBn": "বাচাল বা অতিরিক্ত কথা বলা"
         },
         {
-          "word": "Wordy",
+          "word": "Voluble",
           "isSynonym": true,
-          "meaningBn": "অনর্থক বাক্যবহুল"
+          "meaningBn": "অনর্গল ও নিরবচ্ছিন্ন বাকপটু"
         },
         {
           "word": "Loquacious",
           "isSynonym": true,
-          "meaningBn": "অনর্গল কথা বলে যাওয়া"
+          "meaningBn": "অতিভাষী বা অনর্গল কথা বলে যাওয়া"
         },
         {
           "word": "Indolent",
@@ -12715,9 +12715,9 @@
           "meaningBn": "অলস বা কর্মবিমুখ"
         },
         {
-          "word": "Indeterminate",
+          "word": "Tangential",
           "isSynonym": false,
-          "meaningBn": "অনির্দিষ্ট বা অনিশ্চিত"
+          "meaningBn": "আংশিক বা প্রাসঙ্গিক নয় এমন"
         },
         {
           "word": "Porous",
@@ -12781,14 +12781,14 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Urge",
+          "word": "Prod",
           "isSynonym": true,
-          "meaningBn": "পীড়াপীড়ি বা তাগিদ দেওয়া"
+          "meaningBn": "খোঁচানো বা তাগিদ দেওয়া"
         },
         {
           "word": "Provoke",
           "isSynonym": true,
-          "meaningBn": "খোঁচানো বা উত্যক্ত করা"
+          "meaningBn": "উত্তেজিত বা উত্যক্ত করা"
         },
         {
           "word": "Spur",
@@ -12801,9 +12801,9 @@
           "meaningBn": "সত্য এড়িয়ে চলা বা ছলচাতুরী করা"
         },
         {
-          "word": "Proscribe",
+          "word": "Distill",
           "isSynonym": false,
-          "meaningBn": "নিষিদ্ধ বা নির্বাসিত করা"
+          "meaningBn": "পরিশোধন করা বা সারমর্ম বের করা"
         },
         {
           "word": "Substantiate",
@@ -13125,19 +13125,19 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Honest",
+          "word": "Candid",
           "isSynonym": true,
           "meaningBn": "সৎ ও অকপট"
         },
         {
-          "word": "Innocent",
+          "word": "Artless",
           "isSynonym": true,
-          "meaningBn": "অপাপবিদ্ধ ও নির্দোষ"
+          "meaningBn": "অকৃত্রিম ও সরল"
         },
         {
           "word": "Ingenuous",
           "isSynonym": true,
-          "meaningBn": "কোনো প্রকার কুটিলতাহীন"
+          "meaningBn": "কোনো প্রকার কুটিলতাহীন ও নিষ্পাপ"
         },
         {
           "word": "Banal",
@@ -13150,9 +13150,9 @@
           "meaningBn": "রোগাক্রান্ত বা অস্বাভাবিক মানসিক রোগসংক্রান্ত"
         },
         {
-          "word": "Perfunctory",
+          "word": "Striated",
           "isSynonym": false,
-          "meaningBn": "দায়সারা বা অগভীর মনোভাবাপন্ন"
+          "meaningBn": "রেখাঙ্কিত বা সমান্তরাল দাগযুক্ত"
         }
       ]
     }
@@ -13297,7 +13297,7 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Long Speech",
+          "word": "Tirade",
           "isSynonym": true,
           "meaningBn": "দীর্ঘ আক্রমণাত্মক ভাষণ"
         },
@@ -13312,14 +13312,14 @@
           "meaningBn": "তিক্ত আক্রমণাত্মক রাজনৈতিক বক্তৃতা"
         },
         {
-          "word": "Partisan",
+          "word": "Levee",
           "isSynonym": false,
-          "meaningBn": "দলকানা বা অন্ধ পক্ষপাতমূলক"
+          "meaningBn": "নদীর বাঁধ বা বন্যা প্রতিরোধক প্রাচীর"
         },
         {
-          "word": "Sanction",
+          "word": "Shard",
           "isSynonym": false,
-          "meaningBn": "অনুমোদন দেওয়া বা নিষেধাজ্ঞা আরোপ করা"
+          "meaningBn": "ভাঙা পাত্রের টুকরো বা ভাঙা কাঁচের কুচি"
         },
         {
           "word": "Misanthrope",
@@ -13732,9 +13732,9 @@
           "meaningBn": "পরিবর্তনহীন"
         },
         {
-          "word": "Constant",
+          "word": "Permanent",
           "isSynonym": true,
-          "meaningBn": "ধ্রুব ও অবিচল"
+          "meaningBn": "স্থায়ী ও অটল"
         },
         {
           "word": "Invariable",
@@ -13742,9 +13742,9 @@
           "meaningBn": "কোনো অবস্থাতেই রূপান্তরযোগ্য নয় এমন"
         },
         {
-          "word": "Perennial",
+          "word": "Porous",
           "isSynonym": false,
-          "meaningBn": "চিরস্থায়ী বা বহুবর্ষজীবী"
+          "meaningBn": "ছিদ্রযুক্ত বা ঝাঝরা"
         },
         {
           "word": "Beneficent",
@@ -13833,9 +13833,9 @@
           "meaningBn": "মনোভাব গোপন করা বা ভান করা"
         },
         {
-          "word": "Diverge",
+          "word": "Saturate",
           "isSynonym": false,
-          "meaningBn": "ভিন্নমুখী হওয়া বা অপসারিত হওয়া"
+          "meaningBn": "ভিজিয়ে পূর্ণ করা বা সম্পৃক্ত করা"
         },
         {
           "word": "Plummet",
@@ -13904,7 +13904,7 @@
           "meaningBn": "আবেগবর্জিত"
         },
         {
-          "word": "Inexpressive",
+          "word": "Expressionless",
           "isSynonym": true,
           "meaningBn": "ভাবলেশহীন মুখভাবের"
         },
@@ -13919,14 +13919,14 @@
           "meaningBn": "কঠোর বা ক্ষমাহীন ও অনমনীয়"
         },
         {
-          "word": "Intractable",
+          "word": "Porous",
           "isSynonym": false,
-          "meaningBn": "অবাধ্য বা নিয়ন্ত্রণ করা কঠিন এমন"
+          "meaningBn": "ছিদ্রযুক্ত বা ঝাঝরা"
         },
         {
-          "word": "Irascible",
+          "word": "Tangential",
           "isSynonym": false,
-          "meaningBn": "বদমেজাজী বা খিটখিটে স্বভাবের"
+          "meaningBn": "আংশিক বা প্রাসঙ্গিক নয় এমন"
         }
       ]
     }
@@ -14096,9 +14096,9 @@
           "meaningBn": "পরকে খুশি করতে আগ্রহী বা বাধ্য"
         },
         {
-          "word": "Austere",
+          "word": "Pristine",
           "isSynonym": false,
-          "meaningBn": "কঠোর বা সাদামাটা"
+          "meaningBn": "অক্ষত বা আদিম ও নিখুঁত"
         }
       ]
     }
@@ -14213,7 +14213,7 @@
     "examples": [
       {
         "en": "The heavy rubber boots are completely impervious to damp soil.",
-        "bn": "ভারী রবারের বুটগুলো স্যাঁাঁতসেঁতে মাটির জন্য সম্পূর্ণ অভেদ্য।"
+        "bn": "ভারী রবারের বুটগুলো স্যাঁতসেঁতে মাটির জন্য সম্পূর্ণ অভেদ্য।"
       },
       {
         "en": "He seemed strangely impervious to constructive criticism.",
@@ -14440,9 +14440,9 @@
           "meaningBn": "অকাট্য বা যুক্তিযুক্ত"
         },
         {
-          "word": "Conciliatory",
+          "word": "Salubrious",
           "isSynonym": false,
-          "meaningBn": "মিটমাটকারী বা আপসকামিতা প্রকাশক"
+          "meaningBn": "স্বাস্থ্যকর বা স্বাস্থ্যপ্রদ"
         }
       ]
     }
@@ -14460,8 +14460,8 @@
     "meaningEn": "To collapse or cause to collapse violently inward.",
     "synonyms": [
       "collapse",
-      "cave in",
-      "fall apart"
+      "crumple",
+      "buckle"
     ],
     "antonyms": [
       "explode",
@@ -14471,7 +14471,7 @@
     "examples": [
       {
         "en": "Engineers placed charges to make the vacant building implode safely.",
-        "bn": "পরিত্যক্ত ভবনটি নিরাপদে ভেতরে ধসিয়ে দিতে প্রকৌশলীরা বিস্ ফোরক বসিয়েছিলেন।"
+        "bn": "পরিত্যক্ত ভবনটি নিরাপদে ভেতরে ধসিয়ে দিতে প্রকৌশলীরা বিস্ফোরক বসিয়েছিলেন।"
       },
       {
         "en": "Without solid leadership, the political coalition will surely implode.",
@@ -14506,9 +14506,9 @@
           "meaningBn": "হুড়মুড়িয়ে ভেঙে পড়া"
         },
         {
-          "word": "Cave In",
+          "word": "Buckle",
           "isSynonym": true,
-          "meaningBn": "ভেতর দিকে ধসে যাওয়া"
+          "meaningBn": "চাপের মুখে বেঁকে বা ধসে যাওয়া"
         },
         {
           "word": "Crumple",
@@ -14521,9 +14521,9 @@
           "meaningBn": "পূর্বমত প্রত্যাহার করা বা ফিরিয়ে নেওয়া"
         },
         {
-          "word": "Relegate",
+          "word": "Savor",
           "isSynonym": false,
-          "meaningBn": "অবনমিত করা বা নির্বাসিত করা"
+          "meaningBn": "আস্বাদন করা বা স্বাদ উপভোগ করা"
         },
         {
           "word": "Confound",
@@ -14647,7 +14647,7 @@
       },
       {
         "en": "The philosopher struggled to articulate her inchoate theories.",
-        "bn": "দার্শনিক তার অপরিণত ভাবনাগুলোকে ভাষায় প্রকাশ করতে বেগ পাচ্ছি লেন।"
+        "bn": "দার্শনিক তার অপরিণত ভাবনাগুলোকে ভাষায় প্রকাশ করতে বেগ পাচ্ছিলেন।"
       }
     ],
     "sentenceCompletion": {
@@ -14673,14 +14673,14 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Early",
+          "word": "Incipient",
           "isSynonym": true,
-          "meaningBn": "প্রারম্ভিক পর্যায়ের"
+          "meaningBn": "প্রারম্ভিক বা সবে শুরু হওয়া"
         },
         {
-          "word": "Developing",
+          "word": "Embryonic",
           "isSynonym": true,
-          "meaningBn": "বিকাশমান"
+          "meaningBn": "ভ্রূণাবস্থায় থাকা বা অপরিণত"
         },
         {
           "word": "Rudimentary",
@@ -14693,14 +14693,14 @@
           "meaningBn": "অনধিকারচর্চাকারী বা আগ বাড়িয়ে উপদেশ দেওয়া স্বভাবের"
         },
         {
-          "word": "Problematic",
+          "word": "Mendacious",
           "isSynonym": false,
-          "meaningBn": "সমস্যাবহুল বা সন্দেহজনক"
+          "meaningBn": "মিথ্যাবাদী বা অসত্য"
         },
         {
-          "word": "Implicit",
+          "word": "Striated",
           "isSynonym": false,
-          "meaningBn": "অন্তর্নিহিত বা পরোক্ষ"
+          "meaningBn": "রেখাঙ্কিত বা সমান্তরাল দাগযুক্ত"
         }
       ]
     }
@@ -14764,14 +14764,14 @@
           "meaningBn": "অমিল বা খাপছাড়া অবস্থা"
         },
         {
-          "word": "Oddity",
+          "word": "Discrepancy",
           "isSynonym": true,
-          "meaningBn": "অদ্ভুত অসঙ্গতি"
+          "meaningBn": "অসঙ্গতি বা গরমিল"
         },
         {
           "word": "Incompatibility",
           "isSynonym": true,
-          "meaningBn": "পারস্পরিক বৈপরীত্য বা সহাবস্থানহীনতা"
+          "meaningBn": "পারস্পরিক বৈপরীত্য বা অসামঞ্জস্য"
         },
         {
           "word": "Diffidence",
@@ -14779,9 +14779,9 @@
           "meaningBn": "আত্মবিশ্বাসের অভাব বা দ্বিধাগ্রস্ততা"
         },
         {
-          "word": "Decorum",
+          "word": "Levee",
           "isSynonym": false,
-          "meaningBn": "শোভনতা বা ভদ্রোচিত আচরণ"
+          "meaningBn": "নদীর বাঁধ বা বন্যা প্রতিরোধক প্রাচীর"
         },
         {
           "word": "Shard",
@@ -14847,12 +14847,12 @@
         {
           "word": "Unimportant",
           "isSynonym": true,
-          "meaningBn": "অপ্রয়োজনীয়"
+          "meaningBn": "অপ্রয়োজনীয় বা গুরুত্বহীন"
         },
         {
-          "word": "Minor",
+          "word": "Negligible",
           "isSynonym": true,
-          "meaningBn": "ছোটখাটো বা নগণ্য"
+          "meaningBn": "নগণ্য বা উপেক্ষণীয়"
         },
         {
           "word": "Trivial",
@@ -14870,9 +14870,9 @@
           "meaningBn": "গোঁড়া বা অন্ধ মতবাদী"
         },
         {
-          "word": "Artless",
+          "word": "Porous",
           "isSynonym": false,
-          "meaningBn": "কপটতাহীন বা সরল"
+          "meaningBn": "ছিদ্রযুক্ত বা ঝাঝরা"
         }
       ]
     }
@@ -15194,9 +15194,9 @@
           "meaningBn": "অলস বা কুঁড়ে"
         },
         {
-          "word": "Inactive",
+          "word": "Idle",
           "isSynonym": true,
-          "meaningBn": "নিষ্ক্রিয় বা কর্মহীন"
+          "meaningBn": "কর্মহীন বা শ্রমবিমুখ"
         },
         {
           "word": "Slothful",
@@ -15209,9 +15209,9 @@
           "meaningBn": "অনুবর্তী বা আজ্ঞাবহ"
         },
         {
-          "word": "Contrite",
+          "word": "Pungent",
           "isSynonym": false,
-          "meaningBn": "অনুতপ্ত বা অনুশোচনাদগ্ধ"
+          "meaningBn": "তীব্র বা ঝাঁঝালো"
         },
         {
           "word": "Verbose",
@@ -15245,7 +15245,7 @@
     "examples": [
       {
         "en": "The patient lay inert on the hospital gurney after surgery.",
-        "bn": "অস্ত্রো পচারের পর রোগী হাসপাতালের ট্রলিতে নিস্তেজ হয়ে পড়ে ছিলেন।"
+        "bn": "অস্ত্রোপচারের পর রোগী হাসপাতালের ট্রলিতে নিস্তেজ হয়ে পড়ে ছিলেন।"
       },
       {
         "en": "Helium is an inert gas that rarely reacts with other chemicals.",
@@ -15280,29 +15280,29 @@
           "meaningBn": "গতিহীন বা স্থির"
         },
         {
-          "word": "Unmoving",
+          "word": "Inactive",
           "isSynonym": true,
-          "meaningBn": "নড়াচড়াহীন"
+          "meaningBn": "নিষ্ক্রিয় বা অচল"
         },
         {
-          "word": "Stagnant",
+          "word": "Dormant",
           "isSynonym": true,
-          "meaningBn": "নিশ্চল ও স্থবির হয়ে থাকা"
+          "meaningBn": "সুপ্ত ও ক্রিয়াহীন"
         },
         {
-          "word": "Inconsequential",
+          "word": "Facetious",
           "isSynonym": false,
-          "meaningBn": "তুচ্ছ বা গুরুত্বহীন"
+          "meaningBn": "লঘুচাপল্যপূর্ণ বা ঠাট্টাপূর্ণ"
         },
         {
-          "word": "Impassive",
+          "word": "Mendacious",
           "isSynonym": false,
-          "meaningBn": "ভাবলেশহীন বা আবেগহীন"
+          "meaningBn": "মিথ্যাবাদী বা অসত্য"
         },
         {
-          "word": "Insensible",
+          "word": "Salubrious",
           "isSynonym": false,
-          "meaningBn": "অজ্ঞান বা অনুভূতিহীন"
+          "meaningBn": "স্বাস্থ্যকর বা স্বাস্থ্যপ্রদ"
         }
       ]
     }
@@ -15447,14 +15447,14 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Natural",
+          "word": "Innate",
           "isSynonym": true,
-          "meaningBn": "প্রাকৃতিক বা স্বাভাবিক"
+          "meaningBn": "সহজাত বা জন্মগত"
         },
         {
           "word": "Inborn",
           "isSynonym": true,
-          "meaningBn": "জন্মগত"
+          "meaningBn": "প্রকৃতিগতভাবে অন্তর্নিহিত"
         },
         {
           "word": "Intrinsic",
@@ -15472,9 +15472,9 @@
           "meaningBn": "শ্রদ্ধাশীল বা ভক্তিপূর্ণ"
         },
         {
-          "word": "Reticent",
+          "word": "Boorish",
           "isSynonym": false,
-          "meaningBn": "স্বল্পভাষী বা মনের ভাব প্রকাশে অনিচ্ছুক"
+          "meaningBn": "অভদ্র বা চাষাড়ে স্বভাবের"
         }
       ]
     }
@@ -15525,7 +15525,7 @@
         "নিরপরাধ বা ক্ষতিকর নয় এমন",
         "মারাত্মক ক্ষতিকর",
         "ক্ষতিসাধনকারী",
-        "মারাত্মক ক্ষতিকর"
+        "প্রাণঘাতী বা মারাত্মক ক্ষতিকর"
       ],
       "explanationEn": "Innocuous (adjective) means producing no injury; harmless or unlikely to cause offense.",
       "sentenceTranslationBn": "যদিও ডোরাকাটা দাগ এবং বিশাল জালের কারণে বাগানের মাকড়সাটিকে ভয়ংকর দেখায়, মাকড়সাবিজ্ঞানীরা বাড়িওয়ালাদের আশ্বস্ত করেন যে এর বিষ মানুষের জন্য সম্পূর্ণ ক্ষতিকর নয়।"
@@ -15538,9 +15538,9 @@
           "meaningBn": "ক্ষতি করে না এমন বা অহিংস"
         },
         {
-          "word": "Safe",
+          "word": "Benign",
           "isSynonym": true,
-          "meaningBn": "নিরাপদ ও বিপদমুক্ত"
+          "meaningBn": "নিরাপদ ও নির্দোষ"
         },
         {
           "word": "Inoffensive",
@@ -15558,9 +15558,9 @@
           "meaningBn": "মৌলিকতাহীন বা অনুকরণমূলক"
         },
         {
-          "word": "Disparate",
+          "word": "Taciturn",
           "isSynonym": false,
-          "meaningBn": "একেবারে ভিন্ন বা বৈসাদৃশ্যপূর্ণ"
+          "meaningBn": "স্বভাবতই স্বল্পভাষী ও চাপা"
         }
       ]
     }
@@ -15629,19 +15629,19 @@
           "meaningBn": "অসাড় বা অনুভূতিশূন্য"
         },
         {
-          "word": "Imperceptible",
+          "word": "Oblivious",
           "isSynonym": true,
-          "meaningBn": "অনুভবে ধরা পড়ে না এমন সূক্ষ্ম"
+          "meaningBn": "সম্পূর্ণ অজ্ঞাত বা বেখবর"
         },
         {
           "word": "Morose",
           "isSynonym": false,
-          "meaningBn": "বিষণ্ণ বা বিমষ স্বভাবের"
+          "meaningBn": "বিষণ্ণ বা বিমর্ষ স্বভাবের"
         },
         {
-          "word": "Sage",
+          "word": "Garrulous",
           "isSynonym": false,
-          "meaningBn": "মহাজ্ঞানী ব্যক্তি"
+          "meaningBn": "বাচাল বা অতিভাষী"
         },
         {
           "word": "Vituperative",
@@ -15669,7 +15669,7 @@
     ],
     "antonyms": [
       "declare",
-      "state directly",
+      "proclaim",
       "announce"
     ],
     "examples": [
@@ -15818,7 +15818,7 @@
         {
           "word": "Solicitous",
           "isSynonym": false,
-          "meaningBn": "উিগ্ন বা যত্নশীল মনোভাবাপন্ন"
+          "meaningBn": "উদ্বিগ্ন বা যত্নশীল মনোভাবাপন্ন"
         }
       ]
     }
@@ -15836,7 +15836,7 @@
     "meaningEn": "Ignorance of or lack of interest in cultures outside one’s own; narrow-mindedness.",
     "synonyms": [
       "parochialism",
-      "narrow-mindedness",
+      "isolationism",
       "provincialism"
     ],
     "antonyms": [
@@ -15877,14 +15877,14 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Narrowness",
+          "word": "Isolationism",
           "isSynonym": true,
-          "meaningBn": "সংকীর্ণতা"
+          "meaningBn": "বহির্জগৎ থেকে বিচ্ছিন্ন থাকার নীতি"
         },
         {
-          "word": "Isolation",
+          "word": "Provincialism",
           "isSynonym": true,
-          "meaningBn": "বহির্জগৎ থেকে বিচ্ছিন্নতা"
+          "meaningBn": "সংকীর্ণ প্রাদেশিক মনোভাব"
         },
         {
           "word": "Parochialism",
@@ -15902,9 +15902,9 @@
           "meaningBn": "সারসংক্ষেপ বা সংক্ষিপ্ত সংকলন"
         },
         {
-          "word": "Conundrum",
+          "word": "Levee",
           "isSynonym": false,
-          "meaningBn": "জটিল ধাঁধা বা বিষম সমস্যা"
+          "meaningBn": "নদীর বাঁধ বা বন্যা প্রতিরোধক প্রাচীর"
         }
       ]
     }
@@ -15970,7 +15970,7 @@
         {
           "word": "Unmanageable",
           "isSynonym": true,
-          "meaningBn": "নিয়ন্ত্রণাতীত"
+          "meaningBn": "নিয়ন্ত্রণাতীত বা অবাধ্য"
         },
         {
           "word": "Refractory",
@@ -15988,9 +15988,9 @@
           "meaningBn": "সত্যনিষ্ঠ বা সত্যবাদী"
         },
         {
-          "word": "Viscous",
+          "word": "Porous",
           "isSynonym": false,
-          "meaningBn": "আঠালো বা ঘন আঠার মতো"
+          "meaningBn": "ছিদ্রযুক্ত বা ঝাঝরা"
         }
       ]
     }
@@ -16074,9 +16074,9 @@
           "meaningBn": "কঠোর তিরস্কার বা ভর্ৎসনা"
         },
         {
-          "word": "Paucity",
+          "word": "Shard",
           "isSynonym": false,
-          "meaningBn": "স্বল্পতা বা অভাব"
+          "meaningBn": "ভাঙা পাত্রের টুকরো বা ভাঙা কাঁচের কুচি"
         }
       ]
     }
@@ -16113,7 +16113,7 @@
       }
     ],
     "sentenceCompletion": {
-      "sentenceWithBlank": "Following the sudden global release of the anticipated mobile software patch, technical support portals were completely _____ with hundreds of thousands of error reports.",
+      "sentenceWithBlank": "Following the sudden global release of the flawed mobile software patch, hundreds of thousands of error reports began to _____ the company's technical support portals.",
       "options": [
         "Starve",
         "Inundate",
@@ -16231,9 +16231,9 @@
           "meaningBn": "কঠোর অভিজ্ঞতায় শক্ত হয়ে যাওয়া"
         },
         {
-          "word": "Habitualized",
+          "word": "Habituated",
           "isSynonym": true,
-          "meaningBn": "প্রতিকূলতায় সহনশীল হয়ে ওঠা"
+          "meaningBn": "প্রতিকূলতায় সহনশীল ও অভ্যস্ত"
         },
         {
           "word": "Sporadic",
@@ -16241,14 +16241,14 @@
           "meaningBn": "বিক্ষিপ্ত বা অনিয়মিত"
         },
         {
-          "word": "Tractable",
+          "word": "Discrete",
           "isSynonym": false,
-          "meaningBn": "বশংবদ বা সহজে পরিচালনাযোগ্য"
+          "meaningBn": "স্বতন্ত্র বা পৃথক"
         },
         {
-          "word": "Inchoate",
+          "word": "Luminous",
           "isSynonym": false,
-          "meaningBn": "প্রাথমিক বা অপরিণত পর্যায়ের"
+          "meaningBn": "উজ্জ্বল বা দীপ্তিমান"
         }
       ]
     }
@@ -16334,7 +16334,7 @@
         {
           "word": "Zealot",
           "isSynonym": false,
-          "meaningBn": "ধর্মান্ধ বা চরম গোঁঁড়া ব্যক্তি"
+          "meaningBn": "ধর্মান্ধ বা চরম গোঁড়া ব্যক্তি"
         }
       ]
     }
@@ -16353,12 +16353,12 @@
     "synonyms": [
       "irritable",
       "cantankerous",
-      "hot-tempered"
+      "choleric"
     ],
     "antonyms": [
       "placid",
       "calm",
-      "good-natured"
+      "amiable"
     ],
     "examples": [
       {
@@ -16398,9 +16398,9 @@
           "meaningBn": "খিটখিটে মেজাজের"
         },
         {
-          "word": "Short-tempered",
+          "word": "Cantankerous",
           "isSynonym": true,
-          "meaningBn": "বদমেজাজী ও চটজলদি রাগী"
+          "meaningBn": "বদমেজাজী ও ঝগড়াটে"
         },
         {
           "word": "Choleric",
@@ -16413,9 +16413,9 @@
           "meaningBn": "প্রথাভাঙ্গা বা সনাতন আদর্শের বিরোধী"
         },
         {
-          "word": "Ebullient",
+          "word": "Homogeneous",
           "isSynonym": false,
-          "meaningBn": "উচ্ছ্বসিত বা প্রাণোচ্ছ্বল"
+          "meaningBn": "সমজাতীয় বা সমরূপ"
         },
         {
           "word": "Viable",
@@ -16479,14 +16479,14 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Unsure",
+          "word": "Hesitant",
           "isSynonym": true,
-          "meaningBn": "অনিশ্চিত"
+          "meaningBn": "দ্বিধান্বিত বা ইতস্ততকারী"
         },
         {
           "word": "Indecisive",
           "isSynonym": true,
-          "meaningBn": "দ্বিধাগ্রস্ত"
+          "meaningBn": "সিদ্ধান্তহীন বা দোদুল্যমান"
         },
         {
           "word": "Vacillating",
@@ -16494,9 +16494,9 @@
           "meaningBn": "ঘন ঘন মত পরিবর্তনকারী"
         },
         {
-          "word": "Obdurate",
+          "word": "Pristine",
           "isSynonym": false,
-          "meaningBn": "একগুঁয়ে বা অনমনীয়"
+          "meaningBn": "অক্ষত বা আদিম ও নিখুঁত"
         },
         {
           "word": "Recondite",
@@ -16525,7 +16525,7 @@
     "synonyms": [
       "schedule",
       "route",
-      "travel plan"
+      "agenda"
     ],
     "antonyms": [
       "detour",
@@ -16567,17 +16567,17 @@
         {
           "word": "Route",
           "isSynonym": true,
-          "meaningBn": "ভ্রমণের পথ"
-        },
-        {
-          "word": "Travel Plan",
-          "isSynonym": true,
-          "meaningBn": "ভ্রমণ সূচি"
+          "meaningBn": "ভ্রমণের নির্দিষ্ট পথ"
         },
         {
           "word": "Schedule",
           "isSynonym": true,
-          "meaningBn": "ধারাবাহিক সময়সূচি"
+          "meaningBn": "ভ্রমণের ধারাবাহিক সময়সূচি"
+        },
+        {
+          "word": "Agenda",
+          "isSynonym": true,
+          "meaningBn": "পরিকল্পিত কর্মসূচি বা ভ্রমণতালিকা"
         },
         {
           "word": "Torpor",
@@ -16663,7 +16663,7 @@
         {
           "word": "Terse",
           "isSynonym": true,
-          "meaningBn": "চাঁচাছোলা ও শব্দহীন"
+          "meaningBn": "চাঁচাছোলা ও স্বল্পভাষী"
         },
         {
           "word": "Specious",
@@ -16671,9 +16671,9 @@
           "meaningBn": "আপাতদৃষ্টিতে সত্য কিন্তু ভ্রান্ত"
         },
         {
-          "word": "Convoluted",
+          "word": "Malleable",
           "isSynonym": false,
-          "meaningBn": "জটিল বা পেঁচানো"
+          "meaningBn": "নমনীয় বা সহজে প্রভাবিত করা যায় এমন"
         },
         {
           "word": "Prohibitive",
@@ -16764,7 +16764,7 @@
         {
           "word": "Precursor",
           "isSynonym": false,
-          "meaningBn": "অগ্রদূত বা পূবসূরী"
+          "meaningBn": "অগ্রদূত বা পূর্বসূরি"
         }
       ]
     }
@@ -16840,7 +16840,7 @@
         {
           "word": "Soporific",
           "isSynonym": false,
-          "meaningBn": "ঘুমপাড়ানি বা নিদ্রাকষক"
+          "meaningBn": "ঘুমপাড়ানি বা নিদ্রাকর্ষক"
         },
         {
           "word": "Mendacious",
@@ -16929,9 +16929,9 @@
           "meaningBn": "বন্ধ বা অবরুদ্ধ করা"
         },
         {
-          "word": "Oscillate",
+          "word": "Distill",
           "isSynonym": false,
-          "meaningBn": "দোদুল্যমান হওয়া বা ওঠা-নামা করা"
+          "meaningBn": "পরিশোধন করা বা সারমর্ম বের করা"
         },
         {
           "word": "Assuage",
@@ -17083,7 +17083,7 @@
         {
           "word": "Barrier",
           "isSynonym": true,
-          "meaningBn": "প্রতিরোধী প্রাচীর বা প্রতিবন্ধক"
+          "meaningBn": "প্রতিরোধী প্রাচীর বা বাঁধ"
         },
         {
           "word": "Embankment",
@@ -17091,19 +17091,19 @@
           "meaningBn": "মাটির উঁচু বাঁধ"
         },
         {
-          "word": "Floodbank",
+          "word": "Dike",
           "isSynonym": true,
           "meaningBn": "নদীর বন্যা প্রতিরোধক বাঁধ"
         },
         {
           "word": "Truculence",
           "isSynonym": false,
-          "meaningBn": "আগ্রাসী মনোভাব বা হিংংস্রতা"
+          "meaningBn": "আগ্রাসী মনোভাব বা হিংস্রতা"
         },
         {
-          "word": "Deterrent",
+          "word": "Paragon",
           "isSynonym": false,
-          "meaningBn": "নিবারক বা প্রতিবন্ধক বস্তু"
+          "meaningBn": "আদর্শ বা নিখুঁত দৃষ্টান্ত"
         },
         {
           "word": "Indigence",
@@ -17167,14 +17167,14 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Joking",
+          "word": "Flippancy",
           "isSynonym": true,
-          "meaningBn": "হাসিঠাট্টা বা আমোদপ্রমোদ"
+          "meaningBn": "গুরুতর বিষয়ে হালকা চপলতা"
         },
         {
-          "word": "Silliness",
+          "word": "Lightheartedness",
           "isSynonym": true,
-          "meaningBn": "দায়িত্বহীন ছেলেমানুষি"
+          "meaningBn": "হালকা মেজাজ বা রসিকতা"
         },
         {
           "word": "Frivolity",
@@ -17194,7 +17194,7 @@
         {
           "word": "Propensity",
           "isSynonym": false,
-          "meaningBn": "সহজাত প্রবণতা বা বিশেষ ঝোঁঁক"
+          "meaningBn": "সহজাত প্রবণতা বা বিশেষ ঝোঁক"
         }
       ]
     }
@@ -17783,12 +17783,12 @@
         {
           "word": "Ductile",
           "isSynonym": true,
-          "meaningBn": "প্রসারণক্ষম বা পিটিয়ে তার তৈরির উপযোগী"
+          "meaningBn": "প্রসারণক্ষম বা পিটিয়ে পাতলা করার উপযোগী"
         },
         {
-          "word": "Tractable",
+          "word": "Adaptable",
           "isSynonym": true,
-          "meaningBn": "সহজে পরিচালনাযোগ্য বা নমনীয়"
+          "meaningBn": "সহজে মানিয়ে নেওয়া বা নমনীয়"
         },
         {
           "word": "Vitriolic",
@@ -17796,14 +17796,14 @@
           "meaningBn": "তীব্র বিদ্বেষপূর্ণ বা কটূক্তিময়"
         },
         {
-          "word": "Stoic",
+          "word": "Erudite",
           "isSynonym": false,
-          "meaningBn": "সুখ-দুঃখে নির্বিকার ও ধৈর্যশীল"
+          "meaningBn": "পণ্ডিত বা বিদ্বান"
         },
         {
           "word": "Caustic",
           "isSynonym": false,
-          "meaningBn": "ক্ষয়কারী বা ব্যঙ্গাত্মক তীব্র মন্তব্যকারী"
+          "meaningBn": "ক্ষয়কারী বা ব্যঙ্গাত্মক"
         }
       ]
     }
@@ -18092,7 +18092,7 @@
     "examples": [
       {
         "en": "The surgeon conducted a meticulous examination before starting the operation.",
-        "bn": "অস্ত্রো পচার শুরুর পূর্বে সার্জন অত্যন্ত সতর্কতার সাথে পরীক্ষা করেছিলেন।"
+        "bn": "অস্ত্রোপচার শুরুর পূর্বে সার্জন অত্যন্ত সতর্কতার সাথে পরীক্ষা করেছিলেন।"
       },
       {
         "en": "Through meticulous bookkeeping, the accountant discovered the fraud.",
@@ -18179,7 +18179,7 @@
     "examples": [
       {
         "en": "Living in isolation turned the grumpy old hermit into a bitter misanthrope.",
-        "bn": "বিচ্ছি ন্নভাবে বাস করায় খিটখিটে বৃদ্ধ এক চরম মানববিদ্বেষীতে পরিণত হয়েছিল।"
+        "bn": "বিচ্ছিন্নভাবে বাস করায় খিটখিটে বৃদ্ধ এক চরম মানববিদ্বেষীতে পরিণত হয়েছিল।"
       },
       {
         "en": "He was not a cruel misanthrope, merely someone who loved quiet solitude.",
@@ -18193,7 +18193,7 @@
         "Altruist",
         "Misanthrope",
         "Humanitarian",
-        "Bonhomie"
+        "Egalitarian"
       ],
       "correctIndex": 2,
       "optionMeaningsBn": [
@@ -18201,7 +18201,7 @@
         "পরোপকারী ব্যক্তি",
         "মানববিদ্বেষী ব্যক্তি",
         "মানবধর্মী ব্যক্তি",
-        "সৌহার্দ্যপূর্ণ স্বভাব"
+        "সাম্যবাদী ব্যক্তি"
       ],
       "explanationEn": "Misanthrope (noun) means a person who dislikes humankind and avoids human society.",
       "sentenceTranslationBn": "মানবসমাজ অপূরণীয়ভাবে স্বার্থপর ও ভণ্ড বলে বিশ্বাস করে সেই হতাশাবাদী লেখক পাহাড়চূড়ার কুটিরে আশ্রয় নেন এবং সমস্ত মানবিক সংসর্গ এড়িয়ে এক চরম মানববিদ্বেষী হিসেবে বাকি জীবন কাটান।"
@@ -18219,9 +18219,9 @@
           "meaningBn": "সমাজবিচ্ছিন্ন একাকী ব্যক্তি"
         },
         {
-          "word": "Antisocial",
+          "word": "Misanthropist",
           "isSynonym": true,
-          "meaningBn": "সমাজবিদ্বেষী ব্যক্তি"
+          "meaningBn": "মানবসমাজকে ঘৃণাকারী ব্যক্তি"
         },
         {
           "word": "Pragmatist",
@@ -18236,7 +18236,7 @@
         {
           "word": "Dilettante",
           "isSynonym": false,
-          "meaningBn": "শিল্পকলার অগভীর সৌখিন চর্চাকারী"
+          "meaningBn": "শিল্পকলার অগভীর শৌখিন চর্চাকারী"
         }
       ]
     }
@@ -18485,9 +18485,9 @@
           "meaningBn": "বিষাদগ্রস্ত ও গম্ভীর স্বভাবের"
         },
         {
-          "word": "Vivacious",
+          "word": "Empirical",
           "isSynonym": false,
-          "meaningBn": "প্রাণবন্ত ও প্রফুল্ল উচ্ছ্বল"
+          "meaningBn": "অভিজ্ঞতালব্ধ বা পর্যবেক্ষণভিত্তিক"
         },
         {
           "word": "Tentative",
@@ -18567,9 +18567,9 @@
           "meaningBn": "নীরস বা পার্থিব জাগতিক"
         },
         {
-          "word": "Workaday",
+          "word": "Quotidian",
           "isSynonym": true,
-          "meaningBn": "দৈনন্দিন সাধারণ কাজের উপযোগী"
+          "meaningBn": "দৈনন্দিন বা প্রাত্যহিক সাধারণ"
         },
         {
           "word": "Cryptic",
@@ -18577,9 +18577,9 @@
           "meaningBn": "রহস্যময় বা সংকেতময় গূঢ়ার্থযুক্ত"
         },
         {
-          "word": "Sublime",
+          "word": "Porous",
           "isSynonym": false,
-          "meaningBn": "মহিমান্বিত ও পরম অপূর্ব"
+          "meaningBn": "ছিদ্রযুক্ত বা ঝাঝরা"
         },
         {
           "word": "Tumultuous",
@@ -18962,7 +18962,7 @@
     "examples": [
       {
         "en": "Early treatment will obviate the need for risky surgery.",
-        "bn": "প্রাথমিক চিকিৎসা ঝুঁকিপূর্ণ অস্ত্রো পচারের প্রয়োজনীয়তা দূর করবে।"
+        "bn": "প্রাথমিক চিকিৎসা ঝুঁকিপূর্ণ অস্ত্রোপচারের প্রয়োজনীয়তা দূর করবে।"
       },
       {
         "en": "Cloud backups obviate the risk of losing valuable digital files.",
@@ -19244,7 +19244,7 @@
         "সহজসাধ্য",
         "কষ্টসাধ্য বা গুরুভারপূর্ণ",
         "তুচ্ছ",
-        "বেদাহীন বা সহজ",
+        "বেদনাহীন বা সহজ",
         "প্রাথমিক ও সরল"
       ],
       "explanationEn": "Onerous (adjective) means involving great effort, burden, or difficulty; burdensome and oppressive.",
@@ -19255,7 +19255,7 @@
         {
           "word": "Burdensome",
           "isSynonym": true,
-          "meaningBn": "ভারী বা কষ্টদায়ক বোঝা"
+          "meaningBn": "ভারী বা কষ্টদায়ক বোঝাস্বরূপ"
         },
         {
           "word": "Arduous",
@@ -19273,9 +19273,9 @@
           "meaningBn": "অত্যন্ত স্বচ্ছ ও পরিষ্কার"
         },
         {
-          "word": "Lucid",
+          "word": "Specious",
           "isSynonym": false,
-          "meaningBn": "স্পষ্ট ও সহজে বোধগম্য"
+          "meaningBn": "আপাতদৃষ্টিতে সত্য কিন্তু ভ্রান্ত"
         },
         {
           "word": "Volatile",
@@ -19433,7 +19433,7 @@
           "meaningBn": "দোল খাওয়া বা দোলা"
         },
         {
-          "word": "Waver",
+          "word": "Vacillate",
           "isSynonym": true,
           "meaningBn": "দ্বিধাদ্বন্দ্বে দোদুল্যমান থাকা"
         },
@@ -19443,9 +19443,9 @@
           "meaningBn": "উঠা-নামা করা বা অস্থির থাকা"
         },
         {
-          "word": "Precipitate",
+          "word": "Saturate",
           "isSynonym": false,
-          "meaningBn": "হঠাৎ ঘটানো বা ত্বরান্বিত করা"
+          "meaningBn": "ভিজিয়ে পূর্ণ করা বা সম্পৃক্ত করা"
         },
         {
           "word": "Condone",
@@ -19572,7 +19572,7 @@
     "examples": [
       {
         "en": "Mother Teresa is revered worldwide as a paragon of selfless virtue.",
-        "bn": "মাদার তেরেসা বিশ্বজুড়ে নিঃঃস্বার্থ পুণ্যময়তার এক অনন্য প্রতীক হিসেবে শ্রদ্ধেয়।"
+        "bn": "মাদার তেরেসা বিশ্বজুড়ে নিঃস্বার্থ পুণ্যময়তার এক অনন্য প্রতীক হিসেবে শ্রদ্ধেয়।"
       },
       {
         "en": "The ancient scholar was considered a paragon of academic integrity.",
@@ -19612,14 +19612,14 @@
           "meaningBn": "অনুকরণীয় শ্রেষ্ঠ উদাহরণ"
         },
         {
-          "word": "Nonpareil",
+          "word": "Epitome",
           "isSynonym": true,
-          "meaningBn": "অতুলনীয় বা সর্বশ্রেষ্ঠ ব্যক্তি"
+          "meaningBn": "নিখুঁত প্রতীক বা চূড়ান্ত নিদর্শন"
         },
         {
-          "word": "Preamble",
+          "word": "Levee",
           "isSynonym": false,
-          "meaningBn": "ভূমিকা বা প্রাথমিক প্রস্তাবনা"
+          "meaningBn": "নদীর বাঁধ বা বন্যা প্রতিরোধক প্রাচীর"
         },
         {
           "word": "Tirade",
@@ -20057,9 +20057,9 @@
           "meaningBn": "ভাঙা কাঁচ বা পাত্রের ধারালো টুকরো"
         },
         {
-          "word": "Panoply",
+          "word": "Coda",
           "isSynonym": false,
-          "meaningBn": "বিশাল সমাহার বা মহিমান্বিত প্রদর্শনী"
+          "meaningBn": "উপসংহার বা সমাপ্তি অংশ"
         },
         {
           "word": "Decorum",
@@ -20213,7 +20213,7 @@
         {
           "word": "Constant",
           "isSynonym": true,
-          "meaningBn": "অবিরাম বা অপরিবর্তনীয়"
+          "meaningBn": "অবিরাম বা নিত্য"
         },
         {
           "word": "Enduring",
@@ -20236,9 +20236,9 @@
           "meaningBn": "আবেগহীন বা নির্বিকার প্রকৃতির"
         },
         {
-          "word": "Pervasive",
+          "word": "Caustic",
           "isSynonym": false,
-          "meaningBn": "সর্বত্র বিস্তৃত বা সর্বব্যাপী"
+          "meaningBn": "ক্ষয়কারী বা ব্যঙ্গাত্মক"
         }
       ]
     }
@@ -20385,9 +20385,9 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Careless",
+          "word": "Mechanical",
           "isSynonym": true,
-          "meaningBn": "উদাসীন বা দায়সারা"
+          "meaningBn": "যান্ত্রিক বা নিছক নিয়মরক্ষার"
         },
         {
           "word": "Cursory",
@@ -20397,7 +20397,7 @@
         {
           "word": "Superficial",
           "isSynonym": true,
-          "meaningBn": "অগভীর বা লোকদেখানো"
+          "meaningBn": "অগভীর বা দায়সারা"
         },
         {
           "word": "Seditious",
@@ -20405,14 +20405,14 @@
           "meaningBn": "রাষ্ট্রদ্রোহী বা বিদ্রোহ উদ্রেককারী"
         },
         {
-          "word": "Placid",
+          "word": "Luminous",
           "isSynonym": false,
-          "meaningBn": "শান্ত ও সৌম্য অচঞ্চল"
+          "meaningBn": "উজ্জ্বল বা দীপ্তিমান"
         },
         {
-          "word": "Desultory",
+          "word": "Porous",
           "isSynonym": false,
-          "meaningBn": "এলোমেলো বা ধারাবাহিকতাহীন"
+          "meaningBn": "ছিদ্রযুক্ত বা ঝাঝরা"
         }
       ]
     }
@@ -20491,9 +20491,9 @@
           "meaningBn": "দুর্বল বা অত্যন্ত ক্ষীণ"
         },
         {
-          "word": "Pugnacious",
+          "word": "Boorish",
           "isSynonym": false,
-          "meaningBn": "মারমুখী বা ঝগড়াটে স্বভাবের"
+          "meaningBn": "অভদ্র বা চাষাড়ে স্বভাবের"
         },
         {
           "word": "Specious",
@@ -20583,9 +20583,9 @@
           "meaningBn": "নীরব বা অব্যক্ত সম্মতিসূচক"
         },
         {
-          "word": "Phlegmatic",
+          "word": "Morose",
           "isSynonym": false,
-          "meaningBn": "শান্ত ও নির্বিকার স্বভাবের"
+          "meaningBn": "বিষণ্ণ বা বিমর্ষ স্বভাবের"
         }
       ]
     }
@@ -20670,9 +20670,9 @@
           "meaningBn": "ক্ষণস্থায়ী বা অস্থায়ী"
         },
         {
-          "word": "Pungent",
+          "word": "Banal",
           "isSynonym": false,
-          "meaningBn": "ঝাঁঝালো ও তীক্ষ্ণ গন্ধযুক্ত"
+          "meaningBn": "মামুলি বা গতানুগতিক"
         }
       ]
     }
@@ -20779,7 +20779,7 @@
       "appease",
       "pacify",
       "mollify",
-      "gruntle"
+      "conciliate"
     ],
     "antonyms": [
       "anger",
@@ -20789,7 +20789,7 @@
     "examples": [
       {
         "en": "The manager offered gift vouchers to placate the angry shoppers.",
-        "bn": "ক্ষুব্ধ ক্রে তাদের শান্ত করতে ব্যবস্থাপক উপহারের ভাউচার দিয়েছিলেন।"
+        "bn": "ক্ষুব্ধ ক্রেতাদের শান্ত করতে ব্যবস্থাপক উপহারের ভাউচার দিয়েছিলেন।"
       },
       {
         "en": "Nothing the boy promised could placate his disappointed father.",
@@ -20839,9 +20839,9 @@
           "meaningBn": "তুচ্ছতাচ্ছিল্য বা ছোট করা"
         },
         {
-          "word": "Proscribe",
+          "word": "Occlude",
           "isSynonym": false,
-          "meaningBn": "আইন করে নিষিদ্ধ করা"
+          "meaningBn": "বন্ধ বা অবরুদ্ধ করা"
         },
         {
           "word": "Brandish",
@@ -20928,12 +20928,12 @@
         {
           "word": "Dilettante",
           "isSynonym": false,
-          "meaningBn": "শিল্পকলার অগভীর সৌখিন চর্চাকারী"
+          "meaningBn": "শিল্পকলার অগভীর শৌখিন চর্চাকারী"
         },
         {
-          "word": "Panache",
+          "word": "Shard",
           "isSynonym": false,
-          "meaningBn": "আড়ম্বরপূর্ণ আত্মবিশ্বাস বা বিশেষ শৈলী"
+          "meaningBn": "ভাঙা পাত্রের টুকরো বা ভাঙা কাঁচের কুচি"
         }
       ]
     }
@@ -21013,9 +21013,9 @@
           "meaningBn": "সর্বোচ্চ শিখর বা শীর্ষবিন্দু"
         },
         {
-          "word": "Potentate",
+          "word": "Levee",
           "isSynonym": false,
-          "meaningBn": "ক্ষমতাশালী শাসক বা একনায়ক নেতা"
+          "meaningBn": "নদীর বাঁধ বা বন্যা প্রতিরোধক প্রাচীর"
         },
         {
           "word": "Crucible",
@@ -21054,7 +21054,7 @@
       },
       {
         "en": "Shoppers were overwhelmed by the plethora of smartphone choices.",
-        "bn": "স্মার্টফোনের উপচে পড়া বিকল্প দেখে ক্রে তারা বিভ্রান্ত হয়ে পড়েছিল।"
+        "bn": "স্মার্টফোনের উপচে পড়া বিকল্প দেখে ক্রেতারা বিভ্রান্ত হয়ে পড়েছিল।"
       }
     ],
     "sentenceCompletion": {
@@ -21085,7 +21085,7 @@
           "meaningBn": "আধিক্য বা মাত্রাতিরিক্ত পরিমাণ"
         },
         {
-          "word": "Surplus",
+          "word": "Surfeit",
           "isSynonym": true,
           "meaningBn": "উদ্বৃত্ত বা উপচে পড়া প্রাচুর্য"
         },
@@ -21100,9 +21100,9 @@
           "meaningBn": "কোনো বিদ্যায় একেবারেই নতুন ব্যক্তি"
         },
         {
-          "word": "Pedant",
+          "word": "Coda",
           "isSynonym": false,
-          "meaningBn": "কেতাবি পণ্ডিত বা পাণ্ডিত্য জাহিরকারী"
+          "meaningBn": "উপসংহার বা সমাপ্তি অংশ"
         },
         {
           "word": "Decorum",
@@ -21265,9 +21265,9 @@
           "meaningBn": "ভেদ্য বা তরল প্রবেশযোগ্য"
         },
         {
-          "word": "Penetrable",
+          "word": "Absorbent",
           "isSynonym": true,
-          "meaningBn": "প্রবেশসাধ্য বা ভেদযোগ্য"
+          "meaningBn": "শোষণক্ষম বা প্রবেশসাধ্য"
         },
         {
           "word": "Dogmatic",
@@ -21280,9 +21280,9 @@
           "meaningBn": "নাছোড়বান্দা বা সংকল্পবদ্ধ"
         },
         {
-          "word": "Punctilious",
+          "word": "Lucid",
           "isSynonym": false,
-          "meaningBn": "ছোটখাটো নিয়মে অতি খুঁতখুঁতে"
+          "meaningBn": "সুস্পষ্ট বা বোধগম্য"
         }
       ]
     }
@@ -21453,9 +21453,9 @@
           "meaningBn": "উইল দ্বারা রেখে যাওয়া সম্পত্তি"
         },
         {
-          "word": "Parity",
+          "word": "Shard",
           "isSynonym": false,
-          "meaningBn": "সমতা বা ভারসাম্য"
+          "meaningBn": "ভাঙা পাত্রের টুকরো বা ভাঙা কাঁচের কুচি"
         }
       ]
     }
@@ -21572,12 +21572,12 @@
     ],
     "examples": [
       {
-        "en": "His precipitate decision to quit his job without savings was foolish.",
-        "bn": "সঞ্চয় ছাড়াই চাকরি ছেড়ে দেওয়ার তার হঠকারী সিদ্ধান্তটি ছিল অত্যন্ত বোকামিপূর্ণ।"
+        "en": "A sudden diplomatic insult can easily precipitate an armed border conflict.",
+        "bn": "একটি আকস্মিক কূটনৈতিক অপমান সহজেই সশস্ত্র সীমান্ত সংঘাত ডেকে আনতে পারে।"
       },
       {
-        "en": "Avoid any precipitate action before all the forensic facts are verified.",
-        "bn": "সব ফরেনসিক তথ্য যাচাইয়ের আগে কোনো ধরণের তড়িঘড়ি পদক্ষেপ নেওয়া এড়িয়ে চলুন।"
+        "en": "The bank failure threatened to precipitate a nationwide economic panic.",
+        "bn": "ব্যাংকটির পতন দেশজুড়ে এক চরম অর্থনৈতিক আতঙ্ক ত্বরান্বিত করার আশঙ্কা তৈরি করেছিল।"
       }
     ],
     "sentenceCompletion": {
@@ -21613,9 +21613,9 @@
           "meaningBn": "ত্বরান্বিত করা বা দ্রুত ঘটানো"
         },
         {
-          "word": "Instigate",
+          "word": "Accelerate",
           "isSynonym": true,
-          "meaningBn": "উস্কে দেওয়া বা প্ররোচিত করা"
+          "meaningBn": "গতিশীল বা ত্বরান্বিত করা"
         },
         {
           "word": "Delineate",
@@ -21628,9 +21628,9 @@
           "meaningBn": "উপেক্ষা করে অপরাধ মার্জনা করা"
         },
         {
-          "word": "Permeate",
+          "word": "Saturate",
           "isSynonym": false,
-          "meaningBn": "সর্বত্র প্রবেশ করে ছড়িয়ে পড়া"
+          "meaningBn": "ভিজিয়ে পূর্ণ করা বা সম্পৃক্ত করা"
         }
       ]
     }
@@ -21660,7 +21660,7 @@
     "examples": [
       {
         "en": "The manual typewriter was an important technological precursor to keyboards.",
-        "bn": "হাতে চালানো টাইপরাইটার ছিল কম্পি উটার কীবোর্ডের এক গুরুত্বপূর্ণ পূর্বসূরী।"
+        "bn": "হাতে চালানো টাইপরাইটার ছিল কম্পিউটার কীবোর্ডের এক গুরুত্বপূর্ণ পূর্বসূরী।"
       },
       {
         "en": "Small tremors often act as a dangerous precursor to a massive earthquake.",
@@ -21710,9 +21710,9 @@
           "meaningBn": "তীব্র আক্রমণাত্মক বক্তৃতা বা বাক্যবাণ"
         },
         {
-          "word": "Partisan",
+          "word": "Levee",
           "isSynonym": false,
-          "meaningBn": "অন্ধ সমর্থক বা কোনো দলের অনুসারী"
+          "meaningBn": "নদীর বাঁধ বা বন্যা প্রতিরোধক প্রাচীর"
         },
         {
           "word": "Charlatan",
@@ -21782,19 +21782,19 @@
           "meaningBn": "দাম্ভিক বা উদ্ধত"
         },
         {
-          "word": "Insolent",
+          "word": "Brazen",
           "isSynonym": true,
-          "meaningBn": "অহংকারী ও শিষ্টাচারহীন"
+          "meaningBn": "নির্লজ্জ ও শিষ্টাচারহীন"
         },
         {
-          "word": "Audacious",
+          "word": "Overbearing",
           "isSynonym": true,
-          "meaningBn": "অতিরিক্ত বেপরোয়া বা ধৃষ্টতাপূর্ণ"
+          "meaningBn": "অতিরিক্ত প্রভুত্বব্যঞ্জক বা অনধিকারচর্চাকারী"
         },
         {
-          "word": "Pellucid",
+          "word": "Salubrious",
           "isSynonym": false,
-          "meaningBn": "অত্যন্ত স্বচ্ছ ও দ্ব্যর্থহীন"
+          "meaningBn": "স্বাস্থ্যকর বা স্বাস্থ্যপ্রদ"
         },
         {
           "word": "Lethargic",
@@ -21864,19 +21864,19 @@
     "multiSynonyms": {
       "options": [
         {
+          "word": "Hedge",
+          "isSynonym": true,
+          "meaningBn": "সরাসরি উত্তর না দিয়ে কথা ঘোরানো"
+        },
+        {
           "word": "Equivocate",
           "isSynonym": true,
           "meaningBn": "দ্ব্যর্থবোধক কথা বলে বিভ্রান্ত করা"
         },
         {
-          "word": "Evade",
+          "word": "Tergiversate",
           "isSynonym": true,
-          "meaningBn": "সত্য কৌশলে এড়িয়ে চলা"
-        },
-        {
-          "word": "Fabricate",
-          "isSynonym": true,
-          "meaningBn": "বানোয়াট অজুহাত দেওয়া বা ছলনা করা"
+          "meaningBn": "টালবাহানা বা ছলচাতুরী করা"
         },
         {
           "word": "Disseminate",
@@ -21884,9 +21884,9 @@
           "meaningBn": "তথ্য বা মতাদর্শ সর্বত্র ছড়িয়ে দেওয়া"
         },
         {
-          "word": "Proliferate",
+          "word": "Saturate",
           "isSynonym": false,
-          "meaningBn": "দ্রুত বিস্তার লাভ বা সংখ্যাবৃদ্ধি পাওয়া"
+          "meaningBn": "ভিজিয়ে পূর্ণ করা বা সম্পৃক্ত করা"
         },
         {
           "word": "Consecrate",
@@ -22056,9 +22056,9 @@
           "meaningBn": "জনমোহিনী বক্তা বা উস্কানিদাতা নেতা"
         },
         {
-          "word": "Paradigm",
+          "word": "Levee",
           "isSynonym": false,
-          "meaningBn": "অনুকরণীয় আদর্শ রূপরেখা বা মডেল"
+          "meaningBn": "নদীর বাঁধ বা বন্যা প্রতিরোধক প্রাচীর"
         },
         {
           "word": "Catalyst",
@@ -22124,9 +22124,9 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Difficult",
+          "word": "Troublesome",
           "isSynonym": true,
-          "meaningBn": "কঠিন বা সমস্যাসংকুল"
+          "meaningBn": "সমস্যাসংকুল বা ঝামেলাপূর্ণ"
         },
         {
           "word": "Doubtful",
@@ -22134,9 +22134,9 @@
           "meaningBn": "সন্দেহজনক বা অনিশ্চিত"
         },
         {
-          "word": "Perplexing",
+          "word": "Precarious",
           "isSynonym": true,
-          "meaningBn": "বিভ্রান্তিকর বা জটিল"
+          "meaningBn": "অনিশ্চিত ও ঝুঁকিপূর্ণ"
         },
         {
           "word": "Sublime",
@@ -22144,9 +22144,9 @@
           "meaningBn": "মহিমান্বিত ও পরম অপূর্ব"
         },
         {
-          "word": "Placid",
+          "word": "Mendacious",
           "isSynonym": false,
-          "meaningBn": "শান্ত ও সৌম্য অচঞ্চল"
+          "meaningBn": "মিথ্যাবাদী বা অসত্য"
         },
         {
           "word": "Gustatory",
@@ -22272,7 +22272,7 @@
       },
       {
         "en": "She shared a profound truth about kindness that moved the audience.",
-        "bn": "তিনি দয়া সম্পর্কে এমন এক গভীর সত্য তুলে ধরেছিলেন যা শ্রো তাদের আলোড়িত করেছিল।"
+        "bn": "তিনি দয়া সম্পর্কে এমন এক গভীর সত্য তুলে ধরেছিলেন যা শ্রোতাদের আলোড়িত করেছিল।"
       }
     ],
     "sentenceCompletion": {
@@ -22308,14 +22308,14 @@
           "meaningBn": "সূক্ষ্ম অন্তর্দৃষ্টিসম্পন্ন"
         },
         {
-          "word": "Fathomless",
+          "word": "Abstruse",
           "isSynonym": true,
-          "meaningBn": "অতলস্পর্শী বা অগাধ"
+          "meaningBn": "গভীর ও গূঢ় তত্ত্বপূর্ণ"
         },
         {
-          "word": "Pungent",
+          "word": "Mendacious",
           "isSynonym": false,
-          "meaningBn": "ঝাঁঝালো ও তীক্ষ্ণ তীব্র"
+          "meaningBn": "মিথ্যাবাদী বা অসত্য"
         },
         {
           "word": "Caustic",
@@ -22355,7 +22355,7 @@
     "examples": [
       {
         "en": "The prohibitive price of real estate prevents young buyers from buying homes.",
-        "bn": "জমির অতিরিক্ত চড়া দাম তরুণ ক্রে তাদের নিজস্ব বাড়ি কেনার পথে বাধা হয়ে দাঁড়ায়।"
+        "bn": "জমির অতিরিক্ত চড়া দাম তরুণ ক্রেতাদের নিজস্ব বাড়ি কেনার পথে বাধা হয়ে দাঁড়ায়।"
       },
       {
         "en": "High tariffs imposed a prohibitive burden on foreign manufactured goods.",
@@ -22491,9 +22491,9 @@
           "meaningBn": "বিশদভাবে রূপরেখা বর্ণনা বা চিত্রিত করা"
         },
         {
-          "word": "Propitiate",
+          "word": "Occlude",
           "isSynonym": false,
-          "meaningBn": "সন্তুষ্ট করে ক্রোধ শান্ত করা"
+          "meaningBn": "বন্ধ বা অবরুদ্ধ করা"
         },
         {
           "word": "Brandish",
@@ -22742,14 +22742,14 @@
           "meaningBn": "ভদ্রতা বা শালীনতা"
         },
         {
-          "word": "Modesty",
+          "word": "Etiquette",
           "isSynonym": true,
-          "meaningBn": "বিনয় বা সামাজিক মার্জিত আচরণ"
+          "meaningBn": "সদাচার বা সামাজিক রীতিনীতি"
         },
         {
-          "word": "Panoply",
+          "word": "Shard",
           "isSynonym": false,
-          "meaningBn": "বিশাল সমাহার বা মহিমান্বিত প্রদর্শনী"
+          "meaningBn": "ভাঙা পাত্রের টুকরো বা ভাঙা কাঁচের কুচি"
         },
         {
           "word": "Torpor",
@@ -22824,9 +22824,9 @@
           "meaningBn": "নিষেধ বা বারণ করা"
         },
         {
-          "word": "Prohibit",
+          "word": "Outlaw",
           "isSynonym": true,
-          "meaningBn": "আইন করে নিষিদ্ধ করা"
+          "meaningBn": "আইন করে নিষিদ্ধ বা অবৈধ করা"
         },
         {
           "word": "Interdict",
@@ -22839,14 +22839,14 @@
           "meaningBn": "হঠাৎ উদ্দীপ্ত বা সক্রিয় করে তোলা"
         },
         {
-          "word": "Condone",
+          "word": "Distill",
           "isSynonym": false,
-          "meaningBn": "উপেক্ষা করে অপরাধ মার্জনা করা"
+          "meaningBn": "পরিশোধন করা বা সারমর্ম বের করা"
         },
         {
-          "word": "Permeate",
+          "word": "Saturate",
           "isSynonym": false,
-          "meaningBn": "সর্বত্র প্রবেশ করে ছড়িয়ে পড়া"
+          "meaningBn": "ভিজিয়ে পূর্ণ করা বা সম্পৃক্ত করা"
         }
       ]
     }
@@ -22913,12 +22913,12 @@
         {
           "word": "Acrid",
           "isSynonym": true,
-          "meaningBn": "কটূ বা কটু গন্ধযুক্ত"
+          "meaningBn": "কটু বা ঝাঁঝালো গন্ধযুক্ত"
         },
         {
-          "word": "Piquant",
+          "word": "Mordant",
           "isSynonym": true,
-          "meaningBn": "তীক্ষ্ণ ও ঝাঁঝালো স্বাদযুক্ত"
+          "meaningBn": "তীক্ষ্ণ ও বিদ্রূপাত্মক"
         },
         {
           "word": "Dogmatic",
@@ -22931,9 +22931,9 @@
           "meaningBn": "নাছোড়বান্দা বা সংকল্পবদ্ধ"
         },
         {
-          "word": "Pellucid",
+          "word": "Luminous",
           "isSynonym": false,
-          "meaningBn": "অত্যন্ত স্বচ্ছ ও দ্ব্যর্থহীন"
+          "meaningBn": "উজ্জ্বল বা দীপ্তিমান"
         }
       ]
     }
@@ -23059,41 +23059,41 @@
       }
     ],
     "sentenceCompletion": {
-      "sentenceWithBlank": "Defense attorneys spent entire courtroom sessions obsessing over a grammatical _____ in the contract preamble, attempting to derail the fraud trial over trivial punctuation.",
+      "sentenceWithBlank": "Rather than addressing the overarching constitutional principles at stake in the landmark appeal, the defense attorneys chose to _____ endlessly over minor typographical ambiguities in the statute.",
       "options": [
-        "Insight",
-        "Epiphany",
-        "Breakthrough",
-        "Revelation",
+        "Concur",
+        "Acquiesce",
+        "Capitulate",
+        "Harmonize",
         "Quibble"
       ],
       "correctIndex": 4,
       "optionMeaningsBn": [
-        "গভীর অন্তর্দৃষ্টি",
-        "দিব্যজ্ঞান",
-        "যুগান্তকারী সাফল্য",
-        "উন্মোচন",
-        "তুচ্ছ বিষয় নিয়ে খুঁতখুঁতে আপত্তি বা বাকবিতণ্ডা"
+        "একমত হওয়া",
+        "নীরবে মেনে নেওয়া",
+        "আত্মসমর্পণ করা",
+        "সামঞ্জস্য বিধান করা",
+        "তুচ্ছ বিষয়ে খুঁত ধরা বা অহেতুক তর্ক করা"
       ],
-      "explanationEn": "Quibble (noun) means a slight objection or criticism about a trivial matter; a petty complaint.",
-      "sentenceTranslationBn": "আসামীপক্ষের আইনজীবীরা আদালতের পুরো সেশন চুক্তির প্রস্তাবনার ব্যাকরণগত এক তুচ্ছ আপত্তি ও খুঁত নিয়ে ব্যয় করেছিলেন, যাতে সামান্য যতিচিহ্নের ছুতোয় জালিয়াতির মামলাটি ব্যাহত করা যায়।"
+      "explanationEn": "Quibble (verb) means to argue or raise petty, trivial objections about a minor matter.",
+      "sentenceTranslationBn": "যুগান্তকারী আপিল মামলাটিতে জড়িত মূল সাংবিধানিক নীতিগুলোর মুখোমুখি হওয়ার পরিবর্তে, আসামিপক্ষের আইনজীবীরা আইনের সামান্য মুদ্রণজনিত অস্পষ্টতা নিয়ে অহেতুক খুঁত ধরা ও তর্ক করার পথ বেছে নিয়েছিলেন।"
     },
     "multiSynonyms": {
       "options": [
         {
-          "word": "Argue",
+          "word": "Bicker",
           "isSynonym": true,
-          "meaningBn": "তর্ক করা বা বাগবিতণ্ডা করা"
+          "meaningBn": "তুচ্ছ বিষয় নিয়ে তর্ক করা"
         },
         {
-          "word": "Equivocate",
+          "word": "Nitpick",
           "isSynonym": true,
-          "meaningBn": "কৌশলে এড়িয়ে দ্ব্যর্থবোধক কথা বলা"
+          "meaningBn": "ছোটখাটো ভুল বা খুঁত ধরা"
         },
         {
           "word": "Cavil",
           "isSynonym": true,
-          "meaningBn": "অকারণে তুচ্ছ বিষয়ে খুঁত ধরা"
+          "meaningBn": "অকারণে তুচ্ছ বিষয়ে আপত্তি তোলা"
         },
         {
           "word": "Disseminate",
@@ -23101,9 +23101,9 @@
           "meaningBn": "তথ্য বা মতাদর্শ সর্বত্র ছড়িয়ে দেওয়া"
         },
         {
-          "word": "Precipitate",
+          "word": "Saturate",
           "isSynonym": false,
-          "meaningBn": "হঠাৎ ঘটানো বা ত্বরান্বিত করা"
+          "meaningBn": "ভিজিয়ে পূর্ণ করা বা সম্পৃক্ত করা"
         },
         {
           "word": "Consecrate",
@@ -23214,7 +23214,7 @@
       "tenuous",
       "refined",
       "esoteric",
-      "sublimate"
+      "lofty"
     ],
     "antonyms": [
       "dense",
@@ -23224,7 +23224,7 @@
     "examples": [
       {
         "en": "Mountaineers breathe deeply in the rarefied atmosphere of high peaks.",
-        "bn": "উঁচু পর্বতের চূড়ার পাতলা ও লঘু বাতাসে পর্বতারোহীরা গভীর নিঃঃশ্বাস নেন।"
+        "bn": "উঁচু পর্বতের চূড়ার পাতলা ও লঘু বাতাসে পর্বতারোহীরা গভীর নিঃশ্বাস নেন।"
       },
       {
         "en": "He lives in the rarefied world of high-society art collectors.",
@@ -23315,7 +23315,7 @@
       },
       {
         "en": "Police struggled to manage the recalcitrant crowd outside the arena.",
-        "bn": "স্টে ডিয়ামের বাইরে অবাধ্য ও বিশৃঙ্খল জনতাকে নিয়ন্ত্রণ করতে পুলিশকে হিমশিম খেতে হয়েছিল।"
+        "bn": "স্টেডিয়ামের বাইরে অবাধ্য ও বিশৃঙ্খল জনতাকে নিয়ন্ত্রণ করতে পুলিশকে হিমশিম খেতে হয়েছিল।"
       }
     ],
     "sentenceCompletion": {
@@ -23361,9 +23361,9 @@
           "meaningBn": "মহিমান্বিত ও পরম অপূর্ব"
         },
         {
-          "word": "Placid",
+          "word": "Porous",
           "isSynonym": false,
-          "meaningBn": "শান্ত ও সৌম্য অচঞ্চল"
+          "meaningBn": "ছিদ্রযুক্ত বা ঝাঝরা"
         },
         {
           "word": "Gustatory",
@@ -23433,29 +23433,29 @@
           "meaningBn": "ফিরিয়ে নেওয়া বা প্রত্যাহার করা"
         },
         {
-          "word": "Revoke",
+          "word": "Disavow",
           "isSynonym": true,
-          "meaningBn": "বাতিল বা প্রত্যাহার করা"
+          "meaningBn": "অস্বীকার বা প্রত্যাখ্যান করা"
         },
         {
-          "word": "Renounce",
+          "word": "Abjure",
           "isSynonym": true,
-          "meaningBn": "প্রকাশ্যে আগের মত পরিত্যাগ করা"
+          "meaningBn": "শপথপূর্বক পূর্বমত পরিত্যাগ করা"
         },
         {
-          "word": "Demur",
+          "word": "Distill",
           "isSynonym": false,
-          "meaningBn": "ভদ্রভাবে আপত্তি বা দ্বিধা প্রকাশ করা"
+          "meaningBn": "পরিশোধন করা বা সারমর্ম বের করা"
         },
         {
-          "word": "Corroborate",
+          "word": "Saturate",
           "isSynonym": false,
-          "meaningBn": "সাক্ষ্যপ্রমাণ দিয়ে সত্যতা নিশ্চিত করা"
+          "meaningBn": "ভিজিয়ে পূর্ণ করা বা সম্পৃক্ত করা"
         },
         {
-          "word": "Proscribe",
+          "word": "Occlude",
           "isSynonym": false,
-          "meaningBn": "আইন করে নিষিদ্ধ ঘোষণা করা"
+          "meaningBn": "বন্ধ বা অবরুদ্ধ করা"
         }
       ]
     }
@@ -23496,7 +23496,7 @@
       "sentenceWithBlank": "Following the scandal that destroyed his public reputation, the disgraced financier lived as a solitary _____, shuttering his mansion and refusing to receive any visitors.",
       "options": [
         "Socialite",
-        "Bonvivant",
+        "Cosmopolite",
         "Extrovert",
         "Flaneur",
         "Recluse"
@@ -23504,7 +23504,7 @@
       "correctIndex": 4,
       "optionMeaningsBn": [
         "সামাজিক প্রভাবশালী ব্যক্তি",
-        "আমোদপ্রিয় ব্যক্তি",
+        "বিশ্বনাগরিক বা সমাজপ্রিয় ব্যক্তি",
         "বহির্মুখী মানুষ",
         "ভবঘুরে পর্যটক",
         "নিভৃতচারী বা সন্ন্যাসী স্বভাবের ব্যক্তি"
@@ -23585,7 +23585,7 @@
         "Pedestrian",
         "Recondite",
         "Commonplace",
-        "Self-explanatory",
+        "Pellucid",
         "Elementary"
       ],
       "correctIndex": 1,
@@ -23593,7 +23593,7 @@
         "মামুলি বা সাধারণ",
         "গূঢ়, জটিল বা দুর্বোধ্য",
         "সাধারণ",
-        "স্বতঃস্পষ্ট",
+        "অত্যন্ত স্বচ্ছ ও সহজবোধ্য",
         "প্রাথমিক"
       ],
       "explanationEn": "Recondite (adjective) means difficult to understand; abstruse, obscure, or little-known.",
@@ -23659,7 +23659,7 @@
     "examples": [
       {
         "en": "The doctor struggled to cure the refractory bacterial infection.",
-        "bn": "চিকিৎসায় অনড় বা প্রতিরোধ গড়ে তোলা ব্যাকটেরিয়া সংক্রমণটি নিরাময় করতে ডাক্তার হিমশিম খাচ্ছি লেন।"
+        "bn": "চিকিৎসায় অনড় বা প্রতিরোধ গড়ে তোলা ব্যাকটেরিয়া সংক্রমণটি নিরাময় করতে ডাক্তার হিমশিম খাচ্ছিলেন।"
       },
       {
         "en": "The refractory mule dug in its hooves and refused to budge.",
@@ -23709,14 +23709,14 @@
           "meaningBn": "অনর্গল কথা বলা বাকপটু"
         },
         {
-          "word": "Stoic",
+          "word": "Luminous",
           "isSynonym": false,
-          "meaningBn": "সুখ-দুঃখে নির্বিকার ও শান্ত"
+          "meaningBn": "উজ্জ্বল বা দীপ্তিমান"
         },
         {
-          "word": "Capricious",
+          "word": "Salubrious",
           "isSynonym": false,
-          "meaningBn": "খামখেয়ালী বা অনিশ্চিত মেজাজের"
+          "meaningBn": "স্বাস্থ্যকর বা স্বাস্থ্যপ্রদ"
         }
       ]
     }
@@ -23919,12 +23919,12 @@
     ],
     "examples": [
       {
-        "en": "The mother looked with gentle reproach at her messy children.",
-        "bn": "মা তার ঘর এলোমেলো করা সন্তানদের দিকে স্নিগ্ধ অনুযোগের দৃষ্টিতে তাকালেন।"
+        "en": "The manager had to reproach the clerk for repeatedly arriving late.",
+        "bn": "বারবার দেরিতে আসার কারণে ব্যবস্থাপক কর্মচারীটিকে তিরস্কার করতে বাধ্য হয়েছিলেন।"
       },
       {
-        "en": "His conduct was above reproach throughout his forty years of service.",
-        "bn": "চল্লিশ বছরের কর্মজীবনে তার আচরণ ছিল সকল নিন্দার ঊর্ধ্ বে।"
+        "en": "Citizens began to reproach the council for neglecting flood defenses.",
+        "bn": "বন্যা প্রতিরক্ষা ব্যবস্থা অবহেলা করার জন্য নাগরিকরা কাউন্সিলকে ভর্ৎসনা করতে শুরু করে।"
       }
     ],
     "sentenceCompletion": {
@@ -23950,24 +23950,24 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Blame",
-          "isSynonym": true,
-          "meaningBn": "দোষারোপ করা বা নিন্দা করা"
-        },
-        {
           "word": "Scold",
           "isSynonym": true,
           "meaningBn": "বকা দেওয়া বা তিরস্কার করা"
         },
         {
-          "word": "Admonish",
+          "word": "Rebuke",
           "isSynonym": true,
-          "meaningBn": "সতর্ক করা বা মৃদু ভর্ৎসনা করা"
+          "meaningBn": "কঠোরভাবে ভর্ৎসনা করা"
         },
         {
-          "word": "Condone",
+          "word": "Upbraid",
+          "isSynonym": true,
+          "meaningBn": "তীব্র অনুযোগ বা ভর্ৎসনা করা"
+        },
+        {
+          "word": "Saturate",
           "isSynonym": false,
-          "meaningBn": "উপেক্ষা করে অপরাধ মার্জনা করা"
+          "meaningBn": "ভিজিয়ে পূর্ণ করা বা সম্পৃক্ত করা"
         },
         {
           "word": "Permeate",
@@ -24355,8 +24355,8 @@
     ],
     "examples": [
       {
-        "en": "Nothing could shake his resolve to protect the family farm.",
-        "bn": "পারিবারিক খামার রক্ষা করার ব্যাপারে তার দৃঢ় সংকল্প কেউ নাড়াতে পারেনি।"
+        "en": "The board met urgently to resolve the financial crisis before Monday.",
+        "bn": "সোমবারের আগেই আর্থিক সংকটটি সমাধান করতে পরিচালনা পর্ষদ জরুরি বৈঠকে বসেছিল।"
       },
       {
         "en": "Mediators met to resolve the border dispute between neighbors.",
@@ -24617,8 +24617,8 @@
     ],
     "examples": [
       {
-        "en": "Villagers sought advice from the elderly sage living on the hill.",
-        "bn": "পাহাড়ের ওপর বাস করা প্রবীণ মহাজ্ঞানীর কাছ থেকে গ্রামবাসীরা উপদেশ চাইত।"
+        "en": "The veteran diplomat offered sage observations during the peace summit.",
+        "bn": "শান্তি সম্মেলনের সময় প্রবীণ কূটনীতিক অত্যন্ত প্রজ্ঞাপূর্ণ পর্যবেক্ষণ তুলে ধরেছিলেন।"
       },
       {
         "en": "His grandmother offered sage counsel that guided him through life.",
@@ -24842,9 +24842,9 @@
           "meaningBn": "হঠাৎ উদ্দীপ্ত বা সক্রিয় করে তোলা"
         },
         {
-          "word": "Condone",
+          "word": "Distill",
           "isSynonym": false,
-          "meaningBn": "উপেক্ষা করে অপরাধ মার্জনা করা"
+          "meaningBn": "পরিশোধন করা বা সারমর্ম বের করা"
         },
         {
           "word": "Permeate",
@@ -25140,7 +25140,7 @@
     "examples": [
       {
         "en": "Endocrine glands secrete essential hormones directly into the blood.",
-        "bn": "অনাল গ্রন্থিগুলো সরাসরি রক্তে প্রয়োজনীয় হরমোন নিঃঃসরণ করে।"
+        "bn": "অনাল গ্রন্থিগুলো সরাসরি রক্তে প্রয়োজনীয় হরমোন নিঃসরণ করে।"
       },
       {
         "en": "Smugglers attempt to secrete illicit jewels inside hollow luggage.",
@@ -25385,7 +25385,7 @@
     "partOfSpeech": "adjective",
     "pronunciationEn": "suh-LIS-uh-tus",
     "pronunciationBn": "সা-লিস-ই-টাস",
-    "meaningBn": "উিগ্ন বা যত্নশীল মনোভাবাপন্ন",
+    "meaningBn": "উদ্বিগ্ন বা যত্নশীল মনোভাবাপন্ন",
     "meaningEn": "Characterized by or showing interest, care, or attentive concern.",
     "synonyms": [
       "attentive",
@@ -25440,19 +25440,19 @@
           "meaningBn": "মনোযোগী ও সযত্ন"
         },
         {
-          "word": "Anxious",
+          "word": "Concerned",
           "isSynonym": true,
           "meaningBn": "অন্যের মঙ্গলের জন্য উদ্বিগ্ন"
         },
         {
-          "word": "Sublime",
+          "word": "Porous",
           "isSynonym": false,
-          "meaningBn": "মহিমান্বিত ও পরম অপূর্ব"
+          "meaningBn": "ছিদ্রযুক্ত বা ঝাঝরা"
         },
         {
-          "word": "Placid",
+          "word": "Tangential",
           "isSynonym": false,
-          "meaningBn": "শান্ত ও সৌম্য অচঞ্চল"
+          "meaningBn": "আংশিক বা প্রাসঙ্গিক নয় এমন"
         },
         {
           "word": "Gustatory",
@@ -25471,7 +25471,7 @@
     "partOfSpeech": "adjective",
     "pronunciationEn": "sop-uh-RIF-ik",
     "pronunciationBn": "সপ-আ-রিফ-ইক",
-    "meaningBn": "ঘুমপাড়ানি বা নিদ্রাকষক",
+    "meaningBn": "ঘুমপাড়ানি বা নিদ্রাকর্ষক",
     "meaningEn": "Tending to induce drowsiness or sleep; sleep-inducing.",
     "synonyms": [
       "sedative",
@@ -25480,7 +25480,7 @@
       "hypnotic"
     ],
     "antonyms": [
-      "stimulant",
+      "stimulating",
       "invigorating",
       "energizing"
     ],
@@ -25517,14 +25517,14 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Sleepy",
+          "word": "Hypnotic",
           "isSynonym": true,
-          "meaningBn": "ঘুমঘুম বা তন্দ্রালু"
+          "meaningBn": "নিদ্রাবেশকারী বা তন্দ্রালু"
         },
         {
           "word": "Sedative",
           "isSynonym": true,
-          "meaningBn": "ঘুমপাড়ানি বা শান্তকারক"
+          "meaningBn": "ঘুমপাড়ানি বা প্রশান্তিদায়ক"
         },
         {
           "word": "Somnolent",
@@ -25537,9 +25537,9 @@
           "meaningBn": "স্বভাবতই স্বল্পভাষী ও গুরুগম্ভীর"
         },
         {
-          "word": "Seditious",
+          "word": "Mendacious",
           "isSynonym": false,
-          "meaningBn": "রাষ্ট্রদ্রোহী বা বিদ্রোহ উদ্রেককারী"
+          "meaningBn": "মিথ্যাবাদী বা অসত্য"
         },
         {
           "word": "Dubious",
@@ -25614,9 +25614,9 @@
           "meaningBn": "ভুল ধারণা সৃষ্টিকারী"
         },
         {
-          "word": "Spurious",
+          "word": "Fallacious",
           "isSynonym": true,
-          "meaningBn": "নকল বা আপাতদৃষ্টিতে সত্য"
+          "meaningBn": "আপাতদৃষ্টিতে সত্য মনে হলেও ভ্রান্ত"
         },
         {
           "word": "Voluble",
@@ -25624,9 +25624,9 @@
           "meaningBn": "অনর্গল কথা বলা বাকপটু"
         },
         {
-          "word": "Stoic",
+          "word": "Porous",
           "isSynonym": false,
-          "meaningBn": "সুখ-দুঃখে নির্বিকার ও শান্ত"
+          "meaningBn": "ছিদ্রযুক্ত বা ঝাঝরা"
         },
         {
           "word": "Capricious",
@@ -25681,7 +25681,7 @@
         "শূন্যস্থান",
         "সর্বনিম্ন বিন্দু বা চরম অবনতি",
         "একচেটিয়া আধিপত্য",
-        "নির্জ্জনতা",
+        "নির্জনতা",
         "বিস্তৃত পরিসর বা ধারাবাহিক বর্ণালী"
       ],
       "explanationEn": "Spectrum (noun) means a broad range or continuous sequence of related ideas, opinions, or qualities.",
@@ -25787,9 +25787,9 @@
           "meaningBn": "সবিরাম বা ক্ষণে ক্ষণে ঘটা"
         },
         {
-          "word": "Spasmodic",
+          "word": "Infrequent",
           "isSynonym": true,
-          "meaningBn": "বিক্ষিপ্ত বা থেমে থেমে ঘটা"
+          "meaningBn": "বিক্ষিপ্ত বা কদাচিৎ ঘটে এমন"
         },
         {
           "word": "Pungent",
@@ -25802,9 +25802,9 @@
           "meaningBn": "ক্ষয়কারী বা ব্যঙ্গাত্মক তীব্র মন্তব্যকারী"
         },
         {
-          "word": "Tumultuous",
+          "word": "Boorish",
           "isSynonym": false,
-          "meaningBn": "উত্তাল ও বিশৃঙ্খল কোলাহলপূর্ণ"
+          "meaningBn": "অভদ্র বা চাষাড়ে স্বভাবের"
         }
       ]
     }
@@ -26043,9 +26043,9 @@
           "meaningBn": "স্পষ্টভাবে উল্লেখ বা নির্দেশ করা"
         },
         {
-          "word": "Demand",
+          "word": "Require",
           "isSynonym": true,
-          "meaningBn": "শর্ত হিসেবে দাবি করা"
+          "meaningBn": "শর্ত হিসেবে অপরিহার্য করা"
         },
         {
           "word": "Prescribe",
@@ -26058,9 +26058,9 @@
           "meaningBn": "দ্বিধাদ্বন্দ্বে দোদুল্যমান থাকা"
         },
         {
-          "word": "Substantiate",
+          "word": "Occlude",
           "isSynonym": false,
-          "meaningBn": "সাক্ষ্যপ্রমাণ দিয়ে সত্যতা প্রতিষ্ঠা করা"
+          "meaningBn": "বন্ধ বা অবরুদ্ধ করা"
         },
         {
           "word": "Disparage",
@@ -26692,7 +26692,7 @@
       "replace",
       "supplant",
       "oust",
-      "supercede"
+      "displace"
     ],
     "antonyms": [
       "retain",
@@ -26752,9 +26752,9 @@
           "meaningBn": "দ্বিধাদ্বন্দ্বে দোদুল্যমান থাকা"
         },
         {
-          "word": "Substantiate",
+          "word": "Coagulate",
           "isSynonym": false,
-          "meaningBn": "সাক্ষ্যপ্রমাণ দিয়ে সত্যতা প্রতিষ্ঠা করা"
+          "meaningBn": "জমাট বাঁধা বা ঘন হওয়া"
         },
         {
           "word": "Disparage",
@@ -26906,9 +26906,9 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Silent",
+          "word": "Implied",
           "isSynonym": true,
-          "meaningBn": "নীরব বা অনুচ্চারিত"
+          "meaningBn": "ইঙ্গিতে ব্যক্ত বা অনুমিত"
         },
         {
           "word": "Implicit",
@@ -26921,19 +26921,19 @@
           "meaningBn": "না বলা বা অব্যক্ত বোঝাপড়া"
         },
         {
-          "word": "Gregarious",
+          "word": "Porous",
           "isSynonym": false,
-          "meaningBn": "মিশুক বা সামাজিক প্রকৃতির"
+          "meaningBn": "ছিদ্রযুক্ত বা ঝাঝরা"
         },
         {
-          "word": "Verdant",
+          "word": "Salubrious",
           "isSynonym": false,
-          "meaningBn": "সবুজ শ্যামল বা তৃণাবৃত"
+          "meaningBn": "স্বাস্থ্যকর বা স্বাস্থ্যপ্রদ"
         },
         {
-          "word": "Sinuous",
+          "word": "Mendacious",
           "isSynonym": false,
-          "meaningBn": "সর্পিল বা আঁকাবাঁকা"
+          "meaningBn": "মিথ্যাবাদী বা অসত্য"
         }
       ]
     }
@@ -27002,9 +27002,9 @@
           "meaningBn": "প্রান্তিক বা বাইরের বিষয়সংক্রান্ত"
         },
         {
-          "word": "Divergent",
+          "word": "Digressive",
           "isSynonym": true,
-          "meaningBn": "মূল বিষয় থেকে ভিন্ন দিকে বিচ্যুত"
+          "meaningBn": "মূল বিষয় থেকে বিচ্যুত"
         },
         {
           "word": "Bellicose",
@@ -27017,9 +27017,9 @@
           "meaningBn": "রাক্ষুসে বা অতি খাই খাই স্বভাবের"
         },
         {
-          "word": "Transient",
+          "word": "Luminous",
           "isSynonym": false,
-          "meaningBn": "ক্ষণস্থায়ী বা অল্পকালস্থায়ী"
+          "meaningBn": "উজ্জ্বল বা দীপ্তিমান"
         }
       ]
     }
@@ -27136,7 +27136,7 @@
     "examples": [
       {
         "en": "The angry customer launched into a furious tirade against the manager.",
-        "bn": "ক্ষুব্ধ ক্রে তা ম্যানেজারের বিরুদ্ধে এক প্রচণ্ড আক্রমণাত্মক বাক্যবাণ ছুড়ে দিলেন।"
+        "bn": "ক্ষুব্ধ ক্রেতা ম্যানেজারের বিরুদ্ধে এক প্রচণ্ড আক্রমণাত্মক বাক্যবাণ ছুড়ে দিলেন।"
       },
       {
         "en": "His lengthy tirade silenced everyone in the conference room.",
@@ -27176,14 +27176,14 @@
           "meaningBn": "তীব্র তিরস্কার বা বাক্যবাণ"
         },
         {
-          "word": "Denunciation",
+          "word": "Philippic",
           "isSynonym": true,
-          "meaningBn": "প্রকাশ্য নিন্দা বা কঠোর আক্রমণ"
+          "meaningBn": "তিক্ত আক্রমণাত্মক ভাষণ"
         },
         {
-          "word": "Demagogue",
+          "word": "Levee",
           "isSynonym": false,
-          "meaningBn": "জনমোহিনী বক্তা বা উস্কানিদাতা নেতা"
+          "meaningBn": "নদীর বাঁধ বা বন্যা প্রতিরোধক প্রাচীর"
         },
         {
           "word": "Paradigm",
@@ -27191,9 +27191,9 @@
           "meaningBn": "অনুকরণীয় আদর্শ রূপরেখা বা মডেল"
         },
         {
-          "word": "Tyro",
+          "word": "Shard",
           "isSynonym": false,
-          "meaningBn": "কোনো বিদ্যায় একেবারেই নতুন ব্যক্তি"
+          "meaningBn": "ভাঙা পাত্রের টুকরো বা ভাঙা কাঁচের কুচি"
         }
       ]
     }
@@ -27223,7 +27223,7 @@
     "examples": [
       {
         "en": "Hibernating mammals sink into a state of deep winter torpor.",
-        "bn": "শীতনিদ্রায় থাকা স্তন্যপায়ী প্রাণীরা গভীর শীতকালীন নিষ্ক্রিয়তায় নিমজ্জি ত হয়।"
+        "bn": "শীতনিদ্রায় থাকা স্তন্যপায়ী প্রাণীরা গভীর শীতকালীন নিষ্ক্রিয়তায় নিমজ্জিত হয়।"
       },
       {
         "en": "A heavy meal on a humid afternoon induced an irresistible torpor.",
@@ -27263,9 +27263,9 @@
           "meaningBn": "নিষ্ক্রিয়তা বা তন্দ্রাচ্ছন্ন ক্লান্তি"
         },
         {
-          "word": "Inaction",
+          "word": "Dormancy",
           "isSynonym": true,
-          "meaningBn": "স্থবিরতা বা সম্পূর্ণ নিষ্ক্রিয় অবস্থা"
+          "meaningBn": "সুপ্তাবস্থা বা শারীরিক নিষ্ক্রিয়তা"
         },
         {
           "word": "Zenith",
@@ -27300,7 +27300,7 @@
       "winding",
       "twisting",
       "convoluted",
-      "voluminous"
+      "serpentine"
     ],
     "antonyms": [
       "straight",
@@ -27355,19 +27355,19 @@
           "meaningBn": "সাপের মতো আঁকাবাঁকা ও কুটিল"
         },
         {
-          "word": "Taciturn",
+          "word": "Boorish",
           "isSynonym": false,
-          "meaningBn": "স্বভাবতই স্বল্পভাষী ও গুরুগম্ভীর"
+          "meaningBn": "অভদ্র বা চাষাড়ে স্বভাবের"
         },
         {
-          "word": "Seditious",
+          "word": "Mendacious",
           "isSynonym": false,
-          "meaningBn": "রাষ্ট্রদ্রোহী বা বিদ্রোহ উদ্রেককারী"
+          "meaningBn": "মিথ্যাবাদী বা অসত্য"
         },
         {
-          "word": "Dubious",
+          "word": "Salubrious",
           "isSynonym": false,
-          "meaningBn": "সন্দেহজনক বা অনিশ্চিত"
+          "meaningBn": "স্বাস্থ্যকর বা স্বাস্থ্যপ্রদ"
         }
       ]
     }
@@ -27427,9 +27427,9 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Obedient",
+          "word": "Manageable",
           "isSynonym": true,
-          "meaningBn": "বাধ্য বা আজ্ঞাবহ"
+          "meaningBn": "সহজে পরিচালনাযোগ্য"
         },
         {
           "word": "Docile",
@@ -27437,7 +27437,7 @@
           "meaningBn": "শান্ত ও সহজে অনুগত"
         },
         {
-          "word": "Compliant",
+          "word": "Amenable",
           "isSynonym": true,
           "meaningBn": "সহজে কথা মেনে নেওয়া বা বশংবদ"
         },
@@ -27447,14 +27447,14 @@
           "meaningBn": "অনর্গল কথা বলা বাকপটু"
         },
         {
-          "word": "Stoic",
+          "word": "Porous",
           "isSynonym": false,
-          "meaningBn": "সুখ-দুঃখে নির্বিকার ও শান্ত"
+          "meaningBn": "ছিদ্রযুক্ত বা ঝাঝরা"
         },
         {
-          "word": "Capricious",
+          "word": "Luminous",
           "isSynonym": false,
-          "meaningBn": "খামখেয়ালী বা অনিশ্চিত মেজাজের"
+          "meaningBn": "উজ্জ্বল বা দীপ্তিমান"
         }
       ]
     }
@@ -27514,9 +27514,9 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Sin",
+          "word": "Violation",
           "isSynonym": true,
-          "meaningBn": "পাপ বা ধর্মীয় অনুশাসন লঙ্ঘন"
+          "meaningBn": "আইন বা নিয়ম লঙ্ঘন"
         },
         {
           "word": "Offense",
@@ -27524,9 +27524,9 @@
           "meaningBn": "অপরাধ বা বিধিলঙ্ঘন"
         },
         {
-          "word": "Infringement",
+          "word": "Infraction",
           "isSynonym": true,
-          "meaningBn": "আইন বা অধিকার লঙ্ঘন"
+          "meaningBn": "বিধি বা চুক্তি ভঙ্গ"
         },
         {
           "word": "Panoply",
@@ -27534,9 +27534,9 @@
           "meaningBn": "বিশাল সমাহার বা মহিমান্বিত প্রদর্শনী"
         },
         {
-          "word": "Torpor",
+          "word": "Levee",
           "isSynonym": false,
-          "meaningBn": "শারীরিক বা মানসিক নিষ্ক্রিয়তা ও অবসাদ"
+          "meaningBn": "নদীর বাঁধ বা বন্যা প্রতিরোধক প্রাচীর"
         },
         {
           "word": "Hegemony",
@@ -27571,7 +27571,7 @@
     "examples": [
       {
         "en": "The drunkard's sudden truculence frightened other diners at the inn.",
-        "bn": "মদ্যপ ব্যক্তির হঠাৎ আক্রমণাত্মক হিংংস্র আচরণ সরাইখানার অন্য অতিথিদের ভীত করেছিল।"
+        "bn": "মদ্যপ ব্যক্তির হঠাৎ আক্রমণাত্মক হিংস্র আচরণ সরাইখানার অন্য অতিথিদের ভীত করেছিল।"
       },
       {
         "en": "His undisguised truculence made international peace talks fail.",
@@ -27735,7 +27735,7 @@
       "revere",
       "honor",
       "worship",
-      "fear"
+      "hallow"
     ],
     "antonyms": [
       "despise",
@@ -27775,9 +27775,9 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Respect",
+          "word": "Honor",
           "isSynonym": true,
-          "meaningBn": "শ্রদ্ধা বা সম্মান করা"
+          "meaningBn": "শ্রদ্ধা বা সম্মান প্রদর্শন করা"
         },
         {
           "word": "Revere",
@@ -27785,14 +27785,14 @@
           "meaningBn": "গভীর শ্রদ্ধা বা ভক্তি করা"
         },
         {
-          "word": "Idolize",
+          "word": "Hallow",
           "isSynonym": true,
-          "meaningBn": "অত্যধিক ভক্তি বা পূজা করা"
+          "meaningBn": "পবিত্র জ্ঞানে পূজা বা ভক্তি করা"
         },
         {
-          "word": "Vacillate",
+          "word": "Occlude",
           "isSynonym": false,
-          "meaningBn": "দ্বিধাদ্বন্দ্বে দোদুল্যমান থাকা"
+          "meaningBn": "বন্ধ বা অবরুদ্ধ করা"
         },
         {
           "word": "Substantiate",
@@ -27800,9 +27800,9 @@
           "meaningBn": "সাক্ষ্যপ্রমাণ দিয়ে সত্যতা প্রতিষ্ঠা করা"
         },
         {
-          "word": "Disparage",
+          "word": "Distill",
           "isSynonym": false,
-          "meaningBn": "তুচ্ছতাচ্ছিল্য বা ছোট করা"
+          "meaningBn": "পরিশোধন করা বা সারমর্ম বের করা"
         }
       ]
     }
@@ -27822,7 +27822,7 @@
       "truthful",
       "honest",
       "accurate",
-      "right"
+      "candid"
     ],
     "antonyms": [
       "untruthful",
@@ -27904,7 +27904,7 @@
     "pronunciationEn": "ver-BOHS",
     "pronunciationBn": "ভার-বোস",
     "meaningBn": "শব্দবহুল বা অতিরিক্ত বাচাল",
-    "meaningEn": "Using or expressed in more words than are needed; wordy and verbose.",
+    "meaningEn": "Using or expressed in more words than are needed; wordy and prolix.",
     "synonyms": [
       "wordy",
       "prolix",
@@ -27954,9 +27954,9 @@
           "meaningBn": "শব্দবহুল বা অতিরিক্ত বাক্যসমৃদ্ধ"
         },
         {
-          "word": "Long-winded",
+          "word": "Loquacious",
           "isSynonym": true,
-          "meaningBn": "দীর্ঘ ও ক্লান্তিকর শব্দাড়ম্বরপূর্ণ"
+          "meaningBn": "অতিভাষী বা বাচাল"
         },
         {
           "word": "Prolix",
@@ -27974,9 +27974,9 @@
           "meaningBn": "নাছোড়বান্দা বা সংকল্পবদ্ধ"
         },
         {
-          "word": "Pellucid",
+          "word": "Salubrious",
           "isSynonym": false,
-          "meaningBn": "অত্যন্ত স্বচ্ছ ও দ্ব্যর্থহীন"
+          "meaningBn": "স্বাস্থ্যকর বা স্বাস্থ্যপ্রদ"
         }
       ]
     }
@@ -28036,9 +28036,9 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Usable",
+          "word": "Workable",
           "isSynonym": true,
-          "meaningBn": "ব্যবহারযোগ্য বা কার্যকর"
+          "meaningBn": "কার্যকর বা বাস্তবে কাজ করে এমন"
         },
         {
           "word": "Feasible",
@@ -28046,9 +28046,9 @@
           "meaningBn": "বাস্তবায়নযোগ্য বা সম্ভাব্য"
         },
         {
-          "word": "Sustainable",
+          "word": "Practicable",
           "isSynonym": true,
-          "meaningBn": "টিকে থাকার যোগ্য বা টেকসই"
+          "meaningBn": "বাস্তবে প্রয়োগযোগ্য ও টিকে থাকার যোগ্য"
         },
         {
           "word": "Gregarious",
@@ -28056,9 +28056,9 @@
           "meaningBn": "মিশুক বা সামাজিক প্রকৃতির"
         },
         {
-          "word": "Verdant",
+          "word": "Porous",
           "isSynonym": false,
-          "meaningBn": "সবুজ শ্যামল বা তৃণাবৃত"
+          "meaningBn": "ছিদ্রযুক্ত বা ঝাঝরা"
         },
         {
           "word": "Sinuous",
@@ -28130,12 +28130,12 @@
         {
           "word": "Sticky",
           "isSynonym": true,
-          "meaningBn": "আঠালো বা সান্দ্র"
+          "meaningBn": "আঠালো বা চটচটে"
         },
         {
           "word": "Gelatinous",
           "isSynonym": true,
-          "meaningBn": "জেলির মতো থকথকে ও জমাট"
+          "meaningBn": "জেলির মতো থকথকে ও সান্দ্র"
         },
         {
           "word": "Bellicose",
@@ -28143,9 +28143,9 @@
           "meaningBn": "যুদ্ধংদেহী বা কলহপ্রিয়"
         },
         {
-          "word": "Voracious",
+          "word": "Mendacious",
           "isSynonym": false,
-          "meaningBn": "রাক্ষুসে বা অতি খাই খাই স্বভাবের"
+          "meaningBn": "মিথ্যাবাদী বা অসত্য"
         },
         {
           "word": "Transient",
@@ -28316,14 +28316,14 @@
           "meaningBn": "স্বভাবতই স্বল্পভাষী ও গুরুগম্ভীর"
         },
         {
-          "word": "Seditious",
+          "word": "Porous",
           "isSynonym": false,
-          "meaningBn": "রাষ্ট্রদ্রোহী বা বিদ্রোহ উদ্রেককারী"
+          "meaningBn": "ছিদ্রযুক্ত বা ঝাঝরা"
         },
         {
-          "word": "Dubious",
+          "word": "Salubrious",
           "isSynonym": false,
-          "meaningBn": "সন্দেহজনক বা অনিশ্চিত"
+          "meaningBn": "স্বাস্থ্যকর বা স্বাস্থ্যপ্রদ"
         }
       ]
     }
@@ -28358,7 +28358,7 @@
       },
       {
         "en": "His cautious reaction was warranted by previous experiences of fraud.",
-        "bn": "পূর্বের প্রতারণার তিক্ত অভিজ্ঞতার কারণে তার সতর্ক প্রতিক্রি য়াটি যথার্থ ছিল।"
+        "bn": "পূর্বের প্রতারণার তিক্ত অভিজ্ঞতার কারণে তার সতর্ক প্রতিক্রিয়াটি যথার্থ ছিল।"
       }
     ],
     "sentenceCompletion": {
@@ -28446,7 +28446,7 @@
       },
       {
         "en": "Shoppers should be wary of online deals that sound too good to be true.",
-        "bn": "অবাস্তব লোভনীয় অনলাইন ছাড়ের অফারগুলোর বিষয়ে ক্রে তাদের সতর্ক থাকা উচিত।"
+        "bn": "অবাস্তব লোভনীয় অনলাইন ছাড়ের অফারগুলোর বিষয়ে ক্রেতাদের সতর্ক থাকা উচিত।"
       }
     ],
     "sentenceCompletion": {
@@ -28646,14 +28646,14 @@
     "multiSynonyms": {
       "options": [
         {
-          "word": "Playful",
+          "word": "Quirky",
           "isSynonym": true,
-          "meaningBn": "কৌতুকপূর্ণ বা অদ্ভুত ও মজাদার"
+          "meaningBn": "অদ্ভুত ও খামখেয়ালী"
         },
         {
           "word": "Fanciful",
           "isSynonym": true,
-          "meaningBn": "কাল্পনিক ও খামখেয়ালী"
+          "meaningBn": "কাল্পনিক ও খেয়ালী"
         },
         {
           "word": "Capricious",
@@ -28661,19 +28661,19 @@
           "meaningBn": "খেয়ালী বা পরিবর্তনশীল মেজাজের"
         },
         {
-          "word": "Vivacious",
+          "word": "Porous",
           "isSynonym": false,
-          "meaningBn": "প্রাণবন্ত ও প্রফুল্ল উচ্ছ্বল"
+          "meaningBn": "ছিদ্রযুক্ত বা ঝাঝরা"
         },
         {
-          "word": "Stoic",
+          "word": "Mendacious",
           "isSynonym": false,
-          "meaningBn": "সুখ-দুঃখে নির্বিকার ও শান্ত"
+          "meaningBn": "মিথ্যাবাদী বা অসত্য"
         },
         {
-          "word": "Tentative",
+          "word": "Tactile",
           "isSynonym": false,
-          "meaningBn": "প্রাথমিক বা পরীক্ষামূলক অনিশ্চিত"
+          "meaningBn": "স্পর্শগ্রাহ্য বা স্পর্শসংক্রান্ত"
         }
       ]
     }
@@ -28744,14 +28744,14 @@
           "meaningBn": "চরমপন্থী বা কট্টর মতবাদী ব্যক্তি"
         },
         {
-          "word": "Militant",
+          "word": "Ideologue",
           "isSynonym": true,
-          "meaningBn": "লড়াকু বা আপসহীন গোঁড়া ব্যক্তি"
+          "meaningBn": "অন্ধ আদর্শবাদী বা কট্টর অনুসারী"
         },
         {
-          "word": "Zenith",
+          "word": "Levee",
           "isSynonym": false,
-          "meaningBn": "সর্বোচ্চ শিখর বা শীর্ষবিন্দু"
+          "meaningBn": "নদীর বাঁধ বা বন্যা প্রতিরোধক প্রাচীর"
         },
         {
           "word": "Chicanery",
@@ -28759,9 +28759,9 @@
           "meaningBn": "ধূর্ত প্রবঞ্চনা বা কূটকৌশল"
         },
         {
-          "word": "Maverick",
+          "word": "Shard",
           "isSynonym": false,
-          "meaningBn": "প্রথা না মানা স্বতন্ত্র ব্যক্তি"
+          "meaningBn": "ভাঙা পাত্রের টুকরো বা ভাঙা কাঁচের কুচি"
         }
       ]
     }

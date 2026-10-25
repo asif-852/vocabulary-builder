@@ -44,3 +44,17 @@ lerna-debug.log*
 # OS metadata
 .DS_Store
 Thumbs.db
+
+# PDF documents
+*.pdf
+
+# Image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.ico
+
+# Audit reports and remediation prompts
+*audit_report*.md

@@ -298,24 +298,7 @@ export const SentenceCompletionMode: React.FC<SentenceCompletionModeProps> = ({
               )}
             </div>
 
-            {/* 1. Bangla Explanation (ব্যাখ্যা (উত্তর: C):) listing Bangla meanings of all 5 options */}
-            <div style={{
-              backgroundColor: '#ffffff',
-              border: '1px solid #e2e8f0',
-              borderRadius: '6px',
-              padding: '10px 12px',
-              fontSize: '0.9rem',
-              lineHeight: 1.6
-            }}>
-              <span className="bangla-text" style={{ fontWeight: 700, color: '#1e3a8a' }}>
-                ব্যাখ্যা (উত্তর: {correctLetter}):{' '}
-              </span>
-              <span className="bangla-text" style={{ color: '#334155' }}>
-                {sc.options.map((opt, i) => `${letters[i]}. ${opt} - ${sc.optionMeaningsBn[i] || 'অর্থ'}`).join('; ')}
-              </span>
-            </div>
-
-            {/* 2. English Definition */}
+            {/* English Definition */}
             <div style={{ fontSize: '0.95rem', color: '#1e293b' }}>
               <strong>Definition: </strong>
               <span>{sc.explanationEn}</span>
