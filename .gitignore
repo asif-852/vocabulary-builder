@@ -55,6 +55,8 @@ Thumbs.db
 *.gif
 *.webp
 *.ico
+!docs/screenshots/*
+
 
 # Audit reports and curation documentation
 audit_reports/
