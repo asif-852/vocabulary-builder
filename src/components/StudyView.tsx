@@ -98,17 +98,11 @@ export const StudyView: React.FC<StudyViewProps> = ({
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '20px', maxWidth: '760px', margin: '0 auto', width: '100%' }}>
       {/* 5.1 Top Control Bar */}
-      <div style={{
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'space-between',
-        flexWrap: 'wrap',
-        gap: '12px'
-      }}>
+      <div className="study-top-bar">
         {/* Left: Back to Set */}
         <button
           onClick={onBackToSet}
-          className="pill-button"
+          className="pill-button study-top-back"
           style={{ display: 'inline-flex', alignItems: 'center', gap: '6px' }}
         >
           <ArrowLeft size={16} />
@@ -116,18 +110,14 @@ export const StudyView: React.FC<StudyViewProps> = ({
         </button>
 
         {/* Center: Set X · Word Y of Z */}
-        <div style={{
-          fontSize: '0.9rem',
-          fontWeight: 600,
-          color: 'var(--text-secondary)'
-        }}>
+        <div className="study-top-info">
           Set {setNumber} · Word {currentIndex + 1} of {words.length}
         </div>
 
         {/* Right: Explanation Toggle Switch */}
         <button
           onClick={toggleExplanation}
-          className={`pill-button ${explanationOn ? 'active' : ''}`}
+          className={`pill-button study-top-toggle ${explanationOn ? 'active' : ''}`}
           style={{
             display: 'inline-flex',
             alignItems: 'center',
@@ -145,20 +135,7 @@ export const StudyView: React.FC<StudyViewProps> = ({
 
       {/* 5.2 The Study Word Card */}
       {/* ZERO-JUMP LAYOUT STABILITY CONTAINER */}
-      <div
-        style={{
-          backgroundColor: '#ffffff',
-          border: '1px solid var(--border-color)',
-          borderLeft: '4px solid #2563eb',
-          borderRadius: 'var(--radius-md)',
-          boxShadow: 'var(--shadow-sm)',
-          padding: '28px 24px',
-          minHeight: '380px',
-          display: 'flex',
-          flexDirection: 'column',
-          position: 'relative'
-        }}
-      >
+      <div className="study-card">
         {/* WORD HEADER ROW: English word is anchored at top-left.
             Bangla meaning appears inline beside it when explanation is on.
             Word never jumps! */}
@@ -283,19 +260,12 @@ export const StudyView: React.FC<StudyViewProps> = ({
       </div>
 
       {/* 5.3 Bottom Navigation & Study Progress Tracking */}
-      <div style={{
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'space-between',
-        flexWrap: 'wrap',
-        gap: '12px',
-        paddingTop: '6px'
-      }}>
+      <div className="study-bottom-nav">
         {/* Previous Button */}
         <button
           onClick={handlePrev}
           disabled={currentIndex === 0}
-          className="pill-button"
+          className="pill-button study-nav-prev"
           style={{
             opacity: currentIndex === 0 ? 0.4 : 1,
             cursor: currentIndex === 0 ? 'not-allowed' : 'pointer'
@@ -308,13 +278,12 @@ export const StudyView: React.FC<StudyViewProps> = ({
         {/* Studied Toggle Pill */}
         <button
           onClick={() => progress.markWordStudied(currentWord.id, !isStudied)}
+          className="pill-button study-nav-studied"
           style={{
             display: 'inline-flex',
             alignItems: 'center',
             gap: '6px',
-            padding: '6px 12px',
             borderRadius: 'var(--radius-full)',
-            fontSize: '0.825rem',
             fontWeight: 500,
             border: isStudied ? '1px solid #86efac' : '1px solid var(--border-color)',
             backgroundColor: isStudied ? '#f0fdf4' : '#ffffff',
@@ -335,18 +304,18 @@ export const StudyView: React.FC<StudyViewProps> = ({
           }}>
             {isStudied && <Check size={10} strokeWidth={3} />}
           </div>
-          <span>{isStudied ? 'Marked as studied' : 'Mark as studied'}</span>
+          <span className="study-mark-text-full">{isStudied ? 'Marked as studied' : 'Mark as studied'}</span>
+          <span className="study-mark-text-short">{isStudied ? 'Studied' : 'Mark studied'}</span>
         </button>
 
         {/* Next / Finish Button */}
         <button
           onClick={handleNext}
-          className="pill-button active"
+          className="pill-button active study-nav-next"
           style={{
             backgroundColor: '#2563eb',
             borderColor: '#2563eb',
             color: '#ffffff',
-            padding: '8px 18px',
             fontWeight: 600,
             display: 'inline-flex',
             alignItems: 'center',

@@ -165,3 +165,127 @@ button {
   background-color: var(--success-bg);
   color: var(--success);
 }
+
+/* ==========================================================
+   Study View Responsive Controls (P0, P1, P3)
+   Preserves 100% of desktop appearance while fixing mobile UI
+   ========================================================== */
+.study-top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.study-top-back {
+  order: 1;
+}
+
+.study-top-info {
+  order: 2;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+}
+
+.study-top-toggle {
+  order: 3;
+}
+
+.study-card {
+  background-color: #ffffff;
+  border: 1px solid var(--border-color);
+  border-left: 4px solid #2563eb;
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  padding: 28px 24px;
+  min-height: 380px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.study-bottom-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding-top: 6px;
+  width: 100%;
+}
+
+.study-mark-text-short {
+  display: none;
+}
+
+.study-mark-text-full {
+  display: inline;
+}
+
+@media (max-width: 640px) {
+  .site-header {
+    margin-bottom: 16px;
+    padding-bottom: 12px;
+  }
+
+  /* P1: Symmetrical 2-row layout on mobile */
+  .study-top-bar {
+    gap: 8px;
+  }
+
+  .study-top-back {
+    order: 1;
+  }
+
+  .study-top-toggle {
+    order: 2;
+  }
+
+  .study-top-info {
+    order: 3;
+    width: 100%;
+    text-align: center;
+    font-size: 0.85rem;
+    padding-top: 2px;
+  }
+
+  /* P3: Responsive card padding & height */
+  .study-card {
+    padding: 20px 16px;
+    min-height: auto;
+  }
+
+  /* P0: Non-wrapping, thumb-ergonomic bottom navigation */
+  .study-bottom-nav {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 6px;
+    align-items: center;
+  }
+
+  .study-bottom-nav .study-nav-prev {
+    padding: 7px 10px;
+    font-size: 0.825rem;
+  }
+
+  .study-bottom-nav .study-nav-studied {
+    justify-self: center;
+    padding: 7px 8px;
+    font-size: 0.775rem;
+  }
+
+  .study-bottom-nav .study-nav-next {
+    padding: 7px 12px;
+    font-size: 0.825rem;
+  }
+
+  .study-mark-text-full {
+    display: none;
+  }
+
+  .study-mark-text-short {
+    display: inline;
+  }
+}
+
