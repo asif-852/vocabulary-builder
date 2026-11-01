@@ -304,8 +304,7 @@ export const StudyView: React.FC<StudyViewProps> = ({
           }}>
             {isStudied && <Check size={10} strokeWidth={3} />}
           </div>
-          <span className="study-mark-text-full">{isStudied ? 'Marked as studied' : 'Mark as studied'}</span>
-          <span className="study-mark-text-short">{isStudied ? 'Studied' : 'Mark studied'}</span>
+          <span>{isStudied ? 'Marked as studied' : 'Mark as studied'}</span>
         </button>
 
         {/* Next / Finish Button */}

@@ -167,8 +167,8 @@ button {
 }
 
 /* ==========================================================
-   Study View Responsive Controls (P0, P1, P3)
-   Preserves 100% of desktop appearance while fixing mobile UI
+   Study View Responsive Controls
+   Preserves 100% of desktop appearance while optimizing mobile UI
    ========================================================== */
 .study-top-bar {
   display: flex;
@@ -215,48 +215,40 @@ button {
   width: 100%;
 }
 
-.study-mark-text-short {
-  display: none;
-}
-
-.study-mark-text-full {
-  display: inline;
-}
-
 @media (max-width: 640px) {
   .site-header {
     margin-bottom: 16px;
     padding-bottom: 12px;
   }
 
-  /* P1: Symmetrical 2-row layout on mobile */
+  /* Set & Word info placed above the 2 top buttons */
   .study-top-bar {
     gap: 8px;
   }
 
-  .study-top-back {
+  .study-top-info {
     order: 1;
+    width: 100%;
+    text-align: center;
+    font-size: 0.875rem;
+    padding-bottom: 2px;
   }
 
-  .study-top-toggle {
+  .study-top-back {
     order: 2;
   }
 
-  .study-top-info {
+  .study-top-toggle {
     order: 3;
-    width: 100%;
-    text-align: center;
-    font-size: 0.85rem;
-    padding-top: 2px;
   }
 
-  /* P3: Responsive card padding & height */
+  /* Responsive card padding while keeping min-height 380px to prevent button jumping */
   .study-card {
     padding: 20px 16px;
-    min-height: auto;
+    min-height: 380px;
   }
 
-  /* P0: Non-wrapping, thumb-ergonomic bottom navigation */
+  /* Non-wrapping, thumb-ergonomic bottom navigation */
   .study-bottom-nav {
     display: grid;
     grid-template-columns: auto 1fr auto;
@@ -273,19 +265,12 @@ button {
     justify-self: center;
     padding: 7px 8px;
     font-size: 0.775rem;
+    white-space: nowrap;
   }
 
   .study-bottom-nav .study-nav-next {
     padding: 7px 12px;
     font-size: 0.825rem;
-  }
-
-  .study-mark-text-full {
-    display: none;
-  }
-
-  .study-mark-text-short {
-    display: inline;
   }
 }
 
