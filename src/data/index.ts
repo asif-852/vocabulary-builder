@@ -19,23 +19,23 @@ export const SOURCES_INFO: Record<VocabSourceId, {
 }> = {
   gre333: {
     id: 'gre333',
-    title: 'GRE 333 High Frequency Words',
+    title: 'GRE 333',
     shortTitle: 'GRE 333',
     totalWords: 333,
     totalSets: 17,
     wordsPerSet: 20,
     lastSetWords: 13,
-    description: 'Barron’s 333 high-frequency words with native Bangla meanings, synonyms, antonyms & demo sentences.'
+    description: "Barron's 333 high-frequency words"
   },
   wordsmart1: {
     id: 'wordsmart1',
-    title: 'Word Smart I (4th Edition)',
+    title: 'Word Smart I',
     shortTitle: 'Word Smart 1',
     totalWords: 833,
     totalSets: 34,
     wordsPerSet: 25,
     lastSetWords: 8,
-    description: 'The Princeton Review Word Smart I: 833 essential collegiate words with pronunciations and contextual examples.'
+    description: 'The Princeton Review Word Smart I'
   },
   wordsmart2: {
     id: 'wordsmart2',
@@ -45,7 +45,7 @@ export const SOURCES_INFO: Record<VocabSourceId, {
     totalSets: 34,
     wordsPerSet: 25,
     lastSetWords: 23,
-    description: 'Word Smart II: 848 advanced vocabulary words for competitive exams, BCS, Bank & GRE mastery.'
+    description: 'The Princeton Review Word Smart II'
   }
 };
 

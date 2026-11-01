@@ -139,7 +139,7 @@ export const StudyView: React.FC<StudyViewProps> = ({
           title="Toggle Explanation (Shortcut: Space or E)"
         >
           {explanationOn ? <Eye size={15} /> : <EyeOff size={15} />}
-          <span>{explanationOn ? '• Explanation on' : '• Explanation off'}</span>
+          <span>{explanationOn ? 'Explanation on' : 'Explanation off'}</span>
         </button>
       </div>
 
@@ -347,10 +347,14 @@ export const StudyView: React.FC<StudyViewProps> = ({
             borderColor: '#2563eb',
             color: '#ffffff',
             padding: '8px 18px',
-            fontWeight: 600
+            fontWeight: 600,
+            display: 'inline-flex',
+            alignItems: 'center',
+            gap: '6px'
           }}
         >
-          <span>{currentIndex === words.length - 1 ? 'Finish Set ✓' : 'Next →'}</span>
+          <span>{currentIndex === words.length - 1 ? 'Finish Set' : 'Next'}</span>
+          {currentIndex === words.length - 1 ? <Check size={16} /> : <ArrowRight size={16} />}
         </button>
       </div>
     </div>

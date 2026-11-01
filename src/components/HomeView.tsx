@@ -99,7 +99,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
                     {info.title}
                   </h2>
                   <p style={{ fontSize: '0.875rem', color: 'var(--text-muted)', marginTop: '2px' }}>
-                    {info.totalWords} words · {info.totalSets} sets ({info.wordsPerSet} words/set) · {info.description}
+                    {info.description}
                   </p>
                 </div>
 
