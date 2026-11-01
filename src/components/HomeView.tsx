@@ -5,12 +5,18 @@ import { useStudyProgress } from '../hooks/useStudyProgress';
 import { RotateCcw, CheckCircle2, BookMarked } from 'lucide-react';
 
 interface HomeViewProps {
+  activeSource: VocabSourceId;
+  onSelectSource: (sourceId: VocabSourceId) => void;
   onSelectSet: (sourceId: VocabSourceId, setNumber: number) => void;
   progress: ReturnType<typeof useStudyProgress>;
 }
 
-export const HomeView: React.FC<HomeViewProps> = ({ onSelectSet, progress }) => {
-  const [activeSource, setActiveSource] = useState<VocabSourceId>('gre333');
+export const HomeView: React.FC<HomeViewProps> = ({
+  activeSource,
+  onSelectSource,
+  onSelectSet,
+  progress
+}) => {
   const sources: VocabSourceId[] = ['gre333', 'wordsmart1', 'wordsmart2'];
 
   const handleReset = (sourceId: VocabSourceId, title: string) => {
@@ -37,7 +43,7 @@ export const HomeView: React.FC<HomeViewProps> = ({ onSelectSet, progress }) => 
             <button
               key={src}
               className={`pill-button ${isSelected ? 'active' : ''}`}
-              onClick={() => setActiveSource(src)}
+              onClick={() => onSelectSource(src)}
               style={{
                 fontSize: '0.9rem',
                 padding: '8px 16px',

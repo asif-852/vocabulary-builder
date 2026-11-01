@@ -56,5 +56,9 @@ Thumbs.db
 *.webp
 *.ico
 
-# Audit reports and remediation prompts
+# Audit reports and curation documentation
+audit_reports/
+audits/
 *audit_report*.md
+word_smart_1_set_*.md
+

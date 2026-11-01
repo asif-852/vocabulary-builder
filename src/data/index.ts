@@ -446,3 +446,11 @@ export function getMultiSynonymOptions(targetWord: VocabWord): {
   const shuffleSeed = hashString(targetWord.word, targetWord.indexInSource + 999);
   return deterministicShuffle(allItems, shuffleSeed);
 }
+
+// Hot Module Replacement trigger for live dev server synchronization
+if (import.meta.hot) {
+  import.meta.hot.accept(() => {
+    window.location.reload();
+  });
+}
+

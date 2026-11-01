@@ -21,25 +21,49 @@ type AppView =
 
 export const App: React.FC = () => {
   const [view, setView] = useState<AppView>({ type: 'home' });
+  const [activeSource, setActiveSource] = useState<VocabSourceId>(() => {
+    try {
+      const saved = localStorage.getItem('vocab_builder_active_source');
+      if (saved === 'gre333' || saved === 'wordsmart1' || saved === 'wordsmart2') {
+        return saved as VocabSourceId;
+      }
+    } catch {
+      // ignore
+    }
+    return 'gre333';
+  });
   const progress = useStudyProgress();
+
+  const handleSelectSource = (sourceId: VocabSourceId) => {
+    setActiveSource(sourceId);
+    try {
+      localStorage.setItem('vocab_builder_active_source', sourceId);
+    } catch (e) {
+      console.error(e);
+    }
+  };
 
   const handleGoHome = () => {
     setView({ type: 'home' });
   };
 
   const handleSelectSet = (sourceId: VocabSourceId, setNumber: number) => {
+    handleSelectSource(sourceId);
     setView({ type: 'set_hub', sourceId, setNumber });
   };
 
   const handleStartStudy = (sourceId: VocabSourceId, setNumber: number) => {
+    handleSelectSource(sourceId);
     setView({ type: 'study', sourceId, setNumber });
   };
 
   const handleStartPractice = (sourceId: VocabSourceId, setNumber: number) => {
+    handleSelectSource(sourceId);
     setView({ type: 'practice_hub', sourceId, setNumber });
   };
 
   const handleSelectPracticeMode = (sourceId: VocabSourceId, setNumber: number, mode: PracticeModeId) => {
+    handleSelectSource(sourceId);
     setView({ type: 'practice_drill', sourceId, setNumber, mode });
   };
 
@@ -50,6 +74,8 @@ export const App: React.FC = () => {
       <main style={{ flex: 1 }}>
         {view.type === 'home' && (
           <HomeView
+            activeSource={activeSource}
+            onSelectSource={handleSelectSource}
             onSelectSet={handleSelectSet}
             progress={progress}
           />
@@ -59,7 +85,10 @@ export const App: React.FC = () => {
           <SetHubView
             sourceId={view.sourceId}
             setNumber={view.setNumber}
-            onBackToHome={handleGoHome}
+            onBackToHome={() => {
+              handleSelectSource(view.sourceId);
+              handleGoHome();
+            }}
             onStartStudy={() => handleStartStudy(view.sourceId, view.setNumber)}
             onStartPractice={() => handleStartPractice(view.sourceId, view.setNumber)}
             progress={progress}
