@@ -300,7 +300,7 @@ export const SentenceCompletionMode: React.FC<SentenceCompletionModeProps> = ({
 
             {/* 3. Bangla Sentence Translation */}
             {sc.sentenceTranslationBn && (
-              <div className="bangla-text" style={{ fontSize: '0.925rem', color: '#475569', fontStyle: 'italic', borderTop: '1px solid #e2e8f0', paddingTop: '8px' }}>
+              <div className="bangla-text" style={{ fontSize: '0.925rem', color: '#475569', borderTop: '1px solid #e2e8f0', paddingTop: '8px' }}>
                 <strong>বঙ্গানুবাদ: </strong>
                 <span>{sc.sentenceTranslationBn}</span>
               </div>
