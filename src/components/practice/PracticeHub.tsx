@@ -54,9 +54,9 @@ export const PracticeHub: React.FC<PracticeHubProps> = ({
     {
       id: 'single_synonym',
       title: '4. Synonym Finding (One Option)',
-      description: 'Competitive exam style (Bank, BCS, GRE): pick the closest synonym among 4 options with trap distractors.',
+      description: 'Single-choice synonym drill: pick the closest synonym among 4 options with trap distractors.',
       icon: <Sparkles size={20} color="#7c3aed" />,
-      badge: '4 Options (Exam Style)'
+      badge: '4 Options'
     },
     {
       id: 'single_antonym',
@@ -95,10 +95,10 @@ export const PracticeHub: React.FC<PracticeHubProps> = ({
             {sourceInfo.title}
           </div>
           <h2 style={{ fontSize: '1.6rem', fontWeight: 700, color: 'var(--text-primary)', marginTop: '4px' }}>
-            Set {setNumber} — Practice Modes
+            Set {setNumber}: Practice Modes
           </h2>
           <p style={{ fontSize: '0.9rem', color: 'var(--text-secondary)', marginTop: '4px' }}>
-            Words {startIdx}–{endIdx} ({setWords.length} questions per mode) · Test your mastery with competitive exam drills
+            Words {startIdx}-{endIdx} ({setWords.length} questions per mode) · Test your mastery with interactive practice drills
           </p>
         </div>
 

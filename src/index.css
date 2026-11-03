@@ -1,6 +1,6 @@
 :root {
   --font-en: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  --font-bn: 'Hind Siliguri', 'Noto Sans Bengali', sans-serif;
+  --font-bn: 'Nirmala UI', 'Noto Sans Bengali', -apple-system, BlinkMacSystemFont, sans-serif;
 
   --bg-app: #f8fafc;
   --bg-card: #ffffff;
@@ -215,6 +215,27 @@ button {
   width: 100%;
 }
 
+/* Practice Mode Responsive Top Bar */
+.practice-top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.practice-top-title {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+}
+
+.practice-top-score {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
 @media (max-width: 640px) {
   .site-header {
     margin-bottom: 16px;
@@ -271,6 +292,33 @@ button {
   .study-bottom-nav .study-nav-next {
     padding: 7px 12px;
     font-size: 0.825rem;
+  }
+
+  /* Practice Mode on Mobile: 3 consistent separate rows */
+  .practice-top-bar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    width: 100%;
+  }
+
+  .practice-top-bar .practice-top-back {
+    align-self: flex-start;
+  }
+
+  .practice-top-bar .practice-top-title {
+    width: 100%;
+    text-align: center;
+    font-size: 0.9rem;
+  }
+
+  .practice-top-bar .practice-top-score {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
   }
 }
 

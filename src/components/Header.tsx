@@ -26,7 +26,7 @@ export const Header: React.FC<HeaderProps> = ({ onGoHome }) => {
         <div>
           <h1 className="site-title">Vocabulary Builder</h1>
           <p className="site-subtitle">
-            GRE 333 · Word Smart 1 · Word Smart 2 · Progress saved in this browser
+            Building an educated vocabulary · Progress saved locally
           </p>
         </div>
       </div>

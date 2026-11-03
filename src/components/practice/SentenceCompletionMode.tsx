@@ -96,7 +96,7 @@ export const SentenceCompletionMode: React.FC<SentenceCompletionModeProps> = ({
           </div>
 
           <h2 style={{ fontSize: '1.5rem', fontWeight: 700, color: 'var(--text-primary)' }}>
-            Set {setNumber} — Sentence Completion Complete!
+            Set {setNumber}: Sentence Completion Complete!
           </h2>
 
           <p style={{ fontSize: '1rem', color: 'var(--text-secondary)' }}>
@@ -135,27 +135,21 @@ export const SentenceCompletionMode: React.FC<SentenceCompletionModeProps> = ({
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '16px', maxWidth: '720px', margin: '0 auto', width: '100%' }}>
       {/* Top Bar */}
-      <div style={{
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'space-between',
-        flexWrap: 'wrap',
-        gap: '8px'
-      }}>
+      <div className="practice-top-bar">
         <button
           onClick={onBackToHub}
-          className="pill-button"
+          className="pill-button practice-top-back"
           style={{ display: 'inline-flex', alignItems: 'center', gap: '6px' }}
         >
           <ArrowLeft size={16} />
           <span>Practice Modes</span>
         </button>
 
-        <div style={{ fontSize: '0.875rem', fontWeight: 600, color: 'var(--text-secondary)' }}>
+        <div className="practice-top-title">
           Set {setNumber}: Sentence Completion
         </div>
 
-        <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+        <div className="practice-top-score">
           <span style={{ fontSize: '0.85rem', fontWeight: 600, color: '#2563eb' }}>
             Score: {totalCorrect}
           </span>

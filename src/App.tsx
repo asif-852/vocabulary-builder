@@ -162,7 +162,7 @@ export const App: React.FC = () => {
         fontSize: '0.8rem',
         color: 'var(--text-muted)'
       }}>
-        Vocabulary Builder · Barron's GRE 333 · Word Smart I & II
+        Vocabulary Builder · Active-recall vocabulary training
       </footer>
     </div>
   );
