@@ -254,7 +254,7 @@ export const StudyView: React.FC<StudyViewProps> = ({
             fontSize: '0.85rem',
             userSelect: 'none'
           }}>
-            <em>(Explanation is off · Press Space or E or toggle button to reveal meaning)</em>
+            <span>(Explanation is off · Press Space or E or toggle button to reveal meaning)</span>
           </div>
         )}
       </div>

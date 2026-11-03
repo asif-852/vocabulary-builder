@@ -198,7 +198,7 @@ export const FindMeaningMode: React.FC<FindMeaningModeProps> = ({
             </h2>
             {currentState.isAnswered && (
               <>
-                <span style={{ fontSize: '0.9rem', color: 'var(--text-muted)', fontStyle: 'italic' }}>
+                <span style={{ fontSize: '0.9rem', color: 'var(--text-muted)' }}>
                   ({currentQ.targetWord.partOfSpeech})
                 </span>
                 <span className="bangla-text" style={{ fontSize: '1.1rem', color: '#15803d', fontWeight: 600 }}>
@@ -279,8 +279,8 @@ export const FindMeaningMode: React.FC<FindMeaningModeProps> = ({
         {/* Post-Answer Feedback Box */}
         {currentState.isAnswered && (
           <div style={{
-            backgroundColor: currentState.isCorrect ? '#f0fdf4' : '#fef2f2',
-            border: `1px solid ${currentState.isCorrect ? '#bbf7d0' : '#fecaca'}`,
+            backgroundColor: '#f8fafc',
+            border: '1px solid #cbd5e1',
             borderRadius: 'var(--radius-md)',
             padding: '14px 16px',
             display: 'flex',
@@ -301,14 +301,17 @@ export const FindMeaningMode: React.FC<FindMeaningModeProps> = ({
               )}
             </div>
             <div style={{ fontSize: '0.9rem', color: '#1e293b' }}>
-              <strong>{currentQ.targetWord.word}</strong> means: <em>{currentQ.targetWord.meaningEn}</em>
+              <strong>{currentQ.targetWord.word}</strong> means: {currentQ.targetWord.meaningEn}
             </div>
-            <div className="bangla-text" style={{ fontSize: '0.95rem', color: '#334155' }}>
-              বাংলা অর্থ: <strong>{currentQ.targetWord.meaningBn}</strong>
+            <div style={{ fontSize: '0.9rem', color: '#334155' }}>
+              <span className="bangla-text"><strong>বাংলা অর্থ:</strong> {currentQ.targetWord.meaningBn}</span>
               {currentQ.targetWord.synonyms.length > 0 && (
-                <span style={{ marginLeft: '8px' }}>
-                  (Synonyms: {currentQ.targetWord.synonyms.join(', ')})
-                </span>
+                <>
+                  <span className="bangla-text"> | <strong>সমার্থক শব্দ:</strong> </span>
+                  <span style={{ color: '#15803d', fontWeight: 600 }}>
+                    {currentQ.targetWord.synonyms.join(', ')}
+                  </span>
+                </>
               )}
             </div>
           </div>

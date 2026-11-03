@@ -272,10 +272,10 @@ export const SentenceCompletionMode: React.FC<SentenceCompletionModeProps> = ({
             backgroundColor: '#f8fafc',
             border: '1px solid #cbd5e1',
             borderRadius: 'var(--radius-md)',
-            padding: '16px 18px',
+            padding: '14px 16px',
             display: 'flex',
             flexDirection: 'column',
-            gap: '12px'
+            gap: '8px'
           }}>
             {/* Header: Result */}
             <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>

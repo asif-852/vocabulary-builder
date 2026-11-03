@@ -208,7 +208,7 @@ export const MultiSynonymMode: React.FC<MultiSynonymModeProps> = ({
             </h2>
             {currentState.isSubmitted && (
               <>
-                <span style={{ fontSize: '0.9rem', color: 'var(--text-muted)', fontStyle: 'italic' }}>
+                <span style={{ fontSize: '0.9rem', color: 'var(--text-muted)' }}>
                   ({currentQ.targetWord.partOfSpeech})
                 </span>
                 <span className="bangla-text" style={{ fontSize: '1.1rem', color: '#15803d', fontWeight: 600 }}>
@@ -330,8 +330,8 @@ export const MultiSynonymMode: React.FC<MultiSynonymModeProps> = ({
           </button>
         ) : (
           <div style={{
-            backgroundColor: currentState.isPerfect ? '#f0fdf4' : '#fef2f2',
-            border: `1px solid ${currentState.isPerfect ? '#bbf7d0' : '#fecaca'}`,
+            backgroundColor: '#f8fafc',
+            border: '1px solid #cbd5e1',
             borderRadius: 'var(--radius-md)',
             padding: '14px 16px',
             display: 'flex',
@@ -355,9 +355,11 @@ export const MultiSynonymMode: React.FC<MultiSynonymModeProps> = ({
             <div style={{ fontSize: '0.9rem', color: '#1e293b' }}>
               Target Word: <strong>{currentQ.targetWord.word}</strong> ({currentQ.targetWord.meaningEn})
             </div>
-            <div className="bangla-text" style={{ fontSize: '0.9rem', color: '#334155' }}>
-              বাংলা অর্থ: <strong>{currentQ.targetWord.meaningBn}</strong> | সকল সমার্থক শব্দ:{' '}
-              {currentQ.targetWord.synonyms.join(', ')}
+            <div style={{ fontSize: '0.9rem', color: '#334155' }}>
+              <span className="bangla-text"><strong>বাংলা অর্থ:</strong> {currentQ.targetWord.meaningBn} | <strong>সমার্থক শব্দ:</strong> </span>
+              <span style={{ color: '#15803d', fontWeight: 600 }}>
+                {currentQ.targetWord.synonyms.join(', ')}
+              </span>
             </div>
           </div>
         )}

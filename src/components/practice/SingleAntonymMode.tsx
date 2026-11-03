@@ -249,16 +249,16 @@ export const SingleAntonymMode: React.FC<SingleAntonymModeProps> = ({
           })}
         </div>
 
-        {/* Post-Answer Explanation Table */}
+        {/* Post-Answer Explanation Box */}
         {currentState.isAnswered && (
           <div style={{
             backgroundColor: '#f8fafc',
             border: '1px solid #cbd5e1',
             borderRadius: 'var(--radius-md)',
-            padding: '16px',
+            padding: '14px 16px',
             display: 'flex',
             flexDirection: 'column',
-            gap: '10px'
+            gap: '6px'
           }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
               {currentState.isCorrect ? (
@@ -278,37 +278,14 @@ export const SingleAntonymMode: React.FC<SingleAntonymModeProps> = ({
               )}
             </div>
 
-            {/* Structured Table */}
-            <div style={{ overflowX: 'auto' }}>
-              <table style={{
-                width: '100%',
-                borderCollapse: 'collapse',
-                fontSize: '0.875rem',
-                backgroundColor: '#ffffff',
-                border: '1px solid #e2e8f0',
-                borderRadius: '6px'
-              }}>
-                <thead>
-                  <tr style={{ backgroundColor: '#f1f5f9', borderBottom: '1px solid #cbd5e1', textAlign: 'left' }}>
-                    <th style={{ padding: '8px 12px' }}>Word (মূল শব্দ)</th>
-                    <th style={{ padding: '8px 12px' }}>Meaning (অর্থ)</th>
-                    <th style={{ padding: '8px 12px' }}>Antonyms (বিপরীত)</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td style={{ padding: '8px 12px', fontWeight: 700, color: '#1e3a8a' }}>
-                      {currentQ.targetWord.word}
-                    </td>
-                    <td className="bangla-text" style={{ padding: '8px 12px', color: '#334155' }}>
-                      {currentQ.targetWord.meaningBn}
-                    </td>
-                    <td style={{ padding: '8px 12px', color: '#dc2626' }}>
-                      {currentQ.targetWord.antonyms.join(', ')}
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
+            <div style={{ fontSize: '0.9rem', color: '#1e293b' }}>
+              Target Word: <strong>{currentQ.targetWord.word}</strong> ({currentQ.targetWord.meaningEn})
+            </div>
+            <div style={{ fontSize: '0.9rem', color: '#334155' }}>
+              <span className="bangla-text"><strong>বাংলা অর্থ:</strong> {currentQ.targetWord.meaningBn} | <strong>বিপরীত শব্দ:</strong> </span>
+              <span style={{ color: '#dc2626', fontWeight: 600 }}>
+                {currentQ.targetWord.antonyms.length > 0 ? currentQ.targetWord.antonyms.join(', ') : currentQ.qData.correctAntonym}
+              </span>
             </div>
           </div>
         )}
