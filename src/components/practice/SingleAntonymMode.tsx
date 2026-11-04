@@ -264,22 +264,18 @@ export const SingleAntonymMode: React.FC<SingleAntonymModeProps> = ({
               {currentState.isCorrect ? (
                 <>
                   <Check size={18} color="#16a34a" />
-                  <strong style={{ color: '#15803d' }}>
-                    Correct! The antonym of "{currentQ.targetWord.word}" is "{currentQ.qData.correctAntonym}".
-                  </strong>
+                  <strong style={{ color: '#15803d' }}>Correct!</strong>
                 </>
               ) : (
                 <>
                   <X size={18} color="#dc2626" />
-                  <strong style={{ color: '#b91c1c' }}>
-                    Incorrect. The correct antonym is "{currentQ.qData.correctAntonym}".
-                  </strong>
+                  <strong style={{ color: '#b91c1c' }}>Incorrect.</strong>
                 </>
               )}
             </div>
 
             <div style={{ fontSize: '0.9rem', color: '#1e293b' }}>
-              Target Word: <strong>{currentQ.targetWord.word}</strong> ({currentQ.targetWord.meaningEn})
+              <strong>{currentQ.targetWord.word}</strong> means: {currentQ.targetWord.meaningEn}
             </div>
             <div style={{ fontSize: '0.9rem', color: '#334155' }}>
               <span className="bangla-text"><strong>বাংলা অর্থ:</strong> {currentQ.targetWord.meaningBn} | <strong>বিপরীত শব্দ:</strong> </span>

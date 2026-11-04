@@ -278,23 +278,23 @@ export const SentenceCompletionMode: React.FC<SentenceCompletionModeProps> = ({
             gap: '8px'
           }}>
             {/* Header: Result */}
-            <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
               {currentState.isCorrect ? (
                 <>
                   <Check size={18} color="#16a34a" />
-                  <strong style={{ color: '#15803d' }}>Correct! Answer is {correctLetter}.</strong>
+                  <strong style={{ color: '#15803d' }}>Correct!</strong>
                 </>
               ) : (
                 <>
                   <X size={18} color="#dc2626" />
-                  <strong style={{ color: '#b91c1c' }}>Incorrect. Correct Answer is {correctLetter} ({sc.options[sc.correctIndex]}).</strong>
+                  <strong style={{ color: '#b91c1c' }}>Incorrect.</strong>
                 </>
               )}
             </div>
 
-            {/* English Definition */}
-            <div style={{ fontSize: '0.95rem', color: '#1e293b' }}>
-              <strong>Definition: </strong>
+            {/* English Explanation */}
+            <div style={{ fontSize: '0.9rem', color: '#1e293b' }}>
+              <strong>Explanation: </strong>
               <span>{sc.explanationEn}</span>
             </div>
 
