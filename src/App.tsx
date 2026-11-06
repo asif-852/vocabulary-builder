@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useLayoutEffect, useRef } from 'react';
 import { VocabSourceId } from './data/vocabSchema';
 import { useStudyProgress } from './hooks/useStudyProgress';
 import { Header } from './components/Header';
@@ -19,6 +19,42 @@ type AppView =
   | { type: 'practice_hub'; sourceId: VocabSourceId; setNumber: number }
   | { type: 'practice_drill'; sourceId: VocabSourceId; setNumber: number; mode: PracticeModeId };
 
+const SCROLL_STORAGE_KEY = 'vocab_builder_scroll_positions';
+
+function loadSavedScrolls(): Record<string, number> {
+  try {
+    const raw = sessionStorage.getItem(SCROLL_STORAGE_KEY) || localStorage.getItem(SCROLL_STORAGE_KEY);
+    return raw ? JSON.parse(raw) : {};
+  } catch {
+    return {};
+  }
+}
+
+function saveScrolls(data: Record<string, number>) {
+  try {
+    const serialized = JSON.stringify(data);
+    sessionStorage.setItem(SCROLL_STORAGE_KEY, serialized);
+    localStorage.setItem(SCROLL_STORAGE_KEY, serialized);
+  } catch {
+    // ignore
+  }
+}
+
+function getViewKey(v: AppView, source: VocabSourceId): string {
+  switch (v.type) {
+    case 'home':
+      return `home_${source}`;
+    case 'set_hub':
+      return `set_hub_${v.sourceId}_${v.setNumber}`;
+    case 'study':
+      return `study_${v.sourceId}_${v.setNumber}`;
+    case 'practice_hub':
+      return `practice_hub_${v.sourceId}_${v.setNumber}`;
+    case 'practice_drill':
+      return `drill_${v.sourceId}_${v.setNumber}_${v.mode}`;
+  }
+}
+
 export const App: React.FC = () => {
   const [view, setView] = useState<AppView>({ type: 'home' });
   const [activeSource, setActiveSource] = useState<VocabSourceId>(() => {
@@ -34,7 +70,71 @@ export const App: React.FC = () => {
   });
   const progress = useStudyProgress();
 
+  const scrollPositions = useRef<Record<string, number>>(loadSavedScrolls());
+  const isRestoringRef = useRef<boolean>(false);
+  const currentKey = getViewKey(view, activeSource);
+
+  // Disable browser automatic scroll restoration to maintain full SPA control
+  useEffect(() => {
+    if ('scrollRestoration' in history) {
+      history.scrollRestoration = 'manual';
+    }
+  }, []);
+
+  // Continuously record scroll position of the active view
+  useEffect(() => {
+    const handleScroll = () => {
+      if (isRestoringRef.current) return;
+      scrollPositions.current[currentKey] = window.scrollY;
+      saveScrolls(scrollPositions.current);
+    };
+
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, [currentKey]);
+
+  // Restore scroll position when transitioning views
+  useLayoutEffect(() => {
+    const targetY = scrollPositions.current[currentKey] ?? 0;
+    isRestoringRef.current = true;
+
+    // Immediate restore attempt
+    window.scrollTo({ top: targetY, behavior: 'instant' });
+
+    let attempts = 0;
+    let timerId: number | null = null;
+
+    const tryRestore = () => {
+      window.scrollTo({ top: targetY, behavior: 'instant' });
+      attempts++;
+      // If layout height hasn't caught up, retry for a few frames
+      if (attempts < 5 && Math.abs(window.scrollY - targetY) > 5) {
+        timerId = window.setTimeout(tryRestore, 30);
+      } else {
+        isRestoringRef.current = false;
+      }
+    };
+
+    const rafId = requestAnimationFrame(tryRestore);
+
+    return () => {
+      cancelAnimationFrame(rafId);
+      if (timerId !== null) clearTimeout(timerId);
+      isRestoringRef.current = false;
+    };
+  }, [currentKey]);
+
+  const navigateTo = (newView: AppView) => {
+    scrollPositions.current[currentKey] = window.scrollY;
+    saveScrolls(scrollPositions.current);
+    setView(newView);
+  };
+
   const handleSelectSource = (sourceId: VocabSourceId) => {
+    if (sourceId !== activeSource) {
+      scrollPositions.current[currentKey] = window.scrollY;
+      saveScrolls(scrollPositions.current);
+    }
     setActiveSource(sourceId);
     try {
       localStorage.setItem('vocab_builder_active_source', sourceId);
@@ -44,27 +144,33 @@ export const App: React.FC = () => {
   };
 
   const handleGoHome = () => {
-    setView({ type: 'home' });
+    if (view.type === 'home') {
+      scrollPositions.current[currentKey] = 0;
+      saveScrolls(scrollPositions.current);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    } else {
+      navigateTo({ type: 'home' });
+    }
   };
 
   const handleSelectSet = (sourceId: VocabSourceId, setNumber: number) => {
     handleSelectSource(sourceId);
-    setView({ type: 'set_hub', sourceId, setNumber });
+    navigateTo({ type: 'set_hub', sourceId, setNumber });
   };
 
   const handleStartStudy = (sourceId: VocabSourceId, setNumber: number) => {
     handleSelectSource(sourceId);
-    setView({ type: 'study', sourceId, setNumber });
+    navigateTo({ type: 'study', sourceId, setNumber });
   };
 
   const handleStartPractice = (sourceId: VocabSourceId, setNumber: number) => {
     handleSelectSource(sourceId);
-    setView({ type: 'practice_hub', sourceId, setNumber });
+    navigateTo({ type: 'practice_hub', sourceId, setNumber });
   };
 
   const handleSelectPracticeMode = (sourceId: VocabSourceId, setNumber: number, mode: PracticeModeId) => {
     handleSelectSource(sourceId);
-    setView({ type: 'practice_drill', sourceId, setNumber, mode });
+    navigateTo({ type: 'practice_drill', sourceId, setNumber, mode });
   };
 
   return (
@@ -97,9 +203,10 @@ export const App: React.FC = () => {
 
         {view.type === 'study' && (
           <StudyView
+            key={`study_${view.sourceId}_${view.setNumber}`}
             sourceId={view.sourceId}
             setNumber={view.setNumber}
-            onBackToSet={() => setView({ type: 'set_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
+            onBackToSet={() => navigateTo({ type: 'set_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
             progress={progress}
           />
         )}
@@ -108,7 +215,7 @@ export const App: React.FC = () => {
           <PracticeHub
             sourceId={view.sourceId}
             setNumber={view.setNumber}
-            onBackToSet={() => setView({ type: 'set_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
+            onBackToSet={() => navigateTo({ type: 'set_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
             onSelectMode={(mode) => handleSelectPracticeMode(view.sourceId, view.setNumber, mode)}
           />
         )}
@@ -119,35 +226,35 @@ export const App: React.FC = () => {
               <FindMeaningMode
                 sourceId={view.sourceId}
                 setNumber={view.setNumber}
-                onBackToHub={() => setView({ type: 'practice_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
+                onBackToHub={() => navigateTo({ type: 'practice_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
               />
             )}
             {view.mode === 'sentence' && (
               <SentenceCompletionMode
                 sourceId={view.sourceId}
                 setNumber={view.setNumber}
-                onBackToHub={() => setView({ type: 'practice_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
+                onBackToHub={() => navigateTo({ type: 'practice_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
               />
             )}
             {view.mode === 'multi_synonym' && (
               <MultiSynonymMode
                 sourceId={view.sourceId}
                 setNumber={view.setNumber}
-                onBackToHub={() => setView({ type: 'practice_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
+                onBackToHub={() => navigateTo({ type: 'practice_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
               />
             )}
             {view.mode === 'single_synonym' && (
               <SingleSynonymMode
                 sourceId={view.sourceId}
                 setNumber={view.setNumber}
-                onBackToHub={() => setView({ type: 'practice_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
+                onBackToHub={() => navigateTo({ type: 'practice_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
               />
             )}
             {view.mode === 'single_antonym' && (
               <SingleAntonymMode
                 sourceId={view.sourceId}
                 setNumber={view.setNumber}
-                onBackToHub={() => setView({ type: 'practice_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
+                onBackToHub={() => navigateTo({ type: 'practice_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
               />
             )}
           </>

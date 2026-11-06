@@ -22,6 +22,17 @@ export const HomeView: React.FC<HomeViewProps> = ({
   const handleReset = (sourceId: VocabSourceId, title: string) => {
     if (window.confirm(`Are you sure you want to reset all Study progress for ${title}? This cannot be undone.`)) {
       progress.resetSourceProgress(sourceId);
+      try {
+        const prefix = `vocab_builder_study_idx_${sourceId}_`;
+        for (let i = localStorage.length - 1; i >= 0; i--) {
+          const key = localStorage.key(i);
+          if (key && key.startsWith(prefix)) {
+            localStorage.removeItem(key);
+          }
+        }
+      } catch {
+        // ignore
+      }
     }
   };
 

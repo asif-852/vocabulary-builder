@@ -2,7 +2,7 @@ import React, { useState, useEffect, useCallback } from 'react';
 import { VocabWord, VocabSourceId } from '../data/vocabSchema';
 import { getSetWords } from '../data/index';
 import { useStudyProgress } from '../hooks/useStudyProgress';
-import { ArrowLeft, ArrowRight, Check, Eye, EyeOff } from 'lucide-react';
+import { ArrowLeft, ArrowRight, Check, Eye, EyeOff, Volume2 } from 'lucide-react';
 
 interface StudyViewProps {
   sourceId: VocabSourceId;
@@ -18,7 +18,25 @@ export const StudyView: React.FC<StudyViewProps> = ({
   progress
 }) => {
   const words = getSetWords(sourceId, setNumber);
-  const [currentIndex, setCurrentIndex] = useState(0);
+
+  const getInitialIndex = (): number => {
+    try {
+      const saved = localStorage.getItem(`vocab_builder_study_idx_${sourceId}_${setNumber}`);
+      if (saved !== null) {
+        const parsed = parseInt(saved, 10);
+        if (!isNaN(parsed) && parsed >= 0 && parsed < words.length) {
+          return parsed;
+        }
+      }
+    } catch {
+      // ignore
+    }
+    // If no saved index, resume at the first unstudied word, or start at 0
+    const firstUnstudied = words.findIndex(w => !progress.isWordStudied(w.id));
+    return firstUnstudied >= 0 ? firstUnstudied : 0;
+  };
+
+  const [currentIndex, setCurrentIndex] = useState<number>(getInitialIndex);
   const [explanationOn, setExplanationOn] = useState<boolean>(() => {
     try {
       const saved = localStorage.getItem('vocab_builder_explanation_pref');
@@ -27,6 +45,53 @@ export const StudyView: React.FC<StudyViewProps> = ({
       return true;
     }
   });
+
+  const [activeAudioId, setActiveAudioId] = useState<'word' | number | null>(null);
+
+  // Save current word index so navigating away and returning preserves the visited word
+  useEffect(() => {
+    try {
+      localStorage.setItem(`vocab_builder_study_idx_${sourceId}_${setNumber}`, currentIndex.toString());
+    } catch {
+      // ignore
+    }
+  }, [sourceId, setNumber, currentIndex]);
+
+  // Stop any ongoing speech when navigating between words or when unmounting
+  useEffect(() => {
+    if ('speechSynthesis' in window) {
+      window.speechSynthesis.cancel();
+    }
+    setActiveAudioId(null);
+  }, [currentIndex, explanationOn]);
+
+  const handleToggleAudio = useCallback((id: 'word' | number, textToSpeak: string) => {
+    if (!('speechSynthesis' in window)) return;
+
+    // If any audio is currently playing, clicking any button stops it and returns to idle
+    if (activeAudioId !== null) {
+      window.speechSynthesis.cancel();
+      setActiveAudioId(null);
+      return;
+    }
+
+    // Otherwise (idle), start playing the clicked audio
+    window.speechSynthesis.cancel();
+    const utterance = new SpeechSynthesisUtterance(textToSpeak);
+    utterance.lang = 'en-US';
+    utterance.rate = id === 'word' ? 0.85 : 0.9;
+
+    utterance.onend = () => {
+      setActiveAudioId(null);
+    };
+
+    utterance.onerror = () => {
+      setActiveAudioId(null);
+    };
+
+    setActiveAudioId(id);
+    window.speechSynthesis.speak(utterance);
+  }, [activeAudioId]);
 
   const currentWord: VocabWord | undefined = words[currentIndex];
 
@@ -49,10 +114,15 @@ export const StudyView: React.FC<StudyViewProps> = ({
     if (currentIndex < words.length - 1) {
       setCurrentIndex(prev => prev + 1);
     } else {
-      // Finished set
+      // Finished set - reset saved index back to 0 so next study begins fresh
+      try {
+        localStorage.setItem(`vocab_builder_study_idx_${sourceId}_${setNumber}`, '0');
+      } catch {
+        // ignore
+      }
       onBackToSet();
     }
-  }, [currentIndex, words.length, currentWord, progress, onBackToSet]);
+  }, [currentIndex, words.length, currentWord, progress, onBackToSet, sourceId, setNumber]);
 
   const handlePrev = useCallback(() => {
     if (currentIndex > 0) {
@@ -188,18 +258,34 @@ export const StudyView: React.FC<StudyViewProps> = ({
               color: 'var(--text-muted)',
               display: 'flex',
               alignItems: 'center',
-              gap: '6px',
+              gap: '8px',
               fontWeight: 400
             }}>
               <span>{currentWord.partOfSpeech}</span>
               <span>|</span>
               <span style={{ fontFamily: 'monospace', fontSize: '0.9rem' }}>{currentWord.pronunciationEn}</span>
-              {currentWord.pronunciationBn && (
-                <>
-                  <span>|</span>
-                  <span className="bangla-text">{currentWord.pronunciationBn}</span>
-                </>
-              )}
+              <button
+                type="button"
+                onClick={() => handleToggleAudio('word', currentWord.word)}
+                title={activeAudioId === 'word' ? "Stop audio" : `Listen to "${currentWord.word}"`}
+                aria-label={activeAudioId === 'word' ? "Stop audio" : `Listen to "${currentWord.word}"`}
+                style={{
+                  display: 'inline-flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  width: '22px',
+                  height: '22px',
+                  borderRadius: '50%',
+                  backgroundColor: activeAudioId === 'word' ? '#dbeafe' : '#f1f5f9',
+                  color: activeAudioId === 'word' ? '#2563eb' : '#64748b',
+                  border: activeAudioId === 'word' ? '1px solid #93c5fd' : '1px solid #e2e8f0',
+                  cursor: 'pointer',
+                  flexShrink: 0,
+                  transition: 'background-color 0.15s, color 0.15s, border-color 0.15s'
+                }}
+              >
+                <Volume2 size={13} strokeWidth={activeAudioId === 'word' ? 2.5 : 2} />
+              </button>
             </div>
 
             {/* Concise Meaning */}
@@ -224,7 +310,7 @@ export const StudyView: React.FC<StudyViewProps> = ({
               </div>
             </div>
 
-            {/* Contextual Demo Sentences (Bulleted List) */}
+            {/* Contextual Demo Sentences with Audio */}
             <div style={{
               marginTop: '12px',
               paddingTop: '14px',
@@ -233,17 +319,44 @@ export const StudyView: React.FC<StudyViewProps> = ({
               flexDirection: 'column',
               gap: '10px'
             }}>
-              {currentWord.examples.map((ex, exIdx) => (
-                <div key={exIdx} style={{ fontSize: '0.95rem', lineHeight: 1.55 }}>
-                  <span style={{ color: '#334155', marginRight: '6px' }}>•</span>
-                  <span style={{ color: '#0f172a' }}>{ex.en} </span>
-                  {ex.bn && (
-                    <span className="bangla-text" style={{ color: '#475569' }}>
-                      ({ex.bn})
-                    </span>
-                  )}
-                </div>
-              ))}
+              {currentWord.examples.map((ex, exIdx) => {
+                const isPlaying = activeAudioId === exIdx;
+                return (
+                  <div key={exIdx} style={{ fontSize: '0.95rem', lineHeight: 1.55, display: 'flex', alignItems: 'flex-start', gap: '8px' }}>
+                    <button
+                      type="button"
+                      onClick={() => handleToggleAudio(exIdx, ex.en)}
+                      title={isPlaying ? "Stop audio" : "Listen to sentence"}
+                      aria-label={isPlaying ? "Stop audio" : "Listen to sentence"}
+                      style={{
+                        display: 'inline-flex',
+                        alignItems: 'center',
+                        justifyContent: 'center',
+                        width: '22px',
+                        height: '22px',
+                        borderRadius: '50%',
+                        backgroundColor: isPlaying ? '#dbeafe' : '#f1f5f9',
+                        color: isPlaying ? '#2563eb' : '#64748b',
+                        border: isPlaying ? '1px solid #93c5fd' : '1px solid #e2e8f0',
+                        cursor: 'pointer',
+                        flexShrink: 0,
+                        marginTop: '2px',
+                        transition: 'background-color 0.15s, color 0.15s, border-color 0.15s'
+                      }}
+                    >
+                      <Volume2 size={13} strokeWidth={isPlaying ? 2.5 : 2} />
+                    </button>
+                    <div>
+                      <span style={{ color: '#0f172a' }}>{ex.en} </span>
+                      {ex.bn && (
+                        <span className="bangla-text" style={{ color: '#475569' }}>
+                          ({ex.bn})
+                        </span>
+                      )}
+                    </div>
+                  </div>
+                );
+              })}
             </div>
           </div>
         ) : (
