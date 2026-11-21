@@ -269,7 +269,7 @@ export const App: React.FC = () => {
         fontSize: '0.8rem',
         color: 'var(--text-muted)'
       }}>
-        Vocabulary Builder · Active-recall vocabulary training
+        Vocabulary Pro · Active-recall vocabulary training
       </footer>
     </div>
   );

@@ -26,6 +26,14 @@
   --accent-primary-hover: #1d4ed8;
   --accent-light: #eff6ff;
 
+  /* Practice Mode Palette (D4 · Deep Dusty Violet) */
+  --practice-accent: #6a4fb3;
+  --practice-border: #8c78c9;
+  --practice-bg: #f5f3fb;
+  --practice-title: #2f2460;
+  --practice-desc: #554f7a;
+  --practice-cta: #5b42a6;
+
   --success: #16a34a;
   --success-bg: #f0fdf4;
   --success-border: #bbf7d0;
@@ -127,6 +135,14 @@ button {
   font-weight: 700;
   color: var(--text-primary);
   letter-spacing: -0.02em;
+}
+
+/* Brand: blue → deep dusty violet gradient for the "Pro" wordmark */
+.brand-gradient-text {
+  background: linear-gradient(90deg, #2563eb, #6a4fb3);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
 }
 
 .site-subtitle {

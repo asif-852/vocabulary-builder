@@ -55,7 +55,7 @@ export const PracticeHub: React.FC<PracticeHubProps> = ({
       id: 'single_synonym',
       title: '4. Synonym Finding (One Option)',
       description: 'Single-choice synonym drill: pick the closest synonym among 4 options with trap distractors.',
-      icon: <Sparkles size={20} color="#7c3aed" />,
+      icon: <Sparkles size={20} color="#6a4fb3" />,
       badge: '4 Options'
     },
     {
@@ -124,7 +124,7 @@ export const PracticeHub: React.FC<PracticeHubProps> = ({
                 boxShadow: 'var(--shadow-sm)'
               }}
               onMouseEnter={(e) => {
-                e.currentTarget.style.borderColor = 'var(--accent-primary)';
+                e.currentTarget.style.borderColor = 'var(--practice-border)';
                 e.currentTarget.style.transform = 'translateY(-2px)';
                 e.currentTarget.style.boxShadow = 'var(--shadow-md)';
               }}
@@ -151,14 +151,14 @@ export const PracticeHub: React.FC<PracticeHubProps> = ({
                 <span style={{
                   fontSize: '0.725rem',
                   fontWeight: 600,
-                  backgroundColor: '#f1f5f9',
-                  color: '#475569',
+                  backgroundColor: 'var(--practice-bg)',
+                  color: 'var(--practice-desc)',
                   padding: '2px 8px',
                   borderRadius: '4px'
                 }}>
                   {m.badge}
                 </span>
-                <span style={{ fontSize: '0.825rem', fontWeight: 600, color: 'var(--accent-primary)' }}>
+                <span style={{ fontSize: '0.825rem', fontWeight: 600, color: 'var(--practice-cta)' }}>
                   Start →
                 </span>
               </div>

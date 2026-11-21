@@ -118,8 +118,8 @@ export const MultiSynonymMode: React.FC<MultiSynonymModeProps> = ({
             width: '64px',
             height: '64px',
             borderRadius: '50%',
-            backgroundColor: scorePct >= 70 ? '#f0fdf4' : '#eff6ff',
-            color: scorePct >= 70 ? '#16a34a' : '#2563eb',
+            backgroundColor: scorePct >= 70 ? '#f0fdf4' : 'var(--practice-bg)',
+            color: scorePct >= 70 ? '#16a34a' : 'var(--practice-cta)',
             display: 'flex',
             alignItems: 'center',
             justifyContent: 'center',
@@ -149,7 +149,7 @@ export const MultiSynonymMode: React.FC<MultiSynonymModeProps> = ({
             <button
               onClick={onBackToHub}
               className="pill-button active"
-              style={{ backgroundColor: '#0f172a', borderColor: '#0f172a' }}
+              style={{ backgroundColor: 'var(--practice-accent)', borderColor: 'var(--practice-accent)' }}
             >
               Back to Practice Modes
             </button>
@@ -177,7 +177,7 @@ export const MultiSynonymMode: React.FC<MultiSynonymModeProps> = ({
         </div>
 
         <div className="practice-top-score">
-          <span style={{ fontSize: '0.85rem', fontWeight: 600, color: '#2563eb' }}>
+          <span style={{ fontSize: '0.85rem', fontWeight: 600, color: 'var(--practice-cta)' }}>
             Score: {totalCorrect}
           </span>
           <span style={{ fontSize: '0.85rem', color: 'var(--text-muted)' }}>
@@ -190,6 +190,7 @@ export const MultiSynonymMode: React.FC<MultiSynonymModeProps> = ({
       <div style={{
         backgroundColor: '#ffffff',
         border: '1px solid var(--border-color)',
+        borderLeft: '4px solid var(--practice-accent)',
         borderRadius: 'var(--radius-lg)',
         padding: '24px',
         boxShadow: 'var(--shadow-sm)',
@@ -224,8 +225,8 @@ export const MultiSynonymMode: React.FC<MultiSynonymModeProps> = ({
           {currentQ.options.map(opt => {
             const isChecked = currentState.selectedIds.includes(opt.id);
 
-            let bg = isChecked ? '#eff6ff' : '#ffffff';
-            let borderColor = isChecked ? '#3b82f6' : 'var(--border-color)';
+            let bg = isChecked ? 'var(--practice-bg)' : '#ffffff';
+            let borderColor = isChecked ? 'var(--practice-border)' : 'var(--border-color)';
             let statusText = '';
             let statusColor = '';
 
@@ -278,8 +279,8 @@ export const MultiSynonymMode: React.FC<MultiSynonymModeProps> = ({
                     width: '18px',
                     height: '18px',
                     borderRadius: '4px',
-                    border: isChecked ? '2px solid #2563eb' : '2px solid #94a3b8',
-                    backgroundColor: isChecked ? '#2563eb' : '#ffffff',
+                    border: isChecked ? '2px solid var(--practice-accent)' : '2px solid #94a3b8',
+                    backgroundColor: isChecked ? 'var(--practice-accent)' : '#ffffff',
                     display: 'flex',
                     alignItems: 'center',
                     justifyContent: 'center',
@@ -316,8 +317,8 @@ export const MultiSynonymMode: React.FC<MultiSynonymModeProps> = ({
             disabled={currentState.selectedIds.length === 0}
             className="check-answer-btn pill-button active"
             style={{
-              backgroundColor: currentState.selectedIds.length === 0 ? '#94a3b8' : '#2563eb',
-              borderColor: currentState.selectedIds.length === 0 ? '#94a3b8' : '#2563eb',
+              backgroundColor: currentState.selectedIds.length === 0 ? '#94a3b8' : 'var(--practice-accent)',
+              borderColor: currentState.selectedIds.length === 0 ? '#94a3b8' : 'var(--practice-accent)',
               color: '#ffffff',
               padding: '10px 20px',
               fontWeight: 600,
@@ -380,7 +381,7 @@ export const MultiSynonymMode: React.FC<MultiSynonymModeProps> = ({
         <button
           onClick={handleNext}
           className="pill-button active"
-          style={{ backgroundColor: '#2563eb', borderColor: '#2563eb' }}
+          style={{ backgroundColor: 'var(--practice-accent)', borderColor: 'var(--practice-accent)' }}
         >
           <span>{currentIndex === questions.length - 1 ? 'Finish Drill' : 'Next'}</span>
           <ArrowRight size={16} />

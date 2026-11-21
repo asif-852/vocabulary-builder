@@ -106,8 +106,8 @@ export const FindMeaningMode: React.FC<FindMeaningModeProps> = ({
             width: '64px',
             height: '64px',
             borderRadius: '50%',
-            backgroundColor: scorePct >= 70 ? '#f0fdf4' : '#eff6ff',
-            color: scorePct >= 70 ? '#16a34a' : '#2563eb',
+            backgroundColor: scorePct >= 70 ? '#f0fdf4' : 'var(--practice-bg)',
+            color: scorePct >= 70 ? '#16a34a' : 'var(--practice-cta)',
             display: 'flex',
             alignItems: 'center',
             justifyContent: 'center',
@@ -137,7 +137,7 @@ export const FindMeaningMode: React.FC<FindMeaningModeProps> = ({
             <button
               onClick={onBackToHub}
               className="pill-button active"
-              style={{ backgroundColor: '#0f172a', borderColor: '#0f172a' }}
+              style={{ backgroundColor: 'var(--practice-accent)', borderColor: 'var(--practice-accent)' }}
             >
               Back to Practice Modes
             </button>
@@ -167,7 +167,7 @@ export const FindMeaningMode: React.FC<FindMeaningModeProps> = ({
         </div>
 
         <div className="practice-top-score">
-          <span style={{ fontSize: '0.85rem', fontWeight: 600, color: '#2563eb' }}>
+          <span style={{ fontSize: '0.85rem', fontWeight: 600, color: 'var(--practice-cta)' }}>
             Score: {totalCorrect}
           </span>
           <span style={{ fontSize: '0.85rem', color: 'var(--text-muted)' }}>
@@ -180,6 +180,7 @@ export const FindMeaningMode: React.FC<FindMeaningModeProps> = ({
       <div style={{
         backgroundColor: '#ffffff',
         border: '1px solid var(--border-color)',
+        borderLeft: '4px solid var(--practice-accent)',
         borderRadius: 'var(--radius-lg)',
         padding: '24px',
         boxShadow: 'var(--shadow-sm)',
@@ -333,7 +334,7 @@ export const FindMeaningMode: React.FC<FindMeaningModeProps> = ({
         <button
           onClick={handleNext}
           className="pill-button active"
-          style={{ backgroundColor: '#2563eb', borderColor: '#2563eb' }}
+          style={{ backgroundColor: 'var(--practice-accent)', borderColor: 'var(--practice-accent)' }}
         >
           <span>{currentIndex === questions.length - 1 ? 'Finish Drill' : 'Next'}</span>
           <ArrowRight size={16} />

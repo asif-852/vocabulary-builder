@@ -157,12 +157,12 @@ export const SetHubView: React.FC<SetHubViewProps> = ({
             </div>
           </div>
 
-          {/* 2. Practice Card */}
+          {/* 2. Practice Card (D4 · Deep Dusty Violet) */}
           <div
             onClick={onStartPractice}
             style={{
-              border: '2px solid #0f172a',
-              backgroundColor: '#ffffff',
+              border: '2px solid var(--practice-border)',
+              backgroundColor: 'var(--practice-bg)',
               borderRadius: 'var(--radius-md)',
               padding: '20px',
               cursor: 'pointer',
@@ -182,7 +182,7 @@ export const SetHubView: React.FC<SetHubViewProps> = ({
           >
             <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
               <div style={{
-                backgroundColor: '#0f172a',
+                backgroundColor: 'var(--practice-accent)',
                 color: '#ffffff',
                 padding: '6px',
                 borderRadius: '6px',
@@ -190,11 +190,11 @@ export const SetHubView: React.FC<SetHubViewProps> = ({
               }}>
                 <GraduationCap size={20} />
               </div>
-              <h3 style={{ fontSize: '1.2rem', fontWeight: 700, color: '#0f172a' }}>
+              <h3 style={{ fontSize: '1.2rem', fontWeight: 700, color: 'var(--practice-title)' }}>
                 2. Practice
               </h3>
             </div>
-            <p style={{ fontSize: '0.875rem', color: 'var(--text-secondary)', lineHeight: 1.5 }}>
+            <p style={{ fontSize: '0.875rem', color: 'var(--practice-desc)', lineHeight: 1.5 }}>
               Test your mastery of this set across 5 exam-style practice modes: Meaning, Sentence Completion, and Synonyms/Antonyms.
             </p>
             <div style={{
@@ -204,7 +204,7 @@ export const SetHubView: React.FC<SetHubViewProps> = ({
               alignItems: 'center',
               fontWeight: 600,
               fontSize: '0.875rem',
-              color: '#0f172a'
+              color: 'var(--practice-cta)'
             }}>
               Choose Practice Mode →
             </div>
