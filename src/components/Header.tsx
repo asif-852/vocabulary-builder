@@ -55,13 +55,13 @@ export const Header: React.FC<HeaderProps> = ({
             backgroundColor: '#2563eb',
             color: '#ffffff',
             borderRadius: '8px',
-            padding: '6px',
+            padding: '7px',
             display: 'flex',
             alignItems: 'center',
             justifyContent: 'center',
             flexShrink: 0
           }}>
-            <BookOpen size={18} />
+            <BookOpen size={20} />
           </div>
           <div style={{ minWidth: 0 }}>
             <div className="mobile-appbar-title">
