@@ -57,6 +57,7 @@ function getViewKey(v: AppView, source: VocabSourceId): string {
 
 export const App: React.FC = () => {
   const [view, setView] = useState<AppView>({ type: 'home' });
+  const [isDrawerOpen, setIsDrawerOpen] = useState(false);
   const [activeSource, setActiveSource] = useState<VocabSourceId>(() => {
     try {
       const saved = localStorage.getItem('vocab_builder_active_source');
@@ -125,6 +126,7 @@ export const App: React.FC = () => {
   }, [currentKey]);
 
   const navigateTo = (newView: AppView) => {
+    setIsDrawerOpen(false);
     scrollPositions.current[currentKey] = window.scrollY;
     saveScrolls(scrollPositions.current);
     setView(newView);
@@ -174,31 +176,40 @@ export const App: React.FC = () => {
   };
 
   return (
-    <div className="app-container">
-      <Header onGoHome={handleGoHome} />
+    <div className={`app-container ${view.type === 'home' ? 'has-sidebar' : ''}`}>
+      <Header
+        onGoHome={handleGoHome}
+        showMenuButton={view.type === 'home'}
+        isDrawerOpen={isDrawerOpen}
+        onOpenDrawer={() => setIsDrawerOpen(true)}
+      />
 
-      <main style={{ flex: 1 }}>
+      <main className="app-main">
         {view.type === 'home' && (
           <HomeView
             activeSource={activeSource}
             onSelectSource={handleSelectSource}
             onSelectSet={handleSelectSet}
             progress={progress}
+            isDrawerOpen={isDrawerOpen}
+            onCloseDrawer={() => setIsDrawerOpen(false)}
           />
         )}
 
         {view.type === 'set_hub' && (
-          <SetHubView
-            sourceId={view.sourceId}
-            setNumber={view.setNumber}
-            onBackToHome={() => {
-              handleSelectSource(view.sourceId);
-              handleGoHome();
-            }}
-            onStartStudy={() => handleStartStudy(view.sourceId, view.setNumber)}
-            onStartPractice={() => handleStartPractice(view.sourceId, view.setNumber)}
-            progress={progress}
-          />
+          <div className="inner-hub-wrap">
+            <SetHubView
+              sourceId={view.sourceId}
+              setNumber={view.setNumber}
+              onBackToHome={() => {
+                handleSelectSource(view.sourceId);
+                handleGoHome();
+              }}
+              onStartStudy={() => handleStartStudy(view.sourceId, view.setNumber)}
+              onStartPractice={() => handleStartPractice(view.sourceId, view.setNumber)}
+              progress={progress}
+            />
+          </div>
         )}
 
         {view.type === 'study' && (
@@ -212,12 +223,14 @@ export const App: React.FC = () => {
         )}
 
         {view.type === 'practice_hub' && (
-          <PracticeHub
-            sourceId={view.sourceId}
-            setNumber={view.setNumber}
-            onBackToSet={() => navigateTo({ type: 'set_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
-            onSelectMode={(mode) => handleSelectPracticeMode(view.sourceId, view.setNumber, mode)}
-          />
+          <div className="inner-hub-wrap">
+            <PracticeHub
+              sourceId={view.sourceId}
+              setNumber={view.setNumber}
+              onBackToSet={() => navigateTo({ type: 'set_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
+              onSelectMode={(mode) => handleSelectPracticeMode(view.sourceId, view.setNumber, mode)}
+            />
+          </div>
         )}
 
         {view.type === 'practice_drill' && (
@@ -261,14 +274,7 @@ export const App: React.FC = () => {
         )}
       </main>
 
-      <footer style={{
-        marginTop: '48px',
-        borderTop: '1px solid var(--border-color)',
-        paddingTop: '16px',
-        textAlign: 'center',
-        fontSize: '0.8rem',
-        color: 'var(--text-muted)'
-      }}>
+      <footer className="app-footer">
         Vocabulary Pro · Active-recall vocabulary training
       </footer>
     </div>

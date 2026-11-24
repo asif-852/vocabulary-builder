@@ -21208,13 +21208,13 @@
     "partOfSpeech": "adjective",
     "pronunciationEn": "POR-us",
     "pronunciationBn": "পোর-আস",
-    "meaningBn": "ছিদ্রযুক্ত বা ঝাঝরা",
+    "meaningBn": "ছিদ্রযুক্ত বা ঝাঁঝরা",
     "meaningEn": "Having minute spaces or holes through which liquid or air may pass; permeable.",
     "synonyms": [
       "permeable",
       "absorbent",
       "spongy",
-      "holey"
+      "perforated"
     ],
     "antonyms": [
       "dense",
@@ -21229,7 +21229,7 @@
       },
       {
         "en": "Smugglers easily penetrated the porous and unguarded border fence.",
-        "bn": "চোরাচালানকারীরা অরক্ষিত ও ফাঁকফোকড়ে ভরা সীমান্ত দিয়ে সহজেই প্রবেশ করেছিল।"
+        "bn": "চোরাচালানকারীরা অরক্ষিত ও ফাঁকফোকরে ভরা সীমান্তের বেড়া দিয়ে সহজেই প্রবেশ করেছিল।"
       }
     ],
     "sentenceCompletion": {
@@ -21250,7 +21250,7 @@
         "ঘন ও দুর্গম"
       ],
       "explanationEn": "The failure to prevent cross-border smuggling because terrain allows easy passage through gaps and openings describes a boundary that is permeable and leaky ('porous').",
-      "sentenceTranslationBn": "সীমান্ত সুরক্ষা কর্মকর্তারা স্বীকার করেছেন যে পাহাড়ঘেরা জঙ্গলের অঞ্চলটি এতটাই ছিদ্রযুক্ত ও উন্মুক্ত ছিল যে উচ্চপ্রযুক্তির থার্মাল ড্রোন নজরদারি ছাড়া আন্তঃসীমান্ত চোরাচালান ঠেকানো অসম্ভব।"
+      "sentenceTranslationBn": "সীমান্ত সুরক্ষা কর্মকর্তারা স্বীকার করেছেন যে পাহাড়ঘেরা জঙ্গলের অঞ্চলটি এতটাই ছিদ্রযুক্ত ও উন্মুক্ত ছিল যে উচ্চপ্রযুক্তির আকাশপথের থার্মাল নজরদারি ছাড়া আন্তঃসীমান্ত চোরাচালান ঠেকানো অসম্ভব।"
     },
     "multiSynonyms": {
       "options": [

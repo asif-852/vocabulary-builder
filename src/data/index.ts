@@ -350,7 +350,10 @@ export function getSingleAntonymQuestion(targetWord: VocabWord): {
       const cSyns = new Set(w.synonyms.map(s => s.toLowerCase()));
       if (cAnts.has(targetWord.word.toLowerCase()) || cSyns.has(targetWord.word.toLowerCase())) return false;
       for (const a of targetWord.antonyms) {
-        if (cAnts.has(a.toLowerCase())) return false;
+        if (cAnts.has(a.toLowerCase()) || cSyns.has(a.toLowerCase())) return false;
+      }
+      for (const s of targetWord.synonyms) {
+        if (cAnts.has(s.toLowerCase())) return false;
       }
       return true;
     });
