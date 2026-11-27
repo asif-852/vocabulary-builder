@@ -1,6 +1,6 @@
-import { useState, useEffect, useCallback, useMemo } from 'react';
+import { useState, useCallback } from 'react';
 import { VocabSourceId } from '../data/vocabSchema';
-import { getSourceWords, getSetWords, SOURCES_INFO } from '../data/index';
+import { getSourceWordIds, getSetWordIds } from '../data/catalog';
 
 const STORAGE_KEY = 'vocab_builder_studied_words_v1';
 
@@ -74,15 +74,15 @@ export function useStudyProgress() {
   }, [saveToStorage]);
 
   const getSetProgress = useCallback((sourceId: VocabSourceId, setNumber: number): SetProgressInfo => {
-    const setWords = getSetWords(sourceId, setNumber);
-    const totalCount = setWords.length;
+    const wordIds = getSetWordIds(sourceId, setNumber);
+    const totalCount = wordIds.length;
     if (totalCount === 0) {
       return { studiedCount: 0, totalCount: 0, status: 'not_started', percentage: 0 };
     }
 
     let studiedCount = 0;
-    for (const w of setWords) {
-      if (studiedWordIds.has(w.id)) {
+    for (const id of wordIds) {
+      if (studiedWordIds.has(id)) {
         studiedCount++;
       }
     }
@@ -99,15 +99,15 @@ export function useStudyProgress() {
   }, [studiedWordIds]);
 
   const getSourceProgress = useCallback((sourceId: VocabSourceId): SourceProgressInfo => {
-    const words = getSourceWords(sourceId);
-    const totalCount = words.length;
+    const wordIds = getSourceWordIds(sourceId);
+    const totalCount = wordIds.length;
     if (totalCount === 0) {
       return { studiedCount: 0, totalCount: 0, percentage: 0 };
     }
 
     let studiedCount = 0;
-    for (const w of words) {
-      if (studiedWordIds.has(w.id)) {
+    for (const id of wordIds) {
+      if (studiedWordIds.has(id)) {
         studiedCount++;
       }
     }
@@ -117,8 +117,7 @@ export function useStudyProgress() {
   }, [studiedWordIds]);
 
   const resetSourceProgress = useCallback((sourceId: VocabSourceId) => {
-    const words = getSourceWords(sourceId);
-    const idsToRemove = new Set(words.map(w => w.id));
+    const idsToRemove = new Set(getSourceWordIds(sourceId));
 
     setStudiedWordIds(prev => {
       const next = new Set(prev);

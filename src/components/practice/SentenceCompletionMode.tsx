@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { VocabWord, VocabSourceId } from '../../data/vocabSchema';
-import { getSetWords } from '../../data/index';
+import { useSetWords } from '../../hooks/useSetWords';
+import { DataLoadState } from '../DataLoadState';
 import { ArrowLeft, ArrowRight, RotateCcw, Check, X } from 'lucide-react';
 
 interface SentenceCompletionModeProps {
@@ -20,7 +21,28 @@ export const SentenceCompletionMode: React.FC<SentenceCompletionModeProps> = ({
   setNumber,
   onBackToHub
 }) => {
-  const words = getSetWords(sourceId, setNumber);
+  const { words, loading, error, retry } = useSetWords(sourceId, setNumber);
+
+  if (loading || error) {
+    return (
+      <DataLoadState
+        loading={loading}
+        error={error}
+        onRetry={retry}
+        onBack={onBackToHub}
+        backLabel="Practice Modes"
+      />
+    );
+  }
+
+  return <SentenceCompletionContent setNumber={setNumber} onBackToHub={onBackToHub} words={words} />;
+};
+
+const SentenceCompletionContent: React.FC<{
+  setNumber: number;
+  onBackToHub: () => void;
+  words: VocabWord[];
+}> = ({ setNumber, onBackToHub, words }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [answers, setAnswers] = useState<Record<number, QuestionState>>({});
 

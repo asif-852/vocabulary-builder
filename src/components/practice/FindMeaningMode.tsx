@@ -1,6 +1,8 @@
 import React, { useState, useMemo } from 'react';
 import { VocabWord, VocabSourceId } from '../../data/vocabSchema';
-import { getSetWords, getMeaningDistractors, deterministicShuffle, hashString } from '../../data/index';
+import { getMeaningDistractors, deterministicShuffle, hashString } from '../../data/index';
+import { useSetWords } from '../../hooks/useSetWords';
+import { DataLoadState } from '../DataLoadState';
 import { ArrowLeft, ArrowRight, RotateCcw, Check, X } from 'lucide-react';
 
 interface FindMeaningModeProps {
@@ -20,7 +22,30 @@ export const FindMeaningMode: React.FC<FindMeaningModeProps> = ({
   setNumber,
   onBackToHub
 }) => {
-  const words = getSetWords(sourceId, setNumber);
+  const { words, loading, error, retry } = useSetWords(sourceId, setNumber, {
+    ensureMeaningCrossCorpus: true
+  });
+
+  if (loading || error) {
+    return (
+      <DataLoadState
+        loading={loading}
+        error={error}
+        onRetry={retry}
+        onBack={onBackToHub}
+        backLabel="Practice Modes"
+      />
+    );
+  }
+
+  return <FindMeaningContent setNumber={setNumber} onBackToHub={onBackToHub} words={words} />;
+};
+
+const FindMeaningContent: React.FC<{
+  setNumber: number;
+  onBackToHub: () => void;
+  words: VocabWord[];
+}> = ({ setNumber, onBackToHub, words }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [answers, setAnswers] = useState<Record<number, QuestionState>>({});
 

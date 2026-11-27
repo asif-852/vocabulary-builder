@@ -1,74 +1,129 @@
 import { VocabWord, VocabSet, VocabSourceId } from './vocabSchema';
-import gre333Raw from './gre333.json';
-import wordsmart1Raw from './wordsmart1.json';
-import wordsmart2Raw from './wordsmart2.json';
+import { SOURCES_INFO } from './catalog';
+import gre333Url from './gre333.json?url';
+import wordsmart1Url from './wordsmart1.json?url';
+import wordsmart2Url from './wordsmart2.json?url';
 
-const gre333Words: VocabWord[] = gre333Raw as VocabWord[];
-const wordsmart1Words: VocabWord[] = wordsmart1Raw as VocabWord[];
-const wordsmart2Words: VocabWord[] = wordsmart2Raw as VocabWord[];
+export { SOURCES_INFO };
 
-export const SOURCES_INFO: Record<VocabSourceId, {
-  id: VocabSourceId;
-  title: string;
-  shortTitle: string;
-  totalWords: number;
-  totalSets: number;
-  wordsPerSet: number;
-  lastSetWords: number;
-  description: string;
-}> = {
-  gre333: {
-    id: 'gre333',
-    title: 'GRE 333',
-    shortTitle: 'GRE 333',
-    totalWords: 333,
-    totalSets: 17,
-    wordsPerSet: 20,
-    lastSetWords: 13,
-    description: "Barron's 333 high-frequency words"
-  },
-  wordsmart1: {
-    id: 'wordsmart1',
-    title: 'Word Smart I',
-    shortTitle: 'Word Smart 1',
-    totalWords: 833,
-    totalSets: 34,
-    wordsPerSet: 25,
-    lastSetWords: 8,
-    description: 'The Princeton Review Word Smart I'
-  },
-  wordsmart2: {
-    id: 'wordsmart2',
-    title: 'Word Smart II',
-    shortTitle: 'Word Smart 2',
-    totalWords: 848,
-    totalSets: 34,
-    wordsPerSet: 25,
-    lastSetWords: 23,
-    description: 'The Princeton Review Word Smart II'
-  }
+const SOURCE_URLS: Record<VocabSourceId, string> = {
+  gre333: gre333Url,
+  wordsmart1: wordsmart1Url,
+  wordsmart2: wordsmart2Url
 };
 
+const ALL_SOURCES: VocabSourceId[] = ['gre333', 'wordsmart1', 'wordsmart2'];
+
+const sourceCache: Partial<Record<VocabSourceId, VocabWord[]>> = {};
+const inflightLoads: Partial<Record<VocabSourceId, Promise<VocabWord[]>>> = {};
+let banglaFontWarmed = false;
+
+/**
+ * Triggers non-blocking download of Kalpurush.woff2 only when entering a set/study/practice view.
+ */
+export function prefetchBanglaFont(): void {
+  if (banglaFontWarmed || typeof document === 'undefined' || !('fonts' in document)) return;
+  banglaFontWarmed = true;
+  document.fonts.load("400 1rem 'Kalpurush'").catch(() => {
+    banglaFontWarmed = false;
+  });
+}
+
+/**
+ * Fetches and caches a single vocabulary dataset JSON on demand.
+ */
+export async function loadSourceWords(sourceId: VocabSourceId): Promise<VocabWord[]> {
+  const cached = sourceCache[sourceId];
+  if (cached) return cached;
+
+  const inflight = inflightLoads[sourceId];
+  if (inflight) return inflight;
+
+  const promise = fetch(SOURCE_URLS[sourceId])
+    .then(res => {
+      if (!res.ok) {
+        throw new Error(`Failed to load ${sourceId} vocabulary (${res.status})`);
+      }
+      return res.json() as Promise<VocabWord[]>;
+    })
+    .then(words => {
+      sourceCache[sourceId] = words;
+      delete inflightLoads[sourceId];
+      return words;
+    })
+    .catch(err => {
+      delete inflightLoads[sourceId];
+      throw err;
+    });
+
+  inflightLoads[sourceId] = promise;
+  return promise;
+}
+
+/**
+ * Loads all three corpora (used only in rare cases where same-POS distractors fall back across sources).
+ */
+export async function loadAllCorpusWords(): Promise<VocabWord[]> {
+  await Promise.all(ALL_SOURCES.map(src => loadSourceWords(src)));
+  return getAllCorpusWords();
+}
+
+export function prefetchSourceWords(sourceId: VocabSourceId): void {
+  if (sourceCache[sourceId] || inflightLoads[sourceId]) return;
+  loadSourceWords(sourceId).catch(() => {
+    // Ignore speculative prefetch failures; active load handles errors visibly
+  });
+}
+
+export function isSourceLoaded(sourceId: VocabSourceId): boolean {
+  return Boolean(sourceCache[sourceId]);
+}
+
+export function areAllSourcesLoaded(): boolean {
+  return ALL_SOURCES.every(src => Boolean(sourceCache[src]));
+}
+
 export function getSourceWords(sourceId: VocabSourceId): VocabWord[] {
-  switch (sourceId) {
-    case 'gre333':
-      return gre333Words;
-    case 'wordsmart1':
-      return wordsmart1Words;
-    case 'wordsmart2':
-      return wordsmart2Words;
-    default:
-      return [];
-  }
+  return sourceCache[sourceId] ?? [];
 }
 
 export function getAllCorpusWords(): VocabWord[] {
-  return [...gre333Words, ...wordsmart1Words, ...wordsmart2Words];
+  return [
+    ...(sourceCache.gre333 ?? []),
+    ...(sourceCache.wordsmart1 ?? []),
+    ...(sourceCache.wordsmart2 ?? [])
+  ];
 }
 
 export function getSetWords(sourceId: VocabSourceId, setNumber: number): VocabWord[] {
   const words = getSourceWords(sourceId);
   return words.filter(w => w.setNumber === setNumber);
+}
+
+/**
+ * Checks whether any word in a set needs cross-corpus fallback for FindMeaningMode distractors.
+ */
+export function setNeedsAllCorporaForMeaning(sourceId: VocabSourceId, setNumber: number, count = 3): boolean {
+  const corpus = getSourceWords(sourceId);
+  if (corpus.length === 0) return false;
+  const setWords = corpus.filter(w => w.setNumber === setNumber);
+  return setWords.some(targetWord => {
+    const targetLower = targetWord.word.toLowerCase();
+    const lowerSyns = new Set([
+      targetLower,
+      ...targetWord.synonyms.map(s => s.toLowerCase()),
+      ...targetWord.antonyms.map(a => a.toLowerCase())
+    ]);
+    const samePos = corpus.filter(w => {
+      if (w.partOfSpeech !== targetWord.partOfSpeech || w.id === targetWord.id) return false;
+      const wLower = w.word.toLowerCase();
+      if (wLower === targetLower || lowerSyns.has(wLower)) return false;
+      if (w.synonyms.some(s => lowerSyns.has(s.toLowerCase()))) return false;
+      if (w.meaningEn.toLowerCase().includes(targetLower)) return false;
+      return true;
+    });
+    return samePos.length < count;
+  });
 }
 
 export function getSourceSets(sourceId: VocabSourceId): VocabSet[] {
@@ -456,4 +511,3 @@ if (import.meta.hot) {
     window.location.reload();
   });
 }
-

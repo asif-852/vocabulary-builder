@@ -1,6 +1,8 @@
 import React, { useState, useMemo } from 'react';
 import { VocabWord, VocabSourceId } from '../../data/vocabSchema';
-import { getSetWords, getMultiSynonymOptions } from '../../data/index';
+import { getMultiSynonymOptions } from '../../data/index';
+import { useSetWords } from '../../hooks/useSetWords';
+import { DataLoadState } from '../DataLoadState';
 import { ArrowLeft, ArrowRight, RotateCcw, Check, X, AlertCircle } from 'lucide-react';
 
 interface MultiSynonymModeProps {
@@ -20,7 +22,28 @@ export const MultiSynonymMode: React.FC<MultiSynonymModeProps> = ({
   setNumber,
   onBackToHub
 }) => {
-  const words = getSetWords(sourceId, setNumber);
+  const { words, loading, error, retry } = useSetWords(sourceId, setNumber);
+
+  if (loading || error) {
+    return (
+      <DataLoadState
+        loading={loading}
+        error={error}
+        onRetry={retry}
+        onBack={onBackToHub}
+        backLabel="Practice Modes"
+      />
+    );
+  }
+
+  return <MultiSynonymContent setNumber={setNumber} onBackToHub={onBackToHub} words={words} />;
+};
+
+const MultiSynonymContent: React.FC<{
+  setNumber: number;
+  onBackToHub: () => void;
+  words: VocabWord[];
+}> = ({ setNumber, onBackToHub, words }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [answers, setAnswers] = useState<Record<number, QuestionState>>({});
 

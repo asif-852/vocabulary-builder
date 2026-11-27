@@ -1,6 +1,7 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { VocabSourceId } from '../../data/vocabSchema';
-import { SOURCES_INFO, getSetWords } from '../../data/index';
+import { SOURCES_INFO, getSetWordRange } from '../../data/catalog';
+import { prefetchSourceWords, prefetchBanglaFont } from '../../data/index';
 import { ArrowLeft, BookOpen, FileText, CheckSquare, Sparkles, Split } from 'lucide-react';
 
 export type PracticeModeId = 'meaning' | 'sentence' | 'multi_synonym' | 'single_synonym' | 'single_antonym';
@@ -19,9 +20,12 @@ export const PracticeHub: React.FC<PracticeHubProps> = ({
   onSelectMode
 }) => {
   const sourceInfo = SOURCES_INFO[sourceId];
-  const setWords = getSetWords(sourceId, setNumber);
-  const startIdx = setWords.length > 0 ? setWords[0].indexInSource : 0;
-  const endIdx = setWords.length > 0 ? setWords[setWords.length - 1].indexInSource : 0;
+  const { startWordIndex: startIdx, endWordIndex: endIdx, wordCount } = getSetWordRange(sourceId, setNumber);
+
+  useEffect(() => {
+    prefetchSourceWords(sourceId);
+    prefetchBanglaFont();
+  }, [sourceId]);
 
   const modes: {
     id: PracticeModeId;
@@ -98,7 +102,7 @@ export const PracticeHub: React.FC<PracticeHubProps> = ({
             Set {setNumber}: Practice Modes
           </h2>
           <p style={{ fontSize: '0.9rem', color: 'var(--text-secondary)', marginTop: '4px' }}>
-            Words {startIdx}-{endIdx} ({setWords.length} questions per mode) · Test your mastery with interactive practice drills
+            Words {startIdx}-{endIdx} ({wordCount} questions per mode) · Test your mastery with interactive practice drills
           </p>
         </div>
 

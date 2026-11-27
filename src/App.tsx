@@ -1,16 +1,40 @@
-import React, { useState, useEffect, useLayoutEffect, useRef } from 'react';
+import React, { Suspense, lazy, useState, useEffect, useLayoutEffect, useRef } from 'react';
 import { VocabSourceId } from './data/vocabSchema';
 import { useStudyProgress } from './hooks/useStudyProgress';
 import { Header } from './components/Header';
 import { HomeView } from './components/HomeView';
-import { SetHubView } from './components/SetHubView';
-import { StudyView } from './components/StudyView';
-import { PracticeHub, PracticeModeId } from './components/practice/PracticeHub';
-import { FindMeaningMode } from './components/practice/FindMeaningMode';
-import { SentenceCompletionMode } from './components/practice/SentenceCompletionMode';
-import { MultiSynonymMode } from './components/practice/MultiSynonymMode';
-import { SingleSynonymMode } from './components/practice/SingleSynonymMode';
-import { SingleAntonymMode } from './components/practice/SingleAntonymMode';
+import type { PracticeModeId } from './components/practice/PracticeHub';
+
+const SetHubView = lazy(() =>
+  import('./components/SetHubView').then(m => ({ default: m.SetHubView }))
+);
+const StudyView = lazy(() =>
+  import('./components/StudyView').then(m => ({ default: m.StudyView }))
+);
+const PracticeHub = lazy(() =>
+  import('./components/practice/PracticeHub').then(m => ({ default: m.PracticeHub }))
+);
+const FindMeaningMode = lazy(() =>
+  import('./components/practice/FindMeaningMode').then(m => ({ default: m.FindMeaningMode }))
+);
+const SentenceCompletionMode = lazy(() =>
+  import('./components/practice/SentenceCompletionMode').then(m => ({ default: m.SentenceCompletionMode }))
+);
+const MultiSynonymMode = lazy(() =>
+  import('./components/practice/MultiSynonymMode').then(m => ({ default: m.MultiSynonymMode }))
+);
+const SingleSynonymMode = lazy(() =>
+  import('./components/practice/SingleSynonymMode').then(m => ({ default: m.SingleSynonymMode }))
+);
+const SingleAntonymMode = lazy(() =>
+  import('./components/practice/SingleAntonymMode').then(m => ({ default: m.SingleAntonymMode }))
+);
+
+const ViewFallback: React.FC = () => (
+  <div style={{ padding: '32px 16px', textAlign: 'center', color: 'var(--text-muted)', fontSize: '0.9rem' }}>
+    Loading view...
+  </div>
+);
 
 type AppView =
   | { type: 'home' }
@@ -196,81 +220,85 @@ export const App: React.FC = () => {
           />
         )}
 
-        {view.type === 'set_hub' && (
-          <div className="inner-hub-wrap">
-            <SetHubView
-              sourceId={view.sourceId}
-              setNumber={view.setNumber}
-              onBackToHome={() => {
-                handleSelectSource(view.sourceId);
-                handleGoHome();
-              }}
-              onStartStudy={() => handleStartStudy(view.sourceId, view.setNumber)}
-              onStartPractice={() => handleStartPractice(view.sourceId, view.setNumber)}
-              progress={progress}
-            />
-          </div>
-        )}
+        {view.type !== 'home' && (
+          <Suspense fallback={<ViewFallback />}>
+            {view.type === 'set_hub' && (
+              <div className="inner-hub-wrap">
+                <SetHubView
+                  sourceId={view.sourceId}
+                  setNumber={view.setNumber}
+                  onBackToHome={() => {
+                    handleSelectSource(view.sourceId);
+                    handleGoHome();
+                  }}
+                  onStartStudy={() => handleStartStudy(view.sourceId, view.setNumber)}
+                  onStartPractice={() => handleStartPractice(view.sourceId, view.setNumber)}
+                  progress={progress}
+                />
+              </div>
+            )}
 
-        {view.type === 'study' && (
-          <StudyView
-            key={`study_${view.sourceId}_${view.setNumber}`}
-            sourceId={view.sourceId}
-            setNumber={view.setNumber}
-            onBackToSet={() => navigateTo({ type: 'set_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
-            progress={progress}
-          />
-        )}
+            {view.type === 'study' && (
+              <StudyView
+                key={`study_${view.sourceId}_${view.setNumber}`}
+                sourceId={view.sourceId}
+                setNumber={view.setNumber}
+                onBackToSet={() => navigateTo({ type: 'set_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
+                progress={progress}
+              />
+            )}
 
-        {view.type === 'practice_hub' && (
-          <div className="inner-hub-wrap">
-            <PracticeHub
-              sourceId={view.sourceId}
-              setNumber={view.setNumber}
-              onBackToSet={() => navigateTo({ type: 'set_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
-              onSelectMode={(mode) => handleSelectPracticeMode(view.sourceId, view.setNumber, mode)}
-            />
-          </div>
-        )}
+            {view.type === 'practice_hub' && (
+              <div className="inner-hub-wrap">
+                <PracticeHub
+                  sourceId={view.sourceId}
+                  setNumber={view.setNumber}
+                  onBackToSet={() => navigateTo({ type: 'set_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
+                  onSelectMode={(mode) => handleSelectPracticeMode(view.sourceId, view.setNumber, mode)}
+                />
+              </div>
+            )}
 
-        {view.type === 'practice_drill' && (
-          <>
-            {view.mode === 'meaning' && (
-              <FindMeaningMode
-                sourceId={view.sourceId}
-                setNumber={view.setNumber}
-                onBackToHub={() => navigateTo({ type: 'practice_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
-              />
+            {view.type === 'practice_drill' && (
+              <>
+                {view.mode === 'meaning' && (
+                  <FindMeaningMode
+                    sourceId={view.sourceId}
+                    setNumber={view.setNumber}
+                    onBackToHub={() => navigateTo({ type: 'practice_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
+                  />
+                )}
+                {view.mode === 'sentence' && (
+                  <SentenceCompletionMode
+                    sourceId={view.sourceId}
+                    setNumber={view.setNumber}
+                    onBackToHub={() => navigateTo({ type: 'practice_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
+                  />
+                )}
+                {view.mode === 'multi_synonym' && (
+                  <MultiSynonymMode
+                    sourceId={view.sourceId}
+                    setNumber={view.setNumber}
+                    onBackToHub={() => navigateTo({ type: 'practice_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
+                  />
+                )}
+                {view.mode === 'single_synonym' && (
+                  <SingleSynonymMode
+                    sourceId={view.sourceId}
+                    setNumber={view.setNumber}
+                    onBackToHub={() => navigateTo({ type: 'practice_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
+                  />
+                )}
+                {view.mode === 'single_antonym' && (
+                  <SingleAntonymMode
+                    sourceId={view.sourceId}
+                    setNumber={view.setNumber}
+                    onBackToHub={() => navigateTo({ type: 'practice_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
+                  />
+                )}
+              </>
             )}
-            {view.mode === 'sentence' && (
-              <SentenceCompletionMode
-                sourceId={view.sourceId}
-                setNumber={view.setNumber}
-                onBackToHub={() => navigateTo({ type: 'practice_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
-              />
-            )}
-            {view.mode === 'multi_synonym' && (
-              <MultiSynonymMode
-                sourceId={view.sourceId}
-                setNumber={view.setNumber}
-                onBackToHub={() => navigateTo({ type: 'practice_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
-              />
-            )}
-            {view.mode === 'single_synonym' && (
-              <SingleSynonymMode
-                sourceId={view.sourceId}
-                setNumber={view.setNumber}
-                onBackToHub={() => navigateTo({ type: 'practice_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
-              />
-            )}
-            {view.mode === 'single_antonym' && (
-              <SingleAntonymMode
-                sourceId={view.sourceId}
-                setNumber={view.setNumber}
-                onBackToHub={() => navigateTo({ type: 'practice_hub', sourceId: view.sourceId, setNumber: view.setNumber })}
-              />
-            )}
-          </>
+          </Suspense>
         )}
       </main>
 

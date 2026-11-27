@@ -1,7 +1,8 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { VocabWord, VocabSourceId } from '../data/vocabSchema';
-import { getSetWords } from '../data/index';
+import { useSetWords } from '../hooks/useSetWords';
 import { useStudyProgress } from '../hooks/useStudyProgress';
+import { DataLoadState } from './DataLoadState';
 import { ArrowLeft, ArrowRight, Check, Eye, EyeOff, Volume2 } from 'lucide-react';
 
 interface StudyViewProps {
@@ -11,13 +12,31 @@ interface StudyViewProps {
   progress: ReturnType<typeof useStudyProgress>;
 }
 
-export const StudyView: React.FC<StudyViewProps> = ({
+export const StudyView: React.FC<StudyViewProps> = (props) => {
+  const { words, loading, error, retry } = useSetWords(props.sourceId, props.setNumber);
+
+  if (loading || error) {
+    return (
+      <DataLoadState
+        loading={loading}
+        error={error}
+        onRetry={retry}
+        onBack={props.onBackToSet}
+        backLabel="Back to Set"
+      />
+    );
+  }
+
+  return <StudyViewContent {...props} words={words} />;
+};
+
+const StudyViewContent: React.FC<StudyViewProps & { words: VocabWord[] }> = ({
   sourceId,
   setNumber,
   onBackToSet,
-  progress
+  progress,
+  words
 }) => {
-  const words = getSetWords(sourceId, setNumber);
 
   const getInitialIndex = (): number => {
     try {

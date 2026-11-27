@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import { VocabSourceId } from '../data/vocabSchema';
-import { SOURCES_INFO, getSourceSets } from '../data/index';
+import { SOURCES_INFO, getSourceSetsMeta } from '../data/catalog';
 import { useStudyProgress } from '../hooks/useStudyProgress';
 import { RotateCcw, CheckCircle2, Lock, X, BookOpen } from 'lucide-react';
 
@@ -86,8 +86,12 @@ export const HomeView: React.FC<HomeViewProps> = ({
   };
 
   const info = SOURCES_INFO[activeSource];
-  const sets = getSourceSets(activeSource);
+  const sets = getSourceSetsMeta(activeSource);
   const sourceProg = progress.getSourceProgress(activeSource);
+
+  const warmSource = () => {
+    import('../data/index').then(m => m.prefetchSourceWords(activeSource)).catch(() => {});
+  };
 
   return (
     <div className="home-layout">
@@ -278,9 +282,11 @@ export const HomeView: React.FC<HomeViewProps> = ({
                   boxShadow: 'var(--shadow-sm)'
                 }}
                 onMouseEnter={(e) => {
+                  warmSource();
                   e.currentTarget.style.borderColor = 'var(--accent-primary)';
                   e.currentTarget.style.transform = 'translateY(-1px)';
                 }}
+                onTouchStart={warmSource}
                 onMouseLeave={(e) => {
                   e.currentTarget.style.borderColor = setProg.status === 'completed' ? '#86efac' : 'var(--border-color)';
                   e.currentTarget.style.transform = 'none';

@@ -1,7 +1,9 @@
 import React from 'react';
 import { VocabSourceId } from '../data/vocabSchema';
-import { SOURCES_INFO, getSetWords } from '../data/index';
+import { SOURCES_INFO, getSetWordRange } from '../data/catalog';
+import { useSetWords } from '../hooks/useSetWords';
 import { useStudyProgress } from '../hooks/useStudyProgress';
+import { DataLoadState } from './DataLoadState';
 import { ArrowLeft, BookOpen, CheckCircle, GraduationCap } from 'lucide-react';
 
 interface SetHubViewProps {
@@ -22,10 +24,21 @@ export const SetHubView: React.FC<SetHubViewProps> = ({
   progress
 }) => {
   const sourceInfo = SOURCES_INFO[sourceId];
-  const setWords = getSetWords(sourceId, setNumber);
-  const startWordIndex = setWords.length > 0 ? setWords[0].indexInSource : 0;
-  const endWordIndex = setWords.length > 0 ? setWords[setWords.length - 1].indexInSource : 0;
+  const { words: setWords, loading, error, retry } = useSetWords(sourceId, setNumber);
+  const { startWordIndex, endWordIndex } = getSetWordRange(sourceId, setNumber);
   const setProgress = progress.getSetProgress(sourceId, setNumber);
+
+  if (loading || error) {
+    return (
+      <DataLoadState
+        loading={loading}
+        error={error}
+        onRetry={retry}
+        onBack={onBackToHome}
+        backLabel="Back to Set List"
+      />
+    );
+  }
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '24px' }}>
